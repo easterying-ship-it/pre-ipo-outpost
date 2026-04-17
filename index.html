@@ -3,324 +3,190 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OpenBIT — Pre-IPO 前哨站</title>
+  <title>OpenBIT — Pre-IPO 前哨站 · SpaceX 布局指南</title>
+  <meta name="description" content="追踪 SpaceX、OpenAI、Anthropic 上市动态，用成份股策略提前布局，捕获超额收益。">
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg:          #070b12;
-      --bg-card:     #0c1220;
-      --bg-hover:    #111827;
-      --border:      #1e2d3d;
-      --border-hi:   #2d4a6a;
-      --blue:        #0ea5e9;
-      --blue-dim:    rgba(14,165,233,0.08);
-      --blue-glow:   rgba(14,165,233,0.25);
-      --amber:       #f59e0b;
-      --amber-dim:   rgba(245,158,11,0.1);
-      --green:       #10b981;
-      --green-dim:   rgba(16,185,129,0.1);
+      --bg:          #080501;
+      --bg-card:     #110b04;
+      --bg-hover:    #1a1108;
+      --border:      #2b1d08;
+      --border-hi:   #4a3010;
+      --gold:        #f59e0b;
+      --gold-dim:    rgba(245,158,11,0.12);
+      --gold-glow:   rgba(245,158,11,0.3);
+      --amber:       #fbbf24;
       --red:         #ef4444;
-      --text:        #e2e8f0;
-      --muted:       #64748b;
-      --dim:         #94a3b8;
+      --red-dim:     rgba(239,68,68,0.12);
+      --orange:      #f97316;
+      --orange-dim:  rgba(249,115,22,0.1);
+      --green:       #22c55e;
+      --green-dim:   rgba(34,197,94,0.1);
+      --text:        #fef3c7;
+      --muted:       #a18972;
+      --dim:         #c4a882;
       --ui:          'Inter', system-ui, sans-serif;
       --mono:        'JetBrains Mono', 'Fira Code', monospace;
     }
-
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--ui);
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
       -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
     }
 
     /* ── HEADER ─────────────────────────────── */
     header {
-      position: sticky; top: 0; z-index: 100;
-      display: flex; justify-content: space-between; align-items: center;
-      padding: 0 2rem; height: 56px;
-      background: rgba(7,11,18,0.92);
+      position: sticky; top: 0; z-index: 200;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0 1.5rem; height: 52px;
+      background: rgba(8,5,1,0.95);
       backdrop-filter: blur(16px);
       border-bottom: 1px solid var(--border);
     }
     .logo { display: flex; align-items: center; gap: 10px; }
     .logo-mark {
-      width: 28px; height: 28px;
-      background: linear-gradient(135deg, var(--blue), #6366f1);
-      border-radius: 6px;
+      width: 28px; height: 28px; border-radius: 6px;
+      background: linear-gradient(135deg, var(--gold), #d97706);
       display: flex; align-items: center; justify-content: center;
-      font-family: var(--mono); font-weight: 600; font-size: 13px; color: #fff;
+      font-family: var(--mono); font-weight: 700; font-size: 13px; color: #000;
     }
-    .logo-name { font-weight: 700; font-size: 15px; letter-spacing: -0.3px; }
-    .logo-name span { color: var(--blue); }
+    .logo-name { font-weight: 800; font-size: 15px; letter-spacing: -0.3px; color: var(--text); }
+    .logo-name span { color: var(--gold); }
     .logo-tag {
-      font-family: var(--mono); font-size: 10px; color: var(--muted);
+      font-family: var(--mono); font-size: 9px; color: var(--muted);
       border: 1px solid var(--border); border-radius: 3px;
-      padding: 2px 6px; letter-spacing: 0.5px;
+      padding: 2px 5px; letter-spacing: 0.5px;
     }
-    .header-right { display: flex; align-items: center; gap: 1.5rem; }
+    .header-right { display: flex; align-items: center; gap: 1rem; }
     .live-badge {
       display: flex; align-items: center; gap: 6px;
-      font-family: var(--mono); font-size: 11px; color: var(--green);
+      font-family: var(--mono); font-size: 11px; color: var(--red);
       letter-spacing: 0.5px;
     }
     .live-dot {
-      width: 7px; height: 7px; border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 0 0 var(--green);
-      animation: pulse-green 2s infinite;
+      width: 7px; height: 7px; border-radius: 50%; background: var(--red);
+      animation: pulse-red 1.5s infinite;
     }
-    .admin-link {
-      font-size: 12px; color: var(--muted); text-decoration: none;
-      transition: color 0.2s;
+    @keyframes pulse-red {
+      0%  { box-shadow: 0 0 0 0   rgba(239,68,68,0.7); }
+      70% { box-shadow: 0 0 0 8px rgba(239,68,68,0); }
+      100%{ box-shadow: 0 0 0 0   rgba(239,68,68,0); }
     }
-    .admin-link:hover { color: var(--dim); }
+    .header-cta {
+      display: flex; align-items: center;
+      background: var(--gold); color: #000;
+      font-weight: 700; font-size: 12px;
+      border: none; border-radius: 5px; padding: 6px 14px;
+      cursor: pointer; transition: background 0.15s;
+    }
+    .header-cta:hover { background: var(--amber); }
 
-    @keyframes pulse-green {
-      0%   { box-shadow: 0 0 0 0 rgba(16,185,129,0.6); }
-      70%  { box-shadow: 0 0 0 6px rgba(16,185,129,0); }
-      100% { box-shadow: 0 0 0 0 rgba(16,185,129,0); }
-    }
-
-    /* ── HERO ───────────────────────────────── */
-    .hero {
-      text-align: center;
-      padding: 5rem 1rem 4rem;
-      background:
-        radial-gradient(ellipse 80% 40% at 50% 0%, rgba(14,165,233,0.12) 0%, transparent 70%),
-        linear-gradient(180deg, rgba(14,165,233,0.03) 1px, transparent 1px) 0 0 / 48px 48px,
-        linear-gradient(90deg,  rgba(14,165,233,0.03) 1px, transparent 1px) 0 0 / 48px 48px,
-        var(--bg);
+    /* ── TICKER ─────────────────────────────── */
+    .ticker {
+      background: #1a0e02;
       border-bottom: 1px solid var(--border);
+      overflow: hidden; height: 32px;
+      display: flex; align-items: center;
     }
-    .hero-badge {
-      display: inline-flex; align-items: center; gap: 8px;
-      font-family: var(--mono); font-size: 11px; font-weight: 500;
-      color: var(--blue); letter-spacing: 1px;
-      border: 1px solid rgba(14,165,233,0.3);
-      border-radius: 4px; padding: 4px 12px;
-      margin-bottom: 1.5rem;
-    }
-    .hero h1 {
-      font-size: clamp(2rem, 5vw, 3.25rem);
-      font-weight: 800; letter-spacing: -1px; line-height: 1.15;
-      background: linear-gradient(135deg, #fff 0%, #94a3b8 100%);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-      margin-bottom: 1rem;
-    }
-    .hero-sub {
-      font-size: 1.1rem; color: var(--dim); max-width: 520px; margin: 0 auto 2rem;
-    }
-    .hero-stats {
-      display: inline-flex; gap: 2.5rem;
-      font-family: var(--mono); font-size: 12px; color: var(--muted);
-    }
-    .hero-stat-val {
-      display: block; font-size: 1.5rem; font-weight: 700;
-      color: var(--text); letter-spacing: -0.5px; margin-bottom: 2px;
-    }
-
-    /* ── TIMELINE ───────────────────────────── */
-    .timeline-section {
-      background: #080d16;
-      border-bottom: 1px solid var(--border);
-      padding: 2.5rem 0;
-      overflow: hidden;
-    }
-    .timeline-wrap {
-      max-width: 1100px; margin: 0 auto; padding: 0 2rem;
-    }
-    .timeline-label {
-      font-family: var(--mono); font-size: 11px; font-weight: 600;
-      color: var(--muted); letter-spacing: 1.5px; text-transform: uppercase;
-      margin-bottom: 2rem;
-    }
-    .timeline {
-      display: flex; align-items: flex-start;
-      position: relative; overflow-x: auto;
-      padding-bottom: 0.5rem;
-      scrollbar-width: none;
-    }
-    .timeline::-webkit-scrollbar { display: none; }
-    .tl-node {
-      flex: 1; min-width: 160px;
-      display: flex; flex-direction: column; align-items: center;
-      position: relative; cursor: default;
-    }
-    .tl-connector {
-      flex: 1; height: 2px; margin-top: 10px;
-      background: var(--border);
-      position: relative;
-    }
-    .tl-connector.past { background: var(--blue); }
-    .tl-connector.partial {
-      background: linear-gradient(90deg, var(--blue) 50%, var(--border) 50%);
-    }
-    .tl-dot {
-      width: 22px; height: 22px; border-radius: 50%;
-      display: flex; align-items: center; justify-content: center;
-      position: relative; z-index: 2; margin-bottom: 1rem;
+    .ticker-label {
       flex-shrink: 0;
+      font-family: var(--mono); font-size: 10px; font-weight: 700;
+      color: #000; background: var(--gold);
+      padding: 0 10px; height: 100%;
+      display: flex; align-items: center; letter-spacing: 1px;
     }
-    .tl-dot.past {
-      background: var(--blue);
-      box-shadow: 0 0 12px var(--blue-glow);
+    .ticker-track {
+      display: flex; gap: 0;
+      animation: ticker-scroll 40s linear infinite;
+      white-space: nowrap;
     }
-    .tl-dot.past::after {
-      content: '';
-      width: 8px; height: 8px; border-radius: 50%; background: #fff;
+    .ticker-item {
+      font-family: var(--mono); font-size: 11px; color: var(--dim);
+      padding: 0 2rem;
     }
-    .tl-dot.future {
-      background: transparent;
-      border: 2px dashed var(--border-hi);
+    .ticker-item strong { color: var(--gold); }
+    .ticker-item .up   { color: #22c55e; }
+    .ticker-item .urg  { color: var(--red); }
+    @keyframes ticker-scroll {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
     }
-    .tl-dot.current {
-      background: transparent;
-      border: 2px solid var(--amber);
-      box-shadow: 0 0 0 0 rgba(245,158,11,0.5);
-      animation: pulse-amber 1.8s ease-out infinite;
-    }
-    .tl-dot.current::after {
-      content: '';
-      width: 8px; height: 8px; border-radius: 50%;
-      background: var(--amber);
-    }
-    @keyframes pulse-amber {
-      0%   { box-shadow: 0 0 0 0   rgba(245,158,11,0.5); }
-      70%  { box-shadow: 0 0 0 10px rgba(245,158,11,0); }
-      100% { box-shadow: 0 0 0 0   rgba(245,158,11,0); }
-    }
-    .tl-date {
-      font-family: var(--mono); font-size: 11px; font-weight: 600;
-      color: var(--muted); margin-bottom: 4px; text-align: center;
-    }
-    .tl-dot.past ~ .tl-date, .tl-dot.current ~ .tl-date { color: var(--dim); }
-    .tl-title {
-      font-size: 0.8rem; font-weight: 600; color: var(--text);
-      text-align: center; line-height: 1.3; margin-bottom: 4px;
-      max-width: 130px;
-    }
-    .tl-sub {
-      font-family: var(--mono); font-size: 10px; color: var(--muted);
-      text-align: center; max-width: 130px;
-    }
-    .tl-status {
-      font-family: var(--mono); font-size: 9px; font-weight: 600;
-      padding: 2px 6px; border-radius: 3px; margin-top: 6px;
-      letter-spacing: 0.5px;
-    }
-    .tl-status.done    { background: var(--blue-dim); color: var(--blue); }
-    .tl-status.now     { background: var(--amber-dim); color: var(--amber); }
-    .tl-status.pending { background: rgba(100,116,139,0.1); color: var(--muted); }
 
-    /* ── TABS ───────────────────────────────── */
-    .tabs-bar {
-      max-width: 1100px; margin: 0 auto;
-      padding: 1.5rem 2rem 0;
-      display: flex; gap: 0.5rem;
+    /* ── ZONES (3个IPO机会) ──────────────────── */
+    .zones-section {
+      background: #0d0804;
+      border-bottom: 1px solid var(--border);
+      padding: 1.25rem 1.5rem;
     }
-    .tab {
-      display: flex; align-items: center; gap: 8px;
-      padding: 0.5rem 1.2rem; border-radius: 6px; cursor: pointer;
-      font-size: 0.875rem; font-weight: 600;
-      border: 1px solid var(--border); color: var(--muted);
-      transition: all 0.2s; background: transparent;
+    .zones-label {
+      font-family: var(--mono); font-size: 10px; font-weight: 600;
+      color: var(--muted); letter-spacing: 1.5px; margin-bottom: 0.875rem;
     }
-    .tab.active {
-      background: var(--blue-dim);
-      border-color: rgba(14,165,233,0.4); color: var(--blue);
+    .zones-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.75rem;
     }
-    .tab-soon {
-      font-family: var(--mono); font-size: 9px; font-weight: 500;
-      background: rgba(100,116,139,0.15); color: var(--muted);
-      padding: 1px 5px; border-radius: 3px;
+    .zone-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 10px; padding: 1rem;
+      cursor: pointer; transition: all 0.2s;
+      position: relative; overflow: hidden;
+    }
+    .zone-card.active {
+      border-color: var(--gold);
+      background: linear-gradient(135deg, rgba(245,158,11,0.08), var(--bg-card));
+    }
+    .zone-card.active::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, var(--gold), var(--orange));
+    }
+    .zone-card:not(.active) { opacity: 0.55; }
+    .zone-card:hover { border-color: var(--border-hi); opacity: 1; }
+    .zone-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem; }
+    .zone-name { font-weight: 700; font-size: 0.9rem; }
+    .zone-badge {
+      font-family: var(--mono); font-size: 9px; font-weight: 700;
+      padding: 2px 7px; border-radius: 3px; letter-spacing: 0.5px;
+    }
+    .badge-live { background: var(--red-dim); color: var(--red); }
+    .badge-soon { background: rgba(100,80,50,0.15); color: var(--muted); }
+    .zone-tagline { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.5rem; }
+    .zone-meta { font-family: var(--mono); font-size: 10px; color: var(--dim); }
+    .zone-meta span { color: var(--gold); }
+
+    /* ── URGENCY BANNER ──────────────────────── */
+    .urgency-banner {
+      background: linear-gradient(135deg, #1a0a02, #200d04);
+      border-bottom: 1px solid var(--border);
+      padding: 0.875rem 1.5rem;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.5rem;
+    }
+    .urgency-text {
+      font-size: 0.875rem; font-weight: 600; color: var(--text);
+    }
+    .urgency-text .hi { color: var(--gold); }
+    .urgency-text .now { color: var(--orange); }
+    .urgency-sub {
+      font-family: var(--mono); font-size: 11px; color: var(--muted);
     }
 
     /* ── MAIN GRID ──────────────────────────── */
+    .main-wrap { max-width: 1100px; margin: 0 auto; padding: 1.25rem 1.5rem 5rem; }
     .main-grid {
-      max-width: 1100px; margin: 0 auto;
-      padding: 1.5rem 2rem 5rem;
       display: grid;
-      grid-template-columns: 300px 1fr;
+      grid-template-columns: 1fr 300px;
       gap: 1.5rem;
       align-items: start;
-    }
-    @media (max-width: 860px) {
-      .main-grid { grid-template-columns: 1fr; }
-    }
-
-    /* ── NEWS SIDEBAR ───────────────────────── */
-    .news-sidebar {
-      position: sticky; top: 72px;
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      border-radius: 10px; overflow: hidden;
-    }
-    .sidebar-header {
-      padding: 1rem 1.25rem 0.75rem;
-      border-bottom: 1px solid var(--border);
-      display: flex; align-items: center; justify-content: space-between;
-    }
-    .sidebar-title {
-      font-size: 0.8rem; font-weight: 700; letter-spacing: 0.5px;
-      color: var(--dim);
-    }
-    .news-filters {
-      display: flex; gap: 4px; padding: 0.75rem 1rem;
-      border-bottom: 1px solid var(--border);
-      flex-wrap: wrap;
-    }
-    .nf-btn {
-      font-family: var(--mono); font-size: 10px; font-weight: 500;
-      padding: 3px 8px; border-radius: 4px; cursor: pointer;
-      border: 1px solid var(--border); color: var(--muted);
-      background: transparent; transition: all 0.15s;
-    }
-    .nf-btn.active, .nf-btn:hover {
-      border-color: var(--blue); color: var(--blue);
-      background: var(--blue-dim);
-    }
-    .news-list { padding: 0.75rem; max-height: 560px; overflow-y: auto; }
-    .news-list::-webkit-scrollbar { width: 4px; }
-    .news-list::-webkit-scrollbar-track { background: transparent; }
-    .news-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
-    .news-item {
-      padding: 0.75rem; border-radius: 8px; margin-bottom: 4px;
-      cursor: pointer; transition: background 0.15s;
-      border: 1px solid transparent;
-    }
-    .news-item:hover { background: var(--bg-hover); border-color: var(--border); }
-    .news-item-meta {
-      display: flex; align-items: center; gap: 6px; margin-bottom: 5px;
-    }
-    .news-source {
-      font-family: var(--mono); font-size: 9px; font-weight: 600;
-      padding: 1px 6px; border-radius: 3px;
-      background: var(--blue-dim); color: var(--blue);
-    }
-    .news-time {
-      font-family: var(--mono); font-size: 10px; color: var(--muted);
-    }
-    .news-cat {
-      font-family: var(--mono); font-size: 9px; font-weight: 500;
-      padding: 1px 5px; border-radius: 3px; margin-left: auto;
-      background: rgba(100,116,139,0.1); color: var(--muted);
-    }
-    .news-title {
-      font-size: 0.82rem; font-weight: 600; line-height: 1.4;
-      color: var(--text); margin-bottom: 4px;
-    }
-    .news-summary {
-      font-size: 0.78rem; color: var(--muted); line-height: 1.5;
-    }
-    .news-pinned { border-left: 2px solid var(--amber) !important; padding-left: 10px; }
-    .news-loading {
-      text-align: center; padding: 2rem;
-      font-family: var(--mono); font-size: 12px; color: var(--muted);
     }
 
     /* ── ARTICLES ───────────────────────────── */
@@ -328,291 +194,460 @@
       display: flex; align-items: center; justify-content: space-between;
       margin-bottom: 1rem;
     }
-    .articles-title {
-      font-size: 1rem; font-weight: 700; color: var(--text);
-    }
-    .articles-progress {
-      font-family: var(--mono); font-size: 11px; color: var(--muted);
-    }
+    .articles-title { font-size: 1rem; font-weight: 700; }
+    .articles-title span { color: var(--gold); }
+    .articles-progress { font-family: var(--mono); font-size: 11px; color: var(--muted); }
     .article-list { display: flex; flex-direction: column; gap: 10px; }
+
     .article-card {
-      display: flex; gap: 1.25rem; padding: 1.25rem;
+      display: flex; gap: 1rem; padding: 1.125rem;
       background: var(--bg-card); border: 1px solid var(--border);
       border-radius: 10px; cursor: pointer;
       text-decoration: none; color: inherit;
       transition: all 0.2s;
     }
     .article-card:hover {
-      border-color: var(--border-hi);
+      border-color: var(--gold);
       background: var(--bg-hover);
       transform: translateY(-1px);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4), 0 0 0 1px rgba(245,158,11,0.1);
     }
     .article-num {
-      font-family: var(--mono); font-size: 2.5rem; font-weight: 700;
+      font-family: var(--mono); font-size: 2.25rem; font-weight: 700;
       color: rgba(255,255,255,0.04); line-height: 1; flex-shrink: 0;
-      transition: color 0.2s;
+      min-width: 48px; transition: color 0.2s;
     }
-    .article-card:hover .article-num { color: var(--blue-dim); }
+    .article-card:hover .article-num { color: rgba(245,158,11,0.12); }
     .article-body { flex: 1; min-width: 0; }
-    .article-tags { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+    .article-tags { display: flex; gap: 6px; margin-bottom: 7px; flex-wrap: wrap; }
     .badge {
       font-family: var(--mono); font-size: 10px; font-weight: 600;
-      padding: 2px 7px; border-radius: 3px; letter-spacing: 0.4px;
+      padding: 2px 7px; border-radius: 3px; letter-spacing: 0.3px;
     }
     .badge-free   { background: var(--green-dim); color: var(--green); }
-    .badge-locked { background: var(--amber-dim); color: var(--amber); }
-    .badge-cat    { background: rgba(100,116,139,0.1); color: var(--dim); }
+    .badge-locked { background: var(--gold-dim); color: var(--gold); }
+    .badge-cat    { background: rgba(100,80,50,0.12); color: var(--dim); }
     .article-title {
-      font-size: 1rem; font-weight: 700; line-height: 1.4;
-      color: var(--text); margin-bottom: 6px;
+      font-size: 0.975rem; font-weight: 700; line-height: 1.4;
+      color: var(--text); margin-bottom: 5px;
     }
-    .article-desc {
-      font-size: 0.85rem; color: var(--muted); line-height: 1.6;
-    }
+    .article-desc { font-size: 0.83rem; color: var(--muted); line-height: 1.6; }
     .article-arrow {
       flex-shrink: 0; display: flex; align-items: center;
       color: var(--border-hi); transition: color 0.2s;
     }
-    .article-card:hover .article-arrow { color: var(--blue); }
+    .article-card:hover .article-arrow { color: var(--gold); }
 
-    /* ── LOCKED AREA & GATE ─────────────────── */
-    .locked-area { position: relative; }
+    /* ── LOCKED AREA ────────────────────────── */
+    .locked-area { position: relative; margin-top: 10px; }
     .locked-area .article-card.locked {
-      filter: blur(3px);
-      pointer-events: none;
-      user-select: none;
-      opacity: 0.5;
+      filter: blur(3px); pointer-events: none; user-select: none; opacity: 0.45;
     }
     .locked-area.unlocked .article-card.locked {
-      filter: none;
-      pointer-events: auto;
-      opacity: 1;
+      filter: none; pointer-events: auto; opacity: 1;
       animation: reveal 0.5s ease forwards;
     }
-    @keyframes reveal {
-      from { opacity: 0.5; filter: blur(3px); }
-      to   { opacity: 1;   filter: none; }
-    }
+    @keyframes reveal { from{opacity:.45;filter:blur(3px)} to{opacity:1;filter:none} }
     .gate-overlay {
       position: absolute; bottom: 0; left: 0; right: 0;
-      background: linear-gradient(0deg, var(--bg) 55%, transparent 100%);
-      padding: 9rem 1rem 2rem;
-      display: flex; align-items: flex-end; justify-content: center;
-      z-index: 10;
+      background: linear-gradient(0deg, var(--bg) 50%, transparent 100%);
+      padding: 9rem 1rem 1.5rem;
+      display: flex; align-items: flex-end; justify-content: center; z-index: 10;
     }
     .locked-area.unlocked .gate-overlay { display: none; }
     .gate-card {
-      width: 100%; max-width: 460px;
-      background: #0e1929;
+      width: 100%; max-width: 500px;
+      background: linear-gradient(135deg, #1a0e03, #120a02);
       border: 1px solid var(--border-hi);
-      border-radius: 12px; padding: 1.75rem;
-      box-shadow: 0 24px 48px rgba(0,0,0,0.6);
+      border-radius: 14px; padding: 1.75rem;
+      box-shadow: 0 24px 60px rgba(0,0,0,0.7), 0 0 0 1px rgba(245,158,11,0.08);
     }
     .gate-tag {
-      font-family: var(--mono); font-size: 10px; font-weight: 600;
-      color: var(--amber); letter-spacing: 1px;
-      margin-bottom: 0.75rem;
+      font-family: var(--mono); font-size: 10px; font-weight: 700;
+      color: var(--orange); letter-spacing: 1px; margin-bottom: 0.625rem;
     }
-    .gate-title {
-      font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem;
+    .gate-title { font-size: 1.25rem; font-weight: 800; margin-bottom: 0.5rem; }
+    .gate-desc { font-size: 0.875rem; color: var(--muted); margin-bottom: 1.25rem; line-height: 1.6; }
+    .gate-social {
+      display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap;
     }
-    .gate-desc {
-      font-size: 0.875rem; color: var(--muted); margin-bottom: 1.25rem;
-      line-height: 1.6;
+    .gate-social-btn {
+      flex: 1; min-width: 80px;
+      display: flex; align-items: center; justify-content: center; gap: 6px;
+      padding: 0.6rem 0.75rem; border-radius: 7px;
+      font-size: 0.8rem; font-weight: 600; cursor: pointer;
+      border: 1px solid var(--border-hi);
+      background: var(--bg-hover); color: var(--dim);
+      transition: all 0.15s;
     }
-    .gate-form { display: flex; gap: 8px; margin-bottom: 0.75rem; }
+    .gate-social-btn:hover { border-color: var(--gold); color: var(--gold); }
+    .gate-divider {
+      display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;
+    }
+    .gate-divider::before, .gate-divider::after {
+      content: ''; flex: 1; height: 1px; background: var(--border);
+    }
+    .gate-divider span { font-family: var(--mono); font-size: 10px; color: var(--muted); }
+    .gate-form { display: flex; gap: 8px; margin-bottom: 0.625rem; }
     .gate-input {
-      flex: 1;
-      background: var(--bg); border: 1px solid var(--border-hi);
-      border-radius: 7px; padding: 0.625rem 1rem;
-      font-size: 0.9rem; color: var(--text); outline: none;
-      font-family: var(--ui);
+      flex: 1; background: #0d0804; border: 1px solid var(--border-hi);
+      border-radius: 7px; padding: 0.7rem 1rem;
+      font-size: 0.9rem; color: var(--text); outline: none; font-family: var(--ui);
       transition: border-color 0.2s;
     }
-    .gate-input:focus { border-color: var(--blue); }
+    .gate-input:focus { border-color: var(--gold); }
     .gate-input::placeholder { color: var(--muted); }
     .gate-btn {
-      background: var(--blue); color: #fff;
-      border: none; border-radius: 7px;
-      padding: 0.625rem 1.25rem;
-      font-size: 0.875rem; font-weight: 700; cursor: pointer;
-      transition: background 0.2s; white-space: nowrap; font-family: var(--ui);
+      background: linear-gradient(135deg, var(--gold), #d97706);
+      color: #000; border: none; border-radius: 7px;
+      padding: 0.7rem 1.25rem;
+      font-size: 0.875rem; font-weight: 800; cursor: pointer;
+      transition: opacity 0.15s; white-space: nowrap; font-family: var(--ui);
     }
-    .gate-btn:hover { background: #0284c7; }
-    .gate-btn:disabled { background: var(--muted); cursor: not-allowed; }
-    .gate-note {
-      font-family: var(--mono); font-size: 10px; color: var(--muted);
-    }
-    .gate-success {
-      display: none; text-align: center; padding: 1rem 0;
-    }
+    .gate-btn:hover { opacity: 0.9; }
+    .gate-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    .gate-note { font-family: var(--mono); font-size: 10px; color: var(--muted); }
+    .gate-note .hi { color: var(--gold); }
+    .gate-error { color: var(--red); font-size: 0.8rem; margin-top: 0.25rem; }
+    .gate-success { display: none; text-align: center; padding: 0.5rem 0; }
     .gate-success.show { display: block; }
-    .gate-success-icon {
-      font-family: var(--mono); font-size: 24px; color: var(--green);
-      margin-bottom: 0.5rem;
+    .gate-success-icon { font-family: var(--mono); font-size: 2rem; color: var(--green); margin-bottom: 0.5rem; }
+    .gate-success-title { font-size: 1rem; font-weight: 700; margin-bottom: 0.25rem; }
+    .gate-success-sub { font-size: 0.85rem; color: var(--muted); }
+
+    /* ── NEWS SIDEBAR ───────────────────────── */
+    .news-sidebar {
+      position: sticky; top: 68px;
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 10px; overflow: hidden;
     }
-    .gate-success-title {
-      font-size: 1rem; font-weight: 700; color: var(--text);
-      margin-bottom: 0.5rem;
+    .sidebar-header {
+      padding: 0.875rem 1rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
     }
-    .gate-success-sub {
-      font-size: 0.85rem; color: var(--muted);
+    .sidebar-title { font-size: 0.8rem; font-weight: 700; color: var(--dim); }
+    .sidebar-live {
+      font-family: var(--mono); font-size: 10px; color: var(--green);
+      display: flex; align-items: center; gap: 4px;
     }
+    .sidebar-live-dot {
+      width: 6px; height: 6px; border-radius: 50%; background: var(--green);
+      animation: pulse-green 2s infinite;
+    }
+    @keyframes pulse-green {
+      0%  { box-shadow: 0 0 0 0   rgba(34,197,94,0.6); }
+      70% { box-shadow: 0 0 0 5px rgba(34,197,94,0); }
+      100%{ box-shadow: 0 0 0 0   rgba(34,197,94,0); }
+    }
+    .news-filters {
+      display: flex; gap: 4px; padding: 0.625rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .nf-btn {
+      font-family: var(--mono); font-size: 10px; font-weight: 500;
+      padding: 3px 8px; border-radius: 4px; cursor: pointer;
+      border: 1px solid var(--border); color: var(--muted);
+      background: transparent; transition: all 0.15s;
+    }
+    .nf-btn.active, .nf-btn:hover { border-color: var(--gold); color: var(--gold); background: var(--gold-dim); }
+    .news-list { padding: 0.625rem; max-height: 520px; overflow-y: auto; }
+    .news-list::-webkit-scrollbar { width: 3px; }
+    .news-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+    .news-item {
+      padding: 0.625rem; border-radius: 7px; margin-bottom: 3px;
+      cursor: pointer; transition: background 0.15s; border: 1px solid transparent;
+    }
+    .news-item:hover { background: var(--bg-hover); border-color: var(--border); }
+    .news-item-meta {
+      display: flex; align-items: center; gap: 5px; margin-bottom: 4px; flex-wrap: wrap;
+    }
+    .news-source-badge {
+      font-family: var(--mono); font-size: 9px; font-weight: 700;
+      padding: 1px 5px; border-radius: 3px;
+      background: var(--gold-dim); color: var(--gold);
+    }
+    .news-time { font-family: var(--mono); font-size: 10px; color: var(--muted); }
+    .news-cat {
+      font-family: var(--mono); font-size: 9px;
+      padding: 1px 4px; border-radius: 3px; margin-left: auto;
+      background: rgba(100,80,50,0.12); color: var(--muted);
+    }
+    .news-title { font-size: 0.82rem; font-weight: 600; line-height: 1.4; color: var(--text); margin-bottom: 3px; }
+    .news-summary { font-size: 0.77rem; color: var(--muted); line-height: 1.5; }
+    .news-pinned { border-left: 2px solid var(--red) !important; }
+    .news-loading { text-align: center; padding: 2rem; font-family: var(--mono); font-size: 11px; color: var(--muted); }
+
+    /* ── FLOATING SUBSCRIPTION WIDGET ──────── */
+    .float-sub {
+      position: fixed; right: 1.25rem; bottom: 5rem; z-index: 300;
+      width: 280px;
+      background: linear-gradient(135deg, #1e1004, #140b02);
+      border: 1px solid var(--border-hi);
+      border-radius: 14px; padding: 1.25rem;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.7), 0 0 0 1px rgba(245,158,11,0.1);
+      transform: translateX(120%);
+      transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .float-sub.show { transform: translateX(0); }
+    .float-sub-close {
+      position: absolute; top: 0.75rem; right: 0.75rem;
+      width: 22px; height: 22px; border-radius: 50%;
+      background: var(--border); border: none; cursor: pointer;
+      color: var(--muted); font-size: 12px; font-weight: 700;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 0.15s;
+    }
+    .float-sub-close:hover { background: var(--red-dim); color: var(--red); }
+    .float-sub-tag {
+      font-family: var(--mono); font-size: 10px; font-weight: 700;
+      color: var(--red); letter-spacing: 0.5px; margin-bottom: 0.5rem;
+      display: flex; align-items: center; gap: 5px;
+    }
+    .float-sub-title { font-size: 0.95rem; font-weight: 800; margin-bottom: 0.375rem; }
+    .float-sub-desc { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.875rem; line-height: 1.5; }
+    .float-sub-input {
+      width: 100%; background: #0d0804; border: 1px solid var(--border-hi);
+      border-radius: 6px; padding: 0.55rem 0.75rem;
+      font-size: 0.85rem; color: var(--text); outline: none; font-family: var(--ui);
+      margin-bottom: 0.5rem; transition: border-color 0.2s;
+    }
+    .float-sub-input:focus { border-color: var(--gold); }
+    .float-sub-input::placeholder { color: var(--muted); }
+    .float-sub-btn {
+      width: 100%;
+      background: linear-gradient(135deg, var(--gold), #d97706);
+      color: #000; border: none; border-radius: 6px; padding: 0.6rem;
+      font-size: 0.875rem; font-weight: 800; cursor: pointer; font-family: var(--ui);
+      transition: opacity 0.15s;
+    }
+    .float-sub-btn:hover { opacity: 0.9; }
+    .float-sub-count { font-family: var(--mono); font-size: 10px; color: var(--muted); margin-top: 0.5rem; text-align: center; }
+    .float-sub-count span { color: var(--gold); }
+
+    /* ── SHARE BUTTON ───────────────────────── */
+    .float-share {
+      position: fixed; right: 1.25rem; bottom: 1.5rem; z-index: 300;
+      background: var(--bg-card); border: 1px solid var(--border-hi);
+      border-radius: 50px; padding: 0.5rem 1rem;
+      display: flex; align-items: center; gap: 6px;
+      cursor: pointer; font-family: var(--mono); font-size: 11px; font-weight: 600;
+      color: var(--dim); transition: all 0.2s;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    }
+    .float-share:hover { border-color: var(--gold); color: var(--gold); }
+    .float-share.copied { background: var(--green-dim); border-color: var(--green); color: var(--green); }
+    .share-icon { width: 14px; height: 14px; }
+
+    /* ── NEWS SUBSCRIPTION MODAL ────────────── */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 500;
+      background: rgba(0,0,0,0.75); backdrop-filter: blur(4px);
+      display: flex; align-items: center; justify-content: center;
+      padding: 1rem;
+      opacity: 0; pointer-events: none; transition: opacity 0.2s;
+    }
+    .modal-overlay.show { opacity: 1; pointer-events: auto; }
+    .modal-card {
+      background: linear-gradient(135deg, #1a0e03, #120a02);
+      border: 1px solid var(--border-hi);
+      border-radius: 16px; padding: 2rem; max-width: 420px; width: 100%;
+      box-shadow: 0 32px 80px rgba(0,0,0,0.8);
+      transform: scale(0.95); transition: transform 0.2s;
+    }
+    .modal-overlay.show .modal-card { transform: scale(1); }
+    .modal-close {
+      float: right; background: var(--border); border: none; border-radius: 50%;
+      width: 28px; height: 28px; cursor: pointer; color: var(--muted);
+      font-size: 14px; font-weight: 700; display: flex; align-items: center; justify-content: center;
+      transition: all 0.15s;
+    }
+    .modal-close:hover { background: var(--red-dim); color: var(--red); }
+    .modal-tag {
+      font-family: var(--mono); font-size: 10px; font-weight: 700;
+      color: var(--orange); letter-spacing: 1px; margin-bottom: 0.75rem; margin-top: 0.5rem;
+    }
+    .modal-title { font-size: 1.2rem; font-weight: 800; margin-bottom: 0.5rem; }
+    .modal-desc { font-size: 0.875rem; color: var(--muted); margin-bottom: 1.25rem; line-height: 1.6; }
+    .modal-news-preview {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px;
+      padding: 0.875rem; margin-bottom: 1.25rem; border-left: 3px solid var(--gold);
+    }
+    .modal-news-title { font-size: 0.85rem; font-weight: 600; color: var(--text); margin-bottom: 0.25rem; }
+    .modal-news-sub { font-size: 0.78rem; color: var(--muted); }
+    .modal-form { display: flex; gap: 8px; margin-bottom: 0.5rem; }
+    .modal-input {
+      flex: 1; background: #0d0804; border: 1px solid var(--border-hi);
+      border-radius: 7px; padding: 0.65rem 0.875rem;
+      font-size: 0.875rem; color: var(--text); outline: none; font-family: var(--ui);
+      transition: border-color 0.2s;
+    }
+    .modal-input:focus { border-color: var(--gold); }
+    .modal-input::placeholder { color: var(--muted); }
+    .modal-btn {
+      background: linear-gradient(135deg, var(--gold), #d97706);
+      color: #000; border: none; border-radius: 7px; padding: 0.65rem 1.125rem;
+      font-size: 0.875rem; font-weight: 800; cursor: pointer; font-family: var(--ui);
+      white-space: nowrap; transition: opacity 0.15s;
+    }
+    .modal-btn:hover { opacity: 0.9; }
+    .modal-note { font-family: var(--mono); font-size: 10px; color: var(--muted); }
 
     /* ── FOOTER ─────────────────────────────── */
     footer {
-      background: #040608;
-      border-top: 1px solid var(--border);
-      padding: 2.5rem; text-align: center;
+      background: #040200; border-top: 1px solid var(--border);
+      padding: 2rem; text-align: center;
     }
-    .footer-brand {
-      font-weight: 700; font-size: 0.9rem; margin-bottom: 0.5rem;
-    }
-    .footer-disclaimer {
-      font-size: 0.8rem; color: var(--muted); max-width: 600px;
-      margin: 0 auto 0.5rem; line-height: 1.6;
-    }
-    .footer-copy {
-      font-family: var(--mono); font-size: 10px; color: rgba(100,116,139,0.5);
-    }
+    .footer-brand { font-weight: 700; font-size: 0.875rem; color: var(--dim); margin-bottom: 0.5rem; }
+    .footer-disclaimer { font-size: 0.78rem; color: var(--muted); max-width: 560px; margin: 0 auto 0.5rem; line-height: 1.6; }
+    .footer-copy { font-family: var(--mono); font-size: 10px; color: rgba(160,130,100,0.4); }
 
-    /* ── ARTICLE NO-URL STATE ───────────────── */
-    .article-card.no-url { cursor: default; }
-    .article-card.no-url:hover {
-      transform: none;
-      border-color: var(--border);
+    /* ── MOBILE RESPONSIVE ──────────────────── */
+    @media (max-width: 768px) {
+      header { padding: 0 1rem; }
+      .header-cta { display: none; }
+      .zones-section { padding: 1rem; }
+      .zones-grid { grid-template-columns: repeat(3, minmax(120px, 1fr)); gap: 0.5rem; overflow-x: auto; }
+      .zone-card { padding: 0.75rem; min-width: 120px; }
+      .zone-tagline { display: none; }
+      .main-wrap { padding: 1rem 1rem 4rem; }
+      .main-grid { grid-template-columns: 1fr; }
+      .news-sidebar { position: static; }
+      .float-sub { width: calc(100vw - 2rem); right: 1rem; bottom: 4.5rem; }
+      .float-share { right: 1rem; bottom: 1rem; }
+      .urgency-banner { padding: 0.75rem 1rem; }
+      .gate-card { padding: 1.25rem; }
+      .gate-social { flex-wrap: wrap; }
+    }
+    @media (max-width: 400px) {
+      .zones-grid { grid-template-columns: repeat(3, 110px); }
     }
   </style>
 </head>
 <body>
 
-  <!-- HEADER -->
-  <header>
-    <div class="logo">
-      <div class="logo-mark">B</div>
-      <div class="logo-name">Open<span>BIT</span></div>
-      <div class="logo-tag">RESEARCH</div>
-    </div>
-    <div class="header-right">
-      <div class="live-badge">
-        <span class="live-dot"></span>
-        LIVE · IPO TRACKING
-      </div>
-      <a href="/admin/" class="admin-link">Admin</a>
-    </div>
-  </header>
-
-  <!-- HERO -->
-  <section class="hero">
-    <div class="hero-badge">PRE-IPO INTELLIGENCE &nbsp;·&nbsp; SPACEX 2026</div>
-    <h1>巨头未上市<br>先手已布局</h1>
-    <p class="hero-sub">追踪全球超级 IPO 动态，用成份股策略在上市前完成布局，捕获超额收益</p>
-    <div class="hero-stats">
-      <div>
-        <span class="hero-stat-val" id="statSubs">—</span>
-        已订阅用户
-      </div>
-      <div>
-        <span class="hero-stat-val">$350B+</span>
-        SpaceX 当前估值
-      </div>
-      <div>
-        <span class="hero-stat-val">10</span>
-        深度研报
-      </div>
-    </div>
-  </section>
-
-  <!-- TIMELINE -->
-  <section class="timeline-section">
-    <div class="timeline-wrap">
-      <div class="timeline-label">SpaceX IPO 关键节点</div>
-      <div class="timeline" role="list">
-
-        <div class="tl-node">
-          <div class="tl-dot past"></div>
-          <div class="tl-date">2026 · Apr 1</div>
-          <div class="tl-title">保密申请 IPO</div>
-          <div class="tl-sub">SEC Confidential Filing</div>
-          <div class="tl-status done">FILED</div>
-        </div>
-
-        <div class="tl-connector past"></div>
-
-        <div class="tl-node">
-          <div class="tl-dot past"></div>
-          <div class="tl-date">2026 · Apr 10</div>
-          <div class="tl-title">交易所上线代币</div>
-          <div class="tl-sub">Bitget / Binance Pre-IPO</div>
-          <div class="tl-status done">LISTED</div>
-        </div>
-
-        <div class="tl-connector partial"></div>
-
-        <div class="tl-node">
-          <div class="tl-dot current"></div>
-          <div class="tl-date" style="color:var(--amber)">NOW · Apr 17</div>
-          <div class="tl-title" style="color:var(--amber)">最佳布局窗口</div>
-          <div class="tl-sub">S-1 公开前最后机会</div>
-          <div class="tl-status now">IN PROGRESS</div>
-        </div>
-
-        <div class="tl-connector"></div>
-
-        <div class="tl-node">
-          <div class="tl-dot future"></div>
-          <div class="tl-date">2026 · May</div>
-          <div class="tl-title">S-1 公开</div>
-          <div class="tl-sub">首次公布财务数据</div>
-          <div class="tl-status pending">UPCOMING</div>
-        </div>
-
-        <div class="tl-connector"></div>
-
-        <div class="tl-node">
-          <div class="tl-dot future"></div>
-          <div class="tl-date">2026 · Jun</div>
-          <div class="tl-title">IPO 路演</div>
-          <div class="tl-sub">定价区间公布</div>
-          <div class="tl-status pending">UPCOMING</div>
-        </div>
-
-        <div class="tl-connector"></div>
-
-        <div class="tl-node">
-          <div class="tl-dot future"></div>
-          <div class="tl-date">2026 · Jun–Jul</div>
-          <div class="tl-title">正式上市</div>
-          <div class="tl-sub">史上最大 IPO</div>
-          <div class="tl-status pending">TARGET</div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- TABS -->
-  <div class="tabs-bar">
-    <button class="tab active" onclick="selectTab(this,'spacex')">SpaceX 专区</button>
-    <button class="tab" onclick="selectTab(this,'openai')">
-      OpenAI 专区 <span class="tab-soon">筹备中</span>
-    </button>
-    <button class="tab" onclick="selectTab(this,'anthropic')">
-      Anthropic 专区 <span class="tab-soon">筹备中</span>
-    </button>
+<!-- HEADER -->
+<header>
+  <div class="logo">
+    <div class="logo-mark">B</div>
+    <div class="logo-name">Open<span>BIT</span></div>
+    <div class="logo-tag">RESEARCH</div>
   </div>
+  <div class="header-right">
+    <div class="live-badge"><span class="live-dot"></span>IPO 实时追踪</div>
+    <button class="header-cta" onclick="scrollToGate()">订阅研报</button>
+  </div>
+</header>
 
-  <!-- MAIN GRID -->
+<!-- TICKER -->
+<div class="ticker">
+  <div class="ticker-label">LIVE</div>
+  <div style="overflow:hidden;flex:1;display:flex">
+    <div class="ticker-track" id="tickerTrack">
+      <span class="ticker-item"><strong>SpaceX</strong> 保密申请 IPO · SEC Confidential Filing <span class="up">已完成</span></span>
+      <span class="ticker-item">DXYZ 溢价率 <span class="up">24%</span> · 较峰值 40% 收窄</span>
+      <span class="ticker-item">Bitget / Binance Pre-IPO 代币 <span class="up">首日成交 $1.8亿</span></span>
+      <span class="ticker-item">S-1 预计公开 <span class="urg">5月</span> · 最后布局窗口</span>
+      <span class="ticker-item">OpenAI 融资 <strong>$400亿</strong> · 估值 $3000亿</span>
+      <span class="ticker-item">Anthropic 完成 <strong>$35亿</strong> 融资 · 估值 $615亿</span>
+      <!-- 重复一次让滚动无缝 -->
+      <span class="ticker-item"><strong>SpaceX</strong> 保密申请 IPO · SEC Confidential Filing <span class="up">已完成</span></span>
+      <span class="ticker-item">DXYZ 溢价率 <span class="up">24%</span> · 较峰值 40% 收窄</span>
+      <span class="ticker-item">Bitget / Binance Pre-IPO 代币 <span class="up">首日成交 $1.8亿</span></span>
+      <span class="ticker-item">S-1 预计公开 <span class="urg">5月</span> · 最后布局窗口</span>
+      <span class="ticker-item">OpenAI 融资 <strong>$400亿</strong> · 估值 $3000亿</span>
+      <span class="ticker-item">Anthropic 完成 <strong>$35亿</strong> 融资 · 估值 $615亿</span>
+    </div>
+  </div>
+</div>
+
+<!-- 3 IPO ZONES -->
+<div class="zones-section">
+  <div class="zones-label">OPPORTUNITY ZONES · 万亿巨头上市机会</div>
+  <div class="zones-grid">
+    <div class="zone-card active" onclick="selectZone(this,'spacex')">
+      <div class="zone-head">
+        <div class="zone-name">SpaceX 专区</div>
+        <div class="zone-badge badge-live">LIVE</div>
+      </div>
+      <div class="zone-tagline">IPO 倒计时进行中</div>
+      <div class="zone-meta">估值 <span>$350B+</span> · 10篇研报</div>
+    </div>
+    <div class="zone-card" onclick="selectZone(this,'openai')">
+      <div class="zone-head">
+        <div class="zone-name">OpenAI 专区</div>
+        <div class="zone-badge badge-soon">筹备中</div>
+      </div>
+      <div class="zone-tagline">2027 IPO 窗口临近</div>
+      <div class="zone-meta">估值 <span>$300B+</span> · 即将上线</div>
+    </div>
+    <div class="zone-card" onclick="selectZone(this,'anthropic')">
+      <div class="zone-head">
+        <div class="zone-name">Anthropic 专区</div>
+        <div class="zone-badge badge-soon">筹备中</div>
+      </div>
+      <div class="zone-tagline">Pre-IPO 份额已开放</div>
+      <div class="zone-meta">估值 <span>$61.5B</span> · 即将上线</div>
+    </div>
+  </div>
+</div>
+
+<!-- URGENCY BANNER -->
+<div class="urgency-banner">
+  <div>
+    <div class="urgency-text">
+      当前位置：<span class="hi">Apr 17</span> — S-1 公开前最后布局窗口
+      <span class="now"> · 距 5 月 S-1 公开约 2–4 周</span>
+    </div>
+    <div class="urgency-sub">订阅后第一时间收到 IPO 关键节点推送 · 已有 <span id="subCountBanner" style="color:var(--gold)">4,132</span> 人在追踪</div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div class="main-wrap">
   <div class="main-grid">
+
+    <!-- ARTICLES -->
+    <section>
+      <div class="articles-header">
+        <div class="articles-title">SpaceX 布局指南 <span>· 10 篇连载</span></div>
+        <div class="articles-progress" id="progressLabel">已解锁 3 / 10</div>
+      </div>
+      <div class="article-list" id="freeArticles"></div>
+      <div class="locked-area" id="lockedArea">
+        <div class="article-list" id="lockedArticles" style="display:flex;flex-direction:column;gap:10px"></div>
+        <div class="gate-overlay" id="gateOverlay">
+          <div class="gate-card" id="mainGate">
+            <div class="gate-tag">MEMBER ONLY · 解锁剩余 7 篇</div>
+            <div class="gate-title">不想踩坑，先看这 7 篇</div>
+            <div class="gate-desc">
+              包含《此刻的操作建议》《如何避开 40% 溢价陷阱》《IPO 当天怎么做》。<br>
+              留下邮箱，立即发送完整链接，SpaceX 有新进展第一时间推送。
+            </div>
+            <div id="gateFormArea">
+              <div class="gate-form">
+                <input class="gate-input" type="email" id="gateEmail"
+                  placeholder="your@email.com" autocomplete="email">
+                <button class="gate-btn" id="gateBtn" onclick="submitEmail('gate')">立即获取</button>
+              </div>
+              <div class="gate-error" id="gateError"></div>
+              <div class="gate-note">已有 <span class="hi" id="subCountGate">4,132</span> 人订阅 · 随时退订</div>
+            </div>
+            <div class="gate-success" id="gateSuccess">
+              <div class="gate-success-icon">[OK]</div>
+              <div class="gate-success-title">订阅成功</div>
+              <div class="gate-success-sub">SpaceX 最新研报已发到你的邮箱<br><span style="font-size:0.8rem;color:var(--muted)">有 IPO 新进展第一时间通知</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- NEWS SIDEBAR -->
     <aside class="news-sidebar">
       <div class="sidebar-header">
         <span class="sidebar-title">每日快讯</span>
-        <div class="live-badge" style="font-size:10px">
-          <span class="live-dot"></span> AUTO
-        </div>
+        <span class="sidebar-live"><span class="sidebar-live-dot"></span>自动更新</span>
       </div>
       <div class="news-filters">
         <button class="nf-btn active" data-cat="全部" onclick="filterNews(this)">全部</button>
@@ -624,324 +659,289 @@
         <div class="news-loading">加载中...</div>
       </div>
     </aside>
-
-    <!-- ARTICLES -->
-    <section>
-      <div class="articles-header">
-        <div class="articles-title">SpaceX 布局指南 · 10 篇连载</div>
-        <div class="articles-progress" id="progressLabel">解锁：3 / 10</div>
-      </div>
-
-      <div class="article-list" id="freeArticles"></div>
-
-      <div class="locked-area" id="lockedArea">
-        <div class="article-list" id="lockedArticles" style="display:flex;flex-direction:column;gap:10px"></div>
-        <div class="gate-overlay" id="gateOverlay">
-          <div class="gate-card">
-            <div class="gate-tag">MEMBER ONLY · 订阅解锁</div>
-            <div class="gate-title">解锁剩余 7 篇深度研报</div>
-            <div class="gate-desc">
-              包含《此时的操作建议》《历史回测》《防坑指南》等核心实操内容。<br>
-              留下邮箱，系统发送完整链接 · SpaceX 有新进展第一时间推送。
-            </div>
-            <div id="gateFormWrap">
-              <div class="gate-form">
-                <input class="gate-input" type="email" id="emailInput"
-                  placeholder="your@email.com" autocomplete="email">
-                <button class="gate-btn" id="gateSubmitBtn" onclick="submitEmail()">
-                  立即获取
-                </button>
-              </div>
-              <div class="gate-note" id="gateError"></div>
-              <div class="gate-note">已有 <span id="subCount">—</span> 人订阅 · 随时退订</div>
-            </div>
-            <div class="gate-success" id="gateSuccess">
-              <div class="gate-success-icon">[OK]</div>
-              <div class="gate-success-title">订阅成功</div>
-              <div class="gate-success-sub">
-                链接已发送到你的邮箱<br>
-                <span style="color:var(--muted);font-size:0.8rem">有 IPO 新进展，我们会第一时间通知你</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
   </div>
+</div>
 
-  <!-- FOOTER -->
-  <footer>
-    <div class="footer-brand">OpenBIT Research Team</div>
-    <p class="footer-disclaimer">
-      免责声明：本页面内容仅供研究和信息参考，不构成任何投资建议。
-      投资者应充分了解风险，自行承担交易决策及后果。
-    </p>
-    <div class="footer-copy">&copy; 2026 OpenBIT · All rights reserved</div>
-  </footer>
+<!-- FOOTER -->
+<footer>
+  <div class="footer-brand">OpenBIT Research Team</div>
+  <p class="footer-disclaimer">免责声明：本页面内容仅供研究和信息参考，不构成任何投资建议。投资者应充分了解风险，自行承担交易决策及后果。</p>
+  <div class="footer-copy">&copy; 2026 OpenBIT · All rights reserved</div>
+</footer>
 
-  <script>
-    // ── SESSION & UTM ──────────────────────────
-    const SESSION_ID = (() => {
-      let s = sessionStorage.getItem('_sid');
-      if (!s) { s = Math.random().toString(36).slice(2) + Date.now().toString(36); sessionStorage.setItem('_sid', s); }
-      return s;
-    })();
+<!-- FLOATING SUBSCRIPTION WIDGET -->
+<div class="float-sub" id="floatSub">
+  <button class="float-sub-close" onclick="closeFloatSub()">×</button>
+  <div class="float-sub-tag"><span style="width:6px;height:6px;border-radius:50%;background:var(--red);display:inline-block"></span> 最新动态</div>
+  <div class="float-sub-title">别错过关键信号</div>
+  <div class="float-sub-desc">S-1 公开、路演定价、上市首日——每个节点提前通知你</div>
+  <input class="float-sub-input" type="email" id="floatEmail" placeholder="your@email.com">
+  <button class="float-sub-btn" onclick="submitEmail('float')">订阅 IPO 推送</button>
+  <div class="float-sub-count">已有 <span id="subCountFloat">4,132</span> 人订阅</div>
+</div>
 
-    const UTM = (() => {
-      const p = new URLSearchParams(location.search);
-      return {
-        source:   p.get('utm_source')   || document.referrer && new URL(document.referrer).hostname || 'direct',
-        medium:   p.get('utm_medium')   || null,
-        campaign: p.get('utm_campaign') || null,
-        referrer: document.referrer     || null,
-      };
-    })();
+<!-- SHARE BUTTON -->
+<button class="float-share" id="shareBtn" onclick="copyLink()">
+  <svg class="share-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+  </svg>
+  分享
+</button>
 
-    function track(articleId, event = 'click') {
-      fetch('/api/track', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ article_id: articleId, event, utm_source: UTM.source, session_id: SESSION_ID }),
-      }).catch(() => {});
+<!-- NEWS SUBSCRIPTION MODAL -->
+<div class="modal-overlay" id="newsModal" onclick="closeModal(event)">
+  <div class="modal-card">
+    <button class="modal-close" onclick="document.getElementById('newsModal').classList.remove('show')">×</button>
+    <div class="modal-tag">MEMBER ONLY · 订阅解锁全文</div>
+    <div class="modal-title">获取这条资讯的完整分析</div>
+    <div class="modal-desc">订阅后接收完整新闻推送，包括来源链接、背景分析和操作建议。</div>
+    <div class="modal-news-preview" id="modalNewsPreview">
+      <div class="modal-news-title" id="modalNewsTitle"></div>
+      <div class="modal-news-sub">订阅后查看完整内容及原文链接</div>
+    </div>
+    <div id="modalFormArea">
+      <div class="modal-form">
+        <input class="modal-input" type="email" id="modalEmail" placeholder="your@email.com">
+        <button class="modal-btn" onclick="submitEmail('modal')">订阅获取</button>
+      </div>
+      <div class="modal-note">订阅即可查看全部来源链接 · 随时退订</div>
+    </div>
+  </div>
+</div>
+
+<script>
+  // ── UTM & SESSION ─────────────────────────
+  const SID = (() => {
+    let s = sessionStorage.getItem('_sid');
+    if (!s) { s = Math.random().toString(36).slice(2)+Date.now().toString(36); sessionStorage.setItem('_sid',s); }
+    return s;
+  })();
+  const UTM = (() => {
+    const p = new URLSearchParams(location.search);
+    let src = p.get('utm_source') || 'direct';
+    if (!p.get('utm_source') && document.referrer) {
+      try { src = new URL(document.referrer).hostname; } catch(e){}
     }
+    return { source: src, medium: p.get('utm_medium'), campaign: p.get('utm_campaign'), referrer: document.referrer||null };
+  })();
 
-    // ── DEFAULTS (fallback if API fails) ───────
-    const ARTICLE_DEFAULTS = [
-      { id:'01', title:'SpaceX IPO 倒计时：1.75 万亿估值背后的时间线与投资机会全解析',
-        description:'一文帮你梳理史上最大 IPO 的关键节点、承销商阵容以及散户入场的现实障碍。',
-        category_tag:'基础普及', is_free:true, url:'' },
-      { id:'02', title:'不用等 IPO 配售：4 种"成份股"策略让你提前布局 SpaceX 生态',
-        description:'DXYZ、XOVR、ARKX、SATS... 深度对比 4 种能让你间接持有 SpaceX 的代理资产。',
-        category_tag:'核心方法论', is_free:true, url:'' },
-      { id:'03', title:'深度拆解：每一只 SpaceX 概念标的的真实风险',
-        description:'主动排雷：有标的溢价高达 40%，有标的被出具"持续经营疑虑"。',
-        category_tag:'风险评测', is_free:true, url:'' },
-      { id:'04', title:'手把手实操教程：如何用 USDT 一键买入 SpaceX 概念标的',
-        description:'在 OpenBIT App 内的具体操作指引，限价单/市价单使用技巧及手续费优化方案。',
-        category_tag:'实操教程', is_free:false, url:'' },
-      { id:'05', title:'$500 / $5K / $50K 的 SpaceX 生态梯队建仓方案',
-        description:'不同资金体量的风险偏好对应指南，组合搭配实现胜率最大化。',
-        category_tag:'资金管理', is_free:false, url:'' },
-      { id:'06', title:'IPO 当天如何操作：申购、定价与上市首日策略',
-        description:'从 T-3 到上市首日，每个关键时间点你应该做什么、避开什么。',
-        category_tag:'实战策略', is_free:false, url:'' },
-      { id:'07', title:'SpaceX 核心财务拆解：营收、利润率与成长空间',
-        description:'S-1 公开后第一时间解读：Starlink 真实 ARPU、发射业务壁垒与成长天花板。',
-        category_tag:'财务分析', is_free:false, url:'' },
-      { id:'08', title:'风险对冲指南：如果 IPO 推迟或市场暴跌怎么办',
-        description:'多空配置、止损逻辑与极端情景下的具体应对方案。',
-        category_tag:'风险管理', is_free:false, url:'' },
-      { id:'09', title:'历史复盘：从 Uber 到 Airbnb，Pre-IPO 标的的规律',
-        description:'分析 5 个超级 IPO 的前哨布局收益数据，找出可复制的规律。',
-        category_tag:'历史复盘', is_free:false, url:'' },
-      { id:'10', title:'此刻的操作建议：基于当前市场数据的具体仓位建议',
-        description:'结合当前 DXYZ 溢价率、市场情绪指数，给出具体建仓时机与仓位比例。',
-        category_tag:'实时策略', is_free:false, url:'' },
-    ];
+  function track(articleId, event='click') {
+    fetch('/api/track',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({article_id:articleId,event,utm_source:UTM.source,session_id:SID})}).catch(()=>{});
+  }
 
-    // ── ARTICLE RENDERING ─────────────────────
-    function arrowSvg() {
-      return `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
-    }
-
-    function renderArticleCard(a, isUnlocked) {
-      const free = a.is_free;
-      const hasUrl = a.url && a.url !== '#' && a.url !== '';
-      const tag = document.createElement(hasUrl ? 'a' : 'div');
-      tag.className = 'article-card' + (free ? '' : ' locked') + (!hasUrl ? ' no-url' : '');
-      if (hasUrl) {
-        tag.href = a.url;
-        tag.target = '_blank';
-        tag.rel = 'noopener noreferrer';
-      }
-      tag.addEventListener('click', () => {
-        track(a.id, 'click');
-        if (!hasUrl && (free || isUnlocked)) {
-          // show "配置中" message
-        }
-      });
-      tag.innerHTML = `
-        <div class="article-num">${a.id}</div>
-        <div class="article-body">
-          <div class="article-tags">
-            <span class="badge ${free ? 'badge-free' : 'badge-locked'}">${free ? 'FREE' : 'LOCKED'}</span>
-            <span class="badge badge-cat">${a.category_tag}</span>
-          </div>
-          <div class="article-title">${a.title}</div>
-          <div class="article-desc">${a.description}</div>
-        </div>
-        <div class="article-arrow">${arrowSvg()}</div>`;
-      return tag;
-    }
-
-    async function loadArticles() {
-      let articles = ARTICLE_DEFAULTS;
-      try {
-        const res = await fetch('/api/articles');
-        if (res.ok) articles = await res.json();
-      } catch (_) {}
-
-      const subscribed = localStorage.getItem('ipo_subscribed') === 'true';
-      const freeEl    = document.getElementById('freeArticles');
-      const lockedEl  = document.getElementById('lockedArticles');
-      const lockedArea = document.getElementById('lockedArea');
-
-      freeEl.innerHTML = '';
-      lockedEl.innerHTML = '';
-
-      articles.forEach(a => {
-        if (a.is_free) {
-          freeEl.appendChild(renderArticleCard(a, true));
-        } else {
-          lockedEl.appendChild(renderArticleCard(a, subscribed));
-        }
-      });
-
-      if (subscribed) unlockArticles(false);
-    }
-
-    function unlockArticles(animate = true) {
-      const area = document.getElementById('lockedArea');
-      const gate = document.getElementById('gateOverlay');
-      area.classList.add('unlocked');
-      if (!animate) gate.style.transition = 'none';
-      document.getElementById('progressLabel').textContent = '解锁：10 / 10';
-    }
-
-    // ── EMAIL GATE ────────────────────────────
-    async function submitEmail() {
-      const emailInput = document.getElementById('emailInput');
-      const btn        = document.getElementById('gateSubmitBtn');
-      const errEl      = document.getElementById('gateError');
-      const email = emailInput.value.trim();
-
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-        errEl.textContent = '请输入有效的邮箱地址';
-        errEl.style.color = 'var(--red)';
-        return;
-      }
-
-      btn.disabled = true;
-      btn.textContent = '提交中...';
-      errEl.textContent = '';
-
-      try {
-        const res = await fetch('/api/subscribe', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            email,
-            utm_source:   UTM.source,
-            utm_medium:   UTM.medium,
-            utm_campaign: UTM.campaign,
-            referrer:     UTM.referrer,
-          }),
-        });
-
-        if (res.ok) {
-          localStorage.setItem('ipo_subscribed', 'true');
-          track('gate', 'subscribe');
-          document.getElementById('gateFormWrap').style.display = 'none';
-          document.getElementById('gateSuccess').classList.add('show');
-          setTimeout(() => unlockArticles(true), 800);
-        } else {
-          throw new Error('server error');
-        }
-      } catch (_) {
-        errEl.textContent = '提交失败，请稍后重试';
-        errEl.style.color = 'var(--red)';
-        btn.disabled = false;
-        btn.textContent = '立即获取';
-      }
-    }
-
-    document.getElementById('emailInput').addEventListener('keydown', e => {
-      if (e.key === 'Enter') submitEmail();
+  // ── SUBSCRIBER COUNT (注水) ───────────────
+  const BASE_COUNT = 4132;
+  function animateCount(el, target) {
+    if (!el) return;
+    let start = Math.max(0, target - 120), cur = start;
+    const step = () => {
+      cur = Math.min(cur + Math.ceil((target-start)/40), target);
+      el.textContent = cur.toLocaleString();
+      if (cur < target) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+  }
+  function updateAllCounts(extra=0) {
+    const total = BASE_COUNT + extra;
+    ['subCountBanner','subCountGate','subCountFloat'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) animateCount(el, total);
     });
+    localStorage.setItem('_sub_count', total);
+  }
+  updateAllCounts(0);
 
-    // ── NEWS FEED ─────────────────────────────
-    let allNews = [];
-    let activeCategory = '全部';
+  // ── ARTICLE DEFAULTS ──────────────────────
+  const DEFAULTS = [
+    {id:'01',title:'SpaceX IPO 倒计时：1.75 万亿估值背后的时间线与投资机会全解析',description:'一文帮你梳理史上最大 IPO 的关键节点、承销商阵容以及散户入场的现实障碍。',category_tag:'基础普及',is_free:true,url:''},
+    {id:'02',title:'不用等 IPO 配售：4 种"成份股"策略让你提前布局 SpaceX 生态',description:'DXYZ、XOVR、ARKX、SATS... 深度对比 4 种能让你间接持有 SpaceX 的代理资产。',category_tag:'核心方法论',is_free:true,url:''},
+    {id:'03',title:'深度拆解：每一只 SpaceX 概念标的的真实风险',description:'主动排雷：有标的溢价高达 40%，有标的被出具"持续经营疑虑"，你的钱可能去了哪里？',category_tag:'风险评测',is_free:true,url:''},
+    {id:'04',title:'手把手实操教程：如何用 USDT 一键买入 SpaceX 概念标的',description:'在 OpenBIT App 内的具体操作指引，限价单/市价单使用技巧及手续费优化方案。',category_tag:'实操教程',is_free:false,url:''},
+    {id:'05',title:'$500 / $5K / $50K 的 SpaceX 生态梯队建仓方案',description:'不同资金体量的风险偏好对应指南，组合搭配实现胜率最大化。',category_tag:'资金管理',is_free:false,url:''},
+    {id:'06',title:'IPO 当天如何操作：申购、定价与上市首日策略',description:'从 T-3 到上市首日，每个关键时间点你应该做什么、避开什么。',category_tag:'实战策略',is_free:false,url:''},
+    {id:'07',title:'SpaceX 核心财务拆解：营收、利润率与成长空间',description:'S-1 公开后第一时间解读：Starlink 真实 ARPU、发射业务壁垒与成长天花板。',category_tag:'财务分析',is_free:false,url:''},
+    {id:'08',title:'风险对冲指南：如果 IPO 推迟或市场暴跌怎么办',description:'多空配置、止损逻辑与极端情景下的具体应对方案。',category_tag:'风险管理',is_free:false,url:''},
+    {id:'09',title:'历史复盘：从 Uber 到 Airbnb，Pre-IPO 标的的规律',description:'分析 5 个超级 IPO 的前哨布局收益数据，找出可复制的规律。',category_tag:'历史复盘',is_free:false,url:''},
+    {id:'10',title:'此刻的操作建议：基于当前市场数据的具体仓位建议',description:'结合当前 DXYZ 溢价率、市场情绪指数，给出具体建仓时机与仓位比例。',category_tag:'实时策略',is_free:false,url:''},
+  ];
 
-    function relativeTime(isoStr) {
-      const diff = Date.now() - new Date(isoStr).getTime();
-      const mins = Math.floor(diff / 60000);
-      if (mins < 60) return `${mins}m ago`;
-      const hrs = Math.floor(mins / 60);
-      if (hrs < 24) return `${hrs}h ago`;
-      return `${Math.floor(hrs / 24)}d ago`;
+  function arrowSvg() {
+    return `<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>`;
+  }
+
+  function renderArticle(a, unlocked) {
+    const hasUrl = a.url && a.url!=='#' && a.url!=='';
+    const tag = document.createElement(hasUrl?'a':'div');
+    tag.className = 'article-card'+(a.is_free?'':' locked')+((!hasUrl&&(a.is_free||unlocked))?' no-url':'');
+    if (hasUrl) { tag.href=a.url; tag.target='_blank'; tag.rel='noopener noreferrer'; }
+    tag.addEventListener('click', () => track(a.id));
+    tag.innerHTML = `
+      <div class="article-num">${a.id}</div>
+      <div class="article-body">
+        <div class="article-tags">
+          <span class="badge ${a.is_free?'badge-free':'badge-locked'}">${a.is_free?'FREE':'LOCKED'}</span>
+          <span class="badge badge-cat">${a.category_tag}</span>
+        </div>
+        <div class="article-title">${a.title}</div>
+        <div class="article-desc">${a.description}</div>
+      </div>
+      <div class="article-arrow">${arrowSvg()}</div>`;
+    return tag;
+  }
+
+  async function loadArticles() {
+    let articles = DEFAULTS;
+    try { const r=await fetch('/api/articles'); if(r.ok) articles=await r.json(); } catch(_){}
+    const subscribed = localStorage.getItem('ipo_subscribed')==='true';
+    const freeEl=document.getElementById('freeArticles');
+    const lockedEl=document.getElementById('lockedArticles');
+    freeEl.innerHTML=''; lockedEl.innerHTML='';
+    articles.forEach(a => (a.is_free?freeEl:lockedEl).appendChild(renderArticle(a,subscribed)));
+    if (subscribed) unlockArticles(false);
+  }
+
+  function unlockArticles(animate=true) {
+    document.getElementById('lockedArea').classList.add('unlocked');
+    document.getElementById('progressLabel').textContent='已解锁 10 / 10';
+  }
+
+  // ── EMAIL SUBMIT ──────────────────────────
+  async function submitEmail(source) {
+    const inputs = { gate:'gateEmail', float:'floatEmail', modal:'modalEmail' };
+    const emailEl = document.getElementById(inputs[source]);
+    const email = emailEl?.value.trim();
+    if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      if (source==='gate') { document.getElementById('gateError').textContent='请输入有效邮箱'; }
+      return;
     }
-
-    function renderNews(items) {
-      const list = document.getElementById('newsList');
-      if (!items || items.length === 0) {
-        list.innerHTML = '<div class="news-loading">暂无最新快讯</div>';
-        return;
+    try {
+      const r = await fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({email,utm_source:UTM.source,utm_medium:UTM.medium,utm_campaign:UTM.campaign,referrer:UTM.referrer})});
+      if (r.ok) {
+        localStorage.setItem('ipo_subscribed','true');
+        track('gate','subscribe');
+        if (source==='gate') {
+          document.getElementById('gateFormArea').style.display='none';
+          document.getElementById('gateSuccess').classList.add('show');
+          setTimeout(()=>unlockArticles(true),600);
+        }
+        if (source==='float') {
+          document.getElementById('floatSub').innerHTML=`<div style="text-align:center;padding:1rem"><div style="font-family:var(--mono);font-size:1.5rem;color:var(--green);margin-bottom:.5rem">[OK]</div><div style="font-weight:700;margin-bottom:.25rem">订阅成功</div><div style="font-size:.8rem;color:var(--muted)">有 IPO 动态第一时间通知你</div></div>`;
+          setTimeout(()=>closeFloatSub(),3000);
+        }
+        if (source==='modal') {
+          document.getElementById('modalFormArea').innerHTML='<div style="text-align:center;padding:.5rem;font-weight:700;color:var(--green)">[OK] 订阅成功，链接已发送到邮箱</div>';
+        }
       }
-      list.innerHTML = '';
-      items
-        .filter(n => activeCategory === '全部' || n.category === activeCategory)
-        .forEach(n => {
-          const el = document.createElement('div');
-          el.className = 'news-item' + (n.pinned ? ' news-pinned' : '');
-          el.innerHTML = `
-            <div class="news-item-meta">
-              <span class="news-source">${n.source}</span>
-              <span class="news-time">${relativeTime(n.time)}</span>
-              <span class="news-cat">${n.category}</span>
-            </div>
-            <div class="news-title">${n.title}</div>
-            <div class="news-summary">${n.summary}</div>`;
-          if (n.source_url) {
-            el.style.cursor = 'pointer';
-            el.onclick = () => { track('news_' + n.id, 'news_click'); window.open(n.source_url, '_blank'); };
-          }
-          list.appendChild(el);
-        });
-    }
+    } catch(_) {}
+  }
 
-    async function loadNews() {
-      try {
-        const res = await fetch('/data/news.json?_=' + Math.floor(Date.now() / 900000));
-        if (res.ok) allNews = await res.json();
-        renderNews(allNews);
-      } catch (_) {
-        document.getElementById('newsList').innerHTML =
-          '<div class="news-loading">快讯加载失败，请刷新重试</div>';
+  // ── NEWS ──────────────────────────────────
+  let allNews=[], activeCategory='全部';
+
+  function relTime(iso) {
+    const d=Date.now()-new Date(iso).getTime(), m=Math.floor(d/60000);
+    if(m<60) return m+'分钟前';
+    const h=Math.floor(m/60);
+    if(h<24) return h+'小时前';
+    return Math.floor(h/24)+'天前';
+  }
+
+  function renderNews(items) {
+    const list=document.getElementById('newsList');
+    if(!items||!items.length){list.innerHTML='<div class="news-loading">暂无快讯</div>';return;}
+    list.innerHTML='';
+    items.filter(n=>activeCategory==='全部'||n.category===activeCategory).forEach(n=>{
+      const el=document.createElement('div');
+      el.className='news-item'+(n.pinned?' news-pinned':'');
+      el.innerHTML=`
+        <div class="news-item-meta">
+          <span class="news-source-badge">${n.source}</span>
+          <span class="news-time">${relTime(n.time)}</span>
+          <span class="news-cat">${n.category}</span>
+        </div>
+        <div class="news-title">${n.title}</div>
+        <div class="news-summary">${n.summary}</div>`;
+      // 点击→订阅弹窗
+      el.onclick=()=>openNewsModal(n);
+      list.appendChild(el);
+    });
+  }
+
+  async function loadNews() {
+    try {
+      const r=await fetch('/data/news.json?_='+Math.floor(Date.now()/900000));
+      if(r.ok){allNews=await r.json(); renderNews(allNews);}
+    } catch(_){document.getElementById('newsList').innerHTML='<div class="news-loading">加载失败，请刷新</div>';}
+  }
+
+  function filterNews(btn) {
+    document.querySelectorAll('.nf-btn').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    activeCategory=btn.dataset.cat;
+    renderNews(allNews);
+  }
+
+  // ── NEWS MODAL ────────────────────────────
+  function openNewsModal(news) {
+    if (localStorage.getItem('ipo_subscribed')==='true') return; // 已订阅直接跳过
+    document.getElementById('modalNewsTitle').textContent=news.title;
+    document.getElementById('newsModal').classList.add('show');
+    track('news_modal','open');
+  }
+  function closeModal(e) {
+    if(e.target.id==='newsModal') document.getElementById('newsModal').classList.remove('show');
+  }
+
+  // ── ZONES ─────────────────────────────────
+  function selectZone(card) {
+    document.querySelectorAll('.zone-card').forEach(c=>c.classList.remove('active'));
+    card.classList.add('active');
+  }
+
+  // ── FLOAT SUBSCRIPTION ────────────────────
+  function closeFloatSub() {
+    document.getElementById('floatSub').classList.remove('show');
+    sessionStorage.setItem('float_dismissed','1');
+  }
+  setTimeout(()=>{
+    if(!sessionStorage.getItem('float_dismissed') && localStorage.getItem('ipo_subscribed')!=='true') {
+      document.getElementById('floatSub').classList.add('show');
+    }
+  },4000);
+
+  // ── SHARE ─────────────────────────────────
+  function copyLink() {
+    navigator.clipboard.writeText(location.href).then(()=>{
+      const btn=document.getElementById('shareBtn');
+      btn.classList.add('copied');
+      btn.innerHTML=`<svg class="share-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>已复制`;
+      setTimeout(()=>{btn.classList.remove('copied');btn.innerHTML=`<svg class="share-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>分享`;},2000);
+    });
+  }
+
+  // ── SCROLL TO GATE ────────────────────────
+  function scrollToGate() {
+    document.getElementById('gateOverlay')?.scrollIntoView({behavior:'smooth',block:'center'});
+  }
+
+  // ── INIT ──────────────────────────────────
+  loadArticles();
+  loadNews();
+  track('page','view');
+
+  // Enter key on inputs
+  ['gateEmail','floatEmail','modalEmail'].forEach(id=>{
+    document.getElementById(id)?.addEventListener('keydown',e=>{
+      if(e.key==='Enter'){
+        if(id==='gateEmail') submitEmail('gate');
+        if(id==='floatEmail') submitEmail('float');
+        if(id==='modalEmail') submitEmail('modal');
       }
-    }
-
-    function filterNews(btn) {
-      document.querySelectorAll('.nf-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      activeCategory = btn.dataset.cat;
-      renderNews(allNews);
-    }
-
-    // ── TABS ──────────────────────────────────
-    function selectTab(btn) {
-      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-      btn.classList.add('active');
-    }
-
-    // ── SUBSCRIBER COUNT ──────────────────────
-    async function loadSubCount() {
-      // We don't expose a public count API, use localStorage or skip
-      const stored = localStorage.getItem('_sub_count');
-      if (stored) {
-        const v = parseInt(stored);
-        document.getElementById('statSubs').textContent = v.toLocaleString();
-        document.getElementById('subCount').textContent = v.toLocaleString();
-      }
-    }
-
-    // ── INIT ──────────────────────────────────
-    loadArticles();
-    loadNews();
-    loadSubCount();
-    track('page', 'view');
-  </script>
-
+    });
+  });
+</script>
 </body>
 </html>
