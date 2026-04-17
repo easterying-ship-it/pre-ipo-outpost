@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "4bc5cc4f44e7",
+    "time": "2026-04-17T18:26:05Z",
+    "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin",
+    "summary": "A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364767/crypto-trader-turns-2500-into-500k-skyrocketing-ethereum-meme-coin",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "86726c2944d2",
+    "time": "2026-04-17T18:00:42Z",
+    "title": "Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say",
+    "summary": "Security researchers used GPT-5.4 and Claude Opus 4.6 in an open-source harness to reproduce Anthropic's Mythos vulnerability findings for under $30 per scan.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364744/anthropic-mythos-replicated-public-models-vidoc-security",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e5a46eb6c2e4",
+    "time": "2026-04-17T15:52:26Z",
+    "title": "Dogecoin Gold? A DOGE-Themed Company Is Joining the Tokenized Gold Rush",
+    "summary": "The company Dogecoin Cash plans to develop tokens representing physical gold, following the lead of firms like Tether and Paxos.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364739/dogecoin-gold-company-joining-tokenized-rush",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "0fc667d1a3d8",
     "time": "2026-04-17T15:00:00Z",
     "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
@@ -26,6 +56,16 @@
     "summary": "Neo’s proposed overhaul would restructure its foundation, return tokens to the community and impose formal oversight, as co-founders clash over governance and control.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/neo-founder-proposes-461m-overhaul-to-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6134f8ba37ef",
+    "time": "2026-04-17T13:00:00Z",
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
     "category": "市场数据",
     "pinned": false
   },
@@ -77,46 +117,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3106ad314f85",
-    "time": "2026-04-16T19:20:46Z",
-    "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
-    "summary": "Five years later the founders, now 24 years old, say their startup has achieved $300 million in annualized revenue.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c97e7ce5cb76",
-    "time": "2026-04-16T19:18:41Z",
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a1fa2e4eec82",
-    "time": "2026-04-16T18:28:42Z",
-    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-    "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c5a7db29edc9",
-    "time": "2026-04-16T17:42:43Z",
-    "title": "Claude Opus 4.7 Is Here: Anthropic’s Latest Model Delivers, But It’s a Token Eating Machine",
-    "summary": "Anthropic's new flagship model beat every benchmark we threw at it, eats tokens like a hungry teenager, and showed its reasoning out loud.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364621/claude-opus-47-review-benchmarks-coding-test",
-    "category": "市场数据",
     "pinned": false
   },
   {
