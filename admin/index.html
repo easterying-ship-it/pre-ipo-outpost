@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpenBIT Admin</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --bg:#070b12; --card:#0c1220; --border:#1e2d3d; --border-hi:#2d4a6a;
+      --blue:#0ea5e9; --blue-dim:rgba(14,165,233,0.08);
+      --amber:#f59e0b; --green:#10b981; --red:#ef4444;
+      --text:#e2e8f0; --muted:#64748b; --dim:#94a3b8;
+      --ui:'Inter',system-ui,sans-serif; --mono:'JetBrains Mono','Fira Code',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--ui);background:var(--bg);color:var(--text);min-height:100vh;-webkit-font-smoothing:antialiased}
+
+    /* LOGIN */
+    .login-wrap{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:1rem}
+    .login-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:2.5rem;width:100%;max-width:360px}
+    .login-logo{font-size:1.25rem;font-weight:800;margin-bottom:0.25rem}
+    .login-logo span{color:var(--blue)}
+    .login-sub{font-size:0.8rem;color:var(--muted);margin-bottom:2rem;font-family:var(--mono)}
+    .field{margin-bottom:1rem}
+    .field label{display:block;font-size:0.8rem;font-weight:600;color:var(--dim);margin-bottom:6px;font-family:var(--mono);letter-spacing:0.5px}
+    .field input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:7px;padding:0.6rem 0.875rem;font-size:0.9rem;color:var(--text);outline:none;font-family:var(--ui);transition:border-color 0.2s}
+    .field input:focus{border-color:var(--blue)}
+    .btn-primary{width:100%;background:var(--blue);color:#fff;border:none;border-radius:7px;padding:0.7rem;font-size:0.9rem;font-weight:700;cursor:pointer;font-family:var(--ui);transition:background 0.2s}
+    .btn-primary:hover{background:#0284c7}
+    .btn-primary:disabled{background:var(--muted);cursor:not-allowed}
+    .login-err{color:var(--red);font-size:0.8rem;margin-top:0.75rem;text-align:center}
+
+    /* DASHBOARD */
+    .dashboard{display:none;min-height:100vh}
+    .dash-header{display:flex;align-items:center;justify-content:space-between;padding:0 2rem;height:56px;background:rgba(7,11,18,0.95);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50;backdrop-filter:blur(12px)}
+    .dash-logo{font-weight:700;font-size:14px}.dash-logo span{color:var(--blue)}
+    .dash-logout{font-family:var(--mono);font-size:11px;color:var(--muted);cursor:pointer;border:1px solid var(--border);padding:4px 10px;border-radius:4px;background:transparent;transition:all 0.15s}
+    .dash-logout:hover{border-color:var(--red);color:var(--red)}
+
+    .dash-tabs{display:flex;gap:4px;padding:1.5rem 2rem 0;border-bottom:1px solid var(--border);overflow-x:auto}
+    .dash-tab{font-size:0.875rem;font-weight:600;color:var(--muted);padding:0.5rem 1.25rem;border-radius:6px 6px 0 0;cursor:pointer;border:1px solid transparent;border-bottom:none;white-space:nowrap;background:transparent}
+    .dash-tab.active{color:var(--blue);background:var(--card);border-color:var(--border);border-bottom-color:var(--card)}
+
+    .dash-panel{display:none;padding:2rem;max-width:1100px;margin:0 auto}
+    .dash-panel.active{display:block}
+
+    /* STATS ROW */
+    .stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem;margin-bottom:2rem}
+    .stat-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1.25rem}
+    .stat-label{font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:1px;margin-bottom:6px}
+    .stat-val{font-family:var(--mono);font-size:2rem;font-weight:700;color:var(--text)}
+    .stat-sub{font-size:0.75rem;color:var(--muted);margin-top:4px}
+
+    /* TABLE */
+    .table-wrap{overflow-x:auto;border:1px solid var(--border);border-radius:10px}
+    table{width:100%;border-collapse:collapse}
+    th{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:1px;color:var(--muted);padding:0.75rem 1rem;text-align:left;background:var(--card);border-bottom:1px solid var(--border);white-space:nowrap}
+    td{padding:0.75rem 1rem;font-size:0.85rem;border-bottom:1px solid var(--border);vertical-align:top}
+    tr:last-child td{border-bottom:none}
+    tr:hover td{background:var(--bg-hover)}
+
+    /* ARTICLE EDIT TABLE */
+    .article-row td{padding:0.6rem 0.75rem}
+    .cell-id{font-family:var(--mono);font-weight:700;color:var(--blue);width:48px}
+    .cell-title{font-weight:600;font-size:0.82rem;line-height:1.4;min-width:200px}
+    input.edit-url{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:5px;padding:5px 8px;font-size:0.8rem;color:var(--text);font-family:var(--mono);outline:none;min-width:220px}
+    input.edit-url:focus{border-color:var(--blue)}
+    select.edit-free{background:var(--bg);border:1px solid var(--border);border-radius:5px;padding:5px 8px;font-size:0.8rem;color:var(--text);font-family:var(--mono);outline:none;cursor:pointer}
+    .save-btn{background:var(--blue-dim);color:var(--blue);border:1px solid rgba(14,165,233,0.3);border-radius:5px;padding:4px 10px;font-family:var(--mono);font-size:10px;font-weight:600;cursor:pointer;transition:all 0.15s;white-space:nowrap}
+    .save-btn:hover{background:var(--blue);color:#fff}
+    .save-btn.saved{background:rgba(16,185,129,0.1);color:var(--green);border-color:rgba(16,185,129,0.3)}
+
+    /* CHARTS */
+    .charts-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:2rem}
+    @media(max-width:700px){.charts-grid{grid-template-columns:1fr}}
+    .chart-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:1.25rem}
+    .chart-title{font-size:0.8rem;font-weight:700;color:var(--dim);margin-bottom:1rem;font-family:var(--mono);letter-spacing:0.5px}
+    .chart-canvas-wrap{position:relative;height:200px}
+
+    /* SUBSCRIBERS */
+    .subs-toolbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;flex-wrap:wrap;gap:0.5rem}
+    .export-btn{background:transparent;color:var(--blue);border:1px solid rgba(14,165,233,0.3);border-radius:6px;padding:6px 14px;font-family:var(--mono);font-size:11px;font-weight:600;cursor:pointer;transition:all 0.15s}
+    .export-btn:hover{background:var(--blue-dim)}
+    .badge-src{font-family:var(--mono);font-size:10px;padding:2px 6px;border-radius:3px;background:var(--blue-dim);color:var(--blue)}
+
+    /* NEWS PREVIEW */
+    .news-preview-item{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:1rem;margin-bottom:0.75rem}
+    .news-pre-meta{display:flex;gap:8px;align-items:center;margin-bottom:6px;flex-wrap:wrap}
+    .news-pre-src{font-family:var(--mono);font-size:10px;font-weight:600;padding:2px 6px;border-radius:3px;background:var(--blue-dim);color:var(--blue)}
+    .news-pre-cat{font-family:var(--mono);font-size:10px;padding:2px 6px;border-radius:3px;background:rgba(100,116,139,0.1);color:var(--muted)}
+    .news-pre-pin{font-family:var(--mono);font-size:10px;padding:2px 6px;border-radius:3px;background:rgba(245,158,11,0.1);color:var(--amber)}
+    .news-pre-time{font-family:var(--mono);font-size:10px;color:var(--muted);margin-left:auto}
+    .news-pre-title{font-weight:600;font-size:0.875rem;margin-bottom:4px}
+    .news-pre-summary{font-size:0.8rem;color:var(--muted)}
+    .section-title{font-size:1rem;font-weight:700;margin-bottom:1rem}
+
+    /* LOADING */
+    .loading{text-align:center;padding:3rem;font-family:var(--mono);font-size:12px;color:var(--muted)}
+  </style>
+</head>
+<body>
+
+<!-- LOGIN -->
+<div class="login-wrap" id="loginWrap">
+  <div class="login-card">
+    <div class="login-logo">Open<span>BIT</span></div>
+    <div class="login-sub">ADMIN · RESEARCH PORTAL</div>
+    <div class="field">
+      <label>PASSWORD</label>
+      <input type="password" id="pwInput" placeholder="••••••••••" onkeydown="if(event.key==='Enter')doLogin()">
+    </div>
+    <button class="btn-primary" id="loginBtn" onclick="doLogin()">进入后台</button>
+    <div class="login-err" id="loginErr"></div>
+  </div>
+</div>
+
+<!-- DASHBOARD -->
+<div class="dashboard" id="dashboard">
+  <div class="dash-header">
+    <div class="dash-logo">Open<span>BIT</span> Admin</div>
+    <button class="dash-logout" onclick="doLogout()">退出登录</button>
+  </div>
+
+  <div class="dash-tabs">
+    <div class="dash-tab active" onclick="switchTab('articles', this)">文章管理</div>
+    <div class="dash-tab" onclick="switchTab('subscribers', this)">订阅列表</div>
+    <div class="dash-tab" onclick="switchTab('analytics', this)">点击分析</div>
+    <div class="dash-tab" onclick="switchTab('news', this)">快讯预览</div>
+  </div>
+
+  <!-- 文章管理 -->
+  <div class="dash-panel active" id="panel-articles">
+    <div class="stats-row" id="articleStats">
+      <div class="stat-card"><div class="stat-label">TOTAL ARTICLES</div><div class="stat-val">10</div><div class="stat-sub">3 免费 · 7 需订阅</div></div>
+      <div class="stat-card"><div class="stat-label">TOTAL CLICKS</div><div class="stat-val" id="statClicks">—</div><div class="stat-sub">文章点击总量</div></div>
+      <div class="stat-card"><div class="stat-label">SUBSCRIBERS</div><div class="stat-val" id="statSubs">—</div><div class="stat-sub">邮箱订阅总数</div></div>
+    </div>
+    <div class="section-title">SpaceX 布局指南 — URL 配置</div>
+    <div class="table-wrap">
+      <table id="articlesTable">
+        <thead>
+          <tr>
+            <th>#</th><th>文章标题</th><th>跳转链接</th><th>状态</th><th>操作</th>
+          </tr>
+        </thead>
+        <tbody id="articlesTbody">
+          <tr><td colspan="5" class="loading">加载中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 订阅列表 -->
+  <div class="dash-panel" id="panel-subscribers">
+    <div class="subs-toolbar">
+      <div class="section-title" style="margin-bottom:0">订阅者列表</div>
+      <button class="export-btn" onclick="exportCSV()">导出 CSV</button>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>邮箱</th><th>来源渠道</th><th>Campaign</th><th>Referrer</th><th>订阅时间</th></tr>
+        </thead>
+        <tbody id="subsTbody">
+          <tr><td colspan="5" class="loading">加载中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- 点击分析 -->
+  <div class="dash-panel" id="panel-analytics">
+    <div class="stats-row">
+      <div class="stat-card"><div class="stat-label">TOTAL CLICKS</div><div class="stat-val" id="anaClicks">—</div></div>
+      <div class="stat-card"><div class="stat-label">SUBSCRIBERS</div><div class="stat-val" id="anaSubs">—</div></div>
+      <div class="stat-card"><div class="stat-label">TOP SOURCE</div><div class="stat-val" id="anaTopSrc" style="font-size:1.2rem">—</div></div>
+    </div>
+    <div class="charts-grid">
+      <div class="chart-card">
+        <div class="chart-title">文章点击分布</div>
+        <div class="chart-canvas-wrap"><canvas id="chartClicks"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-title">流量来源</div>
+        <div class="chart-canvas-wrap"><canvas id="chartSources"></canvas></div>
+      </div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">每日新增订阅</div>
+      <div class="chart-canvas-wrap" style="height:160px"><canvas id="chartDaily"></canvas></div>
+    </div>
+  </div>
+
+  <!-- 快讯预览 -->
+  <div class="dash-panel" id="panel-news">
+    <div class="section-title">当前快讯 (data/news.json)</div>
+    <div id="newsPreviewList"><div class="loading">加载中...</div></div>
+  </div>
+
+</div>
+
+<script>
+  let TOKEN = sessionStorage.getItem('admin_token');
+  const API = (path, opts = {}) =>
+    fetch(path, { ...opts, headers: { 'Content-Type': 'application/json', 'X-Admin-Token': TOKEN, ...(opts.headers || {}) } });
+
+  // ── AUTH ──────────────────────────────────
+  if (TOKEN) showDashboard();
+
+  async function doLogin() {
+    const pw = document.getElementById('pwInput').value;
+    const btn = document.getElementById('loginBtn');
+    const err = document.getElementById('loginErr');
+    if (!pw) { err.textContent = '请输入密码'; return; }
+
+    btn.disabled = true; btn.textContent = '验证中...';
+    try {
+      const res = await fetch('/api/admin/auth', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password: pw }),
+      });
+      const data = await res.json();
+      if (res.ok && data.token) {
+        TOKEN = data.token;
+        sessionStorage.setItem('admin_token', TOKEN);
+        showDashboard();
+      } else {
+        err.textContent = '密码错误';
+        btn.disabled = false; btn.textContent = '进入后台';
+      }
+    } catch (_) {
+      err.textContent = '连接失败，请检查网络';
+      btn.disabled = false; btn.textContent = '进入后台';
+    }
+  }
+
+  function doLogout() {
+    sessionStorage.removeItem('admin_token');
+    location.reload();
+  }
+
+  function showDashboard() {
+    document.getElementById('loginWrap').style.display = 'none';
+    document.getElementById('dashboard').style.display = 'block';
+    loadArticles();
+    loadStats();
+  }
+
+  // ── TABS ──────────────────────────────────
+  const loaded = {};
+  function switchTab(name, btn) {
+    document.querySelectorAll('.dash-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.dash-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-' + name).classList.add('active');
+    if (!loaded[name]) {
+      loaded[name] = true;
+      if (name === 'subscribers') loadSubscribers();
+      if (name === 'analytics')   loadAnalytics();
+      if (name === 'news')        loadNewsPreview();
+    }
+  }
+
+  // ── ARTICLES ──────────────────────────────
+  async function loadArticles() {
+    const res = await API('/api/admin/articles');
+    if (!res.ok) { showLoginError(); return; }
+    const articles = await res.json();
+    const tbody = document.getElementById('articlesTbody');
+    tbody.innerHTML = '';
+    articles.forEach(a => {
+      const tr = document.createElement('tr');
+      tr.className = 'article-row';
+      tr.innerHTML = `
+        <td class="cell-id">${a.id}</td>
+        <td class="cell-title">${a.title}</td>
+        <td><input class="edit-url" type="url" placeholder="https://..." value="${a.url || ''}" data-id="${a.id}" id="url_${a.id}"></td>
+        <td>
+          <select class="edit-free" id="free_${a.id}">
+            <option value="1" ${a.is_free ? 'selected' : ''}>FREE</option>
+            <option value="0" ${!a.is_free ? 'selected' : ''}>LOCKED</option>
+          </select>
+        </td>
+        <td><button class="save-btn" id="savebtn_${a.id}" onclick="saveArticle('${a.id}','${a.title.replace(/'/g,"\\'")}','${a.description ? a.description.replace(/'/g,"\\'") : ''}','${a.category_tag}')">保存</button></td>`;
+      tbody.appendChild(tr);
+    });
+  }
+
+  async function saveArticle(id, title, description, category_tag) {
+    const url     = document.getElementById('url_' + id).value;
+    const is_free = document.getElementById('free_' + id).value === '1';
+    const btn     = document.getElementById('savebtn_' + id);
+    btn.textContent = '...';
+    const res = await API('/api/admin/articles', {
+      method: 'PUT',
+      body: JSON.stringify({ id, title, description, url, category_tag, is_free }),
+    });
+    if (res.ok) {
+      btn.textContent = '已保存';
+      btn.classList.add('saved');
+      setTimeout(() => { btn.textContent = '保存'; btn.classList.remove('saved'); }, 2000);
+    } else {
+      btn.textContent = '失败';
+      setTimeout(() => { btn.textContent = '保存'; }, 2000);
+    }
+  }
+
+  // ── STATS (for articles tab) ───────────────
+  async function loadStats() {
+    const res = await API('/api/admin/stats');
+    if (!res.ok) return;
+    const d = await res.json();
+    document.getElementById('statClicks').textContent = d.total_clicks?.toLocaleString() || '0';
+    document.getElementById('statSubs').textContent   = d.total_subscribers?.toLocaleString() || '0';
+  }
+
+  // ── SUBSCRIBERS ───────────────────────────
+  let subsData = [];
+  async function loadSubscribers() {
+    const res = await API('/api/admin/subscribers');
+    if (!res.ok) return;
+    subsData = await res.json();
+    const tbody = document.getElementById('subsTbody');
+    tbody.innerHTML = '';
+    if (!subsData.length) {
+      tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:2rem;font-family:var(--mono);font-size:12px">暂无订阅者</td></tr>';
+      return;
+    }
+    subsData.forEach(s => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td style="font-family:var(--mono);font-size:0.8rem">${s.email}</td>
+        <td><span class="badge-src">${s.utm_source || 'direct'}</span></td>
+        <td style="color:var(--muted);font-size:0.8rem">${s.utm_campaign || '—'}</td>
+        <td style="color:var(--muted);font-size:0.78rem;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${s.referrer || '—'}</td>
+        <td style="font-family:var(--mono);font-size:0.78rem;color:var(--muted)">${new Date(s.created_at).toLocaleString('zh-CN')}</td>`;
+      tbody.appendChild(tr);
+    });
+  }
+
+  function exportCSV() {
+    if (!subsData.length) return;
+    const header = ['email','utm_source','utm_medium','utm_campaign','referrer','created_at'];
+    const rows = subsData.map(s => header.map(k => JSON.stringify(s[k] || '')).join(','));
+    const csv = [header.join(','), ...rows].join('\n');
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+    a.download = `subscribers_${new Date().toISOString().split('T')[0]}.csv`; a.click();
+  }
+
+  // ── ANALYTICS ─────────────────────────────
+  let charts = {};
+  async function loadAnalytics() {
+    const res = await API('/api/admin/stats');
+    if (!res.ok) return;
+    const d = await res.json();
+
+    document.getElementById('anaClicks').textContent = d.total_clicks?.toLocaleString() || '0';
+    document.getElementById('anaSubs').textContent   = d.total_subscribers?.toLocaleString() || '0';
+    const topSrc = Object.entries(d.clicks_by_source || {}).sort((a, b) => b[1] - a[1])[0];
+    document.getElementById('anaTopSrc').textContent = topSrc ? topSrc[0] : '—';
+
+    const chartDefaults = {
+      plugins: { legend: { labels: { color: '#94a3b8', font: { family: "'JetBrains Mono'" } } } },
+      scales:  { x: { ticks: { color: '#64748b' }, grid: { color: '#1e2d3d' } },
+                 y: { ticks: { color: '#64748b' }, grid: { color: '#1e2d3d' } } },
+    };
+
+    // Article clicks chart
+    const articleLabels = Object.keys(d.clicks_by_article || {}).sort();
+    const articleData   = articleLabels.map(k => d.clicks_by_article[k]);
+    if (charts.clicks) charts.clicks.destroy();
+    charts.clicks = new Chart(document.getElementById('chartClicks'), {
+      type: 'bar',
+      data: {
+        labels: articleLabels,
+        datasets: [{ label: '点击数', data: articleData, backgroundColor: 'rgba(14,165,233,0.5)', borderColor: '#0ea5e9', borderWidth: 1 }],
+      },
+      options: { responsive: true, maintainAspectRatio: false, ...chartDefaults },
+    });
+
+    // Sources pie chart
+    const srcLabels = Object.keys(d.clicks_by_source || {});
+    const srcData   = srcLabels.map(k => d.clicks_by_source[k]);
+    if (charts.sources) charts.sources.destroy();
+    charts.sources = new Chart(document.getElementById('chartSources'), {
+      type: 'doughnut',
+      data: {
+        labels: srcLabels,
+        datasets: [{ data: srcData, backgroundColor: ['#0ea5e9','#f59e0b','#10b981','#6366f1','#ef4444','#8b5cf6'] }],
+      },
+      options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { labels: { color: '#94a3b8', font: { family: "'JetBrains Mono'" } } } } },
+    });
+
+    // Daily subs chart (last 14 days)
+    const today = new Date();
+    const days = Array.from({ length: 14 }, (_, i) => {
+      const d2 = new Date(today); d2.setDate(d2.getDate() - 13 + i);
+      return d2.toISOString().split('T')[0];
+    });
+    const dailyData = days.map(day => d.subs_by_day?.[day] || 0);
+    if (charts.daily) charts.daily.destroy();
+    charts.daily = new Chart(document.getElementById('chartDaily'), {
+      type: 'line',
+      data: {
+        labels: days.map(d2 => d2.slice(5)),
+        datasets: [{ label: '新增订阅', data: dailyData, borderColor: '#10b981', backgroundColor: 'rgba(16,185,129,0.1)', fill: true, tension: 0.4 }],
+      },
+      options: { responsive: true, maintainAspectRatio: false, ...chartDefaults },
+    });
+  }
+
+  // ── NEWS PREVIEW ──────────────────────────
+  async function loadNewsPreview() {
+    const list = document.getElementById('newsPreviewList');
+    try {
+      const res = await fetch('/data/news.json?_=' + Date.now());
+      const news = await res.json();
+      list.innerHTML = '';
+      news.forEach(n => {
+        const el = document.createElement('div');
+        el.className = 'news-preview-item';
+        el.innerHTML = `
+          <div class="news-pre-meta">
+            <span class="news-pre-src">${n.source}</span>
+            <span class="news-pre-cat">${n.category}</span>
+            ${n.pinned ? '<span class="news-pre-pin">PINNED</span>' : ''}
+            <span class="news-pre-time">${new Date(n.time).toLocaleString('zh-CN')}</span>
+          </div>
+          <div class="news-pre-title">${n.title}</div>
+          <div class="news-pre-summary">${n.summary}</div>
+          ${n.source_url ? `<a href="${n.source_url}" target="_blank" style="font-family:var(--mono);font-size:10px;color:var(--blue);text-decoration:none;margin-top:6px;display:inline-block">${n.source_url.slice(0, 60)}...</a>` : ''}`;
+        list.appendChild(el);
+      });
+    } catch (_) {
+      list.innerHTML = '<div class="loading">无法加载快讯数据</div>';
+    }
+  }
+
+  function showLoginError() {
+    doLogout();
+  }
+
+  document.getElementById('pwInput')?.addEventListener('keydown', e => {
+    if (e.key === 'Enter') doLogin();
+  });
+</script>
+
+</body>
+</html>

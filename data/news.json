@@ -1,0 +1,52 @@
+[
+  {
+    "id": "seed_001",
+    "time": "2026-04-17T02:30:00Z",
+    "title": "SpaceX confirms SEC confidential IPO filing, targeting mid-2026 listing",
+    "summary": "SpaceX has submitted a confidential IPO filing to the SEC on April 1. Sources familiar with the matter indicate the company is targeting a valuation north of $350 billion.",
+    "source": "Reuters",
+    "source_url": "https://reuters.com/technology",
+    "category": "IPO动态",
+    "pinned": true
+  },
+  {
+    "id": "seed_002",
+    "time": "2026-04-16T08:20:00Z",
+    "title": "Bitget and Binance launch SpaceX pre-IPO token products on April 10",
+    "summary": "Crypto exchanges Bitget and Binance simultaneously launched SpaceX pre-IPO derivative tokens, with combined 24h trading volume exceeding $180M.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "seed_003",
+    "time": "2026-04-15T14:10:00Z",
+    "title": "DXYZ premium narrows to 24% as IPO timeline crystallizes",
+    "summary": "Destiny Tech100 Fund's premium over NAV compressed from 40% to 24% in April as the SpaceX IPO filing became public knowledge, signaling market repricing.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "seed_004",
+    "time": "2026-04-14T06:45:00Z",
+    "title": "Goldman Sachs raises SpaceX valuation estimate to $380B ahead of S-1",
+    "summary": "Goldman Sachs equity research revised its SpaceX valuation model upward citing Starlink ARPU growth and accelerating commercial launch revenues.",
+    "source": "CNBC",
+    "source_url": "https://cnbc.com/technology",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "seed_005",
+    "time": "2026-04-12T11:00:00Z",
+    "title": "Starship Flight 9 declared full success, launch cadence target set at 24/year",
+    "summary": "SpaceX's ninth Starship integrated flight test completed all primary mission objectives. Elon Musk confirmed a target of 24 launches per year by 2027.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com",
+    "category": "成份股",
+    "pinned": false
+  }
+]
