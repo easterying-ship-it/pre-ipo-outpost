@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "90e3a97d7aed",
+    "time": "2026-04-17T20:40:39Z",
+    "title": "You Can Now Use XRP on Solana—Here's How",
+    "summary": "More than $1.2 million worth of wrapped XRP tokens (wXRP) have been minted on Solana as the Ripple-linked asset gains greater DeFi utility.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "28c93c22038a",
+    "time": "2026-04-17T20:38:17Z",
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0b81a3f3fa23",
+    "time": "2026-04-17T19:17:26Z",
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2e3ee9d403ae",
+    "time": "2026-04-17T18:42:45Z",
+    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+    "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4bc5cc4f44e7",
     "time": "2026-04-17T18:26:05Z",
     "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin",
@@ -106,16 +146,6 @@
     "summary": "OpenAI's Codex desktop app now controls your Mac, runs its own browser, and generates images. The update pushes Codex further into territory occupied by Claude Code and OpenClaw.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a3329b80a8c7",
-    "time": "2026-04-16T20:41:13Z",
-    "title": "Upscale AI in talks to raise at $2B valuation, says report",
-    "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
     "category": "IPO动态",
     "pinned": false
   },
