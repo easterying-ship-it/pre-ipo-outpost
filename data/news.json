@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "76241e84de55",
+    "time": "2026-04-18T13:01:03Z",
+    "title": "OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It",
+    "summary": "GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b11108e50277",
     "time": "2026-04-18T07:32:40Z",
     "title": "SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token",
@@ -117,16 +127,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ebfb51f29523",
-    "time": "2026-04-16T20:43:06Z",
-    "title": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen",
-    "summary": "OpenAI's Codex desktop app now controls your Mac, runs its own browser, and generates images. The update pushes Codex further into territory occupied by Claude Code and OpenClaw.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
-    "category": "IPO动态",
     "pinned": false
   },
   {
