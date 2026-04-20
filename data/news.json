@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "10983a0af503",
+    "time": "2026-04-20T05:08:17Z",
+    "title": "Polymarket in talks to raise $400M at a $15B valuation: Report",
+    "summary": "Polymarket’s potential $15 billion valuation would still put it below the $22 billion valuation of competitor platform Kalshi in its latest funding round.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/polymarket-seeking-400-million-raise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "781775d44664",
+    "time": "2026-04-20T03:13:37Z",
+    "title": "Aave's TVL tanks $8B a day after $293M Kelp DAO hack",
+    "summary": "The Aave token fell nearly 20% to $89.5 in just over 24 hours as users withdrew billions of dollars from the lending protocol.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/aave-tvl-falls-8-billion-after-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "010dada46e4f",
     "time": "2026-04-19T21:24:06Z",
     "title": "OpenAI’s existential questions",
@@ -43,7 +63,7 @@
     "id": "a98391d38142",
     "time": "2026-04-19T03:12:32Z",
     "title": "Caitlyn Jenner escapes memecoin lawsuit as judge says token not a security",
-    "summary": "A federal judge has tossed a class lawsuit over Caitlyn Jenner’s memecoin, saying it did not plausibly allege that the token was an unregistered security.",
+    "summary": "A group of JENNER memecoin buyers sued Jenner and her late manager, Sophia Hutchins, in November 2024 claiming they lost thousands when the token plummeted in value.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/caitlyn-jenner-escapes-memecoin-lawsuit-judge-says-token-not-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
@@ -76,16 +96,6 @@
     "summary": "GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b11108e50277",
-    "time": "2026-04-18T07:32:40Z",
-    "title": "SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token",
-    "summary": "The SEC has sued crypto executive Donald Basile over an alleged $16 million scheme involving false claims about an “insured” Bitcoin Latinum token.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-donald-basile-16m-crypto-fraud-insured-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -167,16 +177,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-041326/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e20399f530f4",
-    "time": "2026-04-08T12:25:32Z",
-    "title": "SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return",
-    "summary": "SpaceX’s Pad 2 at Starbase is continuing to refine its preparations for the return of&#8230;\nThe post SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
