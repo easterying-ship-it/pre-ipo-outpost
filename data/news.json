@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "925ed30209c5",
+    "time": "2026-04-20T18:01:03Z",
+    "title": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation",
+    "summary": "RaveDAO's token cratered this weekend after blockchain sleuth ZachXBT called on exchanges to investigate trading tied to its surging token.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364911/ravedao-token-crashes-sheds-6-6-billion-exchanges-probe-alleged-manipulation",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a3646c935fdb",
+    "time": "2026-04-20T16:57:47Z",
+    "title": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report",
+    "summary": "The NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "053baa5d7555",
+    "time": "2026-04-20T16:09:54Z",
+    "title": "Polymarket in Talks to Raise $400M at $15B Valuation: Report",
+    "summary": "The round comes on the heels of NYSE parent company Intercontinental Exchange’s $2 billion investment in the prediction market firm.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/364899/polymarket-in-talks-to-raise-400m-at-15b-valuation-report",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a89f3f050737",
+    "time": "2026-04-20T16:06:21Z",
+    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+    "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "09db17eb7cfb",
     "time": "2026-04-20T13:37:43Z",
     "title": "ZachXBT asks MemeCore to explain valuation and token supply",
@@ -30,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "10983a0af503",
-    "time": "2026-04-20T05:08:17Z",
-    "title": "Polymarket in talks to raise $400M at a $15B valuation: Report",
-    "summary": "Polymarket’s potential $15 billion valuation would still put it below the $22 billion valuation of competitor platform Kalshi in its latest funding round.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/polymarket-seeking-400-million-raise-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "010dada46e4f",
     "time": "2026-04-19T21:24:06Z",
     "title": "OpenAI’s existential questions",
@@ -50,73 +80,13 @@
     "pinned": false
   },
   {
-    "id": "f712ed66fbc8",
+    "id": "ae0d5801a0fa",
     "time": "2026-04-19T11:45:38Z",
-    "title": "Blue Origin successfully re-uses a New Glenn rocket for the first time ever",
+    "title": "Blue Origin successfully reuses a New Glenn rocket for the first time ever",
     "summary": "It's a major milestone for the company's new mega-rocket system, putting it in position to challenge SpaceX's dominance of the global launch market.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7357d382cdac",
-    "time": "2026-04-18T19:19:11Z",
-    "title": "AI chip startup Cerebras files for IPO",
-    "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6679bf15a54a",
-    "time": "2026-04-18T14:56:48Z",
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-    "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "76241e84de55",
-    "time": "2026-04-18T13:01:03Z",
-    "title": "OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It",
-    "summary": "GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "90e3a97d7aed",
-    "time": "2026-04-17T20:40:39Z",
-    "title": "You Can Now Use XRP on Solana—Here's How",
-    "summary": "More than $1.2 million worth of wrapped XRP tokens (wXRP) have been minted on Solana as the Ripple-linked asset gains greater DeFi utility.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4bc5cc4f44e7",
-    "time": "2026-04-17T18:26:05Z",
-    "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin",
-    "summary": "A meme coin trader turned $2,500 into nearly $500,000 in a matter of hours via the Elon Musk-linked ASTEROID token on Ethereum.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364767/crypto-trader-turns-2500-into-500k-skyrocketing-ethereum-meme-coin",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "86726c2944d2",
-    "time": "2026-04-17T18:00:42Z",
-    "title": "Anthropic’s Alarming Mythos Findings Replicated With Off-the-Shelf AI, Researchers Say",
-    "summary": "Security researchers used GPT-5.4 and Claude Opus 4.6 in an open-source harness to reproduce Anthropic's Mythos vulnerability findings for under $30 per scan.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364744/anthropic-mythos-replicated-public-models-vidoc-security",
-    "category": "IPO动态",
     "pinned": false
   },
   {
