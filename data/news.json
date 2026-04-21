@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "b6c917786511",
+    "time": "2026-04-21T19:00:00Z",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "41c697579a91",
+    "time": "2026-04-21T18:51:52Z",
+    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "251a9ab7875d",
+    "time": "2026-04-21T16:21:45Z",
+    "title": "Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges",
+    "summary": "Amazon secures Anthropic as a major cloud customer through 2036 in one of the largest AI infrastructure alliances to date.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e161767f8f39",
     "time": "2026-04-21T14:29:11Z",
     "title": "Group of 39 firms urge EU to fast-track DLT rules, warn of lagging the US",
@@ -40,36 +70,6 @@
     "pinned": false
   },
   {
-    "id": "df801074aa71",
-    "time": "2026-04-21T08:52:17Z",
-    "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
-    "summary": "New Bank of Korea Governor Hyun-Song Shin supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "dbc33385518b",
-    "time": "2026-04-21T06:41:15Z",
-    "title": "Singapore’s OCBC launches tokenized gold fund on Ethereum and Solana",
-    "summary": "The value of tokenized real-world assets on public blockchains is estimated at more than $29 billion, up more than 10% in the last 30 days.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ocbc-tokenized-gold-fund-ethereum-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5d9885e2006a",
-    "time": "2026-04-20T23:10:27Z",
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9fef2540bfc3",
     "time": "2026-04-20T21:15:09Z",
     "title": "Launch Preview: GPS, Progress, and Starlink missions to launch during busy week",
@@ -77,36 +77,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042026/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "925ed30209c5",
-    "time": "2026-04-20T18:01:03Z",
-    "title": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation",
-    "summary": "RaveDAO's token cratered this weekend after blockchain sleuth ZachXBT called on exchanges to investigate trading tied to its surging token.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364911/ravedao-token-crashes-sheds-6-6-billion-exchanges-probe-alleged-manipulation",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a3646c935fdb",
-    "time": "2026-04-20T16:57:47Z",
-    "title": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report",
-    "summary": "The NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "053baa5d7555",
-    "time": "2026-04-20T16:09:54Z",
-    "title": "Polymarket in Talks to Raise $400M at $15B Valuation: Report",
-    "summary": "The round comes on the heels of NYSE parent company Intercontinental Exchange’s $2 billion investment in the prediction market firm.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/364899/polymarket-in-talks-to-raise-400m-at-15b-valuation-report",
-    "category": "IPO动态",
     "pinned": false
   },
   {
