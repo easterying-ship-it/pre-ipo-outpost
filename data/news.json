@@ -10,10 +10,40 @@
     "pinned": true
   },
   {
+    "id": "e161767f8f39",
+    "time": "2026-04-21T14:29:11Z",
+    "title": "Group of 39 firms urge EU to fast-track DLT rules, warn of lagging the US",
+    "summary": "A 39-member coalition including Nasdaq urged the EU to fast-track DLT pilot changes, warning Europe could lose ground to the US in tokenized finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/eu-finance-firms-dlt-rules-fast-track-us-tokenization-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3701fc2493fb",
+    "time": "2026-04-21T14:06:11Z",
+    "title": "UK plans payments rule changes for stablecoins, tokenized deposits",
+    "summary": "The UK government plans a stablecoin and tokenization rules overhaul, appointing former FCA official Chris Woolard to support work on its digital markets strategy.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/uk-plans-payments-rule-changes-for-stablecoins-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b4ec7a50a072",
+    "time": "2026-04-21T13:41:44Z",
+    "title": "Revolut eyes valuation of up to $200B in eventual IPO",
+    "summary": "Fintech giant Revolut, which secured a full banking license in the U.K. in March after years of waiting, was most recently valued at $75 billion in a secondary share sale.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "df801074aa71",
     "time": "2026-04-21T08:52:17Z",
     "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
-    "summary": "New Bank of Korea governor Shin Hyun-song supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.",
+    "summary": "New Bank of Korea Governor Hyun-Song Shin supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
@@ -50,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "2211a1f929d5",
-    "time": "2026-04-20T21:05:36Z",
-    "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
-    "summary": "The funding supports a dual-licensed platform as Malaysia expands its regulatory framework for digital assets and tokenization.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "925ed30209c5",
     "time": "2026-04-20T18:01:03Z",
     "title": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation",
@@ -86,26 +106,6 @@
     "summary": "The round comes on the heels of NYSE parent company Intercontinental Exchange’s $2 billion investment in the prediction market firm.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/364899/polymarket-in-talks-to-raise-400m-at-15b-valuation-report",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a89f3f050737",
-    "time": "2026-04-20T16:06:21Z",
-    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "010dada46e4f",
-    "time": "2026-04-19T21:24:06Z",
-    "title": "OpenAI’s existential questions",
-    "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "category": "IPO动态",
     "pinned": false
   },
