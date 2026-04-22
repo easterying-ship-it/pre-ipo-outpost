@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "c92837460493",
+    "time": "2026-04-22T14:22:10Z",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ec83b80c3100",
+    "time": "2026-04-22T13:43:08Z",
+    "title": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure",
+    "summary": "Robinhood’s publicly-traded fund aims to give retail investors exposure to AI startups like OpenAI, without accreditation requirements.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365120/robinhood-ventures-invests-75-million-openai-giving-retail-traders-exposure",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "56e484930d75",
+    "time": "2026-04-22T12:29:46Z",
+    "title": "SEC ‘on the cusp’ of onchain tokenized securities exemption: Atkins",
+    "summary": "SEC Chair Paul Atkins says the SEC is “on the cusp” of an innovation exemption to enable compliant onchain trading of tokenized securities.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-tokenized-securities-exemption-nears-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "01510ad3e3f7",
     "time": "2026-04-22T10:17:04Z",
     "title": "Justin Sun Sues Trump-Backed World Liberty Financial Over Frozen Tokens",
@@ -66,46 +96,6 @@
     "summary": "Global fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b6c917786511",
-    "time": "2026-04-21T19:00:00Z",
-    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-    "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "41c697579a91",
-    "time": "2026-04-21T18:51:52Z",
-    "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "251a9ab7875d",
-    "time": "2026-04-21T16:21:45Z",
-    "title": "Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges",
-    "summary": "Amazon secures Anthropic as a major cloud customer through 2036 in one of the largest AI infrastructure alliances to date.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b4ec7a50a072",
-    "time": "2026-04-21T13:41:44Z",
-    "title": "Revolut eyes valuation of up to $200B in eventual IPO",
-    "summary": "Fintech giant Revolut, which secured a full banking license in the U.K. in March after years of waiting, was most recently valued at $75 billion in a secondary share sale.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/21/revolut-eyes-valuation-of-up-to-200b-in-eventual-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
