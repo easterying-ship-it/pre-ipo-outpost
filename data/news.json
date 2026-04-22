@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "3b700deae3e6",
+    "time": "2026-04-22T04:29:24Z",
+    "title": "Justin Sun sues World Liberty Financial over token lockup",
+    "summary": "Sun said the lawsuit is to protect his rights as a WLFI token holder and doesn't change his support of US President Donald Trump and his administration’s efforts to make the US crypto-friendly.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/justin-sun-sues-world-liberty-financial-token-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5ccfa0319e61",
+    "time": "2026-04-22T02:06:41Z",
+    "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
+    "summary": "Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1b8915a962c2",
+    "time": "2026-04-21T23:26:45Z",
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "01022b2b1dde",
+    "time": "2026-04-21T22:58:22Z",
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fc89bf8c5f78",
     "time": "2026-04-21T20:23:06Z",
     "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
@@ -47,26 +87,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e161767f8f39",
-    "time": "2026-04-21T14:29:11Z",
-    "title": "Group of 39 firms urge EU to fast-track DLT rules, warn of lagging the US",
-    "summary": "A 39-member coalition including Nasdaq urged the EU to fast-track DLT pilot changes, warning Europe could lose ground to the US in tokenized finance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/eu-finance-firms-dlt-rules-fast-track-us-tokenization-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3701fc2493fb",
-    "time": "2026-04-21T14:06:11Z",
-    "title": "UK plans payments rule changes for stablecoins, tokenized deposits",
-    "summary": "The UK government plans a stablecoin and tokenization rules overhaul, appointing former FCA official Chris Woolard to support work on its digital markets strategy.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/uk-plans-payments-rule-changes-for-stablecoins-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
