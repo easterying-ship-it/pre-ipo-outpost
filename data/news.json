@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "f8948e5698c4",
+    "time": "2026-04-22T19:51:51Z",
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "summary": "Cursor was on track to close a $2 billion fundraise this week, but chose to halt the round after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1a20e76aa17f",
+    "time": "2026-04-22T17:56:20Z",
+    "title": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens",
+    "summary": "An investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1efb8ab4278d",
+    "time": "2026-04-22T16:56:25Z",
+    "title": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them",
+    "summary": "OpenAI has released a small, free model that strips names, addresses, passwords, and account numbers out of any text, right on your laptop, before you paste it into an AI chatbot.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365139/openai-privacy-filter-open-source-pii-masking-model",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4c74319f2fcc",
+    "time": "2026-04-22T16:38:27Z",
+    "title": "Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments",
+    "summary": "The private equity investment will be used to give retail customers indirect price exposure to OpenAI through venture tokens.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-venture-fund-invests-75m-in-openai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "668627894330",
+    "time": "2026-04-22T16:28:44Z",
+    "title": "SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off",
+    "summary": "SpaceX’s IPO filing says orbital AI computing remains unproven and commercially uncertain despite Musk’s public push for space as AI’s next frontier.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365132/spacex-warns-investors-elon-musk-space-ai-data-centers",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2c0f2e821005",
+    "time": "2026-04-22T16:28:21Z",
+    "title": "'Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration",
+    "summary": "The Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c92837460493",
     "time": "2026-04-22T14:22:10Z",
     "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
@@ -50,52 +110,12 @@
     "pinned": false
   },
   {
-    "id": "3b700deae3e6",
-    "time": "2026-04-22T04:29:24Z",
-    "title": "Justin Sun sues World Liberty Financial over token lockup",
-    "summary": "Sun said the suit is to protect his rights as a token holder, but he remains a supporter of President Donald Trump and his administration’s efforts to make the US crypto-friendly.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/justin-sun-sues-world-liberty-financial-token-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "5ccfa0319e61",
     "time": "2026-04-22T02:06:41Z",
     "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
     "summary": "Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1b8915a962c2",
-    "time": "2026-04-21T23:26:45Z",
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "01022b2b1dde",
-    "time": "2026-04-21T22:58:22Z",
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-    "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fc89bf8c5f78",
-    "time": "2026-04-21T20:23:06Z",
-    "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
-    "summary": "Global fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
     "category": "IPO动态",
     "pinned": false
   },
