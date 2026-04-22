@@ -10,10 +10,30 @@
     "pinned": true
   },
   {
+    "id": "c26415286456",
+    "time": "2026-04-22T21:38:38Z",
+    "title": "OpenAI Launches Workspace Agents Feature in ChatGPT",
+    "summary": "Codex-powered tools automate reports, code, Slack replies, and other workplace tasks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365220/openai-workspace-agents-feature-chatgpt",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "3d25376ba8b7",
+    "time": "2026-04-22T20:33:09Z",
+    "title": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500",
+    "summary": "AngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365157/angellist-usvc-investors-exposure-openai-anthropic-xai-starting-500",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f8948e5698c4",
     "time": "2026-04-22T19:51:51Z",
     "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-    "summary": "Cursor was on track to close a $2 billion fundraise this week, but chose to halt the round after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
     "category": "IPO动态",
@@ -96,26 +116,6 @@
     "summary": "SEC Chair Paul Atkins says the SEC is “on the cusp” of an innovation exemption to enable compliant onchain trading of tokenized securities.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/sec-tokenized-securities-exemption-nears-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "01510ad3e3f7",
-    "time": "2026-04-22T10:17:04Z",
-    "title": "Justin Sun Sues Trump-Backed World Liberty Financial Over Frozen Tokens",
-    "summary": "The Tron founder says World Liberty froze his tokens, stripped his voting rights, and threatened to burn his holdings. Now he's suing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365106/justin-sun-sues-trump-backed-world-liberty-financial-over-frozen-tokens",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5ccfa0319e61",
-    "time": "2026-04-22T02:06:41Z",
-    "title": "Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful",
-    "summary": "Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
     "category": "IPO动态",
     "pinned": false
   },
