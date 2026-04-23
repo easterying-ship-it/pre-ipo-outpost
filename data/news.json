@@ -10,12 +10,32 @@
     "pinned": true
   },
   {
-    "id": "87330e4af338",
-    "time": "2026-04-22T22:39:58Z",
-    "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
-    "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+    "id": "62ddd2e391a7",
+    "time": "2026-04-23T15:44:59Z",
+    "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
+    "summary": "Benjamin Pasternak faces criminal charges following an investor class action lawsuit and accusations of breaching an OTC token deal.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "80446a6f2a13",
+    "time": "2026-04-23T14:33:13Z",
+    "title": "FTX estate misses out on $3B Cursor stake value after $200K sale in 2023",
+    "summary": "The FTX estate sold its Cursor stake for $200K in 2023, now worth $3B after a SpaceX-linked valuation surge, raising questions about bankruptcy asset sales.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ftx-estate-misses-3b-cursor-stake-value-200k-sale-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4418c3f8da22",
+    "time": "2026-04-23T11:54:15Z",
+    "title": "Anthropic Using ‘Fear-Based Marketing’ to Promote Claude Mythos: Sam Altman",
+    "summary": "The OpenAI chief said warnings about rival Anthropic’s AI model may be exaggerated, as its cybersecurity capabilities draw scrutiny.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365240/anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman",
     "category": "IPO动态",
     "pinned": false
   },
@@ -36,66 +56,6 @@
     "summary": "AngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365157/angellist-usvc-investors-exposure-openai-anthropic-xai-starting-500",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f8948e5698c4",
-    "time": "2026-04-22T19:51:51Z",
-    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1a20e76aa17f",
-    "time": "2026-04-22T17:56:20Z",
-    "title": "Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens",
-    "summary": "An investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1efb8ab4278d",
-    "time": "2026-04-22T16:56:25Z",
-    "title": "OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them",
-    "summary": "OpenAI has released a small, free model that strips names, addresses, passwords, and account numbers out of any text, right on your laptop, before you paste it into an AI chatbot.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365139/openai-privacy-filter-open-source-pii-masking-model",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "668627894330",
-    "time": "2026-04-22T16:28:44Z",
-    "title": "SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off",
-    "summary": "SpaceX’s IPO filing says orbital AI computing remains unproven and commercially uncertain despite Musk’s public push for space as AI’s next frontier.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365132/spacex-warns-investors-elon-musk-space-ai-data-centers",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2c0f2e821005",
-    "time": "2026-04-22T16:28:21Z",
-    "title": "'Axie Infinity' Gaming Network Ronin Sets Date for Ethereum Layer-2 Migration",
-    "summary": "The Ronin gaming network will slash RON token inflation from over 20% to less than 1% while introducing automated developer rewards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365131/axie-infinity-gaming-network-ronin-ethereum-layer-2-migration",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ec83b80c3100",
-    "time": "2026-04-22T13:43:08Z",
-    "title": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure",
-    "summary": "Robinhood’s publicly-traded fund aims to give retail investors exposure to AI startups like OpenAI, without accreditation requirements.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365120/robinhood-ventures-invests-75-million-openai-giving-retail-traders-exposure",
     "category": "IPO动态",
     "pinned": false
   },
