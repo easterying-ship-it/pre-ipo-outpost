@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "484292ee0d5c",
+    "time": "2026-04-23T21:38:28Z",
+    "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
+    "summary": "On Forge Global, Anthropic shares are hovering around $1 trillion while OpenAI trades at $880 billion — a reversal nobody saw coming three months ago.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b7748e1910c1",
+    "time": "2026-04-23T19:26:55Z",
+    "title": "Tether freezes $344M USDt stablecoins at US law enforcement request",
+    "summary": "The stablecoin issuer cited \"activity tied to unlawful conduct” but no further explanation for the freezing of the dollar-pegged tokens held in two wallet addresses.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c147623c2956",
+    "time": "2026-04-23T19:25:16Z",
+    "title": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier",
+    "summary": "OpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f579a1f35f18",
+    "time": "2026-04-23T18:30:11Z",
+    "title": "OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks",
+    "summary": "ChatGPT for Clinicians is designed to save doctors time, and OpenAI says it scored higher than human physicians—on the AI giant's own test.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365328/openai-says-chatgpt-doctors-outperforms-humans-clinical-tasks",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7418cd7a195f",
+    "time": "2026-04-23T18:29:29Z",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e4a3cb25eda4",
+    "time": "2026-04-23T17:39:48Z",
+    "title": "Starship Progress at the Cape with Hoping to Launch this year",
+    "summary": "As the first flight of Block 3 approaches, SpaceX continues to make progress on the&#8230;\nThe post Starship Progress at the Cape with Hoping to Launch this year appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "62ddd2e391a7",
     "time": "2026-04-23T15:44:59Z",
     "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
@@ -36,26 +96,6 @@
     "summary": "The OpenAI chief said warnings about rival Anthropic’s AI model may be exaggerated, as its cybersecurity capabilities draw scrutiny.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365240/anthropic-using-fear-based-marketing-to-promote-claude-mythos-sam-altman",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c26415286456",
-    "time": "2026-04-22T21:38:38Z",
-    "title": "OpenAI Launches Workspace Agents Feature in ChatGPT",
-    "summary": "Codex-powered tools automate reports, code, Slack replies, and other workplace tasks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365220/openai-workspace-agents-feature-chatgpt",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "3d25376ba8b7",
-    "time": "2026-04-22T20:33:09Z",
-    "title": "AngelList's USVC Gives Investors Exposure to OpenAI, Anthropic and xAI—Starting at $500",
-    "summary": "AngelList's new USVC fund allows non-accredited retail investors to gain exposure to major private firms like Anthropic and OpenAI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365157/angellist-usvc-investors-exposure-openai-anthropic-xai-starting-500",
     "category": "IPO动态",
     "pinned": false
   },
