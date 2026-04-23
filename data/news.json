@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "87330e4af338",
+    "time": "2026-04-22T22:39:58Z",
+    "title": "Elon Musk admits millions of Tesla owners need upgrades for true ‘Full Self-Driving’",
+    "summary": "The admission could open Tesla to legal challenges after it spent years promising customers they were just one software update away from owning fully autonomous cars.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/22/elon-musk-admits-millions-of-tesla-owners-need-upgrades-for-true-full-self-driving/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "c26415286456",
     "time": "2026-04-22T21:38:38Z",
     "title": "OpenAI Launches Workspace Agents Feature in ChatGPT",
@@ -60,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "4c74319f2fcc",
-    "time": "2026-04-22T16:38:27Z",
-    "title": "Robinhood Venture Fund's $75M stake in OpenAI aims to enable retail investments",
-    "summary": "The private equity investment will be used to give retail customers indirect price exposure to OpenAI through venture tokens.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-venture-fund-invests-75m-in-openai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "668627894330",
     "time": "2026-04-22T16:28:44Z",
     "title": "SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off",
@@ -90,32 +90,12 @@
     "pinned": false
   },
   {
-    "id": "c92837460493",
-    "time": "2026-04-22T14:22:10Z",
-    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ec83b80c3100",
     "time": "2026-04-22T13:43:08Z",
     "title": "Robinhood Ventures Invests $75 Million in OpenAI, Offering Retail Traders Exposure",
     "summary": "Robinhood’s publicly-traded fund aims to give retail investors exposure to AI startups like OpenAI, without accreditation requirements.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365120/robinhood-ventures-invests-75-million-openai-giving-retail-traders-exposure",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "56e484930d75",
-    "time": "2026-04-22T12:29:46Z",
-    "title": "SEC ‘on the cusp’ of onchain tokenized securities exemption: Atkins",
-    "summary": "SEC Chair Paul Atkins says the SEC is “on the cusp” of an innovation exemption to enable compliant onchain trading of tokenized securities.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-tokenized-securities-exemption-nears-release?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
