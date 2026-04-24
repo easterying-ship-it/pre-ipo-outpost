@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "d7565b8e146d",
+    "time": "2026-04-24T15:06:00Z",
+    "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
+    "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "484292ee0d5c",
     "time": "2026-04-23T21:38:28Z",
     "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
@@ -17,16 +27,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b7748e1910c1",
-    "time": "2026-04-23T19:26:55Z",
-    "title": "Tether freezes $344M USDt stablecoins at US law enforcement request",
-    "summary": "The stablecoin issuer cited \"activity tied to unlawful conduct” but no further explanation for the freezing of the dollar-pegged tokens held in two wallet addresses.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
