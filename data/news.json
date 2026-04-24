@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "b28a188fcfdc",
+    "time": "2026-04-24T20:40:02Z",
+    "title": "Aurelion allocates $48M in tokenized gold to newly launched yield protocol",
+    "summary": "The XAUE protocol lets holders earn yield on tokenized gold through lending and trading strategies while maintaining exposure to the underlying asset.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/aurelion-allocates-48m-in-tokenized-gold-to-newly-launched-xaue-yield-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1c639ce0f40b",
+    "time": "2026-04-24T20:30:05Z",
+    "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
+    "summary": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6481dc98bb89",
+    "time": "2026-04-24T20:10:54Z",
+    "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
+    "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e62b07f6b65d",
+    "time": "2026-04-24T19:49:35Z",
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "515bdc1ec6a1",
+    "time": "2026-04-24T18:58:18Z",
+    "title": "Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms",
+    "summary": "Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "97121f5b8e05",
     "time": "2026-04-24T18:00:03Z",
     "title": "Google to invest up to $40B in Anthropic in cash and compute",
@@ -46,36 +96,6 @@
     "summary": "On Forge Global, Anthropic shares are hovering around $1 trillion while OpenAI trades at $880 billion — a reversal nobody saw coming three months ago.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c147623c2956",
-    "time": "2026-04-23T19:25:16Z",
-    "title": "OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier",
-    "summary": "OpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f579a1f35f18",
-    "time": "2026-04-23T18:30:11Z",
-    "title": "OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks",
-    "summary": "ChatGPT for Clinicians is designed to save doctors time, and OpenAI says it scored higher than human physicians—on the AI giant's own test.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365328/openai-says-chatgpt-doctors-outperforms-humans-clinical-tasks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7418cd7a195f",
-    "time": "2026-04-23T18:29:29Z",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
     "category": "IPO动态",
     "pinned": false
   },
