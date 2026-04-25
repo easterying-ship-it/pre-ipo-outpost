@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "448b9b5ed32d",
+    "time": "2026-04-25T21:43:37Z",
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c8ae37627467",
+    "time": "2026-04-25T19:01:03Z",
+    "title": "Elon Musk’s Grok Most Likely Among Top AI Models to Reinforce Delusions: Study",
+    "summary": "Researchers found that xAI's Grok was the riskiest AI model tested, often validating delusions and offering dangerous advice.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365489/elon-musk-grok-most-likely-ai-reinforce-delusions-study",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3766b42b320e",
     "time": "2026-04-25T17:17:56Z",
     "title": "OpenAI CEO apologizes to Tumbler Ridge community",
@@ -127,26 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365455/deepseek-v4-launch-pro-version-costs-less-gpt-5-pro",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d7565b8e146d",
-    "time": "2026-04-24T15:06:00Z",
-    "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-    "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "484292ee0d5c",
-    "time": "2026-04-23T21:38:28Z",
-    "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
-    "summary": "On Forge Global, Anthropic shares are hovering around $1 trillion while OpenAI trades at $880 billion — a reversal nobody saw coming three months ago.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
-    "category": "IPO动态",
     "pinned": false
   },
   {
