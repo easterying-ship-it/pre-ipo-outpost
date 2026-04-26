@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "18fd0eaaba22",
+    "time": "2026-04-26T15:30:00Z",
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a16a61ce6448",
     "time": "2026-04-26T08:58:23Z",
     "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
@@ -136,16 +146,6 @@
     "summary": "Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "97121f5b8e05",
-    "time": "2026-04-24T18:00:03Z",
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
     "category": "IPO动态",
     "pinned": false
   },
