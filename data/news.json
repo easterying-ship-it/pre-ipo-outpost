@@ -10,10 +10,60 @@
     "pinned": true
   },
   {
-    "id": "5d5db4af1ab6",
+    "id": "b89b91a0f382",
+    "time": "2026-04-27T17:40:38Z",
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "85b7c8a6f52c",
+    "time": "2026-04-27T17:24:21Z",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "061f1be91860",
+    "time": "2026-04-27T16:05:57Z",
+    "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
+    "summary": "Sam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dc88e338a4ee",
+    "time": "2026-04-27T14:57:43Z",
+    "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
+    "summary": "The restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "526fb891448f",
+    "time": "2026-04-27T13:08:59Z",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "summary": "The phone could go into mass production in 2028, an analyst says.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6ae4d5ce537d",
     "time": "2026-04-26T20:37:19Z",
-    "title": "SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus",
-    "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus appeared first on NASASpaceFlight.com.",
+    "title": "SpaceX scrubs launch of Falcon Heavy on Monday after 18 month hiatus",
+    "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX scrubs launch of Falcon Heavy on Monday after 18 month hiatus appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
     "category": "成份股",
@@ -23,20 +73,10 @@
     "id": "18fd0eaaba22",
     "time": "2026-04-26T15:30:00Z",
     "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a16a61ce6448",
-    "time": "2026-04-26T08:58:23Z",
-    "title": "Trump’s official memecoin extends slide as he hosts exclusive investor gala",
-    "summary": "TRUMP memecoin fell nearly 10% in 24 hours despite a Mar-a-Lago investor gala, with the token still down over 96% from its peak.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -47,86 +87,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c8ae37627467",
-    "time": "2026-04-25T19:01:03Z",
-    "title": "Elon Musk’s Grok Most Likely Among Top AI Models to Reinforce Delusions: Study",
-    "summary": "Researchers found that xAI's Grok was the riskiest AI model tested, often validating delusions and offering dangerous advice.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365489/elon-musk-grok-most-likely-ai-reinforce-delusions-study",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3766b42b320e",
-    "time": "2026-04-25T17:17:56Z",
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7d1a5db86f5b",
-    "time": "2026-04-25T16:33:00Z",
-    "title": "The climate tech IPO window could finally be cracking open",
-    "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1faecffc686e",
-    "time": "2026-04-25T14:57:26Z",
-    "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
-    "summary": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "723cf3aae18b",
-    "time": "2026-04-25T03:30:00Z",
-    "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
-    "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1c639ce0f40b",
-    "time": "2026-04-24T20:30:05Z",
-    "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
-    "summary": "The Justice Department moved to intervene in xAI’s lawsuit challenging Colorado’s algorithmic discrimination law.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "515bdc1ec6a1",
-    "time": "2026-04-24T18:58:18Z",
-    "title": "Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms",
-    "summary": "Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e0d862f2e7ca",
-    "time": "2026-04-24T17:34:58Z",
-    "title": "DeepSeek V4 Is Here—Its Pro Version Costs 98% Less Than GPT 5.5 Pro",
-    "summary": "The Chinese lab that shook Wall Street just dropped its biggest, most efficient model yet, hours after OpenAI launched GPT-5.5.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365455/deepseek-v4-launch-pro-version-costs-less-gpt-5-pro",
-    "category": "成份股",
     "pinned": false
   },
   {
