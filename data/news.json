@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "0c1ca7ceda62",
+    "time": "2026-04-28T12:10:25Z",
+    "title": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge",
+    "summary": "Tokenized stock holders can now participate in corporate governance, closing a long-standing gap between onchain securities and their traditional counterparts.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dfb76ff239d0",
+    "time": "2026-04-28T11:14:54Z",
+    "title": "OpenAI Fell Short of Its Own Targets as Compute Costs Piled Up: Report",
+    "summary": "Internal stumbles over ChatGPT growth and a looming IPO are putting Sam Altman's spend-everything compute strategy under the microscope.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365774/openai-fell-short-of-its-own-targets-as-compute-costs-piled-up-report",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "988dcaec50e5",
+    "time": "2026-04-28T11:03:28Z",
+    "title": "OKX lets institutions use BlackRock’s BUIDL fund as trading collateral",
+    "summary": "OKX integrates BlackRock’s tokenized Treasury fund into Standard Chartered custody, allowing institutions to use it as regulated trading collateral.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "5f2ca10b1979",
     "time": "2026-04-27T22:22:51Z",
     "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
