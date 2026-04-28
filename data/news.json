@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "fd8771d0740e",
+    "time": "2026-04-28T19:48:02Z",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ad9b43c15085",
+    "time": "2026-04-28T19:42:43Z",
+    "title": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending",
+    "summary": "A new system targets the mismatch between fast DeFi liquidations and slow asset redemptions, a key barrier to the use of tokenized assets in lending markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/redstone-settlement-layer-rwa-liquidity-gap-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "56bca566f0c2",
+    "time": "2026-04-28T18:15:00Z",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "34c9ae6a5315",
+    "time": "2026-04-28T17:36:01Z",
+    "title": "Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack",
+    "summary": "Major DeFi protocols outlined technical steps to eliminate bad debt and restore full backing for exploited rsETH tokens.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365847/aave-compound-unveil-technical-plan-to-address-fallout-from-290m-kelp-dao-hack",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "efdd6e1c5f8f",
+    "time": "2026-04-28T14:30:00Z",
+    "title": "Crypto projects shut down as token models fail under pressure",
+    "summary": "Crypto projects are shutting down as token funding weakens and fragmented structures leave them with limited options to restructure or recover.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "0c1ca7ceda62",
     "time": "2026-04-28T12:10:25Z",
     "title": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge",
@@ -77,46 +127,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "85b7c8a6f52c",
-    "time": "2026-04-27T17:24:21Z",
-    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "061f1be91860",
-    "time": "2026-04-27T16:05:57Z",
-    "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
-    "summary": "Sam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dc88e338a4ee",
-    "time": "2026-04-27T14:57:43Z",
-    "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
-    "summary": "The restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "526fb891448f",
-    "time": "2026-04-27T13:08:59Z",
-    "title": "OpenAI could be making a phone with AI agents replacing apps",
-    "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "category": "成份股",
     "pinned": false
   },
   {
