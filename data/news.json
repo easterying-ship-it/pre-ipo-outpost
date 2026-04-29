@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "eb86321c9d3b",
+    "time": "2026-04-29T18:33:05Z",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2c6bce23e2c3",
+    "time": "2026-04-29T18:32:34Z",
+    "title": "White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report",
+    "summary": "Trump officials reportedly drafted guidance to help agencies access Anthropic’s AI, including Claude Mythos, despite Pentagon restrictions.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fcd24cbd013b",
+    "time": "2026-04-29T16:38:48Z",
+    "title": "OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting",
+    "summary": "A California lawsuit could test whether AI companies have a legal duty to report violent threats after a mass shooting in British Columbia.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365986/openai-sued-failure-warn-police-tumbler-ridge-mass-shooting",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5be2e970dc1a",
+    "time": "2026-04-29T14:33:26Z",
+    "title": "Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street",
+    "summary": "The BlackRock-backed firm was recently selected as by the New York Stock Exchange as a tokenization specialist.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1d1e9012947c",
+    "time": "2026-04-29T14:00:00Z",
+    "title": "Monthly prediction market volume hits $25.7B as user activity shifts beyond one-off events",
+    "summary": "A new report by Bitget Wallet and Polymarket found that retail users are driving repeat activity on prediction markets, signaling a shift from one-off bets to continuous engagement.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fbb43039e46c",
+    "time": "2026-04-29T10:37:19Z",
+    "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
+    "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "488ba75ab8ab",
     "time": "2026-04-29T00:40:16Z",
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -30,52 +90,12 @@
     "pinned": false
   },
   {
-    "id": "ad9b43c15085",
-    "time": "2026-04-28T19:42:43Z",
-    "title": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending",
-    "summary": "A new system targets the mismatch between fast DeFi liquidations and slow asset redemptions, a key barrier to the use of tokenized assets in lending markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/redstone-settlement-layer-rwa-liquidity-gap-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "56bca566f0c2",
-    "time": "2026-04-28T18:15:00Z",
-    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "34c9ae6a5315",
-    "time": "2026-04-28T17:36:01Z",
-    "title": "Aave, Compound Unveil Technical Plan to Address Fallout From $290M Kelp DAO Hack",
-    "summary": "Major DeFi protocols outlined technical steps to eliminate bad debt and restore full backing for exploited rsETH tokens.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365847/aave-compound-unveil-technical-plan-to-address-fallout-from-290m-kelp-dao-hack",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "868caad1a7db",
     "time": "2026-04-27T20:21:29Z",
     "title": "Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites",
     "summary": "Six launches are expected from Florida, California, and French Guiana this week, with SpaceX scheduled&#8230;\nThe post Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9b5679fedf8f",
-    "time": "2026-04-26T20:37:19Z",
-    "title": "SpaceX set to launch Falcon Heavy on Wednesday after 18 month hiatus",
-    "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX set to launch Falcon Heavy on Wednesday after 18 month hiatus appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
     "category": "成份股",
     "pinned": false
   },
