@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "488ba75ab8ab",
+    "time": "2026-04-29T00:40:16Z",
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fd8771d0740e",
     "time": "2026-04-28T19:48:02Z",
     "title": "Amazon is already offering new OpenAI products on AWS",
@@ -60,52 +70,12 @@
     "pinned": false
   },
   {
-    "id": "0c1ca7ceda62",
-    "time": "2026-04-28T12:10:25Z",
-    "title": "Ondo brings proxy voting to tokenized stocks and ETFs with Broadridge",
-    "summary": "Tokenized stock holders can now participate in corporate governance, closing a long-standing gap between onchain securities and their traditional counterparts.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ondo-partners-with-broadridge-to-bring-proxy-voting-to-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "dfb76ff239d0",
     "time": "2026-04-28T11:14:54Z",
     "title": "OpenAI Fell Short of Its Own Targets as Compute Costs Piled Up: Report",
     "summary": "Internal stumbles over ChatGPT growth and a looming IPO are putting Sam Altman's spend-everything compute strategy under the microscope.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/365774/openai-fell-short-of-its-own-targets-as-compute-costs-piled-up-report",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "988dcaec50e5",
-    "time": "2026-04-28T11:03:28Z",
-    "title": "OKX lets institutions use BlackRock’s BUIDL fund as trading collateral",
-    "summary": "OKX integrates BlackRock’s tokenized Treasury fund into Standard Chartered custody, allowing institutions to use it as regulated trading collateral.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/okx-adds-blackrocks-tokenized-treasury-fund-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5f2ca10b1979",
-    "time": "2026-04-27T22:22:51Z",
-    "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
-    "summary": "The joint motion halts deadlines and enforcement in xAI’s lawsuit while Colorado lawmakers weigh changes to the state’s AI bias law.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "201ae4b1ba22",
-    "time": "2026-04-27T20:45:08Z",
-    "title": "OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report",
-    "summary": "Six weeks after telling staff to stop chasing distractions, OpenAI is reportedly planning a phone targeting 400 million units a year.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek",
     "category": "IPO动态",
     "pinned": false
   },
@@ -117,16 +87,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b89b91a0f382",
-    "time": "2026-04-27T17:40:38Z",
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
