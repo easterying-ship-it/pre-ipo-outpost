@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "50c6cab83c9e",
+    "time": "2026-04-30T05:56:28Z",
+    "title": "WLFI drops 14% as controversial token unlock goes to vote",
+    "summary": "The proposal to unlock more than 62 billion WLFI tokens over four to five years has 99.95% approval but is still facing backlash on X.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/wlfi-token-tanks-10-as-voting-begins-on-controversial-token-lock-up-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "89ce69f4fb64",
+    "time": "2026-04-30T03:58:22Z",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "66587496b428",
+    "time": "2026-04-30T00:07:15Z",
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c88646b138ce",
+    "time": "2026-04-29T23:58:36Z",
+    "title": "On the stand, Elon Musk can’t escape his own tweets",
+    "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "de083a67e31c",
+    "time": "2026-04-29T23:55:23Z",
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "197e2de02c33",
+    "time": "2026-04-29T22:14:49Z",
+    "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
+    "summary": "Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c1bf0723d8e1",
+    "time": "2026-04-29T19:57:45Z",
+    "title": "Stable Sea integrates WisdomTree tokenized Treasury fund for cash management",
+    "summary": "Businesses can now allocate idle cash to a government-backed fund via Stable Sea, as tokenized Treasury products gain traction in corporate finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/stable-sea-integrates-wisdomtree-tokenized-treasury-fund-for-corporate-cash-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "eb86321c9d3b",
     "time": "2026-04-29T18:33:05Z",
     "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
@@ -50,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "1d1e9012947c",
-    "time": "2026-04-29T14:00:00Z",
-    "title": "Monthly prediction market volume hits $25.7B as user activity shifts beyond one-off events",
-    "summary": "A new report by Bitget Wallet and Polymarket found that retail users are driving repeat activity on prediction markets, signaling a shift from one-off bets to continuous engagement.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fbb43039e46c",
     "time": "2026-04-29T10:37:19Z",
     "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
@@ -67,26 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "488ba75ab8ab",
-    "time": "2026-04-29T00:40:16Z",
-    "title": "At his OpenAI trial, Musk relitigates an old friendship",
-    "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fd8771d0740e",
-    "time": "2026-04-28T19:48:02Z",
-    "title": "Amazon is already offering new OpenAI products on AWS",
-    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
