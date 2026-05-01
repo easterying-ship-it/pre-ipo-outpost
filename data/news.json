@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "056ad10e5fd3",
+    "time": "2026-05-01T18:23:04Z",
+    "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+    "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b187e336a55a",
+    "time": "2026-05-01T17:56:55Z",
+    "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
+    "summary": "OpenAI's GPT-5.5 is the second AI system to complete a simulated corporate network intrusion end-to-end, raising alarms.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ef10eea1b51d",
+    "time": "2026-05-01T17:22:53Z",
+    "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+    "summary": "The Department of Defense's agreements will enable AI from the likes of Google and OpenAI to run on top-secret military networks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6fa394a8fea8",
+    "time": "2026-05-01T16:02:36Z",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "aa509fe23c50",
+    "time": "2026-05-01T16:00:30Z",
+    "title": "Crypto Biz: Capital has no consensus",
+    "summary": "Crypto markets splinter as miners pivot to AI, BitMine doubles down on ETH, stablecoin liquidity idles, and tokenized Treasurys reshape trading collateral.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-capital-has-no-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a595cf4d0531",
+    "time": "2026-05-01T14:00:00Z",
+    "title": "Musk v. Altman is just getting started",
+    "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to co",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9eeb14a681e7",
     "time": "2026-05-01T11:55:19Z",
     "title": "Morning Minute: MegaETH's MEGA Debut Biggest of 2026",
@@ -90,16 +150,6 @@
     "pinned": false
   },
   {
-    "id": "711e676e4936",
-    "time": "2026-04-30T18:16:37Z",
-    "title": "OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins",
-    "summary": "Why did OpenAI have to write \"never mention goblins\" into its production code on ChatGPT? The company has published a post-mortem.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fb570ab6da75",
     "time": "2026-04-30T18:03:57Z",
     "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
@@ -107,26 +157,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "59f378999865",
-    "time": "2026-04-30T17:21:05Z",
-    "title": "Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head",
-    "summary": "Internal data shows users mute crypto more than politics and global conflict on X’s For You feed.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366176/crypto-most-muted-topic-elon-musk-x-product-head",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a1649b545f58",
-    "time": "2026-04-30T16:26:01Z",
-    "title": "MegaETH Token Launches as Ethereum Layer-2 Network's Novel Rewards System Is Tested",
-    "summary": "Ethereum layer-2 network MegaETH will unlock its native MEGA token over time, and reward it to users, as key benchmarks are met.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
-    "category": "市场数据",
     "pinned": false
   },
   {
