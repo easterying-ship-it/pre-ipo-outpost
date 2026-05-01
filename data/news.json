@@ -10,10 +10,40 @@
     "pinned": true
   },
   {
-    "id": "d1f68a5aa72f",
+    "id": "a223d627762d",
+    "time": "2026-05-01T05:16:02Z",
+    "title": "Tokenized RWA market grows 420% since 2025 on regulatory clarity, access",
+    "summary": "Tokenized US Treasurys were one of the biggest growth areas of the RWA market, rising from a market capitalization of $3.9 billion at the start of 2025 to more than $15 billion.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cd419184f3cb",
+    "time": "2026-04-30T23:07:56Z",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d7bee1369b91",
+    "time": "2026-04-30T20:52:43Z",
+    "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
+    "summary": "The admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "06f5c4cec126",
     "time": "2026-04-30T20:14:47Z",
-    "title": "Legal AI startup Legora hits $5.6 valuation and its battle with Harvey just got hotter",
-    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
     "category": "IPO动态",
@@ -33,7 +63,7 @@
     "id": "2e0214af68c4",
     "time": "2026-04-30T19:27:41Z",
     "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+    "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
     "category": "IPO动态",
@@ -110,32 +140,12 @@
     "pinned": false
   },
   {
-    "id": "cab68a10deba",
-    "time": "2026-04-30T13:27:56Z",
-    "title": "UK regulator clears path for tokenized funds within existing rules",
-    "summary": "The FCA signs off rules to let UK funds keep registers onchain and add a new Direct‑to‑Fund dealing model, aiming to simplify tokenized funds inside the existing regime.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/uk-regulator-clears-path-tokenized-funds-within-existing-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "197e2de02c33",
     "time": "2026-04-29T22:14:49Z",
     "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
     "summary": "Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2c6bce23e2c3",
-    "time": "2026-04-29T18:32:34Z",
-    "title": "White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report",
-    "summary": "Trump officials reportedly drafted guidance to help agencies access Anthropic’s AI, including Claude Mythos, despite Pentagon restrictions.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
     "category": "IPO动态",
     "pinned": false
   },
