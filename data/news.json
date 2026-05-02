@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "06309633c382",
+    "time": "2026-05-02T18:50:19Z",
+    "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
+    "summary": "Which state-of-the-art AI image generator is most effective at producing A+ results? We put GPT Image 2 and Nano Banana 2 to the test.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8e2bc3c87946",
     "time": "2026-05-01T23:06:50Z",
     "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
@@ -126,16 +136,6 @@
     "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d07918bb3379",
-    "time": "2026-04-30T19:51:43Z",
-    "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users",
-    "summary": "OpenAI's new opt-in security feature requires passkeys, limits recovery options, and excludes chats from training.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
     "category": "IPO动态",
     "pinned": false
   },
