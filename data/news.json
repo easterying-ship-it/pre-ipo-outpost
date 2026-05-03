@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "06309633c382",
+    "time": "2026-05-02T18:50:19Z",
+    "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
+    "summary": "Which state-of-the-art AI image generator is most effective at producing A+ results? We put GPT Image 2 and Nano Banana 2 to the test.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8e2bc3c87946",
     "time": "2026-05-01T23:06:50Z",
     "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
@@ -36,6 +46,26 @@
     "summary": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b187e336a55a",
+    "time": "2026-05-01T17:56:55Z",
+    "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
+    "summary": "OpenAI's GPT-5.5 is the second AI system to complete a simulated corporate network intrusion end-to-end, raising alarms.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ef10eea1b51d",
+    "time": "2026-05-01T17:22:53Z",
+    "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+    "summary": "The Department of Defense's agreements will enable AI from the likes of Google and OpenAI to run on top-secret military networks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
     "category": "IPO动态",
     "pinned": false
   },
@@ -70,12 +100,32 @@
     "pinned": false
   },
   {
+    "id": "9eeb14a681e7",
+    "time": "2026-05-01T11:55:19Z",
+    "title": "Morning Minute: MegaETH's MEGA Debut Biggest of 2026",
+    "summary": "MegaETH just debuted the biggest token of 2026 to date, while Kalshi is now officially a top-five U.S. sportsbook.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "cd419184f3cb",
     "time": "2026-04-30T23:07:56Z",
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d7bee1369b91",
+    "time": "2026-04-30T20:52:43Z",
+    "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
+    "summary": "The admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
     "category": "IPO动态",
     "pinned": false
   },
