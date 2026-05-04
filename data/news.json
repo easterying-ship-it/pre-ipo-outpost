@@ -10,9 +10,69 @@
     "pinned": true
   },
   {
-    "id": "5fa8532c2cb2",
+    "id": "321c53150db3",
+    "time": "2026-05-04T22:31:02Z",
+    "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
+    "summary": "OpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dff24bffda8a",
+    "time": "2026-05-04T21:55:00Z",
+    "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
+    "summary": "With $114 trillion in custodied liquid assets, Depository Trust & Clearing Corporation looks to position tokenization as future of existing financial system.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8c7aa09f580c",
+    "time": "2026-05-04T21:53:21Z",
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7e30b55da6be",
+    "time": "2026-05-04T20:19:37Z",
+    "title": "DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper",
+    "summary": "A new open-source script swaps Claude Code's expensive Anthropic backend for DeepSeek V4 Pro, OpenRouter, or Fireworks AI—keeping the agent loop, slashing the bill.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "aae66ddb62f0",
+    "time": "2026-05-04T19:51:05Z",
+    "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
+    "summary": "Tether’s XAUt tops $3.3 billion as gold reserves reach 154 tons, with demand rising amid geopolitical tensions and shifting expectations for Federal Reserve policy.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3a8f49a89843",
+    "time": "2026-05-04T17:31:33Z",
+    "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
+    "summary": "Remittance giant Western Union’s USDPT token will power cross-border payments and a consumer spending product launching in 40+ countries.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8c8cf14b01a0",
     "time": "2026-05-04T16:57:47Z",
-    "title": "Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
     "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
@@ -23,7 +83,7 @@
     "id": "28fd95c4e44a",
     "time": "2026-05-04T16:36:03Z",
     "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\"",
+    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
     "category": "IPO动态",
@@ -60,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "06309633c382",
-    "time": "2026-05-02T18:50:19Z",
-    "title": "OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?",
-    "summary": "Which state-of-the-art AI image generator is most effective at producing A+ results? We put GPT Image 2 and Nano Banana 2 to the test.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366408/openai-gpt-image-2-vs-google-nano-banana-2-review",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a5d9fd141978",
     "time": "2026-05-01T20:52:30Z",
     "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
@@ -77,26 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b187e336a55a",
-    "time": "2026-05-01T17:56:55Z",
-    "title": "OpenAI's GPT-5.5 Matches Claude Mythos in Cyberattack Capabilities: AI Security Institute",
-    "summary": "OpenAI's GPT-5.5 is the second AI system to complete a simulated corporate network intrusion end-to-end, raising alarms.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366371/openais-gpt-55-matches-claude-mythos-cyberattack-ai-security-institute",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ef10eea1b51d",
-    "time": "2026-05-01T17:22:53Z",
-    "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
-    "summary": "The Department of Defense's agreements will enable AI from the likes of Google and OpenAI to run on top-secret military networks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -116,16 +146,6 @@
     "summary": "Six launches are expected from Florida, California, and French Guiana this week, with SpaceX scheduled&#8230;\nThe post Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e4a3cb25eda4",
-    "time": "2026-04-23T17:39:48Z",
-    "title": "Starship Progress at the Cape with Hoping to Launch this year",
-    "summary": "As the first flight of Block 3 approaches, SpaceX continues to make progress on the&#8230;\nThe post Starship Progress at the Cape with Hoping to Launch this year appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/",
     "category": "成份股",
     "pinned": false
   }
