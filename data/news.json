@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "4b3506a225d7",
+    "time": "2026-05-05T17:00:00Z",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "summary": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "232291c7813f",
+    "time": "2026-05-05T16:21:55Z",
+    "title": "US Government Will Vet Pre-Release AI Models From Google, xAI and Microsoft",
+    "summary": "Google, Microsoft, and Elon Musk’s xAI have agreed to run their models by the U.S. government as Trump weighs an AI executive order.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366810/us-government-vet-pre-release-ai-models-google-xai-microsoft",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0bb2036d35be",
+    "time": "2026-05-05T14:31:27Z",
+    "title": "Kaiko flags possible front-running before Robinhood token listings",
+    "summary": "Kaiko said open interest, funding rates and wallet activity showed repeated pre-announcement positioning before several Robinhood token listings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-perps-volume-points-to-traders-front-running-robinhood-listings-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "312b0bf63791",
+    "time": "2026-05-05T13:03:37Z",
+    "title": "Europe should weigh tokenized SEPA payments, Bank of Italy official says",
+    "summary": "The Bank of Italy’s deputy governor floated the evaluation of tokenized SEPA payments, as the ECB experiments with tokenized digital payment frameworks to avoid stablecoin competition.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bank-of-italy-deputy-governor-urges-eu-to-evaluate-tokenized-sepa-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "903a2e5480c6",
+    "time": "2026-05-05T12:54:29Z",
+    "title": "Bullish to buy transfer agent Equiniti for $4.2B in tokenization push",
+    "summary": "Bullish has agreed to acquire transfer agent Equiniti as more Wall Street participants accelerate their tokenization initiatives to offer 24/7 trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bullish-to-acquire-equiniti-for-42b-in-tokenization-push-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "835fea61c722",
     "time": "2026-05-05T11:44:08Z",
     "title": "Morning Minute: Crypto VC Haun Raises $1B Despite Market Slump",
@@ -30,32 +80,12 @@
     "pinned": false
   },
   {
-    "id": "c15cf07fcf29",
-    "time": "2026-05-04T22:34:41Z",
-    "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
-    "summary": "World Liberty Financial claimed Sun engaged in defamatory tactics and prohibited token transfers, including shorting the WLFI token and conducting straw sales on behalf of others.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "321c53150db3",
     "time": "2026-05-04T22:31:02Z",
     "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
     "summary": "OpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dff24bffda8a",
-    "time": "2026-05-04T21:55:00Z",
-    "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
-    "summary": "With $114 trillion in custodied liquid assets, Depository Trust & Clearing Corporation looks to position tokenization as the future of existing financial system.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -80,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "aae66ddb62f0",
-    "time": "2026-05-04T19:51:05Z",
-    "title": "Tether Gold tops $3.3B as demand for bullion-backed tokens rises",
-    "summary": "Tether’s XAUt tops $3.3 billion as gold reserves reach 154 tons, with demand rising amid geopolitical tensions and shifting expectations for Federal Reserve policy.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-gold-tops-33b-as-demand-for-bullion-backed-tokens-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "3a8f49a89843",
     "time": "2026-05-04T17:31:33Z",
     "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
@@ -97,46 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8c8cf14b01a0",
-    "time": "2026-05-04T16:57:47Z",
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "28fd95c4e44a",
-    "time": "2026-05-04T16:36:03Z",
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "114d6b8a860c",
-    "time": "2026-05-04T15:59:24Z",
-    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "c6f842c7fcda",
-    "time": "2026-05-04T15:52:13Z",
-    "title": "DTCC Reveals Launch Plans for Tokenization Service With Wall Street Giants Onboard",
-    "summary": "DTCC, the infrastructure giant managing $114 trillion in securities, will begin tokenizing Russell 1000 stocks and Treasuries.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366646/dtcc-reveals-launch-tokenization-service-wall-street-giants-onboard",
-    "category": "IPO动态",
     "pinned": false
   },
   {
