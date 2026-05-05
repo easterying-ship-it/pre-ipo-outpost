@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "384da3cc2ca8",
+    "time": "2026-05-05T00:13:30Z",
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "summary": "Enhanced geothermal startup Fervo Energy’s IPO could value the company at up to $6.5 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c15cf07fcf29",
+    "time": "2026-05-04T22:34:41Z",
+    "title": "World Liberty sues Justin Sun for defamation in WLFI dispute",
+    "summary": "World Liberty Financial claimed Sun engaged in defamatory tactics and prohibited token transfers, including shorting the WLFI token and conducting straw sales on behalf of others.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/trump-linked-wlfi-platform-sues-justin-sun-for-defamation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "321c53150db3",
     "time": "2026-05-04T22:31:02Z",
     "title": "Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI",
@@ -23,7 +43,7 @@
     "id": "dff24bffda8a",
     "time": "2026-05-04T21:55:00Z",
     "title": "DTCC eyes October tokenized securities launch with 50 DeFi and TradFi giants",
-    "summary": "With $114 trillion in custodied liquid assets, Depository Trust & Clearing Corporation looks to position tokenization as future of existing financial system.",
+    "summary": "With $114 trillion in custodied liquid assets, Depository Trust & Clearing Corporation looks to position tokenization as the future of existing financial system.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/dtcc-eyes-october-tokenized-securities-launch-with-dozens-of-wall-street-giants?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
