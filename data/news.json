@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "0e49af15b9ca",
+    "time": "2026-05-06T14:54:42Z",
+    "title": "Anthropic Deploys AI Agents to Tackle Wall Street's Most Tedious Work",
+    "summary": "Anthropic released 10 ready-to-run templates targeting some of finance's most time-consuming tasks—from building pitchbooks to closing the books at month-end.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a3fecf3d0da4",
+    "time": "2026-05-06T13:54:09Z",
+    "title": "AI boom pushes Samsung to $1T",
+    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d3a34ee4a0fb",
+    "time": "2026-05-06T13:20:50Z",
+    "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
+    "summary": "The Korea Securities Depository platform is expected to go live by February 2027, aligning with South Korea’s incoming security token framework.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4d18c99b112c",
+    "time": "2026-05-06T13:17:53Z",
+    "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
+    "summary": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "54486081860b",
+    "time": "2026-05-06T12:51:53Z",
+    "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
+    "summary": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "96eae3dc52f1",
+    "time": "2026-05-06T11:00:00Z",
+    "title": "World’s first live map of token concentration: InsightX launches Atlas Live",
+    "summary": "A new era of on-chain trading transparency. Atlas Live enables traders to analyze token concentration and spot potential rug pulls. Now in real time.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/press-releases/worlds-first-live-map-of-token-concentration-insightx-launches-atlas-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "88183ccb9696",
+    "time": "2026-05-06T06:47:12Z",
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+    "summary": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8a984051d791",
     "time": "2026-05-05T21:36:03Z",
     "title": "'Moment of Danger': Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws",
@@ -20,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "4040c42dea30",
-    "time": "2026-05-05T19:11:47Z",
-    "title": "Tennessee Bankers Association names Stablecore as preferred digital asset provider",
-    "summary": "Regional lenders gain access to infrastructure for stablecoins, tokenized deposits and crypto-backed lending without building systems in-house, signaling wider bank adoption.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tennessee-bankers-association-stablecore-digital-asset-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "9a614ddccaed",
     "time": "2026-05-05T18:29:40Z",
     "title": "OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does",
@@ -37,76 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/366842/openai-upgraded-chatgpt-default-model-what-gpt-5-5-instant-does",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ca6fd6a939e5",
-    "time": "2026-05-05T17:26:19Z",
-    "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
-    "summary": "Investors allege the rapper misled buyers about the token’s real-world utility.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "26d65bcd2dd5",
-    "time": "2026-05-05T17:06:56Z",
-    "title": "Bernstein cites $4T tokenized credit opportunity for Figure Technology stock",
-    "summary": "Bernstein points to Figure’s expansion beyond home equity lending into blockchain-based credit, as tokenization begins to scale across broader loan markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/figure-stock-bernstein-tokenized-credit-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4b3506a225d7",
-    "time": "2026-05-05T17:00:00Z",
-    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "232291c7813f",
-    "time": "2026-05-05T16:21:55Z",
-    "title": "US Government Will Vet Pre-Release AI Models From Google, xAI and Microsoft",
-    "summary": "Google, Microsoft, and Elon Musk’s xAI have agreed to run their models by the U.S. government as Trump weighs an AI executive order.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366810/us-government-vet-pre-release-ai-models-google-xai-microsoft",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0bb2036d35be",
-    "time": "2026-05-05T14:31:27Z",
-    "title": "Kaiko flags possible front-running before Robinhood token listings",
-    "summary": "Kaiko said open interest, funding rates and wallet activity showed repeated pre-announcement positioning before several Robinhood token listings.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-perps-volume-points-to-traders-front-running-robinhood-listings-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "312b0bf63791",
-    "time": "2026-05-05T13:03:37Z",
-    "title": "Europe should weigh tokenized SEPA payments, Bank of Italy official says",
-    "summary": "The Bank of Italy’s deputy governor floated the evaluation of tokenized SEPA payments, as the ECB experiments with tokenized digital payment frameworks to avoid stablecoin competition.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bank-of-italy-deputy-governor-urges-eu-to-evaluate-tokenized-sepa-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "903a2e5480c6",
-    "time": "2026-05-05T12:54:29Z",
-    "title": "Bullish to buy transfer agent Equiniti for $4.2B in tokenization push",
-    "summary": "Bullish has agreed to acquire transfer agent Equiniti as more Wall Street participants accelerate their tokenization initiatives to offer 24/7 trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bullish-to-acquire-equiniti-for-42b-in-tokenization-push-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
