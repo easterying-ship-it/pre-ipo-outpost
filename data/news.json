@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "d90a307a6cb3",
+    "time": "2026-05-07T07:00:00Z",
+    "title": "UAE-regulated stablecoins to develop AED-USD conversion rails for institutional settlement",
+    "summary": "The system enables near-instant conversion between UAE dirham and US dollar stablecoins within the country’s regulated payment token regime.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/uae-regulated-stablecoins-to-develop-aed-usd-conversion-rails-for-institutional-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c23f2d0bc09f",
+    "time": "2026-05-07T04:33:22Z",
+    "title": "OpenAI前董事：馬斯克主動捐精 兩人已有四個孩子",
+    "summary": "OpenAI前董事齊利斯出庭作證，透露她與伊隆·馬斯克已育有4名子女。2020年馬斯克主動提議捐贈精子，她因健康因素接受。兩人約十年前曾有過一次「短暫」的戀情，但生子時並非戀愛關係。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c62r56p2r1zo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d128cf0323fe",
+    "time": "2026-05-07T02:05:55Z",
+    "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
+    "summary": "The cross-border tokenized US Treasury transaction using blockchain and banking rails builds on an earlier pilot in which the same fund moved between a public and permissioned blockchain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "27eb5af51c10",
+    "time": "2026-05-06T21:57:56Z",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "bd5c56310dcc",
     "time": "2026-05-06T20:39:16Z",
     "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
@@ -116,56 +156,6 @@
     "summary": "Anthropic released 10 ready-to-run templates targeting some of finance's most time-consuming tasks—from building pitchbooks to closing the books at month-end.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a3fecf3d0da4",
-    "time": "2026-05-06T13:54:09Z",
-    "title": "AI boom pushes Samsung to $1T",
-    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d3a34ee4a0fb",
-    "time": "2026-05-06T13:20:50Z",
-    "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
-    "summary": "The Korea Securities Depository platform is expected to go live by February 2027, aligning with South Korea’s incoming security token framework.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4d18c99b112c",
-    "time": "2026-05-06T13:17:53Z",
-    "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
-    "summary": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "54486081860b",
-    "time": "2026-05-06T12:51:53Z",
-    "title": "Bubblemaps flags MYSTERY token over 90-wallet launch sniping cluster",
-    "summary": "Bubblemaps said it identified a large wallet cluster that accumulated 90% of the Mystery token’s supply at launch, raising concerns around the token’s distribution.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bubblemaps-flags-mystery-over-90-wallet-launch-sniping-cluster?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8a984051d791",
-    "time": "2026-05-05T21:36:03Z",
-    "title": "'Moment of Danger': Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws",
-    "summary": "Experts warn that AI is exposing software bugs at scale, raising the risk of faster cyberattacks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366891/anthropic-warns-cyber-risk-window-ai-uncovers-flaws",
     "category": "IPO动态",
     "pinned": false
   },
