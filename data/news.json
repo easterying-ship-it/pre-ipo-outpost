@@ -10,13 +10,53 @@
     "pinned": true
   },
   {
-    "id": "d90a307a6cb3",
-    "time": "2026-05-07T07:00:00Z",
-    "title": "UAE-regulated stablecoins to develop AED-USD conversion rails for institutional settlement",
-    "summary": "The system enables near-instant conversion between UAE dirham and US dollar stablecoins within the country’s regulated payment token regime.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/uae-regulated-stablecoins-to-develop-aed-usd-conversion-rails-for-institutional-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "id": "5a40f73fe094",
+    "time": "2026-05-07T16:05:48Z",
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cc1e9c9a991f",
+    "time": "2026-05-07T15:00:29Z",
+    "title": "Prediction Market Kalshi Boosts Valuation to $22 Billion With Fresh $1 Billion Investment",
+    "summary": "Kalshi has another billion dollars to play with as the U.S. prediction market leader continues to grow at a rapid pace.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c41a9436222a",
+    "time": "2026-05-07T14:28:35Z",
+    "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
+    "summary": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "03f0da2e1974",
+    "time": "2026-05-07T14:13:49Z",
+    "title": "Google Found a Way to Make Local AI Up to 3x Faster—No New Hardware Required",
+    "summary": "Google's new Multi-Token Prediction drafters can make Gemma 4 run up to 3x faster on your own hardware—no cloud required, and no quality lost.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
     "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "56fc8d3dffa2",
+    "time": "2026-05-07T13:44:25Z",
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -27,16 +67,6 @@
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/c62r56p2r1zo/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d128cf0323fe",
-    "time": "2026-05-07T02:05:55Z",
-    "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
-    "summary": "The cross-border tokenized US Treasury transaction using blockchain and banking rails builds on an earlier pilot in which the same fund moved between a public and permissioned blockchain.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -96,66 +126,6 @@
     "summary": "Crypto exchange OKX will offer synthetic exposure to private AI and tech company valuations through derivatives contracts.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c58ccef34c49",
-    "time": "2026-05-06T18:23:54Z",
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2e50478de7d3",
-    "time": "2026-05-06T18:05:41Z",
-    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-    "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "31ca69308e96",
-    "time": "2026-05-06T17:47:49Z",
-    "title": "Claude Delusion? Richard Dawkins Believes AI May Be Conscious",
-    "summary": "The evolutionary biologist says extended exchanges with Anthropic’s chatbot felt less like software and more like interacting with another mind.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367017/claude-delusion-richard-dawkins-believes-ai-conscious",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b024ff2d2cdf",
-    "time": "2026-05-06T17:23:08Z",
-    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-    "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "993658c1cdcb",
-    "time": "2026-05-06T17:20:34Z",
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0e49af15b9ca",
-    "time": "2026-05-06T14:54:42Z",
-    "title": "Anthropic Deploys AI Agents to Tackle Wall Street's Most Tedious Work",
-    "summary": "Anthropic released 10 ready-to-run templates targeting some of finance's most time-consuming tasks—from building pitchbooks to closing the books at month-end.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work",
     "category": "IPO动态",
     "pinned": false
   },
