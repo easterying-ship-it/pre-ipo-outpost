@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "ed3298a0b8b9",
+    "time": "2026-05-08T18:38:02Z",
+    "title": "Exodus launches AI agent-focused stablecoin on Solana",
+    "summary": "The crypto wallet company pairs the XO Cash token with software tools that let AI agents transact using preset spending controls and stablecoin payments.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/exodus-launches-ai-agent-focused-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "55ec8edf1292",
+    "time": "2026-05-08T17:14:58Z",
+    "title": "Crypto Biz: Wall Street wants more than just Bitcoin",
+    "summary": "Institutional capital is returning to crypto as Bitcoin ETFs surge, prediction markets mature and banks accelerate tokenized finance adoption.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-institutions-crypto-bitcoin-etfs-prediction-markets-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cbb742c15c4f",
+    "time": "2026-05-08T13:21:34Z",
+    "title": "Lime, the Uber-backed micromobility company, files for IPO",
+    "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "af3b60c44dd1",
+    "time": "2026-05-08T12:59:10Z",
+    "title": "Stablecoins won’t strengthen global role of euro, ECB’s Lagarde says",
+    "summary": "ECB President Christine Lagarde said Europe should build tokenized settlement infrastructure anchored by central bank money rather than rely on private stablecoins.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "425261a2ad76",
+    "time": "2026-05-08T11:22:35Z",
+    "title": "Mantle tokenholders approve 30K ETH Aave credit facility after rsETH exploit",
+    "summary": "The credit facility would help Aave address bad debt created after the April rsETH exploit strained its WETH market.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9b656f547273",
     "time": "2026-05-07T23:11:43Z",
     "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
@@ -37,86 +87,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "03c768a67059",
-    "time": "2026-05-07T20:20:20Z",
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7eb6fb4dc09a",
-    "time": "2026-05-07T19:21:21Z",
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f9de5de52be5",
-    "time": "2026-05-07T18:45:41Z",
-    "title": "21Shares Debuts First ETF Focused on Canton Network Crypto Token",
-    "summary": "The Nasdaq-listed fund offers exposure to Canton Coin, native token of the privacy-focused institutional blockchain network.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e2a78688063f",
-    "time": "2026-05-07T18:02:59Z",
-    "title": "Kalshi doubles valuation in 5 months, hitting $22B",
-    "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c32cc4cc0665",
-    "time": "2026-05-07T17:43:18Z",
-    "title": "Kalshi valuation doubles to $22B after $1B funding round",
-    "summary": "Backing from Wall Street and Silicon Valley firms signals growing investor interest in regulated event trading despite mounting legal scrutiny.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kalshi-22b-valuation-1b-funding-prediction-markets-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5a40f73fe094",
-    "time": "2026-05-07T16:05:48Z",
-    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cc1e9c9a991f",
-    "time": "2026-05-07T15:00:29Z",
-    "title": "Prediction Market Kalshi Boosts Valuation to $22 Billion With Fresh $1 Billion Investment",
-    "summary": "Kalshi has another billion dollars to play with as the U.S. prediction market leader continues to grow at a rapid pace.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "03f0da2e1974",
-    "time": "2026-05-07T14:13:49Z",
-    "title": "Google Found a Way to Make Local AI Up to 3x Faster—No New Hardware Required",
-    "summary": "Google's new Multi-Token Prediction drafters can make Gemma 4 run up to 3x faster on your own hardware—no cloud required, and no quality lost.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware",
-    "category": "市场数据",
     "pinned": false
   },
   {
