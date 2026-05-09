@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "7a6992f3b5d4",
+    "time": "2026-05-08T22:43:32Z",
+    "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
+    "summary": "Three companies reportedly pressed US senators for changes to a crypto bill, removing language that would require them to offer trading on tokens “not readily susceptible to manipulation.”",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ed3298a0b8b9",
     "time": "2026-05-08T18:38:02Z",
     "title": "Exodus launches AI agent-focused stablecoin on Solana",
@@ -33,30 +43,10 @@
     "id": "cbb742c15c4f",
     "time": "2026-05-08T13:21:34Z",
     "title": "Lime, the Uber-backed micromobility company, files for IPO",
-    "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
+    "summary": "After years of hints and preparation, Lime plans to enter the public markets. The company intends to list on ​Nasdaq under the ticker symbol \"LIME.\" Lime did not share terms of the offering.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "af3b60c44dd1",
-    "time": "2026-05-08T12:59:10Z",
-    "title": "Stablecoins won’t strengthen global role of euro, ECB’s Lagarde says",
-    "summary": "ECB President Christine Lagarde said Europe should build tokenized settlement infrastructure anchored by central bank money rather than rely on private stablecoins.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/stablecoins-euro-global-role-ecb-christine-lagarde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "425261a2ad76",
-    "time": "2026-05-08T11:22:35Z",
-    "title": "Mantle tokenholders approve 30K ETH Aave credit facility after rsETH exploit",
-    "summary": "The credit facility would help Aave address bad debt created after the April rsETH exploit strained its WETH market.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/mantle-tokenholders-aave-credit-facility-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -90,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "c23f2d0bc09f",
-    "time": "2026-05-07T04:33:22Z",
-    "title": "OpenAI前董事：馬斯克主動捐精 兩人已有四個孩子",
-    "summary": "OpenAI前董事齊利斯出庭作證，透露她與伊隆·馬斯克已育有4名子女。2020年馬斯克主動提議捐贈精子，她因健康因素接受。兩人約十年前曾有過一次「短暫」的戀情，但生子時並非戀愛關係。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/c62r56p2r1zo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "51d35f6a63cf",
     "time": "2026-05-03T18:00:27Z",
     "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
@@ -126,16 +106,6 @@
     "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "868caad1a7db",
-    "time": "2026-04-27T20:21:29Z",
-    "title": "Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites",
-    "summary": "Six launches are expected from Florida, California, and French Guiana this week, with SpaceX scheduled&#8230;\nThe post Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042726/",
     "category": "成份股",
     "pinned": false
   }
