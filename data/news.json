@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "ad5a15c806e6",
+    "time": "2026-05-10T16:05:00Z",
+    "title": "TechCrunch Mobility: Lime’s IPO gamble",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "87d9010b2f7e",
+    "time": "2026-05-10T15:34:25Z",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8bd5889c4936",
     "time": "2026-05-10T13:00:00Z",
     "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
@@ -26,16 +46,6 @@
     "summary": "Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7a6992f3b5d4",
-    "time": "2026-05-08T22:43:32Z",
-    "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-    "summary": "Three companies reportedly pressed US senators for changes to a crypto bill, removing language that would require them to offer trading on tokens “not readily susceptible to manipulation.”",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
