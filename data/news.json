@@ -10,8 +10,18 @@
     "pinned": true
   },
   {
+    "id": "8bd5889c4936",
+    "time": "2026-05-10T13:00:00Z",
+    "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
+    "summary": "Hyperliquid, EdgeX and Pump.fun returned a combined $96 million to token holders in 30 days, as the crypto community shifts its focus from transaction volumes to real earnings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "16cff37b1cdf",
-    "time": "2026-05-10T08:23:43Z",
+    "time": "2026-05-10T08:30:00Z",
     "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
     "summary": "Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal.",
     "source": "CoinTelegraph",
@@ -26,16 +36,6 @@
     "summary": "Three companies reportedly pressed US senators for changes to a crypto bill, removing language that would require them to offer trading on tokens “not readily susceptible to manipulation.”",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5ecf3a959e8f",
-    "time": "2026-05-07T22:31:02Z",
-    "title": "Solv Protocol Will Dump LayerZero, Migrate $700M Tokenized Bitcoin Tech to Chainlink",
-    "summary": "Solv Protocol will move its tokenized Bitcoin infrastructure to Chainlink, following Kelp DAO's lead after it blamed LayerZero for a hack.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367154/solv-protocol-dump-layerzero-migrate-700m-tokenized-bitcoin-chainlink",
     "category": "市场数据",
     "pinned": false
   },
