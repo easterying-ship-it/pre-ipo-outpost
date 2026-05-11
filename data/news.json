@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "679cac403763",
+    "time": "2026-05-11T22:30:36Z",
+    "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
+    "summary": "OpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2488fe074ce6",
+    "time": "2026-05-11T22:05:00Z",
+    "title": "Launch Preview: SpaceX and Chinese missions fill busy launch manifest",
+    "summary": "The week of May 11 brings nine launches across the United States and China, spanning&#8230;\nThe post Launch Preview: SpaceX and Chinese missions fill busy launch manifest appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "0b1419501188",
+    "time": "2026-05-11T21:15:46Z",
+    "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
+    "summary": "USDC issuer Circle launched a suite of tools designed to let AI agents hold money, pay for services, and transact without human involvement.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "55dc0d68df9d",
     "time": "2026-05-11T17:38:32Z",
     "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
@@ -90,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "21208621825f",
-    "time": "2026-05-11T11:19:29Z",
-    "title": "OpenAI Faces Federal Lawsuit Over ChatGPT's Alleged Role in FSU Mass Shooting",
-    "summary": "The lawsuit alleges ChatGPT provided firearms guidance and tactical advice to the shooter, raising questions about liability for AI firms.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "62707edbf264",
     "time": "2026-05-11T07:21:13Z",
     "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
     "summary": "AI agents need “food,” and that food is not physical food; it is tokens, said Jordi Visser.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "cac44d03c790",
-    "time": "2026-05-11T06:04:47Z",
-    "title": "Bank of England chief says global stablecoin rules will ‘wrestle’ with US",
-    "summary": "Global regulators will have to confront US policy on dollar-backed stablecoins as they seek international standards for payment tokens, Andrew Bailey said.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
