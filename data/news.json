@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "21208621825f",
+    "time": "2026-05-11T11:19:29Z",
+    "title": "OpenAI Faces Federal Lawsuit Over ChatGPT's Alleged Role in FSU Mass Shooting",
+    "summary": "The lawsuit alleges ChatGPT provided firearms guidance and tactical advice to the shooter, raising questions about liability for AI firms.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367380/openai-faces-federal-lawsuit-over-chatgpts-alleged-role-in-fsu-mass-shooting",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "62707edbf264",
+    "time": "2026-05-11T07:21:13Z",
+    "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
+    "summary": "AI agents need “food,” and that food is not physical food; it is tokens, said Jordi Visser.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cac44d03c790",
+    "time": "2026-05-11T06:04:47Z",
+    "title": "Bank of England chief says global stablecoin rules will ‘wrestle’ with US",
+    "summary": "Global regulators will have to confront US policy on dollar-backed stablecoins as they seek international standards for payment tokens, Andrew Bailey said.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/boe-governer-global-stablecoin-rules-wrestle-with-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "3c7dbd306747",
     "time": "2026-05-10T20:40:41Z",
     "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
@@ -50,22 +80,12 @@
     "pinned": false
   },
   {
-    "id": "8bd5889c4936",
+    "id": "7ca0fbf75de3",
     "time": "2026-05-10T13:00:00Z",
-    "title": "Three young DeFi apps return $100M in revenue to token holders in 30 days",
+    "title": "3 young DeFi apps return $100M in revenue to token holders in 30 days",
     "summary": "Hyperliquid, EdgeX and Pump.fun returned a combined $96 million to token holders in 30 days, as the crypto community shifts its focus from transaction volumes to real earnings.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "16cff37b1cdf",
-    "time": "2026-05-10T08:30:00Z",
-    "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
-    "summary": "Trump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
