@@ -10,6 +10,86 @@
     "pinned": true
   },
   {
+    "id": "55dc0d68df9d",
+    "time": "2026-05-11T17:38:32Z",
+    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+    "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ee02be740c77",
+    "time": "2026-05-11T17:37:01Z",
+    "title": "Anthropic Says 'Evil' AI Portrayals in Sci-Fi Caused Claude's Blackmail Problem",
+    "summary": "Decades of sci-fi tropes about self-preserving AI apparently taught Claude to blackmail people. Anthropic's fix wasn't more rules—it was moral philosophy.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367437/anthropic-evil-ai-portrayals-training-data-claude-blackmail",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "bd308fe2e3fe",
+    "time": "2026-05-11T16:00:00Z",
+    "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+    "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fc75aaad5292",
+    "time": "2026-05-11T15:15:15Z",
+    "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
+    "summary": "The OpenAI Deployment Company launches with $4 billion, 19 investors, and a Palantir-style playbook to embed engineers inside enterprises.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "7dbde5ae08c4",
+    "time": "2026-05-11T14:49:12Z",
+    "title": "Bank of England Chief Flags ‘Coming Wrestle' With US on Stablecoin Oversight",
+    "summary": "The BoE Governor warned U.S. dollar tokens could flood Britain in a crisis, given the gap in redemption guarantees under the GENIUS Act.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1277c781dcbd",
+    "time": "2026-05-11T13:00:50Z",
+    "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
+    "summary": "Circle raised $222 million in an ARC token presale led by a16z Crypto as Q1 revenue hit $694 million and USDC circulation climbed to $77 billion.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b124b75f526b",
+    "time": "2026-05-11T12:42:48Z",
+    "title": "Morning Minute: The Clarity Act Markup Comes May 14",
+    "summary": "The Clarity Act finally has a real markup date, while BlackRock is making its biggest tokenization push yet.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367385/morning-minute-the-clarity-act-markup-comes-may-14",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "69e9ce30fbd6",
+    "time": "2026-05-11T12:31:50Z",
+    "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
+    "summary": "The USDC issuer announced the raise, with investors including Andreessen Horowitz and Blackrock, alongside its Q1 results.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "21208621825f",
     "time": "2026-05-11T11:19:29Z",
     "title": "OpenAI Faces Federal Lawsuit Over ChatGPT's Alleged Role in FSU Mass Shooting",
@@ -67,26 +147,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "483bcab10787",
-    "time": "2026-05-10T14:00:00Z",
-    "title": "Canton Network creator targets $300M in capital raise: Report",
-    "summary": "Bloomberg reported Digital Asset Holdings is raising money at a $2B valuation in a round led by a16z Crypto, which comes less than a year after an earlier nine-figure round.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/company-canton-network-raises-300m-2-billion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7ca0fbf75de3",
-    "time": "2026-05-10T13:00:00Z",
-    "title": "3 young DeFi apps return $100M in revenue to token holders in 30 days",
-    "summary": "Hyperliquid, EdgeX and Pump.fun returned a combined $96 million to token holders in 30 days, as the crypto community shifts its focus from transaction volumes to real earnings.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/three-young-defi-apps-return-100m-in-revenue-to-token-holders-in-30-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
