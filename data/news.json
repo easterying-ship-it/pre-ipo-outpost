@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "f84d0a48d62a",
+    "time": "2026-05-12T21:31:14Z",
+    "title": "JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum",
+    "summary": "Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cf16eb785337",
+    "time": "2026-05-12T20:46:59Z",
+    "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
+    "summary": "A lookalike repository impersonating OpenAI's Privacy Filter model racked up 244,000 downloads in under 18 hours before Hugging Face pulled it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ed7715f92a5c",
+    "time": "2026-05-12T20:11:46Z",
+    "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
+    "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set&#8230;\nThe post SpaceX CRS-34 resupply mission to ISS delayed 24 hours appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a1f54d31aa48",
+    "time": "2026-05-12T18:45:10Z",
+    "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+    "summary": "The world’s largest post-trade infrastructure provider will integrate Chainlink technology into its tokenized collateral platform ahead of a Q4 2026 launch.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "1e5c3fa77982",
     "time": "2026-05-12T18:07:43Z",
     "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
@@ -23,7 +63,7 @@
     "id": "5618280cafbc",
     "time": "2026-05-12T18:05:15Z",
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who h",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "category": "IPO动态",
@@ -33,7 +73,7 @@
     "id": "ede511df653e",
     "time": "2026-05-12T17:36:34Z",
     "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+    "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "category": "IPO动态",
@@ -60,13 +100,13 @@
     "pinned": false
   },
   {
-    "id": "7230c5696ad7",
+    "id": "712c1b9e138e",
     "time": "2026-05-12T17:00:00Z",
-    "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-    "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "category": "成份股",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -110,26 +150,6 @@
     "pinned": false
   },
   {
-    "id": "0b1419501188",
-    "time": "2026-05-11T21:15:46Z",
-    "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
-    "summary": "USDC issuer Circle launched a suite of tools designed to let AI agents hold money, pay for services, and transact without human involvement.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ee02be740c77",
-    "time": "2026-05-11T17:37:01Z",
-    "title": "Anthropic Says 'Evil' AI Portrayals in Sci-Fi Caused Claude's Blackmail Problem",
-    "summary": "Decades of sci-fi tropes about self-preserving AI apparently taught Claude to blackmail people. Anthropic's fix wasn't more rules—it was moral philosophy.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367437/anthropic-evil-ai-portrayals-training-data-claude-blackmail",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "51d35f6a63cf",
     "time": "2026-05-03T18:00:27Z",
     "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
@@ -146,16 +166,6 @@
     "summary": "The return of Starship launches may be just weeks away, with notices for the upcoming&#8230;\nThe post SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "fbb43039e46c",
-    "time": "2026-04-29T10:37:19Z",
-    "title": "SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus",
-    "summary": "After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;\nThe post SpaceX launches Falcon Heavy on Wednesday after 18 month hiatus appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
     "category": "成份股",
     "pinned": false
   }
