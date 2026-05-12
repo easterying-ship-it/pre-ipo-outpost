@@ -10,13 +10,83 @@
     "pinned": true
   },
   {
-    "id": "cfad75cb3516",
-    "time": "2026-05-12T00:09:01Z",
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "id": "1e5c3fa77982",
+    "time": "2026-05-12T18:07:43Z",
+    "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
+    "summary": "Both companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
     "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5618280cafbc",
+    "time": "2026-05-12T18:05:15Z",
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ede511df653e",
+    "time": "2026-05-12T17:36:34Z",
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "78614829becf",
+    "time": "2026-05-12T17:30:57Z",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0c6f22b4b6f1",
+    "time": "2026-05-12T17:18:54Z",
+    "title": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose",
+    "summary": "The family of a deceased 19-year-old college student alleges ChatGPT encouraged dangerous drug use and contributed to his fatal overdose.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7230c5696ad7",
+    "time": "2026-05-12T17:00:00Z",
+    "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+    "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "84a633977d09",
+    "time": "2026-05-12T15:52:58Z",
+    "title": "Franklin Templeton, Kraken Parent Payward Team Up to Tokenize Wall Street Products",
+    "summary": "The collaboration between Kraken and Franklin Templeton signals traditional finance's deepening embrace of crypto infrastructure.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367568/franklin-templeton-kraken-payward-team-tokenize-wall-street",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "61b0e0f6b169",
+    "time": "2026-05-12T14:00:00Z",
+    "title": "FalconX expands tokenized credit facility to Monad network in lending push",
+    "summary": "FalconX’s tokenized credit vaults can now be used as collateral in DeFi markets on Monad, expanding institutional lending products across blockchain networks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/falconx-expands-tokenized-credit-facility-to-monad-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
     "pinned": false
   },
   {
@@ -50,102 +120,12 @@
     "pinned": false
   },
   {
-    "id": "55dc0d68df9d",
-    "time": "2026-05-11T17:38:32Z",
-    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-    "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ee02be740c77",
     "time": "2026-05-11T17:37:01Z",
     "title": "Anthropic Says 'Evil' AI Portrayals in Sci-Fi Caused Claude's Blackmail Problem",
     "summary": "Decades of sci-fi tropes about self-preserving AI apparently taught Claude to blackmail people. Anthropic's fix wasn't more rules—it was moral philosophy.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/367437/anthropic-evil-ai-portrayals-training-data-claude-blackmail",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bd308fe2e3fe",
-    "time": "2026-05-11T16:00:00Z",
-    "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-    "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fc75aaad5292",
-    "time": "2026-05-11T15:15:15Z",
-    "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
-    "summary": "The OpenAI Deployment Company launches with $4 billion, 19 investors, and a Palantir-style playbook to embed engineers inside enterprises.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7dbde5ae08c4",
-    "time": "2026-05-11T14:49:12Z",
-    "title": "Bank of England Chief Flags ‘Coming Wrestle' With US on Stablecoin Oversight",
-    "summary": "The BoE Governor warned U.S. dollar tokens could flood Britain in a crisis, given the gap in redemption guarantees under the GENIUS Act.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b124b75f526b",
-    "time": "2026-05-11T12:42:48Z",
-    "title": "Morning Minute: The Clarity Act Markup Comes May 14",
-    "summary": "The Clarity Act finally has a real markup date, while BlackRock is making its biggest tokenization push yet.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367385/morning-minute-the-clarity-act-markup-comes-may-14",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "69e9ce30fbd6",
-    "time": "2026-05-11T12:31:50Z",
-    "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
-    "summary": "The USDC issuer announced the raise, with investors including Andreessen Horowitz and Blackrock, alongside its Q1 results.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3c7dbd306747",
-    "time": "2026-05-10T20:40:41Z",
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ad5a15c806e6",
-    "time": "2026-05-10T16:05:00Z",
-    "title": "TechCrunch Mobility: Lime’s IPO gamble",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "87d9010b2f7e",
-    "time": "2026-05-10T15:34:25Z",
-    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "category": "IPO动态",
     "pinned": false
   },
