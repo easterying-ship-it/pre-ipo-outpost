@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "cfad75cb3516",
+    "time": "2026-05-12T00:09:01Z",
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "679cac403763",
     "time": "2026-05-11T22:30:36Z",
     "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
@@ -90,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "1277c781dcbd",
-    "time": "2026-05-11T13:00:50Z",
-    "title": "USDC issuer Circle raises $222M in Arc token presale valued at $3B",
-    "summary": "Circle raised $222 million in an ARC token presale led by a16z Crypto as Q1 revenue hit $694 million and USDC circulation climbed to $77 billion.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/circle-raise-222-million-arc-token-presale-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "b124b75f526b",
     "time": "2026-05-11T12:42:48Z",
     "title": "Morning Minute: The Clarity Act Markup Comes May 14",
@@ -117,16 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "62707edbf264",
-    "time": "2026-05-11T07:21:13Z",
-    "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
-    "summary": "AI agents need “food,” and that food is not physical food; it is tokens, said Jordi Visser.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
