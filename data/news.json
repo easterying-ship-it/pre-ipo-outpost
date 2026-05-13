@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "223955ee768a",
+    "time": "2026-05-13T19:28:06Z",
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ad70e082c003",
     "time": "2026-05-13T17:51:42Z",
     "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
@@ -140,32 +150,12 @@
     "pinned": false
   },
   {
-    "id": "ed7715f92a5c",
+    "id": "2bb6707df900",
     "time": "2026-05-12T20:11:46Z",
-    "title": "SpaceX CRS-34 resupply mission to ISS delayed 24 hours",
-    "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set&#8230;\nThe post SpaceX CRS-34 resupply mission to ISS delayed 24 hours appeared first on NASASpaceFlight.com.",
+    "title": "SpaceX CRS-34 resupply mission to ISS scrubbed due to weather",
+    "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set&#8230;\nThe post SpaceX CRS-34 resupply mission to ISS scrubbed due to weather appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1e5c3fa77982",
-    "time": "2026-05-12T18:07:43Z",
-    "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
-    "summary": "Both companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0c6f22b4b6f1",
-    "time": "2026-05-12T17:18:54Z",
-    "title": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose",
-    "summary": "The family of a deceased 19-year-old college student alleges ChatGPT encouraged dangerous drug use and contributed to his fatal overdose.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
     "category": "IPO动态",
     "pinned": false
   },
