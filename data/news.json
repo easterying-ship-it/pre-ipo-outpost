@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "247ecf408c3e",
+    "time": "2026-05-14T16:30:02Z",
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1e42d17d283e",
+    "time": "2026-05-14T16:25:20Z",
+    "title": "OpenAI says hackers stole some data after latest code security issue",
+    "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dcd35b5a507f",
+    "time": "2026-05-14T13:22:33Z",
+    "title": "Wall Street’s tokenization boom has a liquidity problem: Axis CEO",
+    "summary": "As RWAs cross $32 billion and JPMorgan files for a new tokenized fund, Axis CEO Chris Kim argues that the industry is celebrating the wrong milestone.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/features/wall-street-tokenization-boom-liquidity-problem-axis-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4cc01227c736",
+    "time": "2026-05-14T10:12:43Z",
+    "title": "Bank of England reconsiders strict stablecoin regime",
+    "summary": "BoE weighs easing UK stablecoin caps and reserve demands after industry backlash, in a move that could decide whether GBP tokens can compete with dollar‑pegged rivals.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "48502fd69049",
+    "time": "2026-05-14T09:15:12Z",
+    "title": "BitGo posts wider Q1 loss despite revenue more than doubling",
+    "summary": "BitGo’s headline revenue figure doubled year-over-year to $3.8 billion, but a Bitcoin price decline and IPO-related costs pushed net losses to $60.7 million in the first quarter.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitgo-posts-38b-in-revenue-but-losses-double-amid-bitcoin-decline-ipo-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b7dc9e9a9930",
     "time": "2026-05-14T05:24:39Z",
     "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
@@ -30,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "ad70e082c003",
-    "time": "2026-05-13T17:51:42Z",
-    "title": "Societe Generale deploys stablecoins on Canton for tokenized finance",
-    "summary": "France's SocGen plans to use its EURCV and USDCV stablecoins for tokenized collateral, repo financing and institutional settlement activity on the Canton blockchain network.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/societe-generale-expands-tokenized-collateral-and-stablecoin-push-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d2ad6f232947",
     "time": "2026-05-13T17:42:20Z",
     "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
@@ -57,86 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "2028a7e2dcf9",
-    "time": "2026-05-13T16:59:16Z",
-    "title": "Fidelity International launches Moody’s-rated tokenized fund on Chainlink",
-    "summary": "The Bermuda-based asset manager launched a tokenized liquidity fund using Chainlink and Sygnum infrastructure, with JPMorgan providing daily NAV data for pricing.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/fidelity-filq-tokenized-fund-chainlink-sygnum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "abe572212211",
-    "time": "2026-05-13T16:29:27Z",
-    "title": "Traders say Ethereum ready for a 'strong move' after ETH price taps $2.3K",
-    "summary": "Market analysts eye fresh Ethereum upside, fueled by JPMorgan and BlackRock tokenized fund moves plus looming CLARITY Act catalyst.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/traders-say-ethereum-ready-strong-move-eth-price-taps-2-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9237055c1820",
-    "time": "2026-05-13T16:00:00Z",
-    "title": "Anthropic courts a new kind of customer: small business owners",
-    "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d220a0b791ff",
-    "time": "2026-05-13T15:57:32Z",
-    "title": "Bank of England Treating Stablecoins as 'New Form of Money', Says Exec",
-    "summary": "The U.K.’s central bank is “not picking winners” in the debate over tokenized deposits and stablecoins, Sasha Mills said Wednesday.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367750/bank-england-treating-stablecoins-new-form-money-exec",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8fee925201d9",
-    "time": "2026-05-13T14:44:25Z",
-    "title": "Anduril raises $5B, doubles valuation to $61B",
-    "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c4f40d802a37",
-    "time": "2026-05-13T14:00:00Z",
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "summary": "A survey compiled from fintech firm Ramp’s clients’ expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f84d0a48d62a",
-    "time": "2026-05-12T21:31:14Z",
-    "title": "JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum",
-    "summary": "Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "cf16eb785337",
-    "time": "2026-05-12T20:46:59Z",
-    "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
-    "summary": "A lookalike repository impersonating OpenAI's Privacy Filter model racked up 244,000 downloads in under 18 hours before Hugging Face pulled it.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
-    "category": "IPO动态",
     "pinned": false
   },
   {
