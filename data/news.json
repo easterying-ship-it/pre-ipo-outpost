@@ -10,6 +10,96 @@
     "pinned": true
   },
   {
+    "id": "cb5cc612522e",
+    "time": "2026-05-14T22:47:51Z",
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "summary": "Here's what the biggest tech court case of the year is all about.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "33819dd3edd6",
+    "time": "2026-05-14T21:43:50Z",
+    "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
+    "summary": "OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "98c44c7b7253",
+    "time": "2026-05-14T21:30:44Z",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6ca522214319",
+    "time": "2026-05-14T21:16:53Z",
+    "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
+    "summary": "Security startup Calif says researchers used a preview version of Anthropic's Claude Mythos AI to help build an Apple macOS kernel exploit.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "031db28ad935",
+    "time": "2026-05-14T20:58:55Z",
+    "title": "OpenAI says Codex is coming to your phone",
+    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "af1128b7756a",
+    "time": "2026-05-14T20:23:03Z",
+    "title": "Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting",
+    "summary": "Benchmark almost never backs hardware startups. So Eric Vishria dragged his feet ten years ago before agreeing to hear Cerebras' pitch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "38b57d5c6aba",
+    "time": "2026-05-14T19:12:03Z",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f06c248595b0",
+    "time": "2026-05-14T18:44:58Z",
+    "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
+    "summary": "ChatGPT's web traffic share is falling while its rivals are rising—just as businesses start to look beyond OpenAI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3679b5c95eee",
+    "time": "2026-05-14T18:30:33Z",
+    "title": "OpenAI Confirms Security Breach Linked to AI Malware Campaign",
+    "summary": "OpenAI says malware tied to the Shai-Hulud supply chain attack accessed internal repositories after infecting two employee devices.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "247ecf408c3e",
     "time": "2026-05-14T16:30:02Z",
     "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
@@ -23,7 +113,7 @@
     "id": "1e42d17d283e",
     "time": "2026-05-14T16:25:20Z",
     "title": "OpenAI says hackers stole some data after latest code security issue",
-    "summary": "OpenAI said the damage was limited to the employees’ devices, and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
+    "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
     "category": "IPO动态",
@@ -37,56 +127,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/features/wall-street-tokenization-boom-liquidity-problem-axis-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4cc01227c736",
-    "time": "2026-05-14T10:12:43Z",
-    "title": "Bank of England reconsiders strict stablecoin regime",
-    "summary": "BoE weighs easing UK stablecoin caps and reserve demands after industry backlash, in a move that could decide whether GBP tokens can compete with dollar‑pegged rivals.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "48502fd69049",
-    "time": "2026-05-14T09:15:12Z",
-    "title": "BitGo posts wider Q1 loss despite revenue more than doubling",
-    "summary": "BitGo’s headline revenue figure doubled year-over-year to $3.8 billion, but a Bitcoin price decline and IPO-related costs pushed net losses to $60.7 million in the first quarter.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitgo-posts-38b-in-revenue-but-losses-double-amid-bitcoin-decline-ipo-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b7dc9e9a9930",
-    "time": "2026-05-14T05:24:39Z",
-    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "223955ee768a",
-    "time": "2026-05-13T19:28:06Z",
-    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d2ad6f232947",
-    "time": "2026-05-13T17:42:20Z",
-    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-    "summary": "Fervo Energy's IPO was upsized several times after potential investors asked why the enhanced geothermal startup wasn't raising more money.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
