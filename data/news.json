@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "f9d32d76c2e6",
+    "time": "2026-05-15T16:53:49Z",
+    "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
+    "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8&#8230;\nThe post Flight 12 readies for the debut SpaceX&#8217;s next Ship evolution appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "09f1915a4fd2",
+    "time": "2026-05-15T16:00:00Z",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "0dbc1cdf58c8",
+    "time": "2026-05-15T12:23:47Z",
+    "title": "South Korea plans July rules for tokenized securities",
+    "summary": "South Korea's FSC is preparing detailed rules for tokenized securities before a legal framework for blockchain-based securities takes effect in February 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9ccdb6d27a0e",
+    "time": "2026-05-15T11:24:12Z",
+    "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
+    "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7754a8f1009c",
+    "time": "2026-05-15T11:07:24Z",
+    "title": "Why is Hyperliquid's HYPE token price up 23% in one day?",
+    "summary": "Fresh US ETF launches and Coinbase’s Hyperliquid deal helped fuel HYPE’s rally this week, but technicals warn of a possible pullback.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d2047b6b3b9b",
+    "time": "2026-05-15T10:58:24Z",
+    "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+    "summary": "The liquidity protocol halted operations after blockchain researchers identified a suspected $10 million breach across multiple networks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "cb5cc612522e",
     "time": "2026-05-14T22:47:51Z",
     "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -156,16 +216,6 @@
     "summary": "SpaceX successfully launched its third rideshare mission of 2026 aboard Falcon 9. The mission carried&#8230;\nThe post SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a5d9fd141978",
-    "time": "2026-05-01T20:52:30Z",
-    "title": "SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory",
-    "summary": "The return of Starship launches may be just weeks away, with notices for the upcoming&#8230;\nThe post SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
     "category": "成份股",
     "pinned": false
   }
