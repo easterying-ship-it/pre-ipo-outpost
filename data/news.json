@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "16c532a81ce5",
+    "time": "2026-05-15T21:42:18Z",
+    "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
+    "summary": "The Hyperliquid decentralized exchange allows anyone who stakes 500,000 HYPE tokens, valued at roughly $22.2 million, to deploy new markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6d45e13f2a14",
+    "time": "2026-05-15T18:46:24Z",
+    "title": "ChatGPT Can Now See Your Bank Account—Here's What That Actually Means",
+    "summary": "OpenAI launched a personal finance tool that connects ChatGPT to your bank accounts, giving spending advice based on your actual habits.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368039/chatgpt-see-bank-account-what-actually-means",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "9378f73732d5",
+    "time": "2026-05-15T17:56:47Z",
+    "title": "Bitwise launches US-listed Hyperliquid fund with staking rewards",
+    "summary": "BHYP offers spot exposure to Hyperliquid’s HYPE token and will stake a portion of its holdings through Bitwise’s in-house staking division.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitwise-asset-management-us-listed-hyperliquid-fund-staking-reward?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f9d32d76c2e6",
     "time": "2026-05-15T16:53:49Z",
     "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
@@ -43,7 +73,7 @@
     "id": "9ccdb6d27a0e",
     "time": "2026-05-15T11:24:12Z",
     "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
-    "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.",
+    "summary": "Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and auto-rickshaws.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
     "category": "IPO动态",
@@ -140,46 +170,6 @@
     "pinned": false
   },
   {
-    "id": "f06c248595b0",
-    "time": "2026-05-14T18:44:58Z",
-    "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
-    "summary": "ChatGPT's web traffic share is falling while its rivals are rising—just as businesses start to look beyond OpenAI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3679b5c95eee",
-    "time": "2026-05-14T18:30:33Z",
-    "title": "OpenAI Confirms Security Breach Linked to AI Malware Campaign",
-    "summary": "OpenAI says malware tied to the Shai-Hulud supply chain attack accessed internal repositories after infecting two employee devices.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "247ecf408c3e",
-    "time": "2026-05-14T16:30:02Z",
-    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1e42d17d283e",
-    "time": "2026-05-14T16:25:20Z",
-    "title": "OpenAI says hackers stole some data after latest code security issue",
-    "summary": "OpenAI said the damage was limited to the employees’ devices and did not affect user data nor its production systems, and none of its intellectual property was stolen.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "57b3c8a8ddf0",
     "time": "2026-05-13T17:27:44Z",
     "title": "SpaceX’s new Starship pad readies for first launch",
@@ -190,10 +180,10 @@
     "pinned": false
   },
   {
-    "id": "2bb6707df900",
+    "id": "cdc1cb197788",
     "time": "2026-05-12T20:11:46Z",
-    "title": "SpaceX CRS-34 resupply mission to ISS scrubbed due to weather",
-    "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set&#8230;\nThe post SpaceX CRS-34 resupply mission to ISS scrubbed due to weather appeared first on NASASpaceFlight.com.",
+    "title": "SpaceX CRS-34 resupply mission ready to try again",
+    "summary": "Just over two weeks after Progress MS-34 docked to the Station, the ISS is set&#8230;\nThe post SpaceX CRS-34 resupply mission ready to try again appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/crs-34-launch/",
     "category": "IPO动态",
