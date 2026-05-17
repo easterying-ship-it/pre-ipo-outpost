@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "a3a4b3a14027",
+    "time": "2026-05-17T19:46:34Z",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fea197834cc2",
     "time": "2026-05-16T19:26:14Z",
     "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
@@ -100,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "33819dd3edd6",
-    "time": "2026-05-14T21:43:50Z",
-    "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
-    "summary": "OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "57b3c8a8ddf0",
     "time": "2026-05-13T17:27:44Z",
     "title": "SpaceX’s new Starship pad readies for first launch",
@@ -136,16 +136,6 @@
     "summary": "The week of May 11 brings nine launches across the United States and China, spanning&#8230;\nThe post Launch Preview: SpaceX and Chinese missions fill busy launch manifest appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051126/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "51d35f6a63cf",
-    "time": "2026-05-03T18:00:27Z",
-    "title": "SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit",
-    "summary": "SpaceX successfully launched its third rideshare mission of 2026 aboard Falcon 9. The mission carried&#8230;\nThe post SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/",
     "category": "成份股",
     "pinned": false
   }
