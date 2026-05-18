@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "508e9994d19f",
+    "time": "2026-05-18T19:27:52Z",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8cae2056310b",
+    "time": "2026-05-18T18:27:46Z",
+    "title": "Super Heavy Block 3 the Booster of the Future",
+    "summary": "The first stage of Starship, the Super Heavy booster, has already undergone many changes during&#8230;\nThe post Super Heavy Block 3 the Booster of the Future appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "f2762a74a803",
     "time": "2026-05-18T17:47:34Z",
     "title": "Elon Musk Loses $150 Billion AI Lawsuit Against OpenAI and Sam Altman",
@@ -23,7 +43,7 @@
     "id": "c1adbb4a1559",
     "time": "2026-05-18T17:34:43Z",
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "category": "IPO动态",
@@ -70,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "b5a1b4cc862c",
-    "time": "2026-05-18T07:14:27Z",
-    "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
-    "summary": "Kraken has cut 150 staff due to the rising use of AI, adding to more than 5,000 layoffs across the crypto sector so far this year, Bloomberg reports.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a3a4b3a14027",
     "time": "2026-05-17T19:46:34Z",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
@@ -103,7 +113,7 @@
     "id": "c32337dd6508",
     "time": "2026-05-16T15:33:33Z",
     "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "summary": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "category": "IPO动态",
@@ -120,12 +130,42 @@
     "pinned": false
   },
   {
+    "id": "408386418943",
+    "time": "2026-05-15T23:27:44Z",
+    "title": "SpaceX launches CRS-34 cargo mission to ISS",
+    "summary": "Updated May 16 to include CLARREO Pathfinder.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "6ab84f9947fb",
+    "time": "2026-05-15T22:06:07Z",
+    "title": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
+    "summary": "TAMPA, Fla. — A planned direct-to-device (D2D) joint venture between AT&amp;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "f9d32d76c2e6",
     "time": "2026-05-15T16:53:49Z",
     "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
     "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8&#8230;\nThe post Flight 12 readies for the debut SpaceX&#8217;s next Ship evolution appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0ced7bcaab29",
+    "time": "2026-05-15T09:00:11Z",
+    "title": "Chinese satellite maker MinoSpace seeks $736 million in IPO",
+    "summary": "HELSINKI — Chinese satellite maker MinoSpace has seen its initial public offering application accepted, seeking $736 million for constellation and product expansion plans.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
