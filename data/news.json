@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "d8b7a4441ead",
+    "time": "2026-05-19T17:45:00Z",
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ffcfad28a315",
+    "time": "2026-05-19T17:45:00Z",
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "df5cfed7ffc8",
+    "time": "2026-05-19T16:54:43Z",
+    "title": "BoE deputy says tokenization could cut costs, boost competition",
+    "summary": "The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "74ba6c8ee78b",
+    "time": "2026-05-19T15:43:04Z",
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2661b64c50a7",
     "time": "2026-05-19T14:26:17Z",
     "title": "Japan’s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
@@ -27,16 +67,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-wallet-adds-xstocks-tokenized-equities-products-for-90-million-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "60d06b64746a",
-    "time": "2026-05-19T12:00:00Z",
-    "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-    "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -60,32 +90,12 @@
     "pinned": false
   },
   {
-    "id": "7a8d3c7cbfdd",
-    "time": "2026-05-18T21:55:02Z",
-    "title": "OSHA probing worker death at SpaceX’s Starbase site",
-    "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "0bfa66d75f54",
     "time": "2026-05-18T21:46:03Z",
     "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
     "summary": "Attorneys representing a former Homeland Security official admitted using Anthropic’s Claude Console to help draft a court filing that included fabricated quotes.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "508e9994d19f",
-    "time": "2026-05-18T19:27:52Z",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -110,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "c1adbb4a1559",
-    "time": "2026-05-18T17:34:43Z",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "b1e65265ba28",
     "time": "2026-05-18T16:45:00Z",
     "title": "Bank of England, FCA Set Out ‘Shared Vision’ for Tokenization",
@@ -130,30 +130,10 @@
     "pinned": false
   },
   {
-    "id": "36a45281de4e",
-    "time": "2026-05-18T14:46:25Z",
-    "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
-    "summary": "Hyperliquid’s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a3a4b3a14027",
-    "time": "2026-05-17T19:46:34Z",
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "408386418943",
     "time": "2026-05-15T23:27:44Z",
     "title": "SpaceX launches CRS-34 cargo mission to ISS",
-    "summary": "Updated May 16 to include CLARREO Pathfinder.",
+    "summary": "A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilograms of cargo to the International Space Station.\nThe post SpaceX launches CRS-34 cargo mission to ISS appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
     "category": "成份股",
@@ -163,7 +143,7 @@
     "id": "6ab84f9947fb",
     "time": "2026-05-15T22:06:07Z",
     "title": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
-    "summary": "TAMPA, Fla. — A planned direct-to-device (D2D) joint venture between AT&amp;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space.",
+    "summary": "A planned direct-to-device joint venture between AT&#038;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space.\nThe post Starlink Mobile challengers back proposed telco-led D2D joint venture appeared first on SpaceNe",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
     "category": "成份股",
