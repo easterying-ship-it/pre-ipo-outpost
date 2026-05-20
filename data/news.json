@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "3760957d1006",
+    "time": "2026-05-20T17:24:24Z",
+    "title": "OpenAI barrels towards IPO that may happen in September",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1bc100ce4fd2",
     "time": "2026-05-20T14:02:37Z",
     "title": "HYPE Surges 101% This Year: What’s Driving Hyperliquid’s Growth?",
@@ -56,46 +66,6 @@
     "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b223cd8bf88c",
-    "time": "2026-05-19T19:14:47Z",
-    "title": "Polymarket partners with Nasdaq to list private company contracts",
-    "summary": "New markets will let users trade on fundraising, valuation and other startup milestones using data from Nasdaq Private Market, extending forecasting into private capital.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d8b7a4441ead",
-    "time": "2026-05-19T17:45:00Z",
-    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
-    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2661b64c50a7",
-    "time": "2026-05-19T14:26:17Z",
-    "title": "Japan’s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
-    "summary": "Stablecoins and tokenized deposits could help Japan modernize payments and reduce reliance on foreign rails, the proposal says.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a2b4dc7ed670",
-    "time": "2026-05-19T11:26:32Z",
-    "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-    "summary": "HYPE soared as the SEC opened the door to third-party tokenized stocks. Strategy bought another $2B in BTC, and price still went lower.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
     "category": "IPO动态",
     "pinned": false
   },
