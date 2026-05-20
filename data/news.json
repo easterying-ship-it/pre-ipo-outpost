@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "1bc100ce4fd2",
+    "time": "2026-05-20T14:02:37Z",
+    "title": "HYPE Surges 101% This Year: What’s Driving Hyperliquid’s Growth?",
+    "summary": "Hyperliquid's HYPE token has decoupled from Bitcoin with 101% YTD gains as the platform's revenue explodes across multiple sectors.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "7d9d2123e958",
     "time": "2026-05-20T09:16:08Z",
     "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
@@ -70,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "df5cfed7ffc8",
-    "time": "2026-05-19T16:54:43Z",
-    "title": "BoE deputy says tokenization could cut costs, boost competition",
-    "summary": "The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "2661b64c50a7",
     "time": "2026-05-19T14:26:17Z",
     "title": "Japan’s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
@@ -100,32 +100,12 @@
     "pinned": false
   },
   {
-    "id": "0bfa66d75f54",
-    "time": "2026-05-18T21:46:03Z",
-    "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
-    "summary": "Attorneys representing a former Homeland Security official admitted using Anthropic’s Claude Console to help draft a court filing that included fabricated quotes.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8cae2056310b",
     "time": "2026-05-18T18:27:46Z",
     "title": "Super Heavy Block 3 the Booster of the Future",
     "summary": "The first stage of Starship, the Super Heavy booster, has already undergone many changes during&#8230;\nThe post Super Heavy Block 3 the Booster of the Future appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "408386418943",
-    "time": "2026-05-15T23:27:44Z",
-    "title": "SpaceX launches CRS-34 cargo mission to ISS",
-    "summary": "A Falcon 9 launched a Dragon cargo spacecraft May 15 carrying nearly 3,000 kilograms of cargo to the International Space Station.\nThe post SpaceX launches CRS-34 cargo mission to ISS appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
     "category": "成份股",
     "pinned": false
   },
