@@ -10,12 +10,52 @@
     "pinned": true
   },
   {
-    "id": "3760957d1006",
-    "time": "2026-05-20T17:24:24Z",
-    "title": "OpenAI barrels towards IPO that may happen in September",
-    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "id": "03c2f8467a35",
+    "time": "2026-05-20T21:23:02Z",
+    "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
+    "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "source_url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9ec1ec5dce9d",
+    "time": "2026-05-20T20:52:00Z",
+    "title": "The SpaceX IPO filing has arrived",
+    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a86aba0276fd",
+    "time": "2026-05-20T20:28:27Z",
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ce6cf2a1a58a",
+    "time": "2026-05-20T18:45:17Z",
+    "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ",
+    "summary": "ChatGPT maker OpenAI is reportedly targeting a September public debut after the Elon Musk lawsuit dismissal clears legal obstacles.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368498/openai-file-ipo-targeting-september-listing-wsj",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2f36fa6ddb51",
+    "time": "2026-05-20T17:24:24Z",
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -57,16 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-051926/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "6bfc63660d1a",
-    "time": "2026-05-19T20:11:00Z",
-    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
