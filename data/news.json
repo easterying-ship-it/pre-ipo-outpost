@@ -50,16 +50,6 @@
     "pinned": false
   },
   {
-    "id": "ffcfad28a315",
-    "time": "2026-05-19T17:45:00Z",
-    "title": "OpenAI is making it easier to check if an image was made by their models",
-    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "df5cfed7ffc8",
     "time": "2026-05-19T16:54:43Z",
     "title": "BoE deputy says tokenization could cut costs, boost competition",
@@ -76,16 +66,6 @@
     "summary": "Stablecoins and tokenized deposits could help Japan modernize payments and reduce reliance on foreign rails, the proposal says.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c6e5e16563e3",
-    "time": "2026-05-19T12:00:00Z",
-    "title": "Bitget Wallet integrates Kraken-backed xStocks tokenized equities",
-    "summary": "The self-custodial wallet platform integrated Kraken-backed xStocks infrastructure, adding more than 130 tokenized stocks and ETFs for users.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-wallet-adds-xstocks-tokenized-equities-products-for-90-million-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
