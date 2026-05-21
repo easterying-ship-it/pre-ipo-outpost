@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "bfe96c464e62",
+    "time": "2026-05-21T05:52:38Z",
+    "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+    "summary": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c68a8f6a9d76",
+    "time": "2026-05-21T04:36:42Z",
+    "title": "Hyperliquid ETFs surprise with 50% volume jump after slow launch",
+    "summary": "ETF analyst Eric Balchunas says crypto and traditional assets are trading down while Hyperliquid is up, leading to a boon for ETFs tied to the token.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hyperliquid-etfs-see-50-volume-jump-with-perfectly-timed-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4c1b497d4cb8",
+    "time": "2026-05-21T04:35:52Z",
+    "title": "Map Protocol token plummets 96% after a quadrillion token mint exploit",
+    "summary": "The attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/map-protocol-loses-96-of-its-value-after-quadrillion-token-mint-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "81028a1931d7",
+    "time": "2026-05-21T02:08:30Z",
+    "title": "SpaceX reveals larger-than-expected Bitcoin holdings in IPO filing",
+    "summary": "SpaceX is expected to go public next month, which would make its 18,712 Bitcoin holdings rank seventh among public companies.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "990581a2be89",
     "time": "2026-05-21T00:21:21Z",
     "title": "Anthropic says it’s about to have its first profitable quarter",
@@ -147,16 +187,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7d9d2123e958",
-    "time": "2026-05-20T09:16:08Z",
-    "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
-    "summary": "OpenAI is opening its first overseas applied AI lab in Singapore through a $234 million partnership expected to create more than 200 technical roles.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "成份股",
     "pinned": false
   },
   {
