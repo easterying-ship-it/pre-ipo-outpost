@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "0729d5041348",
+    "time": "2026-05-21T14:58:19Z",
+    "title": "Crypto Exchange Blockchain.com Files for IPO in the US",
+    "summary": "Long-running crypto exchange Blockchain.com has confidentially filed to take its business public via the U.S. markets.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f9da0a81c2b1",
     "time": "2026-05-21T13:00:12Z",
     "title": "Starship underpins SpaceX’s growth ambitions",
@@ -40,9 +50,9 @@
     "pinned": false
   },
   {
-    "id": "441b0503d96a",
+    "id": "7644c4a3cc01",
     "time": "2026-05-21T11:00:00Z",
-    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "title": "Beauty booking startup Fresha hits $1B valuation with KKR backing",
     "summary": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
@@ -100,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "990581a2be89",
-    "time": "2026-05-21T00:21:21Z",
-    "title": "Anthropic says it’s about to have its first profitable quarter",
-    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "7d8d54a973fb",
     "time": "2026-05-20T23:52:00Z",
     "title": "Starship Flight 12: Welcome to the Show Block 3 and Pad 2",
@@ -117,26 +117,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "336f158e5bb1",
-    "time": "2026-05-20T23:03:02Z",
-    "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
-    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fdce240553d1",
-    "time": "2026-05-20T22:26:08Z",
-    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -170,32 +150,12 @@
     "pinned": false
   },
   {
-    "id": "89be3b26b97c",
-    "time": "2026-05-20T21:55:49Z",
-    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ce6cf2a1a58a",
     "time": "2026-05-20T18:45:17Z",
     "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ",
     "summary": "ChatGPT maker OpenAI is reportedly targeting a September public debut after the Elon Musk lawsuit dismissal clears legal obstacles.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368498/openai-file-ipo-targeting-september-listing-wsj",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1bc100ce4fd2",
-    "time": "2026-05-20T14:02:37Z",
-    "title": "HYPE Surges 101% This Year: What’s Driving Hyperliquid’s Growth?",
-    "summary": "Hyperliquid's HYPE token has decoupled from Bitcoin with 101% YTD gains as the platform's revenue explodes across multiple sectors.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
     "category": "IPO动态",
     "pinned": false
   },
