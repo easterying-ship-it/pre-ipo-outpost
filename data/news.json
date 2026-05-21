@@ -10,6 +10,96 @@
     "pinned": true
   },
   {
+    "id": "990581a2be89",
+    "time": "2026-05-21T00:21:21Z",
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7d8d54a973fb",
+    "time": "2026-05-20T23:52:00Z",
+    "title": "Starship Flight 12: Welcome to the Show Block 3 and Pad 2",
+    "summary": "It&#8217;s been just over seven years since a raptor engine first fired aboard a vehicle&#8230;\nThe post Starship Flight 12: Welcome to the Show Block 3 and Pad 2 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "336f158e5bb1",
+    "time": "2026-05-20T23:03:02Z",
+    "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
+    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fdce240553d1",
+    "time": "2026-05-20T22:26:08Z",
+    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0c898080abcb",
+    "time": "2026-05-20T22:19:18Z",
+    "title": "SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant",
+    "summary": "The rocket maker’s IPO filing outlines billions in AI spending, Starship development, and Elon Musk’s effort to combine launch systems, satellite internet, social media, and artificial intelligence under one company.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368573/spacex-ipo-filing-elon-musk-ai-space-infrastructure-giant",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "343160ba5717",
+    "time": "2026-05-20T22:16:01Z",
+    "title": "SpaceX files for IPO",
+    "summary": "SpaceX filed documents for an initial public offering of stock May 20, revealing the company’s finances and enormous ambitions\nThe post SpaceX files for IPO appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-files-for-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5305cf59c024",
+    "time": "2026-05-20T21:59:32Z",
+    "title": "Elon Musk's SpaceX IPO Filing Reveals $1.45 Billion Bitcoin Position",
+    "summary": "SpaceX is gearing up for what's likely to be a blockbuster IPO, and Elon Musk's aerospace and AI firm holds more Bitcoin than expected.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368570/elon-musks-spacex-ipo-filing-reveals-1-45-billion-bitcoin-position",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "89be3b26b97c",
+    "time": "2026-05-20T21:55:49Z",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "573609ac1fc8",
+    "time": "2026-05-20T21:29:22Z",
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "03c2f8467a35",
     "time": "2026-05-20T21:23:02Z",
     "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
@@ -17,16 +107,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9ec1ec5dce9d",
-    "time": "2026-05-20T20:52:00Z",
-    "title": "The SpaceX IPO filing has arrived",
-    "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -77,16 +157,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e8e5845dc1a6",
-    "time": "2026-05-20T07:37:19Z",
-    "title": "Bitwise calls HYPE ‘most mispriced’ crypto despite 77% rise this year",
-    "summary": "Bitwise’s Matt Hougan says Hyperliquid’s token is not priced as if it is tied to a “global super-app,” arguing the platform is more than just a crypto platform.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
