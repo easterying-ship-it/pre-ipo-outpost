@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ef7da079cc40",
+    "time": "2026-05-22T20:46:37Z",
+    "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+    "summary": "The SEC’s expected regulatory framework would have provided clarity for companies looking to tokenize traditional assets like stocks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7459a84dbbfd",
+    "time": "2026-05-22T20:31:03Z",
+    "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
+    "summary": "Fara1.5 is a family of open-weight browser agents from Microsoft Research that outperforms OpenAI's Operator and Google's Gemini 2.5 Computer Use on the industry's toughest live-web benchmark.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e9e359be8b98",
+    "time": "2026-05-22T19:23:47Z",
+    "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
+    "summary": "F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "261f144627dd",
     "time": "2026-05-22T17:01:28Z",
     "title": "NEAR protocol leads AI token rally with a 50% pump: Is $5 NEAR price next?",
@@ -17,6 +47,16 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/near-protocol-leads-ai-token-rally-with-a-50-pump-is-5-near-price-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "da05297402ee",
+    "time": "2026-05-22T14:30:00Z",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -47,16 +87,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/tokenized-stocks-risk-liquidity-and-revenue-fragmentation-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d200e04bd74c",
-    "time": "2026-05-22T06:35:38Z",
-    "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-    "summary": "An executive at tokenization platforms Superstate said the stricter approach suggested by Hester Peirce would enable DeFi to expand without compromising rules in traditional capital markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
