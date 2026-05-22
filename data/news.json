@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "a5e6616a3aa5",
+    "time": "2026-05-22T01:30:02Z",
+    "title": "Ground equipment problem scrubs Starship launch attempt",
+    "summary": "SpaceX called off the first attempt to launch the newest version of its Starship vehicle May 21 because of a problem with ground equipment.\nThe post Ground equipment problem scrubs Starship launch attempt appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "abfb500f26c2",
+    "time": "2026-05-22T00:07:47Z",
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "173ea4c2f3dd",
+    "time": "2026-05-21T21:39:03Z",
+    "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+    "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2a64a621bf73",
     "time": "2026-05-21T20:28:10Z",
     "title": "Binance launches SpaceX-linked perpetual futures ahead of IPO",
@@ -20,12 +50,12 @@
     "pinned": false
   },
   {
-    "id": "d9d21d56f40a",
+    "id": "1af8c9707b7d",
     "time": "2026-05-21T19:35:21Z",
-    "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+    "title": "How Elon Musk will increase his power through the SpaceX IPO",
     "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+    "source_url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -70,43 +100,13 @@
     "pinned": false
   },
   {
-    "id": "0eb60c377350",
-    "time": "2026-05-21T11:27:44Z",
-    "title": "HYPE Jumps Double Digits as Hyperliquid ETFs Add $25.5M",
-    "summary": "Hyperliquid’s HYPE logged double-digit gains on the day, as ETF demand outpaced the token's supply reduction mechanism.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368593/hype-jumps-double-digits-as-hyperliquid-etfs-add-25-5m",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "56bbc4de5f34",
-    "time": "2026-05-21T07:34:52Z",
-    "title": "Tax evaders are trying ‘novel digital assets’ to dodge authorities: Chainalysis",
-    "summary": "Italian authorities uncovered a tax evasion scheme in which an individual allegedly used Bitcoin Ordinals and the BRC-20 token standard to generate and conceal $1.1 million.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/criminals-attempt-to-use-bitcoin-ordinals-to-evade-authorities-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7d8d54a973fb",
+    "id": "6b2c1f947efc",
     "time": "2026-05-20T23:52:00Z",
-    "title": "Starship Flight 12: Welcome to the Show Block 3 and Pad 2",
-    "summary": "It&#8217;s been just over seven years since a raptor engine first fired aboard a vehicle&#8230;\nThe post Starship Flight 12: Welcome to the Show Block 3 and Pad 2 appeared first on NASASpaceFlight.com.",
+    "title": "Starship Flight 12 Scrubs Due to Ship Quick Disconnect Issues",
+    "summary": "It&#8217;s been just over seven years since a raptor engine first fired aboard a vehicle&#8230;\nThe post Starship Flight 12 Scrubs Due to Ship Quick Disconnect Issues appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "0c898080abcb",
-    "time": "2026-05-20T22:19:18Z",
-    "title": "SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant",
-    "summary": "The rocket maker’s IPO filing outlines billions in AI spending, Starship development, and Elon Musk’s effort to combine launch systems, satellite internet, social media, and artificial intelligence under one company.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368573/spacex-ipo-filing-elon-musk-ai-space-infrastructure-giant",
-    "category": "IPO动态",
     "pinned": false
   },
   {
