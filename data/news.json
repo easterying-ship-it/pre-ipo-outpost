@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "6bb0d5b3eac7",
+    "time": "2026-05-25T07:15:39Z",
+    "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+    "summary": "Chun Wang, who bankrolled and led a SpaceX flight over Earth’s poles, says he will head to Mars on SpaceX’s first manned mission to the red planet.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d0c6b42efc0e",
     "time": "2026-05-25T03:45:13Z",
     "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
@@ -37,16 +47,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "81e9777b065f",
-    "time": "2026-05-24T05:45:00Z",
-    "title": "StablR Euro and US dollar stablecoins depeg after $2.8M exploit",
-    "summary": "Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
