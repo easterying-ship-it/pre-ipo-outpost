@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "ef18f03a5efd",
+    "time": "2026-05-24T20:43:42Z",
+    "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
+    "summary": "The Ethereum Foundation holds less than 1% of all ETH in circulation while other protocol foundations typically hold 10-50% of their native token's supply, the founder said.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c773b0637127",
     "time": "2026-05-24T07:51:34Z",
     "title": "NASA to add missions to SpaceX commercial crew contract",
@@ -17,6 +27,16 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
     "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "81e9777b065f",
+    "time": "2026-05-24T05:45:00Z",
+    "title": "StablR Euro and US dollar stablecoins depeg after $2.8M exploit",
+    "summary": "Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
     "pinned": false
   },
   {
