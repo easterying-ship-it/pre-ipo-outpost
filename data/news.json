@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "6d883b94c448",
+    "time": "2026-05-25T15:02:22Z",
+    "title": "Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech",
+    "summary": "The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7ad44ec5d09b",
+    "time": "2026-05-25T14:35:34Z",
+    "title": "ARIQO makes its Bangkok debut at SEABW, drawing industry attention",
+    "summary": "Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Slated for Second Half of 2026",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/press-releases/ariqo-makes-its-bangkok-debut-at-seabw-drawing-industry-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "6bb0d5b3eac7",
     "time": "2026-05-25T07:15:39Z",
     "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
@@ -17,26 +37,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d0c6b42efc0e",
-    "time": "2026-05-25T03:45:13Z",
-    "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
-    "summary": "The SEC has reportedly delayed releasing a proposal permitting tokenized stock trading after receiving industry concerns.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ef18f03a5efd",
-    "time": "2026-05-24T20:43:42Z",
-    "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
-    "summary": "The Ethereum Foundation holds less than 1% of all ETH in circulation while other protocol foundations typically hold 10-50% of their native token's supply, the founder said.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
