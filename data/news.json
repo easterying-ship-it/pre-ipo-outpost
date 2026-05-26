@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "71fb74e1bddc",
+    "time": "2026-05-26T21:03:56Z",
+    "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
+    "summary": "Musk has said that Starship is the key to keeping Starlink's costs under control, even saying that SpaceX could go bankrupt without the vehicle's ability to replace those satellites cheaply.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8cefb463e6f2",
+    "time": "2026-05-26T18:48:04Z",
+    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+    "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c8c051edbd38",
+    "time": "2026-05-26T18:33:01Z",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f8d4bdc5d0d5",
     "time": "2026-05-26T17:03:13Z",
     "title": "Starcloud orders Starlink lasers for orbital data center network",
@@ -63,7 +93,7 @@
     "id": "0c13647d4bdf",
     "time": "2026-05-26T12:00:00Z",
     "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-    "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
+    "summary": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
     "category": "IPO动态",
@@ -107,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-052526/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "6d883b94c448",
-    "time": "2026-05-25T15:02:22Z",
-    "title": "Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech",
-    "summary": "The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026",
-    "category": "IPO动态",
     "pinned": false
   },
   {
