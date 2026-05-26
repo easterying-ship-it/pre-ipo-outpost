@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "270d9439e7f0",
+    "time": "2026-05-26T13:10:49Z",
+    "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
+    "summary": "The trader still has over $100,000 worth of unrealized gains in the World Cup token, ahead of the start of the tournament next month.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368996/lucky-trader-rides-341-world-cup-meme-coin-buy-to-14000-gains",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "0c13647d4bdf",
+    "time": "2026-05-26T12:00:00Z",
+    "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+    "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a898619499df",
+    "time": "2026-05-26T11:47:49Z",
+    "title": "Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak",
+    "summary": "Hyperliquid ETFs posted an 8-day inflow streak as the network’s native token HYPE hit a new all-time high Sunday.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/368988/bitcoin-ethereum-etfs-shed-112m-as-hyperliquid-funds-extend-8-day-win-streak",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "559abf27d420",
+    "time": "2026-05-26T10:30:00Z",
+    "title": "Luffa secures strategic investment from GoFintech Quantum at US$220 million valuation, pioneering AI + fintech frontier",
+    "summary": "Luffa AI, a leading innovator at the intersection of Web3 and Artificial Intelligence, today announced a strategic equity investment from Hong Kong-listed GoFintech Quantum Innovation Limited (“GoFintech Quantum”, Stock Code: 00290.HK).",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/press-releases/luffa-secures-strategic-investment-from-gofintech-quantum-at-us220-million-valuation-pioneering-ai-fintech-frontier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f0cf9ed0977e",
     "time": "2026-05-26T06:00:00Z",
     "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
@@ -40,32 +80,12 @@
     "pinned": false
   },
   {
-    "id": "b531c7fb20c9",
-    "time": "2026-05-25T18:29:58Z",
-    "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
-    "summary": "The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "6d883b94c448",
     "time": "2026-05-25T15:02:22Z",
     "title": "Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech",
     "summary": "The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7ad44ec5d09b",
-    "time": "2026-05-25T14:35:34Z",
-    "title": "ARIQO makes its Bangkok debut at SEABW, drawing industry attention",
-    "summary": "Canton Foundation, Toss, BitGo Among Co-Hosts at Private Event; Token Launch Slated for Second Half of 2026",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/press-releases/ariqo-makes-its-bangkok-debut-at-seabw-drawing-industry-attention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -110,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "3676931548a5",
-    "time": "2026-05-22T22:55:57Z",
-    "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-    "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
     "id": "ef7da079cc40",
     "time": "2026-05-22T20:46:37Z",
     "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
@@ -137,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e9e359be8b98",
-    "time": "2026-05-22T19:23:47Z",
-    "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
-    "summary": "F2Pool co-founder Chun Wang plans a Starship flyby of Mars, before SpaceX attempts to land humans on the surface.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
-    "category": "成份股",
     "pinned": false
   },
   {
