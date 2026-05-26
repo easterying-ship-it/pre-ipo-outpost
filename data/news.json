@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "f8d4bdc5d0d5",
+    "time": "2026-05-26T17:03:13Z",
+    "title": "Starcloud orders Starlink lasers for orbital data center network",
+    "summary": "Starcloud has ordered optical terminals from SpaceX to use Starlink as a global data-relay network for its future orbital data centers, deepening ties with the company it is counting on to launch full-size spacecraft.\nThe post Starcloud orders Starlink lasers for orbital data cen",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "b2f836d9adf6",
+    "time": "2026-05-26T16:42:10Z",
+    "title": "NEAR token price has 'potential to grow 20x,' says Arthur Hayes",
+    "summary": "NEAR is mirroring a 2023–2024 fractal that preceded a 250% rally, hinting at similar upside in 2026 as privacy coin demand grows.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/near-token-price-has-potential-to-grow-20x-says-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6f6e1894c145",
+    "time": "2026-05-26T15:00:00Z",
+    "title": "Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs",
+    "summary": "Grvt will work with Plume to launch tokenized fixed-income and structured credit products tied to institutional-grade real world assets and onchain yield strategies.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/grvt-taps-plume-for-tokenized-rwa-yield-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "903648979301",
+    "time": "2026-05-26T14:50:43Z",
+    "title": "RWA market hits $51B as tokenized private credits surges: Bernstein",
+    "summary": "Bernstein Research data shows the RWA market at $51 billion, with tokenized private credit leading and Figure leading RWA platforms with $18 billion in tokenized assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/rwa-market-cap-51-billion-tokenized-private-credit-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "270d9439e7f0",
     "time": "2026-05-26T13:10:49Z",
     "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
@@ -60,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "523c97c54649",
-    "time": "2026-05-26T03:14:03Z",
-    "title": "Kelp DAO says rsETH restored 5 weeks after $293M protocol hack",
-    "summary": "Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "bf52c28b5fa3",
     "time": "2026-05-25T22:01:32Z",
     "title": "Launch Preview: Starlink and Amazon Leo missions fill manifest",
@@ -100,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "f37484a3e1ba",
-    "time": "2026-05-23T14:50:00Z",
-    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-    "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "73ad52aa48a2",
-    "time": "2026-05-23T13:00:00Z",
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "35d1a867e4dc",
     "time": "2026-05-23T00:35:12Z",
     "title": "SpaceX launches first Starship V3",
@@ -127,26 +137,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-first-starship-v3/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "ef7da079cc40",
-    "time": "2026-05-22T20:46:37Z",
-    "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
-    "summary": "The SEC’s expected regulatory framework would have provided clarity for companies looking to tokenize traditional assets like stocks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7459a84dbbfd",
-    "time": "2026-05-22T20:31:03Z",
-    "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
-    "summary": "Fara1.5 is a family of open-weight browser agents from Microsoft Research that outperforms OpenAI's Operator and Google's Gemini 2.5 Computer Use on the industry's toughest live-web benchmark.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -166,16 +156,6 @@
     "summary": "SpaceX called off the first attempt to launch the newest version of its Starship vehicle May 21 because of a problem with ground equipment.\nThe post Ground equipment problem scrubs Starship launch attempt appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/ground-equipment-problem-scrubs-starship-launch-attempt/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f9da0a81c2b1",
-    "time": "2026-05-21T13:00:12Z",
-    "title": "Starship underpins SpaceX’s growth ambitions",
-    "summary": "As SpaceX prepares for its next Starship test flight, the company’s prospectus underlines how critical that vehicle is to its ambitions.\nThe post Starship underpins SpaceX’s growth ambitions appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
     "category": "成份股",
     "pinned": false
   },
