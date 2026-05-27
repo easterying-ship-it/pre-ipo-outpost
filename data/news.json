@@ -10,6 +10,86 @@
     "pinned": true
   },
   {
+    "id": "5c31317a7ddc",
+    "time": "2026-05-27T17:43:14Z",
+    "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption",
+    "summary": "The philanthropic arm of ChatGPT maker OpenAI will fund research, worker support, and new models for sharing the gains from automation.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369195/openai-foundation-pledges-250-million-ai-economic-disruption",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ddf46613da26",
+    "time": "2026-05-27T17:08:09Z",
+    "title": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana",
+    "summary": "SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "adc2c1dae7fd",
+    "time": "2026-05-27T16:00:00Z",
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2e6447395f2b",
+    "time": "2026-05-27T15:34:19Z",
+    "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
+    "summary": "AMSTERDAM – A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian forces through third-party countries or intermediaries. Kateryna [&#8230;]\nThe post Former Ukraine official calls for stricter rest",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "df4cdeaa54e1",
+    "time": "2026-05-27T15:20:16Z",
+    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+    "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "f9327494ce17",
+    "time": "2026-05-27T15:07:29Z",
+    "title": "StakeDAO exploit creates 5.4 trillion vsdCRV but nets only $91K",
+    "summary": "PeckShield said the attacker bridged 43.7 ETH to Ethereum after minting trillions of vsdCRV, while EmberCN said most of the remaining tokens had insufficient liquidity to sell.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/stakedao-vsdcrv-attacker-liquidity-91k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3fd8e878488b",
+    "time": "2026-05-27T15:01:26Z",
+    "title": "Starcloud’s path to 88,000 computing satellites",
+    "summary": "In November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a compute system with an NVIDIA H100 [&#8230;]\nThe post Starcloud’s path to 88,000 computing satellites appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "899230258e1e",
+    "time": "2026-05-27T14:58:02Z",
+    "title": "Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits",
+    "summary": "Mastercard has secured a highly coveted BitLicense in New York, anchoring its compliance-first strategy for stablecoins on Wall Street.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369158/mastercard-secures-new-york-bitlicense-stablecoins-tokenized-deposits",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3240fb147e6d",
     "time": "2026-05-27T13:04:41Z",
     "title": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
@@ -50,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "62fd7156300a",
-    "time": "2026-05-27T04:49:13Z",
-    "title": "Base launches new tool to connect crypto wallets to AI agents",
-    "summary": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "bf5fd6c32e45",
-    "time": "2026-05-27T03:11:59Z",
-    "title": "Tom Lee predicts supercycle amid Bitmine’s largest Ethereum buy in 2026",
-    "summary": "Bitmine purchased 111,942 Ether last week, its biggest buy so far in 2026, after the token dropped below $2,200.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitmine-buys-111k-ethereum-as-tom-lee-predicts-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "5c07df49de16",
     "time": "2026-05-27T01:10:58Z",
     "title": "Following Starship V3 debut, SpaceX prepares for follow up",
@@ -90,52 +150,12 @@
     "pinned": false
   },
   {
-    "id": "71fb74e1bddc",
-    "time": "2026-05-26T21:03:56Z",
-    "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-    "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8cefb463e6f2",
-    "time": "2026-05-26T18:48:04Z",
-    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-    "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c8c051edbd38",
-    "time": "2026-05-26T18:33:01Z",
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f8d4bdc5d0d5",
     "time": "2026-05-26T17:03:13Z",
     "title": "Starcloud orders Starlink lasers for orbital data center network",
     "summary": "Starcloud has ordered optical terminals from SpaceX to use Starlink as a global data-relay network for its future orbital data centers, deepening ties with the company it is counting on to launch full-size spacecraft.\nThe post Starcloud orders Starlink lasers for orbital data cen",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f0cf9ed0977e",
-    "time": "2026-05-26T06:00:00Z",
-    "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-    "summary": "Two companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.\nThe post Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions appeared first on SpaceNe",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
     "category": "成份股",
     "pinned": false
   },
@@ -147,16 +167,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-052526/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "c773b0637127",
-    "time": "2026-05-24T07:51:34Z",
-    "title": "NASA to add missions to SpaceX commercial crew contract",
-    "summary": "NASA plans to add more missions to SpaceX’s commercial crew contract, protecting the agency from the possibility that Boeing’s spacecraft is never certified for missions to the International Space Station.\nThe post NASA to add missions to SpaceX commercial crew contract appeared ",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
