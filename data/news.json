@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "e4d508e56989",
+    "time": "2026-05-27T21:07:10Z",
+    "title": "Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge",
+    "summary": "If Tesla and SpaceX merged—as is a reported possibility—then Elon Musk's combined entity would hold billions of dollars' worth of Bitcoin.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3ab54ec09762",
+    "time": "2026-05-27T20:51:40Z",
+    "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
+    "summary": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5c31317a7ddc",
     "time": "2026-05-27T17:43:14Z",
     "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption",
@@ -100,12 +120,12 @@
     "pinned": false
   },
   {
-    "id": "567af26cdc81",
+    "id": "ae2faa6aa1d7",
     "time": "2026-05-27T13:04:20Z",
-    "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+    "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
     "summary": "The database provider is eyeing a public debut within the next few years.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+    "source_url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -197,16 +217,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/super-heavy-block-3-booster-future/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f9d32d76c2e6",
-    "time": "2026-05-15T16:53:49Z",
-    "title": "Flight 12 readies for the debut SpaceX’s next Ship evolution",
-    "summary": "Starship’s second stage has evolved through numerous iterations since the early test flights of SN8&#8230;\nThe post Flight 12 readies for the debut SpaceX&#8217;s next Ship evolution appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/05/fligth12-debut-spacex-ship-evolution/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
