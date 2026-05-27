@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "3240fb147e6d",
+    "time": "2026-05-27T13:04:41Z",
+    "title": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
+    "summary": "Europe has proposed reserving two-thirds of 2 gigahertz mobile satellite spectrum up for renewal next year for European operators, complicating SpaceX’s direct-to-device ambitions and the outlook for Viasat’s European Aviation Network.\nThe post Europe’s satellite spectrum proposa",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "567af26cdc81",
+    "time": "2026-05-27T13:04:20Z",
+    "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+    "summary": "The database provider is eyeing a public debut within the next few years.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f4502e569cca",
+    "time": "2026-05-27T12:28:30Z",
+    "title": "Morning Minute: Dark Pool Trader Dumps $1.3B in IBIT in Single Clip",
+    "summary": "Strategy is paying down its debt instead of buying Bitcoin, and AI tokens are now massively outperforming BTC.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369129/morning-minute-dark-pool-trader-dumps-1-3b-in-ibit-in-single-clip",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b1760b95c279",
+    "time": "2026-05-27T11:33:29Z",
+    "title": "European space industry watching SpaceX IPO plans",
+    "summary": "Space companies and investors in Europe are closely watching SpaceX’s plans to go public, an event that could spur new investment in other companies.\nThe post European space industry watching SpaceX IPO plans appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "62fd7156300a",
     "time": "2026-05-27T04:49:13Z",
     "title": "Base launches new tool to connect crypto wallets to AI agents",
@@ -90,56 +130,6 @@
     "pinned": false
   },
   {
-    "id": "b2f836d9adf6",
-    "time": "2026-05-26T16:42:10Z",
-    "title": "NEAR token price has 'potential to grow 20x,' says Arthur Hayes",
-    "summary": "NEAR is mirroring a 2023–2024 fractal that preceded a 250% rally, hinting at similar upside in 2026 as privacy coin demand grows.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/near-token-price-has-potential-to-grow-20x-says-arthur-hayes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6f6e1894c145",
-    "time": "2026-05-26T15:00:00Z",
-    "title": "Grvt adds 3 tokenized yield funds tied to institutional-grade RWAs",
-    "summary": "Grvt will work with Plume to launch tokenized fixed-income and structured credit products tied to institutional-grade real world assets and onchain yield strategies.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/grvt-taps-plume-for-tokenized-rwa-yield-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "270d9439e7f0",
-    "time": "2026-05-26T13:10:49Z",
-    "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
-    "summary": "The trader still has over $100,000 worth of unrealized gains in the World Cup token, ahead of the start of the tournament next month.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368996/lucky-trader-rides-341-world-cup-meme-coin-buy-to-14000-gains",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "0c13647d4bdf",
-    "time": "2026-05-26T12:00:00Z",
-    "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-    "summary": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a898619499df",
-    "time": "2026-05-26T11:47:49Z",
-    "title": "Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak",
-    "summary": "Hyperliquid ETFs posted an 8-day inflow streak as the network’s native token HYPE hit a new all-time high Sunday.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/368988/bitcoin-ethereum-etfs-shed-112m-as-hyperliquid-funds-extend-8-day-win-streak",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "f0cf9ed0977e",
     "time": "2026-05-26T06:00:00Z",
     "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
@@ -166,26 +156,6 @@
     "summary": "NASA plans to add more missions to SpaceX’s commercial crew contract, protecting the agency from the possibility that Boeing’s spacecraft is never certified for missions to the International Space Station.\nThe post NASA to add missions to SpaceX commercial crew contract appeared ",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "35d1a867e4dc",
-    "time": "2026-05-23T00:35:12Z",
-    "title": "SpaceX launches first Starship V3",
-    "summary": "SpaceX launched the newest version of its Starship vehicle for the first time May 22, completing most of the test objectives planned for the suborbital flight.\nThe post SpaceX launches first Starship V3 appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-launches-first-starship-v3/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "58ea4919cee7",
-    "time": "2026-05-22T12:54:32Z",
-    "title": "SpaceX IPO filing casts Starlink Mobile as future wireless challenger",
-    "summary": "SpaceX’s IPO prospectus casts Starlink Mobile as more than a remote-area backup, with next-generation direct-to-smartphone services designed to be “on par with terrestrial mobile networks” even in urban areas.\nThe post SpaceX IPO filing casts Starlink Mobile as future wireless ch",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-prospectus-casts-starlink-mobile-as-future-wireless-challenger/",
     "category": "IPO动态",
     "pinned": false
   },
