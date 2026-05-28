@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "bd435802a93a",
+    "time": "2026-05-28T17:15:00Z",
+    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+    "summary": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c709dc31ce93",
+    "time": "2026-05-28T17:00:09Z",
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "76bd7abe7155",
+    "time": "2026-05-28T15:36:00Z",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "34b4dada7a38",
     "time": "2026-05-28T12:50:07Z",
     "title": "Samsung units take $408M stake in Upbit operator Dunamu: Report",
@@ -100,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "899230258e1e",
-    "time": "2026-05-27T14:58:02Z",
-    "title": "Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits",
-    "summary": "Mastercard has secured a highly coveted BitLicense in New York, anchoring its compliance-first strategy for stablecoins on Wall Street.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369158/mastercard-secures-new-york-bitlicense-stablecoins-tokenized-deposits",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "3240fb147e6d",
     "time": "2026-05-27T13:04:41Z",
     "title": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
@@ -117,26 +137,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f4502e569cca",
-    "time": "2026-05-27T12:28:30Z",
-    "title": "Morning Minute: Dark Pool Trader Dumps $1.3B in IBIT in Single Clip",
-    "summary": "Strategy is paying down its debt instead of buying Bitcoin, and AI tokens are now massively outperforming BTC.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369129/morning-minute-dark-pool-trader-dumps-1-3b-in-ibit-in-single-clip",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b1760b95c279",
-    "time": "2026-05-27T11:33:29Z",
-    "title": "European space industry watching SpaceX IPO plans",
-    "summary": "Space companies and investors in Europe are closely watching SpaceX’s plans to go public, an event that could spur new investment in other companies.\nThe post European space industry watching SpaceX IPO plans appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
