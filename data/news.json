@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "34b4dada7a38",
+    "time": "2026-05-28T12:50:07Z",
+    "title": "Samsung units take $408M stake in Upbit operator Dunamu: Report",
+    "summary": "Samsung Securities, SDS and Card will buy 4% of Dunamu as Korean firms prepare for tokenized securities and stablecoin frameworks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/samsung-dunamu-stake-upbit-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f4e974b6716d",
+    "time": "2026-05-28T12:32:55Z",
+    "title": "Morning Minute: Crypto Majors Slide on Iran Escalations, ETF Outflows",
+    "summary": "Massive ETF outflows just sent crypto sharply lower. Jefferies says the next crypto IPO wave could create a $1T public market.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369258/morning-minute-crypto-majors-slide-on-iran-escalations-etf-outflows",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fc425ae73975",
     "time": "2026-05-28T09:48:57Z",
     "title": "BIS Project Agorá shows tokenized payments can settle in seconds",
@@ -40,16 +60,6 @@
     "pinned": false
   },
   {
-    "id": "3ab54ec09762",
-    "time": "2026-05-27T20:51:40Z",
-    "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
-    "summary": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5c31317a7ddc",
     "time": "2026-05-27T17:43:14Z",
     "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption",
@@ -70,32 +80,12 @@
     "pinned": false
   },
   {
-    "id": "adc2c1dae7fd",
-    "time": "2026-05-27T16:00:00Z",
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2e6447395f2b",
     "time": "2026-05-27T15:34:19Z",
     "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
     "summary": "AMSTERDAM – A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian forces through third-party countries or intermediaries. Kateryna [&#8230;]\nThe post Former Ukraine official calls for stricter rest",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "df4cdeaa54e1",
-    "time": "2026-05-27T15:20:16Z",
-    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-    "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
     "category": "成份股",
     "pinned": false
   },
@@ -157,16 +147,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9bf4c6f2cfbf",
-    "time": "2026-05-26T22:40:27Z",
-    "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
-    "summary": "The contract is for the development of the U.S. Space Force’s Space Data Network backbone\nThe post SpaceX wins $2.29 billion Space Force contract for military data network appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
