@@ -10,10 +10,60 @@
     "pinned": true
   },
   {
+    "id": "cf3513fb9633",
+    "time": "2026-05-28T20:51:52Z",
+    "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
+    "summary": "Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c208919d9005",
+    "time": "2026-05-28T18:52:51Z",
+    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "04d696853d02",
+    "time": "2026-05-28T18:45:39Z",
+    "title": "Anthropic's Claude Opus 4.8 Is Here: Better AI Coding, Smarter Safety—Same Huge Price",
+    "summary": "Anthropic's latest flagship AI model Claude Opus 4.8 arrives with sharper reasoning, tighter alignment, and a price tag that hasn't budged.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369384/anthropic-claude-opus-4-8-better-ai-coding-smarter-safety-huge-price",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "303e3673bd46",
+    "time": "2026-05-28T18:32:25Z",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "88b705b877dc",
+    "time": "2026-05-28T18:27:39Z",
+    "title": "Anthropic's Claude Mythos AI Model Nearing Release After Raising Cybersecurity Alarms",
+    "summary": "Anthropic signaled that broader access to its controversial Claude Mythos AI models may arrive \"in the coming weeks\" after limited testing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369383/anthropic-claude-mythos-ai-model-nearing-release-cybersecurity-alarms",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "bd435802a93a",
     "time": "2026-05-28T17:15:00Z",
     "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
-    "summary": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
+    "summary": "While startups raising back-to-back rounds at steep step-ups have become almost routine, a company whose valuation doubles in three weeks is unusual enough to raise questions, particularly given the investor set in both rounds is the same.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
     "category": "IPO动态",
@@ -30,9 +80,9 @@
     "pinned": false
   },
   {
-    "id": "76bd7abe7155",
+    "id": "8bff5fb8e4e3",
     "time": "2026-05-28T15:36:00Z",
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
     "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
@@ -87,26 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5c31317a7ddc",
-    "time": "2026-05-27T17:43:14Z",
-    "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI's Economic Disruption",
-    "summary": "The philanthropic arm of ChatGPT maker OpenAI will fund research, worker support, and new models for sharing the gains from automation.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369195/openai-foundation-pledges-250-million-ai-economic-disruption",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ddf46613da26",
-    "time": "2026-05-27T17:08:09Z",
-    "title": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana",
-    "summary": "SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
-    "category": "市场数据",
     "pinned": false
   },
   {
