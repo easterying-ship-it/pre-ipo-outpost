@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e2900242de05",
+    "time": "2026-05-29T01:22:16Z",
+    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+    "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cf3513fb9633",
     "time": "2026-05-28T20:51:52Z",
     "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
@@ -80,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "8bff5fb8e4e3",
-    "time": "2026-05-28T15:36:00Z",
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-    "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "34b4dada7a38",
     "time": "2026-05-28T12:50:07Z",
     "title": "Samsung units take $408M stake in Upbit operator Dunamu: Report",
@@ -106,16 +106,6 @@
     "summary": "Massive ETF outflows just sent crypto sharply lower. Jefferies says the next crypto IPO wave could create a $1T public market.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369258/morning-minute-crypto-majors-slide-on-iran-escalations-etf-outflows",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fc425ae73975",
-    "time": "2026-05-28T09:48:57Z",
-    "title": "BIS Project Agorá shows tokenized payments can settle in seconds",
-    "summary": "The Bank for International Settlements' collaboration with seven central banks and more than 40 institutions concludes a two-year project with a prototype settling wholesale payments in seconds.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bis-40-banks-test-tokenized-system-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -156,16 +146,6 @@
     "summary": "In November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a compute system with an NVIDIA H100 [&#8230;]\nThe post Starcloud’s path to 88,000 computing satellites appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "3240fb147e6d",
-    "time": "2026-05-27T13:04:41Z",
-    "title": "Europe’s satellite spectrum proposal clouds SpaceX and Viasat plans",
-    "summary": "Europe has proposed reserving two-thirds of 2 gigahertz mobile satellite spectrum up for renewal next year for European operators, complicating SpaceX’s direct-to-device ambitions and the outlook for Viasat’s European Aviation Network.\nThe post Europe’s satellite spectrum proposa",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
     "category": "成份股",
     "pinned": false
   },
