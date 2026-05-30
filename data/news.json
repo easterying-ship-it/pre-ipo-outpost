@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "e3f4cfb03f76",
+    "time": "2026-05-30T16:30:00Z",
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "fcecc14ca03d",
+    "time": "2026-05-30T13:01:03Z",
+    "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
+    "summary": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "7c7b8b3eb848",
     "time": "2026-05-29T22:21:38Z",
     "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
@@ -36,16 +56,6 @@
     "summary": "The Sui token is among the worst performing top 100 crypto assets of the last week in the wake of back-to-back outages.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369464/sui-network-goes-down-second-straight-day-weekly-token-slide",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e2900242de05",
-    "time": "2026-05-29T01:22:16Z",
-    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-    "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
     "category": "IPO动态",
     "pinned": false
   },
