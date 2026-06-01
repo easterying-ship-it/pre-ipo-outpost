@@ -10,6 +10,86 @@
     "pinned": true
   },
   {
+    "id": "861586e40fe0",
+    "time": "2026-06-01T16:36:55Z",
+    "title": "Anthropic files to go public",
+    "summary": "The company said Monday it has filed confidentially for an IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "10b5112a5ff7",
+    "time": "2026-06-01T16:09:56Z",
+    "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
+    "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "61da407aef19",
+    "time": "2026-06-01T16:09:11Z",
+    "title": "AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation",
+    "summary": "Claude maker Anthropic said Monday that it confidentially filed to launch an IPO in the U.S. following another huge funding round.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369641/ai-giant-anthropic-files-go-public-nearing-1-trillion-valuation",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4325743aeb45",
+    "time": "2026-06-01T15:32:10Z",
+    "title": "Whitehat Helps Recover $2M in ETH Stuck Since 2016 ICO",
+    "summary": "A whitehat developer helped return funds from HongCoin's failed 2016 token sale after a bug left investor refunds frozen for nine years.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369623/whitehat-helps-recover-2m-in-eth-stuck-since-2016-ico",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8479dd8abf20",
+    "time": "2026-06-01T14:33:49Z",
+    "title": "Binance Opens Access to 7,000 US Stocks, Prepares Tokenized 'bStocks' Rollout",
+    "summary": "Binance opened equities trading and previewed \"bStocks,\" with experts split over whether tokenization unlocks growth or layers on new risk.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369603/binance-opens-access-to-7000-us-stocks-prepares-tokenized-bstocks-rollout",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "72f6395a26e2",
+    "time": "2026-06-01T12:00:00Z",
+    "title": "Strava declares war on scrapers ahead of IPO",
+    "summary": "Strava will charge a flat monthly fee from developers to access its API.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d88e005942f0",
+    "time": "2026-06-01T11:30:08Z",
+    "title": "Binance adds US stock trading in push beyond crypto",
+    "summary": "Binance launched US equities trading for eligible users and plans tokenized stocks as crypto exchanges expand into broader financial markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-launches-tokenized-stocks-245-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5de68a6345c1",
+    "time": "2026-06-01T11:21:55Z",
+    "title": "ECB official says stablecoins risk importing old market flaws",
+    "summary": "ECB board member Isabel Schnabel warned that stablecoins could bring money-market risks into tokenized finance and reinforce US dollar dominance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "968cbae7ac87",
     "time": "2026-06-01T07:09:14Z",
     "title": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade",
@@ -50,52 +130,12 @@
     "pinned": false
   },
   {
-    "id": "7c7b8b3eb848",
-    "time": "2026-05-29T22:21:38Z",
-    "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-    "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c22ab81cf064",
     "time": "2026-05-29T16:52:57Z",
     "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
     "summary": "The low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "cdf800465049",
-    "time": "2026-05-29T14:42:01Z",
-    "title": "Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%",
-    "summary": "The Sui token is among the worst performing top 100 crypto assets of the last week in the wake of back-to-back outages.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369464/sui-network-goes-down-second-straight-day-weekly-token-slide",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cf3513fb9633",
-    "time": "2026-05-28T20:51:52Z",
-    "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
-    "summary": "Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "75201ae816d4",
-    "time": "2026-05-28T04:06:52Z",
-    "title": "FAA requires mishap investigation into latest Starship launch",
-    "summary": "The Federal Aviation Administration will require SpaceX to complete an investigation into its latest Starship test flight before allowing the vehicle to fly again.\nThe post FAA requires mishap investigation into latest Starship launch appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
     "category": "成份股",
     "pinned": false
   },
