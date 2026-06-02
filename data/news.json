@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "27554840068b",
+    "time": "2026-06-02T19:02:21Z",
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source framework for spinning up AI evaluations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7a22bd61eea7",
+    "time": "2026-06-02T18:00:00Z",
+    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+    "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "36b718daddca",
+    "time": "2026-06-02T16:00:00Z",
+    "title": "OpenAI launches new Codex tools for white-collar work",
+    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "4b943550e965",
     "time": "2026-06-02T15:29:05Z",
     "title": "Anthropic Expands Access to Claude Mythos After AI Giant Files for IPO",
@@ -40,6 +70,16 @@
     "pinned": false
   },
   {
+    "id": "fc5ceba00c24",
+    "time": "2026-06-02T07:00:00Z",
+    "title": "Crossmint enables Visa card payments for AI agents and autonomous commerce",
+    "summary": "The new API lets AI agents make purchases with eligible Visa cards using tokenized credentials and spending controls, expanding payment options for autonomous software.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "d1e63adc83ef",
     "time": "2026-06-02T06:08:27Z",
     "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
@@ -50,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "912706782813",
-    "time": "2026-06-02T04:03:00Z",
-    "title": "Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength",
-    "summary": "Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "f36514dae1ed",
     "time": "2026-06-01T22:05:08Z",
     "title": "Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO",
@@ -67,16 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060126/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a792ad9249d4",
-    "time": "2026-06-01T21:40:35Z",
-    "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-    "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -100,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "9fb204794531",
-    "time": "2026-06-01T20:03:40Z",
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1623c0e7f5f4",
     "time": "2026-06-01T18:28:33Z",
     "title": "Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims",
@@ -117,36 +127,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369656/florida-lawsuit-openai-sam-altman-chatgpt-safety",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4487587e21c3",
-    "time": "2026-06-01T18:19:53Z",
-    "title": "Water access is now a risk factor in SpaceX’s IPO",
-    "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "61da407aef19",
-    "time": "2026-06-01T16:09:11Z",
-    "title": "AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation",
-    "summary": "Claude maker Anthropic said Monday that it confidentially filed to launch an IPO in the U.S. following another huge funding round.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369641/ai-giant-anthropic-files-go-public-nearing-1-trillion-valuation",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4325743aeb45",
-    "time": "2026-06-01T15:32:10Z",
-    "title": "Whitehat Helps Recover $2M in ETH Stuck Since 2016 ICO",
-    "summary": "A whitehat developer helped return funds from HongCoin's failed 2016 token sale after a bug left investor refunds frozen for nine years.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369623/whitehat-helps-recover-2m-in-eth-stuck-since-2016-ico",
-    "category": "市场数据",
     "pinned": false
   },
   {
