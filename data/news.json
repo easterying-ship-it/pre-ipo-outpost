@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "4b943550e965",
+    "time": "2026-06-02T15:29:05Z",
+    "title": "Anthropic Expands Access to Claude Mythos After AI Giant Files for IPO",
+    "summary": "Just a day after the nearly $1 trillion AI giant revealed IPO plans, Anthropic is letting more firms access its powerful Claude Mythos model.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4934f8c890e4",
+    "time": "2026-06-02T14:44:21Z",
+    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+    "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9eed4848bc52",
+    "time": "2026-06-02T12:59:10Z",
+    "title": "EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation",
+    "summary": "Onchain investigator ZachXBT claims decentralized exchange edgeX insiders controlled nearly the entire supply with a thin float.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "d1e63adc83ef",
     "time": "2026-06-02T06:08:27Z",
     "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
@@ -100,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "861586e40fe0",
-    "time": "2026-06-01T16:36:55Z",
-    "title": "Anthropic files to go public",
-    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "10b5112a5ff7",
-    "time": "2026-06-01T16:09:56Z",
-    "title": "SpaceX says it may issue ‘significant’ equity in ‘future transactions’",
-    "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "61da407aef19",
     "time": "2026-06-01T16:09:11Z",
     "title": "AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation",
@@ -137,26 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369623/whitehat-helps-recover-2m-in-eth-stuck-since-2016-ico",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8479dd8abf20",
-    "time": "2026-06-01T14:33:49Z",
-    "title": "Binance Opens Access to 7,000 US Stocks, Prepares Tokenized 'bStocks' Rollout",
-    "summary": "Binance opened equities trading and previewed \"bStocks,\" with experts split over whether tokenization unlocks growth or layers on new risk.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369603/binance-opens-access-to-7000-us-stocks-prepares-tokenized-bstocks-rollout",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "72f6395a26e2",
-    "time": "2026-06-01T12:00:00Z",
-    "title": "Strava declares war on scrapers ahead of IPO",
-    "summary": "To stop scraping, the company is increasing security around its website and will now only allow authenticated users to view certain data. Earlier, users were able to see details like public profiles and fitness club listings without logging in. The company is putting all that dat",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
