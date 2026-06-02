@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "d1e63adc83ef",
+    "time": "2026-06-02T06:08:27Z",
+    "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
+    "summary": "佛羅里達州總檢察長烏斯邁爾指控OpenAI及其首席執行官山姆·阿爾特曼構建了一張「欺騙之網」。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cevp3nnxzjeo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "912706782813",
+    "time": "2026-06-02T04:03:00Z",
+    "title": "Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength",
+    "summary": "Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f36514dae1ed",
     "time": "2026-06-01T22:05:08Z",
     "title": "Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO",
@@ -136,36 +156,6 @@
     "summary": "To stop scraping, the company is increasing security around its website and will now only allow authenticated users to view certain data. Earlier, users were able to see details like public profiles and fitness club listings without logging in. The company is putting all that dat",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/01/strava-declares-war-on-scrapers-ahead-of-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d88e005942f0",
-    "time": "2026-06-01T11:30:08Z",
-    "title": "Binance adds US stock trading in push beyond crypto",
-    "summary": "Binance launched US equities trading for eligible users and plans tokenized stocks as crypto exchanges expand into broader financial markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/binance-launches-tokenized-stocks-245-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5de68a6345c1",
-    "time": "2026-06-01T11:21:55Z",
-    "title": "ECB official says stablecoins risk importing old market flaws",
-    "summary": "ECB board member Isabel Schnabel warned that stablecoins could bring money-market risks into tokenized finance and reinforce US dollar dominance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "968cbae7ac87",
-    "time": "2026-06-01T07:09:14Z",
-    "title": "NYDIG suggests $1.3B IBIT sale was whale exiting directional trade",
-    "summary": "NYDIG’s Greg Cipolaro says a sale below market price and giving up millions of dollars for immediate execution indicates a large directional holder exited a trade on BlackRock’s IBIT last week.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nydig-ibit-whale-exit-directional-bitcoin-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
