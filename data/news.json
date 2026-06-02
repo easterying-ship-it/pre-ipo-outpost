@@ -10,10 +10,20 @@
     "pinned": true
   },
   {
+    "id": "8837fbf15869",
+    "time": "2026-06-02T21:12:09Z",
+    "title": "Microsoft Says Latest AI Models Beat Claude, Google's Nano Banana",
+    "summary": "Microsoft unveiled seven in-house AI models and claimed its flagship reasoning and image systems outperform rivals from Anthropic, OpenAI, and Google.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369806/microsoft-says-latest-ai-models-beat-claude-googles-nano-banana",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "27554840068b",
     "time": "2026-06-02T19:02:21Z",
     "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source framework for spinning up AI evaluations.",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
     "category": "IPO动态",
@@ -70,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "fc5ceba00c24",
-    "time": "2026-06-02T07:00:00Z",
-    "title": "Crossmint enables Visa card payments for AI agents and autonomous commerce",
-    "summary": "The new API lets AI agents make purchases with eligible Visa cards using tokenized credentials and spending controls, expanding payment options for autonomous software.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d1e63adc83ef",
     "time": "2026-06-02T06:08:27Z",
     "title": "美國佛羅里達州起訴OpenAI，指控其容許ChatGPT協助和教唆大規模槍擊案",
@@ -116,16 +116,6 @@
     "summary": "SpaceX's amended IPO filing signals the company may issue substantial new shares in future transactions as Elon Musk expands its ambitions.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369670/elon-musks-spacex-warns-ipo-investors-potential-future-share-dilution",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1623c0e7f5f4",
-    "time": "2026-06-01T18:28:33Z",
-    "title": "Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims",
-    "summary": "Florida's attorney general seeks damages, restrictions on ChatGPT, and personal liability for OpenAI CEO Sam Altman in what the state describes as the first state-led lawsuit against the AI company.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369656/florida-lawsuit-openai-sam-altman-chatgpt-safety",
     "category": "IPO动态",
     "pinned": false
   },
