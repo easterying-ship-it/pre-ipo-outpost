@@ -10,13 +10,43 @@
     "pinned": true
   },
   {
-    "id": "845ac8fc30ee",
-    "time": "2026-06-03T00:01:00Z",
-    "title": "UK Lords warn BoE could regulate pound stablecoins into irrelevance",
-    "summary": "A UK House of Lords committee warned that strict stablecoin rules could make pound sterling tokens commercially unworkable despite supporting regulation.",
+    "id": "a445e2822f62",
+    "time": "2026-06-03T15:31:42Z",
+    "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+    "summary": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "255e90d5a47f",
+    "time": "2026-06-03T14:40:50Z",
+    "title": "Kraken parent Payward brings tokenized IPO access to retail investors",
+    "summary": "Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs at the offering price through tokenized shares in coming weeks.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/news/kraken-payward-tokenized-ipo-access-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3314f116a666",
+    "time": "2026-06-03T13:40:00Z",
+    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
     "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5ea91a7ec818",
+    "time": "2026-06-03T11:39:41Z",
+    "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
+    "summary": "Muon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center market, with an initial launch slated for 2028 after securing customers.\nThe post Muon Space unveils Starship-class satellite platfo",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -26,16 +56,6 @@
     "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bbb93aaef778",
-    "time": "2026-06-02T22:17:11Z",
-    "title": "SEC makes digital assets strategic priority through 2030",
-    "summary": "The regulator’s five-year roadmap calls for clearer crypto rules, support for tokenization and a framework for staking and onchain markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-makes-digital-assets-strategic-priority-through-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -56,36 +76,6 @@
     "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7a22bd61eea7",
-    "time": "2026-06-02T18:00:00Z",
-    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-    "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "36b718daddca",
-    "time": "2026-06-02T16:00:00Z",
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "4b943550e965",
-    "time": "2026-06-02T15:29:05Z",
-    "title": "Anthropic Expands Access to Claude Mythos After AI Giant Files for IPO",
-    "summary": "Just a day after the nearly $1 trillion AI giant revealed IPO plans, Anthropic is letting more firms access its powerful Claude Mythos model.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
     "category": "IPO动态",
     "pinned": false
   },
@@ -117,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c22ab81cf064",
-    "time": "2026-05-29T16:52:57Z",
-    "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-    "summary": "The low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
-    "category": "成份股",
     "pinned": false
   },
   {
