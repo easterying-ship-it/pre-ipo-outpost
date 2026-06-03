@@ -10,10 +10,30 @@
     "pinned": true
   },
   {
+    "id": "eb217024d21c",
+    "time": "2026-06-03T21:03:50Z",
+    "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
+    "summary": "Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "fdde0252a069",
+    "time": "2026-06-03T20:51:41Z",
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasi",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a445e2822f62",
     "time": "2026-06-03T15:31:42Z",
     "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
-    "summary": "The prominent AI music generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
+    "summary": "The prominent AI music-generation startup is now valued at over $5.4 billion -- about seven months ago, it raised at a $2.45 billion valuation.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
     "category": "IPO动态",
@@ -33,7 +53,7 @@
     "id": "3314f116a666",
     "time": "2026-06-03T13:40:00Z",
     "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
     "category": "市场数据",
@@ -46,36 +66,6 @@
     "summary": "Muon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center market, with an initial launch slated for 2028 after securing customers.\nThe post Muon Space unveils Starship-class satellite platfo",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9e77e5ecd536",
-    "time": "2026-06-02T22:50:56Z",
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8837fbf15869",
-    "time": "2026-06-02T21:12:09Z",
-    "title": "Microsoft Says Latest AI Models Beat Claude, Google's Nano Banana",
-    "summary": "Microsoft unveiled seven in-house AI models and claimed its flagship reasoning and image systems outperform rivals from Anthropic, OpenAI, and Google.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369806/microsoft-says-latest-ai-models-beat-claude-googles-nano-banana",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "27554840068b",
-    "time": "2026-06-02T19:02:21Z",
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -100,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "23f69cc728f1",
-    "time": "2026-05-31T09:26:19Z",
-    "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-    "summary": "Federal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.\nThe post FAA documents outline SpaceX plans for Starfall reentry vehicles appeared first ",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5c07df49de16",
     "time": "2026-05-27T01:10:58Z",
     "title": "Following Starship V3 debut, SpaceX prepares for follow up",
@@ -126,16 +106,6 @@
     "summary": "Six orbital launches are expected worldwide this week, headlined by four Falcon 9 Starlink missions&#8230;\nThe post Launch Preview: Starlink and Amazon Leo missions fill manifest appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/05/launch-preview-052526/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "fe76ebff19a8",
-    "time": "2026-05-20T23:52:00Z",
-    "title": "Starship Flight 12: Block 3 Impresses on First Flight",
-    "summary": "On Friday, May 22, 2026, at 5:30:21 pm CDT, Starship Flight 12 lifted off from&#8230;\nThe post Starship Flight 12: Block 3 Impresses on First Flight appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-block-3-pad-2/",
     "category": "成份股",
     "pinned": false
   }
