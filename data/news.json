@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "e616f61506d9",
+    "time": "2026-06-04T07:32:29Z",
+    "title": "Worldcoin is an overlooked bet on the AI IPO wave: Maelstrom",
+    "summary": "Maelstrom predicts the WLD token will reach $5 by August, a gain of around 900% from current levels.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/maelstrom-predicts-900-surge-for-worldcoin-wld-as-ai-ipo-wave-builds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "53151ca4ac48",
+    "time": "2026-06-04T06:59:45Z",
+    "title": "About 67% of banned Anthropic accounts used AI to prep for cyberattacks",
+    "summary": "AI firm Anthropic mapped a year’s worth of AI-enabled cyber threats, finding that malicious actors are quickly becoming more dangerous with AI.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/67-percent-banned-anthropic-accounts-ai-used-in-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e2afcb9401ee",
+    "time": "2026-06-04T02:54:32Z",
+    "title": "SpaceX to raise at least $75 billion in IPO",
+    "summary": "SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ec663d13bb2b",
     "time": "2026-06-04T00:30:00Z",
     "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
@@ -57,26 +87,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "255e90d5a47f",
-    "time": "2026-06-03T14:40:50Z",
-    "title": "Kraken parent Payward brings tokenized IPO access to retail investors",
-    "summary": "Kraken and xStocks Alliance will let eligible users seek allocations in US IPOs at the offering price through tokenized shares in coming weeks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-payward-tokenized-ipo-access-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3314f116a666",
-    "time": "2026-06-03T13:40:00Z",
-    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "category": "市场数据",
     "pinned": false
   },
   {
