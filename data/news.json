@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "41c69e98c6f6",
+    "time": "2026-06-04T22:43:26Z",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b3441358932f",
+    "time": "2026-06-04T21:37:01Z",
+    "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
+    "summary": "Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9aec5afec724",
     "time": "2026-06-04T18:52:00Z",
     "title": "Coinbase to launch token-backed mortgage down payments this summer",
@@ -120,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "2cc2335628eb",
-    "time": "2026-06-04T00:30:00Z",
-    "title": "Quick-commerce FirstClub doubles valuation to $255M in 9 months",
-    "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6117bb100aad",
-    "time": "2026-06-03T22:56:51Z",
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "eb217024d21c",
     "time": "2026-06-03T21:03:50Z",
     "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
@@ -147,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "fdde0252a069",
-    "time": "2026-06-03T20:51:41Z",
-    "title": "Defense tech is flooded with money, but who’s built to last?",
-    "summary": "Defense tech is red hot right now.&#160;Anduril&#160;and&#160;Mach Industries&#160;just doubled and quadrupled their valuations, respectively,&#160;and the U.S.&#160;government is proposing&#160;a&#160;40% increase&#160;in defense budget. A wave of new startups&#160;is&#160;chasi",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
