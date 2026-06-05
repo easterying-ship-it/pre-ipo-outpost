@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "6cc86969504d",
+    "time": "2026-06-05T19:18:56Z",
+    "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
+    "summary": "The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4727390dc7c3",
+    "time": "2026-06-05T18:57:20Z",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "88bc1df418d3",
+    "time": "2026-06-05T18:17:50Z",
+    "title": "Kraken offers SpaceX IPO access through xStocks",
+    "summary": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3f08e5c12be8",
     "time": "2026-06-05T16:44:44Z",
     "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
@@ -80,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "a3d27dc61c0a",
-    "time": "2026-06-05T06:03:52Z",
-    "title": "Anthropic says self-improving AI may be closer than expected",
-    "summary": "Companies have been developing AI very quickly to stay ahead of the market, but \nFavaro and Clark argue that a slowdown would allow more time to deal with the technology’s implications.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "41c69e98c6f6",
     "time": "2026-06-04T22:43:26Z",
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
@@ -106,16 +126,6 @@
     "summary": "Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ef62d427c6dd",
-    "time": "2026-06-04T15:44:31Z",
-    "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
-    "summary": "Some of America's biggest companies helped squash crypto fraud stemming from organized crime in Southeast Asia.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
     "category": "IPO动态",
     "pinned": false
   },
