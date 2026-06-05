@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "0cdd20a595bc",
+    "time": "2026-06-05T12:39:32Z",
+    "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
+    "summary": "Some of the largest banks are reportedly launching a tokenized deposit network in early 2027 in response to growing competition from stablecoin companies entering TradFi.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/jpmorgan-citi-bank-of-america-launch-tokenized-deposit-system-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "680ae9aec4ed",
     "time": "2026-06-05T09:15:00Z",
     "title": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
@@ -90,36 +100,6 @@
     "pinned": false
   },
   {
-    "id": "56ad8dadb79c",
-    "time": "2026-06-04T13:25:56Z",
-    "title": "Apex, Archax join Goldman Sachs tokenized real estate fund project",
-    "summary": "Apex Group is providing fund services for a tokenized real estate fund using Goldman Sachs’ GS DAP platform.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4f1850e63a43",
-    "time": "2026-06-04T13:04:25Z",
-    "title": "Arthur Hayes dumps HYPE, NEAR as he warns of AI IPO wave",
-    "summary": "Arthur Hayes said he dumped his HYPE and NEAR holdings after warning markets may peak before September and AI IPOs could drain liquidity.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9bd45718a683",
-    "time": "2026-06-04T12:48:03Z",
-    "title": "Coinbase launches pre-IPO markets, starting with Elon Musk’s SpaceX",
-    "summary": "Coinbase launches pre-IPO markets starting with SpaceX, offering non-US users perpetual futures tied to private company valuations amid rising competition.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/coinbase-launches-pre-ipo-markets-amid-crypto-push-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2182e2fa08a2",
     "time": "2026-06-04T11:13:12Z",
     "title": "Coinbase Launches Pre-IPO Perps, Starting with Elon Musk's SpaceX",
@@ -137,16 +117,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "eb217024d21c",
-    "time": "2026-06-03T21:03:50Z",
-    "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
-    "summary": "Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
-    "category": "市场数据",
     "pinned": false
   },
   {
