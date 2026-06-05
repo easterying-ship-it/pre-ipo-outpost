@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "a3d27dc61c0a",
+    "time": "2026-06-05T06:03:52Z",
+    "title": "Anthropic says self-improving AI may be closer than expected",
+    "summary": "Companies have been developing AI very quickly to stay ahead of the market, but \nFavaro and Clark argue that a slowdown would allow more time to deal with the technology’s implications.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-ai-self-improvement-agents-recursive-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "41c69e98c6f6",
     "time": "2026-06-04T22:43:26Z",
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
@@ -106,26 +116,6 @@
     "summary": "Elon Musk's aerospace company SpaceX is set to IPO, with current estimations making him the world's first trillionaire on its completion.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "706a20c8862d",
-    "time": "2026-06-04T07:32:29Z",
-    "title": "Worldcoin is overlooked bet on AI IPO wave: Maelstrom",
-    "summary": "Maelstrom predicts the WLD token will reach $5 by August, a gain of around 900% from current levels.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/maelstrom-predicts-900-surge-for-worldcoin-wld-as-ai-ipo-wave-builds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "53151ca4ac48",
-    "time": "2026-06-04T06:59:45Z",
-    "title": "About 67% of banned Anthropic accounts used AI to prep for cyberattacks",
-    "summary": "AI firm Anthropic mapped a year’s worth of AI-enabled cyber threats, finding that malicious actors are quickly becoming more dangerous with AI.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/67-percent-banned-anthropic-accounts-ai-used-in-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
