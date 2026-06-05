@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "3f08e5c12be8",
+    "time": "2026-06-05T16:44:44Z",
+    "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
+    "summary": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8021457a9e09",
+    "time": "2026-06-05T16:32:27Z",
+    "title": "Supabase doubles valuation to $10B in 8 months",
+    "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "de3cfa4e554e",
+    "time": "2026-06-05T14:49:12Z",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "76a4e27b2204",
+    "time": "2026-06-05T14:42:52Z",
+    "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
+    "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0ace4aacc9e0",
+    "time": "2026-06-05T14:32:57Z",
+    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+    "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "0cdd20a595bc",
     "time": "2026-06-05T12:39:32Z",
     "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
@@ -60,52 +110,12 @@
     "pinned": false
   },
   {
-    "id": "9aec5afec724",
-    "time": "2026-06-04T18:52:00Z",
-    "title": "Coinbase to launch token-backed mortgage down payments this summer",
-    "summary": "A Coinbase-Better Home & Finance initiative will allow qualified borrowers to use Bitcoin and USDC as collateral for home loan down payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/coinbase-token-backed-mortgages-fannie-mae-summer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ca61c785bc9a",
-    "time": "2026-06-04T17:21:27Z",
-    "title": "Bybit joins Western Union’s new USDPT network as stablecoin expands distribution",
-    "summary": "The exchange integration gives Western Union’s dollar-pegged token access to crypto market liquidity as payment providers accelerate their adoption of stablecoins.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/seo-url-bybit-western-union-usdpt-stablecoin-exchange-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "ef62d427c6dd",
     "time": "2026-06-04T15:44:31Z",
     "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
     "summary": "Some of America's biggest companies helped squash crypto fraud stemming from organized crime in Southeast Asia.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d9851caceb5d",
-    "time": "2026-06-04T15:08:34Z",
-    "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-    "summary": "Ramp has nearly tripled its valuation over the past year as investors scramble to grab a part of the fast-growing startup.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2182e2fa08a2",
-    "time": "2026-06-04T11:13:12Z",
-    "title": "Coinbase Launches Pre-IPO Perps, Starting with Elon Musk's SpaceX",
-    "summary": "Elon Musk's aerospace company SpaceX is set to IPO, with current estimations making him the world's first trillionaire on its completion.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex",
     "category": "IPO动态",
     "pinned": false
   },
