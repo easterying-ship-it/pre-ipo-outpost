@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "5cbdd61afbfd",
+    "time": "2026-06-06T20:32:24Z",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "77e7262ffffc",
     "time": "2026-06-06T16:17:21Z",
     "title": "The Trump administration might take an equity stake in OpenAI",
@@ -120,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "41c69e98c6f6",
-    "time": "2026-06-04T22:43:26Z",
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "b3441358932f",
     "time": "2026-06-04T21:37:01Z",
     "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
@@ -146,16 +146,6 @@
     "summary": "SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5ea91a7ec818",
-    "time": "2026-06-03T11:39:41Z",
-    "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
-    "summary": "Muon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center market, with an initial launch slated for 2028 after securing customers.\nThe post Muon Space unveils Starship-class satellite platfo",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
     "category": "IPO动态",
     "pinned": false
   },
