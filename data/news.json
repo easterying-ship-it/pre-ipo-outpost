@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b1c29f8a4953",
+    "time": "2026-06-07T13:01:06Z",
+    "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
+    "summary": "Anthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370128/claude-opus-4-8-review",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "5cbdd61afbfd",
     "time": "2026-06-06T20:32:24Z",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
