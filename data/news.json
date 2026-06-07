@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "358cc1a0914e",
+    "time": "2026-06-07T16:23:22Z",
+    "title": "OpenAI is still working on that ‘super app’",
+    "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c258e6c3d36e",
+    "time": "2026-06-07T15:48:14Z",
+    "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
+    "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "b1c29f8a4953",
     "time": "2026-06-07T13:01:06Z",
     "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
@@ -110,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "0ace4aacc9e0",
-    "time": "2026-06-05T14:32:57Z",
-    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-    "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "0cdd20a595bc",
     "time": "2026-06-05T12:39:32Z",
     "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
@@ -136,16 +146,6 @@
     "summary": "Apex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled the four-year-old manufacturer’s valuation to $2.3 billion.\nThe post Satellite maker Apex’s valuation rises to $2.3 billion after ",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b3441358932f",
-    "time": "2026-06-04T21:37:01Z",
-    "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
-    "summary": "Anthropic says AI now writes most of its code and runs increasingly complex research tasks, leaving people to decide which problems are worth solving.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
     "category": "IPO动态",
     "pinned": false
   },
