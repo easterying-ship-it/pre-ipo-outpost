@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "c6ddd9edea90",
+    "time": "2026-06-07T20:26:13Z",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "17aec1e9a803",
+    "time": "2026-06-07T18:01:03Z",
+    "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+    "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fd8edadd1953",
+    "time": "2026-06-07T17:56:22Z",
+    "title": "Notion restores access to Anthropic after service disruption",
+    "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "358cc1a0914e",
     "time": "2026-06-07T16:23:22Z",
     "title": "OpenAI is still working on that ‘super app’",
@@ -110,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "de3cfa4e554e",
-    "time": "2026-06-05T14:49:12Z",
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "76a4e27b2204",
-    "time": "2026-06-05T14:42:52Z",
-    "title": "NASA briefly sheltered space station astronauts in SpaceX’s Dragon due to leaks",
-    "summary": "The space agency said Roscosmos discovered new leaks in the Russian service module.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/05/nasa-briefly-sheltered-space-station-astronauts-in-spacexs-dragon-due-to-leaks/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "0cdd20a595bc",
     "time": "2026-06-05T12:39:32Z",
     "title": "JPMorgan, Citi-backed Clearing House plans tokenized deposit network in 2027: WSJ",
@@ -166,16 +176,6 @@
     "summary": "SpaceX and Chinese launches dominate this week&#8217;s launch manifest, which features six missions from five&#8230;\nThe post Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060126/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5c07df49de16",
-    "time": "2026-05-27T01:10:58Z",
-    "title": "Following Starship V3 debut, SpaceX prepares for follow up",
-    "summary": "Starship Version 3 flew for the first time this week in a mission of several&#8230;\nThe post Following Starship V3 debut, SpaceX prepares for follow up appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/05/starship-flight-12-v3-follow/",
     "category": "成份股",
     "pinned": false
   }
