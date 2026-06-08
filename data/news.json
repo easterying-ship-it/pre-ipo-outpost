@@ -30,6 +30,16 @@
     "pinned": false
   },
   {
+    "id": "b4baf4a9755e",
+    "time": "2026-06-08T07:00:00Z",
+    "title": "Bybit to offer tokenized SpaceX IPO access through xStocks",
+    "summary": "Eligible Bybit users can subscribe to tokenized SpaceX IPO shares through xStocks, a Kraken-linked framework that brings public market offerings to crypto exchanges.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bybit-launches-tokenized-ipo-access-through-xstocks-with-spacex-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a94f60e3114d",
     "time": "2026-06-08T04:34:47Z",
     "title": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
@@ -107,46 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370128/claude-opus-4-8-review",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5cbdd61afbfd",
-    "time": "2026-06-06T20:32:24Z",
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "77e7262ffffc",
-    "time": "2026-06-06T16:17:21Z",
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6cc86969504d",
-    "time": "2026-06-05T19:18:56Z",
-    "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
-    "summary": "The company behind Claude embedded engineers at the NSA for offensive cyber ops, then published a report warning AI could soon build itself without humans in the loop.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4727390dc7c3",
-    "time": "2026-06-05T18:57:20Z",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "category": "成份股",
     "pinned": false
   },
   {
