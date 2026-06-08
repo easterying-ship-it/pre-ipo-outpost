@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "708a804d10b1",
+    "time": "2026-06-08T12:21:16Z",
+    "title": "Morning Minute: Bitcoin Recovers After Fall Below $60k",
+    "summary": "Crypto rebounded Monday after Friday's selloff, driven by strong jobs data, AI IPO liquidity drain and Saylor worries.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370303/morning-minute-bitcoin-recovers-after-fall-below-60k",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "72e5176bc8e4",
     "time": "2026-06-08T07:02:30Z",
     "title": "Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch",
@@ -140,52 +150,12 @@
     "pinned": false
   },
   {
-    "id": "88bc1df418d3",
-    "time": "2026-06-05T18:17:50Z",
-    "title": "Kraken offers SpaceX IPO access through xStocks",
-    "summary": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3f08e5c12be8",
-    "time": "2026-06-05T16:44:44Z",
-    "title": "Pump.fun bounty platform pays users to tattoo tokens and chase viral stunts",
-    "summary": "Pump.fun launched a new bounty platform where users started funding bizarre memecoin marketing stunts, including forehead tattoos, skydiving as a mascot and setting a vehicle on fire.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/pumpfun-bounty-platforms-funds-memecoin-tattoos-world-cup-skydives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8021457a9e09",
-    "time": "2026-06-05T16:32:27Z",
-    "title": "Supabase doubles valuation to $10B in 8 months",
-    "summary": "Supabase, an example of an open source project becoming a fast-growing company, has greatly benefited from AI tools like Claude, Codex, and other vibe-coding platforms.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "680ae9aec4ed",
     "time": "2026-06-05T09:15:00Z",
     "title": "Satellite maker Apex’s valuation rises to $2.3 billion after latest $200 million raise",
     "summary": "Apex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled the four-year-old manufacturer’s valuation to $2.3 billion.\nThe post Satellite maker Apex’s valuation rises to $2.3 billion after ",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e2afcb9401ee",
-    "time": "2026-06-04T02:54:32Z",
-    "title": "SpaceX to raise at least $75 billion in IPO",
-    "summary": "SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
