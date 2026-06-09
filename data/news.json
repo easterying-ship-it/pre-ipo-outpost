@@ -10,10 +10,60 @@
     "pinned": true
   },
   {
-    "id": "6b6661adfc8a",
+    "id": "c6d52959e7a2",
+    "time": "2026-06-09T00:45:56Z",
+    "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
+    "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "25a23b17ad74",
+    "time": "2026-06-08T22:41:45Z",
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4856a4316e5b",
+    "time": "2026-06-08T22:23:30Z",
+    "title": "Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled",
+    "summary": "The upcoming week features flights from China, California, Virginia, and Florida. Three Starlink launches, two&#8230;\nThe post Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060826/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "519b2bb79518",
+    "time": "2026-06-08T22:00:57Z",
+    "title": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp",
+    "summary": "The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&#038;A box",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "c5512517c858",
+    "time": "2026-06-08T21:45:58Z",
+    "title": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open",
+    "summary": "The ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0892d3456679",
     "time": "2026-06-08T21:29:57Z",
-    "title": "Following Anthropic, OpenAI files confidentially for IPO",
-    "summary": "ChatGPT-maker OpenAI has filed confidentially for an initial public offering, the company said Monday in a blog post. The filing comes a little more than week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms. OpenAI, which was",
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
     "category": "IPO动态",
@@ -106,16 +156,6 @@
     "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b1c29f8a4953",
-    "time": "2026-06-07T13:01:06Z",
-    "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
-    "summary": "Anthropic's new flagship aced our math problem and shipped a spotless game—then drained our entire token quota in a single prompt. We ran it through six tests, and here's how it did.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370128/claude-opus-4-8-review",
     "category": "市场数据",
     "pinned": false
   },
