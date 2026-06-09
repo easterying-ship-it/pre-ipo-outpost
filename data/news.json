@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "a8af2c29cb0f",
+    "time": "2026-06-09T12:59:37Z",
+    "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
+    "summary": "Starship Flight 12 may have only recently concluded, but SpaceX’s Starbase teams are already deep&#8230;\nThe post Booster 20 into Cryogenic Testing ahead of Starship Flight 13 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "d2fea01e84af",
+    "time": "2026-06-09T12:30:52Z",
+    "title": "MiCA architect says EU should prioritize tokenization over DeFi rules",
+    "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "36ecd6680825",
+    "time": "2026-06-09T10:54:37Z",
+    "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
+    "summary": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "17dcaf15b9dd",
     "time": "2026-06-09T05:07:17Z",
     "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
@@ -127,36 +157,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370303/morning-minute-bitcoin-recovers-after-fall-below-60k",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "72e5176bc8e4",
-    "time": "2026-06-08T07:02:30Z",
-    "title": "Arthur Hayes dumps WLD days after Maelstrom’s AI IPO pitch",
-    "summary": "Maelstrom’s Arthur Hayes has been on a selling spree recently, offloading positions in HYPE, ZEC, NEAR and now WLD.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/arthur-hayes-offloads-wld-days-after-maelstrom-touted-it-as-an-ai-ipo-play?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "17aec1e9a803",
-    "time": "2026-06-07T18:01:03Z",
-    "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
-    "summary": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c258e6c3d36e",
-    "time": "2026-06-07T15:48:14Z",
-    "title": "Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says",
-    "summary": "Arthur Hayes warned that Hyperliquid's core value driver—using trading fees to burn tokens—exposes the protocol to market share losses.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370236/wall-street-coming-hyperliquid-perps-crown-arthur-hayes-says",
-    "category": "市场数据",
     "pinned": false
   },
   {
