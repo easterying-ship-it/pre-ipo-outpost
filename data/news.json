@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "e7b91790de7c",
+    "time": "2026-06-10T21:31:33Z",
+    "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
+    "summary": "In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4630b278bdc4",
+    "time": "2026-06-10T19:17:27Z",
+    "title": "The Internet Is Furious at Anthropic After Claude Fable 5 Release",
+    "summary": "Token burn, silent censorship, and a mandatory data grab—the biggest Claude release has become Anthropic's messiest.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9e3da71b5395",
     "time": "2026-06-10T16:43:11Z",
     "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
@@ -50,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "ac3d31677db7",
-    "time": "2026-06-10T12:00:00Z",
-    "title": "Why 2 SpaceX alumni are betting on solar and batteries to power the AI craze",
-    "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts' worth by 2030.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "adee2c9ad442",
     "time": "2026-06-10T07:29:05Z",
     "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
@@ -70,12 +80,12 @@
     "pinned": false
   },
   {
-    "id": "66a5a9c62e3d",
-    "time": "2026-06-10T04:04:52Z",
-    "title": "Crypto users wary as Anthropic releases Claude Mythos with safeguards",
-    "summary": "Venture capitalist Simon Dedic said Anthropic’s latest AI models drop the cost and skill needed to find crypto exploits to “basically zero.”",
+    "id": "5cf35d110ad2",
+    "time": "2026-06-10T07:00:00Z",
+    "title": "Blockchain.com launches SpaceX-linked perpetual amid pre-IPO trading boom",
+    "summary": "The exchange joins Binance, Kraken, Bybit and Coinbase rolling out products tied to SpaceX's anticipated public debut.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-releases-claude-mythos-with-safeguards-crypto-users-wary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/news/blockchaincom-launches-247-institutional-perpetuals-adds-spacex-pre-ipo-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
