@@ -10,10 +10,50 @@
     "pinned": true
   },
   {
-    "id": "ffc5d1fcc78a",
+    "id": "9e3da71b5395",
+    "time": "2026-06-10T16:43:11Z",
+    "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
+    "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "23863f26034c",
+    "time": "2026-06-10T15:41:22Z",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "50fbbaf2fadd",
+    "time": "2026-06-10T14:48:01Z",
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f60468897110",
+    "time": "2026-06-10T14:33:37Z",
+    "title": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
+    "summary": "Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ac3d31677db7",
     "time": "2026-06-10T12:00:00Z",
-    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
-    "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.",
+    "title": "Why 2 SpaceX alumni are betting on solar and batteries to power the AI craze",
+    "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts' worth by 2030.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
     "category": "IPO动态",
@@ -50,36 +90,6 @@
     "pinned": false
   },
   {
-    "id": "bdd060ca9095",
-    "time": "2026-06-09T23:17:51Z",
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "da46be48ec0a",
-    "time": "2026-06-09T20:37:49Z",
-    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0174508a59bd",
-    "time": "2026-06-09T18:38:37Z",
-    "title": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public",
-    "summary": "Anthropic has released a full version of its cybersecurity-centric Claude Mythos model—along with a safer version for the general public.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370556/anthropic-rolls-out-claude-mythos-5-ai-model-safer-fable-public",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a8af2c29cb0f",
     "time": "2026-06-09T12:59:37Z",
     "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
@@ -87,16 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/booster-20-cryogenic-testing-ahead-flight-13/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d2fea01e84af",
-    "time": "2026-06-09T12:30:52Z",
-    "title": "MiCA architect says EU should prioritize tokenization over DeFi rules",
-    "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
