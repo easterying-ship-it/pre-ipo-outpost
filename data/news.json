@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "ffc5d1fcc78a",
+    "time": "2026-06-10T12:00:00Z",
+    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+    "summary": "Ambrosia Energy wants to build power plants in less than 12 months while undercutting natural gas. It hopes to build gigawatts worth by 2030.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "adee2c9ad442",
     "time": "2026-06-10T07:29:05Z",
     "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
@@ -70,26 +80,6 @@
     "pinned": false
   },
   {
-    "id": "51ea9caa7102",
-    "time": "2026-06-09T17:00:00Z",
-    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "236db9578ce7",
-    "time": "2026-06-09T16:09:14Z",
-    "title": "It’s not FAANG anymore. It’s MANGOS.",
-    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a8af2c29cb0f",
     "time": "2026-06-09T12:59:37Z",
     "title": "Booster 20 into Cryogenic Testing ahead of Starship Flight 13",
@@ -110,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "36ecd6680825",
-    "time": "2026-06-09T10:54:37Z",
-    "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
-    "summary": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "4856a4316e5b",
     "time": "2026-06-08T22:23:30Z",
     "title": "Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled",
@@ -127,26 +107,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060826/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "519b2bb79518",
-    "time": "2026-06-08T22:00:57Z",
-    "title": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp",
-    "summary": "The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&#038;A box",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "c5512517c858",
-    "time": "2026-06-08T21:45:58Z",
-    "title": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open",
-    "summary": "The ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open",
-    "category": "IPO动态",
     "pinned": false
   },
   {
