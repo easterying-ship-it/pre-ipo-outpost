@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "eedbf4b9a9f2",
+    "time": "2026-06-11T18:11:44Z",
+    "title": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns",
+    "summary": "Devin Kim alleged he was terminated after repeatedly warning about bias, misinformation, and dangerous outputs from Elon Musk's Grok chatbot.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370825/whistleblower-sues-elon-musk-xai-fired-raising-grok-safety-concerns",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ab8fa9541734",
+    "time": "2026-06-11T16:59:28Z",
+    "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
+    "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3c7b0005cad0",
     "time": "2026-06-11T15:01:27Z",
     "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
@@ -90,10 +110,20 @@
     "pinned": false
   },
   {
+    "id": "32158ca07b50",
+    "time": "2026-06-11T07:00:00Z",
+    "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
+    "summary": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5378b6358466",
     "time": "2026-06-11T03:53:06Z",
     "title": "Anthropic’s Dario Amodei has just one direct report",
-    "summary": "If you doubted his genius, doubt no more.",
+    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
     "category": "IPO动态",
@@ -137,26 +167,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9e3da71b5395",
-    "time": "2026-06-10T16:43:11Z",
-    "title": "The Indian government got cold feet on Starlink just before SpaceX’s IPO",
-    "summary": "Problems with Starlink's India expansion could challenge SpaceX's IPO growth story.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/10/the-indian-government-got-cold-feet-on-starlink-just-before-spacexs-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "23863f26034c",
-    "time": "2026-06-10T15:41:22Z",
-    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
