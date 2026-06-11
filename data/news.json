@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "20e1528a1c50",
+    "time": "2026-06-11T07:01:31Z",
+    "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
+    "summary": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "016a920cc214",
+    "time": "2026-06-11T07:00:53Z",
+    "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
+    "summary": "“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "5378b6358466",
+    "time": "2026-06-11T03:53:06Z",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "summary": "If you doubted his genius, doubt no more.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8f436bb9f5f7",
     "time": "2026-06-10T22:31:19Z",
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
@@ -86,16 +116,6 @@
     "summary": "Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "adee2c9ad442",
-    "time": "2026-06-10T07:29:05Z",
-    "title": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
-    "summary": "Tech stocks and crypto are selling off in a “classic pre-mega-IPO liquidity squeeze,” say analysts.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/spacex-ipo-nears-four-times-oversubscribed-squeezing-crypto-and-tech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
