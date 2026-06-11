@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "3c7b0005cad0",
+    "time": "2026-06-11T15:01:27Z",
+    "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
+    "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2177e877f489",
+    "time": "2026-06-11T14:00:12Z",
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "summary": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "bd2c42beede4",
+    "time": "2026-06-11T12:59:11Z",
+    "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
+    "summary": "Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "442627ca75e7",
+    "time": "2026-06-11T12:08:03Z",
+    "title": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month",
+    "summary": "BEAT has reached its most overbought readings on record, raising the odds of a 35% price decline in the coming days.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/audieras-ai-token-beat-beats-bitcoin-ethereum-as-price-surges-1500-in-a-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d238917f402a",
+    "time": "2026-06-11T11:57:19Z",
+    "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
+    "summary": "Citadel says the AI boom may be running into a cost wall, and Tether just led a $1.4B round into humanoid robotics.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0fd4ff1b39df",
+    "time": "2026-06-11T11:48:55Z",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "20e1528a1c50",
     "time": "2026-06-11T07:01:31Z",
     "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
@@ -100,26 +160,6 @@
     "pinned": false
   },
   {
-    "id": "50fbbaf2fadd",
-    "time": "2026-06-10T14:48:01Z",
-    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-    "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f60468897110",
-    "time": "2026-06-10T14:33:37Z",
-    "title": "Tenev says Robinhood won underwriter approval as crypto markets front-run mega IPOs",
-    "summary": "Robinhood’s new IPO underwriter role comes as SpaceX prepares a record-breaking public offering, with retail brokers and crypto-native derivatives platforms racing to shape price discovery and access.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-secures-underwriter-status-crypto-front-mega-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9a4fe8e42154",
     "time": "2026-06-10T00:06:32Z",
     "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
@@ -146,16 +186,6 @@
     "summary": "The upcoming week features flights from China, California, Virginia, and Florida. Three Starlink launches, two&#8230;\nThe post Launch Preview: Chinese, Rocket Lab, and Starlink flights scheduled appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060826/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "1f82dcf6c1ad",
-    "time": "2026-06-08T18:39:51Z",
-    "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
-    "summary": "Amazon no longer faces a July 30 cutoff for deploying half its planned 3,232 broadband satellites, but the reprieve comes with a temporary loss of spectrum priority that could give SpaceX and other rivals more leverage in orbit.\nThe post FCC lets Amazon Leo miss deployment deadli",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
     "category": "成份股",
     "pinned": false
   }
