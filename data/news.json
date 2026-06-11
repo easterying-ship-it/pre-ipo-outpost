@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "8f436bb9f5f7",
+    "time": "2026-06-10T22:31:19Z",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d569c2dc7a9d",
+    "time": "2026-06-10T22:01:03Z",
+    "title": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free",
+    "summary": "DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e7b91790de7c",
     "time": "2026-06-10T21:31:33Z",
     "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
@@ -80,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "5cf35d110ad2",
-    "time": "2026-06-10T07:00:00Z",
-    "title": "Blockchain.com launches SpaceX-linked perpetual amid pre-IPO trading boom",
-    "summary": "The exchange joins Binance, Kraken, Bybit and Coinbase rolling out products tied to SpaceX's anticipated public debut.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/blockchaincom-launches-247-institutional-perpetuals-adds-spacex-pre-ipo-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9a4fe8e42154",
     "time": "2026-06-10T00:06:32Z",
     "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
@@ -126,16 +136,6 @@
     "summary": "Amazon no longer faces a July 30 cutoff for deploying half its planned 3,232 broadband satellites, but the reprieve comes with a temporary loss of spectrum priority that could give SpaceX and other rivals more leverage in orbit.\nThe post FCC lets Amazon Leo miss deployment deadli",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f36514dae1ed",
-    "time": "2026-06-01T22:05:08Z",
-    "title": "Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO",
-    "summary": "SpaceX and Chinese launches dominate this week&#8217;s launch manifest, which features six missions from five&#8230;\nThe post Launch Preview: SpaceX and Chinese rockets to launch internet satellites to LEO appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/06/launch-preview-060126/",
     "category": "成份股",
     "pinned": false
   }
