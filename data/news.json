@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "0ff9f6daec75",
+    "time": "2026-06-12T06:44:20Z",
+    "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
+    "summary": "Galaxy’s Alex Thorn says a plan to scrap rules on stock orders and quotes would remove a major barrier to tokenized stocks trading on decentralized platforms.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "256fcd317bbd",
+    "time": "2026-06-12T04:16:51Z",
+    "title": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
+    "summary": "Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f1dfeac79527",
     "time": "2026-06-11T22:31:03Z",
     "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?",
@@ -20,9 +40,9 @@
     "pinned": false
   },
   {
-    "id": "0b95f0b58872",
+    "id": "b662f0206f03",
     "time": "2026-06-11T21:24:56Z",
-    "title": "Citi launches blockchain marketplace for private companies shares: Report",
+    "title": "Citi launches blockchain marketplace for shares of private companies: Report",
     "summary": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -157,36 +177,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "016a920cc214",
-    "time": "2026-06-11T07:00:53Z",
-    "title": "AI researcher claims he's already bypassed Anthropic's Fable 5 guardrails",
-    "summary": "“Pliny the Liberator,” says he has been “cleverly finding the holes in the fence that the thought police missed,” in the newly launched Fable 5.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/researcher-claims-hes-already-jailbroken-anthropics-guardrailed-claude-fable-5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "32158ca07b50",
-    "time": "2026-06-11T07:00:00Z",
-    "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
-    "summary": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5378b6358466",
-    "time": "2026-06-11T03:53:06Z",
-    "title": "Anthropic’s Dario Amodei has just one direct report",
-    "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
