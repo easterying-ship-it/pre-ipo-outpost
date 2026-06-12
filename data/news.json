@@ -10,12 +10,92 @@
     "pinned": true
   },
   {
+    "id": "df2100dea326",
+    "time": "2026-06-12T17:50:06Z",
+    "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
+    "summary": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a88c7570fe21",
-    "time": "2026-06-12T14:08:54Z",
+    "time": "2026-06-12T17:41:21Z",
     "title": "SpaceX IPO: Everything you need to know",
     "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "56480f60a2de",
+    "time": "2026-06-12T17:38:11Z",
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "32e5b0b51cf7",
+    "time": "2026-06-12T17:05:06Z",
+    "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+    "summary": "The trading platform says some customers experienced intermittent disruptions, but those issues have resolved.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e9c17d9daa0c",
+    "time": "2026-06-12T16:23:25Z",
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2ab6df857ccd",
+    "time": "2026-06-12T16:17:33Z",
+    "title": "Bitcoin surfs SpaceX IPO at $64K as trader warns key BTC price support may crumble",
+    "summary": "Bitcoin hit $64,000 as SpaceX launched a record-breaking IPO and US-Iran peace deal hopes continued to grow, but doubts over BTC price support remained.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-surfs-spacex-ipo-iran-peace-cues-as-trader-warns-62k-may-crumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5868bae8db38",
+    "time": "2026-06-12T16:07:08Z",
+    "title": "Crypto Biz: SpaceX fuels tokenization’s next boom",
+    "summary": "Tokenized RWAs surge despite crypto volatility, Kraken launches SpaceX IPO xStocks, prediction markets outpace onchain gambling and Sam Bankman-Fried seeks a Trump pardon.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-rwas-kraken-spacex-ipo-prediction-markets-sbf-trump-pardon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a7fc8c501be2",
+    "time": "2026-06-12T15:55:06Z",
+    "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
+    "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "87fe01993adc",
+    "time": "2026-06-12T15:54:44Z",
+    "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
+    "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -66,6 +146,16 @@
     "summary": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e2e05c40eb87",
+    "time": "2026-06-12T07:00:00Z",
+    "title": "Exodus launches tokenized stock marketplace with Ondo, adds 200-plus onchain equities",
+    "summary": "The launch comes as tokenized equities surge in popularity, with crypto exchanges and wallets racing to offer onchain access to stocks and pre-IPO companies.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/exodus-launches-tokenized-stock-marketplace-with-ondo-adds-200-onchain-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -150,52 +240,12 @@
     "pinned": false
   },
   {
-    "id": "eedbf4b9a9f2",
-    "time": "2026-06-11T18:11:44Z",
-    "title": "Whistleblower Sues Elon Musk's xAI, Claiming He Was Fired After Raising Grok Safety Concerns",
-    "summary": "Devin Kim alleged he was terminated after repeatedly warning about bias, misinformation, and dangerous outputs from Elon Musk's Grok chatbot.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370825/whistleblower-sues-elon-musk-xai-fired-raising-grok-safety-concerns",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ab8fa9541734",
     "time": "2026-06-11T16:59:28Z",
     "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
     "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3c7b0005cad0",
-    "time": "2026-06-11T15:01:27Z",
-    "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
-    "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "2177e877f489",
-    "time": "2026-06-11T14:00:12Z",
-    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
-    "summary": "SpaceX alumni Andrew Redd is betting the ocean has vast amounts of untapped geothermal energy.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d238917f402a",
-    "time": "2026-06-11T11:57:19Z",
-    "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
-    "summary": "Citadel says the AI boom may be running into a cost wall, and Tether just led a $1.4B round into humanoid robotics.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
     "category": "IPO动态",
     "pinned": false
   },
