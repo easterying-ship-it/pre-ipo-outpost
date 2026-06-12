@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "a88c7570fe21",
+    "time": "2026-06-12T14:08:54Z",
+    "title": "SpaceX IPO: Everything you need to know",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "df896f3a9766",
+    "time": "2026-06-12T13:03:23Z",
+    "title": "KuCoin has not paid $2M award tied to delisted token dispute, investor says",
+    "summary": "A Seychelles court said KuCoin can’t treat unwithdrawn tokens as “abandoned,” and awarded a Swiss investor over $2 million. He says the exchange still hasn’t paid and plans to sue again.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4f9fa24b6454",
+    "time": "2026-06-12T12:31:52Z",
+    "title": "Morning Minute: SpaceX Prices Largest IPO Ever at $135",
+    "summary": "Hyperliquid has SpaceX trading at $177 a share. Will we see a 30% pop on open this morning?",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370879/morning-minute-spacex-prices-largest-ipo-ever-at-135",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3bb280ec0535",
+    "time": "2026-06-12T12:25:00Z",
+    "title": "Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin",
+    "summary": "SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b471699b8f8a",
+    "time": "2026-06-12T11:32:44Z",
+    "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
+    "summary": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ef0c3098bd4f",
+    "time": "2026-06-12T10:18:58Z",
+    "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
+    "summary": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "0ff9f6daec75",
     "time": "2026-06-12T06:44:20Z",
     "title": "SEC plan to scrap ‘Rule 611’ positive for tokenized US stocks: Galaxy",
@@ -130,82 +190,12 @@
     "pinned": false
   },
   {
-    "id": "bd2c42beede4",
-    "time": "2026-06-11T12:59:11Z",
-    "title": "Digital Asset lands $355M as a16z doubles down on Wall Street blockchain rails",
-    "summary": "Digital Asset raised $355M in an a16z‑led round at a $2B valuation, extending a Wall Street‑backed funding run as banks ramp up pilots on its Canton Network blockchain.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/digital-asset-355m-16z-wall-street-blockchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "442627ca75e7",
-    "time": "2026-06-11T12:08:03Z",
-    "title": "Audiera’s AI token BEAT beats Bitcoin, Ethereum as price surges 1,500% in a month",
-    "summary": "BEAT has reached its most overbought readings on record, raising the odds of a 35% price decline in the coming days.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/audieras-ai-token-beat-beats-bitcoin-ethereum-as-price-surges-1500-in-a-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d238917f402a",
     "time": "2026-06-11T11:57:19Z",
     "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
     "summary": "Citadel says the AI boom may be running into a cost wall, and Tether just led a $1.4B round into humanoid robotics.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0fd4ff1b39df",
-    "time": "2026-06-11T11:48:55Z",
-    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-    "summary": "The partnership will see TCS creating a business unit focused on deploying Anthropic's AI models to its customers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "20e1528a1c50",
-    "time": "2026-06-11T07:01:31Z",
-    "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
-    "summary": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d569c2dc7a9d",
-    "time": "2026-06-10T22:01:03Z",
-    "title": "Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free",
-    "summary": "DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e7b91790de7c",
-    "time": "2026-06-10T21:31:33Z",
-    "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
-    "summary": "In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9a4fe8e42154",
-    "time": "2026-06-10T00:06:32Z",
-    "title": "在股市升空的SpaceX，可能是馬斯克迄今最大的一次豪賭",
-    "summary": "SpaceX正籌備進軍股市，此舉可能改變公司發展、整體市場格局以及馬斯克的財富版圖。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cwyler2v78ko/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
     "pinned": false
   },
