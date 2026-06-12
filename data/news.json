@@ -10,22 +10,72 @@
     "pinned": true
   },
   {
+    "id": "0a4af3af2ba2",
+    "time": "2026-06-12T21:06:39Z",
+    "title": "SpaceX shares rise nearly 20% in historic IPO",
+    "summary": "SpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic IPO appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9c4b95e745ec",
+    "time": "2026-06-12T20:20:00Z",
+    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+    "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "18ff0f99d15d",
+    "time": "2026-06-12T20:04:38Z",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "96089082b7c9",
+    "time": "2026-06-12T19:49:45Z",
+    "title": "Astronomers fear orbital data centers will interfere with observations",
+    "summary": "As SpaceX gears up to start launching orbital data center spacecraft as soon as next year, astronomers warn those satellites could cause serious interference with their observations.\nThe post Astronomers fear orbital data centers will interfere with observations appeared first on",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "11a302e30bc6",
+    "time": "2026-06-12T19:28:31Z",
+    "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+    "summary": "A SpaceX-Tesla merger seems inevitable.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d77323645950",
+    "time": "2026-06-12T18:14:24Z",
+    "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
+    "summary": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "df2100dea326",
     "time": "2026-06-12T17:50:06Z",
     "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
     "summary": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a88c7570fe21",
-    "time": "2026-06-12T17:41:21Z",
-    "title": "SpaceX IPO: Everything you need to know",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -86,16 +136,6 @@
     "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "87fe01993adc",
-    "time": "2026-06-12T15:54:44Z",
-    "title": "SpaceX opens at $150, an 11% pop for the most anticipated debut in history",
-    "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/12/spacex-opens-at-150-an-11-pop-for-the-most-anticipated-debut-in-history/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -216,26 +256,6 @@
     "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aff17bd040b5",
-    "time": "2026-06-11T19:16:34Z",
-    "title": "Crypto Platforms Broaden Access to Elon Musk's SpaceX Ahead of $1.75 Trillion IPO",
-    "summary": "With the help of crypto rails, retail investors have a variety of ways to bypass traditional Wall Street gatekeepers to get SpaceX exposure.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370828/crypto-platforms-broaden-access-elon-musks-spacex-1-75-trillion-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2aa391593fbf",
-    "time": "2026-06-11T18:55:48Z",
-    "title": "Anthropic Apologizes for Claude Fable 5 Secret Censorship—But the Fix Has a Catch",
-    "summary": "One day after the AI community erupted over invisible performance sabotage, Anthropic reversed course. Visible safeguards are coming—and so are more false positives.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370831/anthropic-apologizes-claude-fable-5-secret-censorship",
     "category": "IPO动态",
     "pinned": false
   },
