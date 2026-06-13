@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "18ff0f99d15d",
+    "time": "2026-06-12T23:15:14Z",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "0a4af3af2ba2",
     "time": "2026-06-12T21:06:39Z",
     "title": "SpaceX shares rise nearly 20% in historic IPO",
@@ -26,16 +36,6 @@
     "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "18ff0f99d15d",
-    "time": "2026-06-12T20:04:38Z",
-    "title": "SpaceX IPO: Live updates on everything you need to know",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -230,16 +230,6 @@
     "pinned": false
   },
   {
-    "id": "b662f0206f03",
-    "time": "2026-06-11T21:24:56Z",
-    "title": "Citi launches blockchain marketplace for shares of private companies: Report",
-    "summary": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "b2a3b2d456ce",
     "time": "2026-06-11T20:33:10Z",
     "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
@@ -256,16 +246,6 @@
     "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ab8fa9541734",
-    "time": "2026-06-11T16:59:28Z",
-    "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-    "summary": "Quantum Space says SPACs aren't dead as it seeks a $1.2 billion deal to build military spacecraft.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
     "category": "IPO动态",
     "pinned": false
   },
