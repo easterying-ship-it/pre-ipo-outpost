@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "68e7a60b209d",
+    "time": "2026-06-13T02:37:40Z",
+    "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
+    "summary": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8252fa13abba",
+    "time": "2026-06-13T02:26:30Z",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "daf6f1629831",
+    "time": "2026-06-13T02:17:55Z",
+    "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
+    "summary": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "18ff0f99d15d",
     "time": "2026-06-12T23:15:14Z",
     "title": "SpaceX IPO: Live updates on everything you need to know",
@@ -207,16 +237,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/sec-plan-to-scrap-rule-611-a-boon-for-tokenized-us-stocks-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "256fcd317bbd",
-    "time": "2026-06-12T04:16:51Z",
-    "title": "Avalanche Treasury falls 16% as it debuts on Nasdaq",
-    "summary": "Avalanche Treasury holds about 15 million of the blockchain’s native token, AVAX, which is trading at a five-year low.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/avalanche-treasury-starts-trading-on-nasdaq-but-shares-fall-16-on-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
