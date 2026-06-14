@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "dc81cfe3d747",
+    "time": "2026-06-14T16:38:09Z",
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "883e2f95d830",
+    "time": "2026-06-14T16:05:00Z",
+    "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f3c7bb52873f",
     "time": "2026-06-14T13:01:03Z",
     "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
@@ -250,16 +270,6 @@
     "pinned": false
   },
   {
-    "id": "a7fc8c501be2",
-    "time": "2026-06-12T15:55:06Z",
-    "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO",
-    "summary": "The SpaceX IPO has boosted Musk's paper wealth to more than $1,000,000,000,000 at a time when he is more hated -- and powerful -- than ever.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "d6046e47aa57",
     "time": "2026-06-12T13:03:23Z",
     "title": "Exclusive: KuCoin has not paid $2M award tied to delisted token dispute, investor says",
@@ -286,16 +296,6 @@
     "summary": "SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b471699b8f8a",
-    "time": "2026-06-12T11:32:44Z",
-    "title": "SpaceX tokenized IPO campaign draws $557M on Binance ahead of debut",
-    "summary": "Crypto markets are becoming a new venue for pre-IPO price discovery ahead of SpaceX's highly anticipated debut today.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
