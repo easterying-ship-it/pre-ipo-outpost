@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "a36ca7293c42",
+    "time": "2026-06-14T05:28:12Z",
+    "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪",
+    "summary": "根據彭博社富豪榜，馬斯克目前的身價為1.11萬億美元。SpaceX在納斯達克證券交易所上市，市值2.2萬億美元。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "721514c283c9",
+    "time": "2026-06-14T03:36:49Z",
+    "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+    "summary": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "79e29905b515",
+    "time": "2026-06-14T03:00:00Z",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "aa18e44a2db2",
     "time": "2026-06-13T19:23:34Z",
     "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
