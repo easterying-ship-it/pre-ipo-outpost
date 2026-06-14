@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "f3c7bb52873f",
+    "time": "2026-06-14T13:01:03Z",
+    "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+    "summary": "Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "a36ca7293c42",
     "time": "2026-06-14T05:28:12Z",
     "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪",
@@ -83,7 +93,7 @@
     "id": "9cc1b3cfd53e",
     "time": "2026-06-13T14:45:43Z",
     "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
-    "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further \"serious bugs\" in the privacy protocol following the patching of a previously discovered forgery bug.",
+    "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further “serious bugs” in the privacy protocol following the patching of a previously discovered forgery bug.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
@@ -287,26 +297,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/spacex-ipo-550m-binance-crypto-rails-front-run-wall-street-pre-ipo-price-discovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ef0c3098bd4f",
-    "time": "2026-06-12T10:18:58Z",
-    "title": "SpaceX IPO update: Whale opens $22.3M SPCX long as synthetic price hits 30% premium",
-    "summary": "SpaceX’s IPO hype may fuel a strong debut, but history shows richly valued listings often struggle after the first-day pop fades.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/spacex-ipo-update-whale-opens-223m-spcx-long-as-synthetic-price-hits-30-premium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f1dfeac79527",
-    "time": "2026-06-11T22:31:03Z",
-    "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?",
-    "summary": "Sam Altman is weighing drastic token price cuts to fight Anthropic. The problem is DeepSeek already made that argument for him—and for free.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370854/openai-price-war-anthropic-deepseek-china",
-    "category": "市场数据",
     "pinned": false
   },
   {
