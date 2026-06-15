@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "addc28263350",
+    "time": "2026-06-15T21:50:21Z",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "47e3d5263de0",
+    "time": "2026-06-15T21:05:00Z",
+    "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+    "summary": "A federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "043c3b41d9e5",
+    "time": "2026-06-15T18:37:57Z",
+    "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+    "summary": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e42ee9cf6cce",
+    "time": "2026-06-15T18:30:34Z",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e628deff30ea",
+    "time": "2026-06-15T17:57:48Z",
+    "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+    "summary": "A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b0e4e148c715",
     "time": "2026-06-15T16:07:35Z",
     "title": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
@@ -23,7 +73,7 @@
     "id": "c30adbde5dbf",
     "time": "2026-06-15T15:29:51Z",
     "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "category": "IPO动态",
@@ -60,6 +110,16 @@
     "pinned": false
   },
   {
+    "id": "eb6174c6148b",
+    "time": "2026-06-15T07:00:00Z",
+    "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+    "summary": "The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "dc81cfe3d747",
     "time": "2026-06-14T16:38:09Z",
     "title": "As AI companies race to go public, who else is along for the ride?",
@@ -90,16 +150,6 @@
     "pinned": false
   },
   {
-    "id": "721514c283c9",
-    "time": "2026-06-14T03:36:49Z",
-    "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
-    "summary": "Calls from Amazon CEO Andy Jassy and other tech firms prompted the Trump administration to suspend foreign access to Anthropic’s Fable 5 and Mythos 5 AI models on Friday.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "79e29905b515",
     "time": "2026-06-14T03:00:00Z",
     "title": "As Anthropic suspends access to new models, India debates its AI future",
@@ -120,42 +170,12 @@
     "pinned": false
   },
   {
-    "id": "5686263e781e",
-    "time": "2026-06-13T19:11:41Z",
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "aa1393ff375b",
     "time": "2026-06-13T17:19:56Z",
     "title": "Revised Artemis lunar lander plans take shape",
     "summary": "NASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7bc0c400c09f",
-    "time": "2026-06-13T16:47:18Z",
-    "title": "OpenAI faces investigation from state attorneys general",
-    "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9cc1b3cfd53e",
-    "time": "2026-06-13T14:45:43Z",
-    "title": "Anthropic's Mythos AI finds no more 'serious' bugs in Zcash: Wilcox",
-    "summary": "Zcash founder Zooko Wilcox said Anthropic's Mythos AI model found no further “serious bugs” in the privacy protocol following the patching of a previously discovered forgery bug.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -177,26 +197,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d77323645950",
-    "time": "2026-06-12T18:14:24Z",
-    "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
-    "summary": "Anthropic's AI survey showed Americans are afraid of job losses, hopeful for health breakthroughs, and distrustful of firms behind the tech.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "df2100dea326",
-    "time": "2026-06-12T17:50:06Z",
-    "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-    "summary": "Participants were refunded and did not receive shares in the record-breaking SpaceX IPO from Elon Musk's rocket company.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-    "category": "IPO动态",
     "pinned": false
   },
   {
