@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e65fbb9df1ce",
+    "time": "2026-06-16T03:38:49Z",
+    "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
+    "summary": "Grayscale says decentralized AI tokens gained after the US government ordered Anthropic to cut access to its latest AI models, showing user demand for alternatives to centralized AI.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "addc28263350",
     "time": "2026-06-15T21:50:21Z",
     "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
@@ -80,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "eb6174c6148b",
-    "time": "2026-06-15T15:00:00Z",
-    "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
-    "summary": "The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "8719717664c1",
     "time": "2026-06-15T14:45:03Z",
     "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
@@ -100,12 +100,12 @@
     "pinned": false
   },
   {
-    "id": "fc160e06c713",
-    "time": "2026-06-15T13:28:24Z",
-    "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
-    "summary": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth.",
+    "id": "f0dd91209c17",
+    "time": "2026-06-15T14:00:00Z",
+    "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+    "summary": "The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "category": "市场数据",
     "pinned": false
   },
@@ -117,6 +117,16 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
     "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "66ebc2d31fc8",
+    "time": "2026-06-15T12:28:24Z",
+    "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
+    "summary": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
     "pinned": false
   },
   {
