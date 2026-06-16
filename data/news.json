@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "5d34c2f419e8",
+    "time": "2026-06-16T16:05:57Z",
+    "title": "The SpaceNews space unicorn tracker",
+    "summary": "Our ongoing list of current private space companies with a valuation of $1 billion or more.\nThe post The SpaceNews space unicorn tracker appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b1580b78df8b",
+    "time": "2026-06-16T15:53:12Z",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5032edd0808b",
+    "time": "2026-06-16T15:35:39Z",
+    "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
+    "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e25859c191d0",
+    "time": "2026-06-16T14:00:00Z",
+    "title": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
+    "summary": "SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "94aa4709f0bb",
+    "time": "2026-06-16T13:48:37Z",
+    "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f4f656c6a4a3",
+    "time": "2026-06-16T11:21:41Z",
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e65fbb9df1ce",
     "time": "2026-06-16T03:38:49Z",
     "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
@@ -47,16 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e42ee9cf6cce",
-    "time": "2026-06-15T18:30:34Z",
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -100,72 +150,12 @@
     "pinned": false
   },
   {
-    "id": "f0dd91209c17",
-    "time": "2026-06-15T14:00:00Z",
-    "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
-    "summary": "The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "aa8fe317afdb",
     "time": "2026-06-15T13:04:47Z",
     "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
     "summary": "The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows appear to be lifting. But can they be trusted?",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "66ebc2d31fc8",
-    "time": "2026-06-15T12:28:24Z",
-    "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
-    "summary": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "dc81cfe3d747",
-    "time": "2026-06-14T16:38:09Z",
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "883e2f95d830",
-    "time": "2026-06-14T16:05:00Z",
-    "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f3c7bb52873f",
-    "time": "2026-06-14T13:01:03Z",
-    "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
-    "summary": "Tokenized Pokémon card sales have skyrocketed over the past year, fueled by a wave of speculation and so-called gacha machines.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "aa18e44a2db2",
-    "time": "2026-06-13T19:23:34Z",
-    "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-    "summary": "Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
     "category": "IPO动态",
     "pinned": false
   },
