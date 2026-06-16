@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "458e07dc534c",
+    "time": "2026-06-16T20:55:09Z",
+    "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
+    "summary": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "320267de5c79",
+    "time": "2026-06-16T20:11:00Z",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "75ecbe06bc4b",
+    "time": "2026-06-16T19:59:59Z",
+    "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
+    "summary": "Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping below 50% for the first time, as Gemini's default-app advantage and Claude's Pentagon-fueled rally eat into OpenAI's lead.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "df62d164aa53",
+    "time": "2026-06-16T19:00:38Z",
+    "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+    "summary": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c90c765e263d",
+    "time": "2026-06-16T17:19:40Z",
+    "title": "SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion",
+    "summary": "The all-stock deal would make Cursor a wholly owned SpaceX subsidiary and deepen the company's push into AI following its blockbuster IPO.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371308/spacex-new-high-as-elon-musk-firm-agrees-acquire-ai-startup-cursor",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5d34c2f419e8",
     "time": "2026-06-16T16:05:57Z",
     "title": "The SpaceNews space unicorn tracker",
@@ -33,7 +83,7 @@
     "id": "5032edd0808b",
     "time": "2026-06-16T15:35:39Z",
     "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-    "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as investor and partner.",
+    "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
     "category": "IPO动态",
@@ -50,42 +100,12 @@
     "pinned": false
   },
   {
-    "id": "94aa4709f0bb",
-    "time": "2026-06-16T13:48:37Z",
-    "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f4f656c6a4a3",
     "time": "2026-06-16T11:21:41Z",
     "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
     "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e65fbb9df1ce",
-    "time": "2026-06-16T03:38:49Z",
-    "title": "Anthropic shutdown makes a strong case for decentralized AI: Grayscale",
-    "summary": "Grayscale says decentralized AI tokens gained after the US government ordered Anthropic to cut access to its latest AI models, showing user demand for alternatives to centralized AI.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-shutdown-makes-a-strong-case-for-decentralized-ai-grayscale?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "addc28263350",
-    "time": "2026-06-15T21:50:21Z",
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -116,46 +136,6 @@
     "summary": "A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b0e4e148c715",
-    "time": "2026-06-15T16:07:35Z",
-    "title": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
-    "summary": "The U.S. move to pull Anthropic's top models offline shows the dangers of leaning on a few AI providers, Carney said.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c30adbde5dbf",
-    "time": "2026-06-15T15:29:51Z",
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8719717664c1",
-    "time": "2026-06-15T14:45:03Z",
-    "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
-    "summary": "SpaceX's IPO underwriters maxed out their share purchases, adding to an already historic amount of money raised.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aa8fe317afdb",
-    "time": "2026-06-15T13:04:47Z",
-    "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
-    "summary": "The three crypto market overhangs of the Iran War, SpaceX IPO and ETF outflows appear to be lifting. But can they be trusted?",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
     "category": "IPO动态",
     "pinned": false
   },
