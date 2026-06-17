@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "12b645c1de5d",
+    "time": "2026-06-17T17:43:07Z",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1a3dba210b74",
     "time": "2026-06-17T13:30:00Z",
     "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
@@ -47,16 +57,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "458e07dc534c",
-    "time": "2026-06-16T20:55:09Z",
-    "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
-    "summary": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -106,36 +106,6 @@
     "summary": "Our ongoing list of current private space companies with a valuation of $1 billion or more.\nThe post The SpaceNews space unicorn tracker appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b1580b78df8b",
-    "time": "2026-06-16T15:53:12Z",
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5032edd0808b",
-    "time": "2026-06-16T15:35:39Z",
-    "title": "Payments startup Flutterwave hits $3.2B valuation, backed by Ripple",
-    "summary": "African payments infrastructure company Flutterwave has hit a new valuation and landed blockchain company Ripple as an investor and partner.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/payments-startup-flutterwave-hits-3-2b-valuation-backed-by-ripple/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "47e3d5263de0",
-    "time": "2026-06-15T21:05:00Z",
-    "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
-    "summary": "A federal judge handed Elon Musk his second defeat against OpenAI after finding xAI failed to show OpenAI improperly obtained confidential info.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
     "category": "IPO动态",
     "pinned": false
   },
