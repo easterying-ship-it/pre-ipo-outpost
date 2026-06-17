@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "1a3dba210b74",
+    "time": "2026-06-17T13:30:00Z",
+    "title": "SpaceX alum nabs $22M to turn rocket engines into geothermal power plants",
+    "summary": "Critical Energy is turning rocket engines into geothermal power plants, and it wants to build 300 GW per year by 2045.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/17/spacex-alum-nabs-22m-to-turn-rocket-engines-into-geothermal-power-plants/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8f53f4f13e7c",
+    "time": "2026-06-17T12:54:40Z",
+    "title": "Inveniam to acquire Mantra after turbulent year marked by OM crash",
+    "summary": "Inveniam announced plans to acquire Mantra, a blockchain project that spent the past year recovering from the collapse of its OM token and prolonged market pressure.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/inveniam-acquire-mantra-om-token-collapse?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "45afd4fa2f84",
+    "time": "2026-06-17T10:48:53Z",
+    "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
+    "summary": "The DeFi token is up 20% in a day, with a Standard Chartered note and Uniswap's tokenized-stock launch fueling fresh demand.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "62990247309a",
     "time": "2026-06-16T22:34:17Z",
     "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -100,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "e25859c191d0",
-    "time": "2026-06-16T14:00:00Z",
-    "title": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
-    "summary": "SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4f656c6a4a3",
-    "time": "2026-06-16T11:21:41Z",
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "47e3d5263de0",
     "time": "2026-06-15T21:05:00Z",
     "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
@@ -127,56 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "043c3b41d9e5",
-    "time": "2026-06-15T18:37:57Z",
-    "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
-    "summary": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e628deff30ea",
-    "time": "2026-06-15T17:57:48Z",
-    "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
-    "summary": "A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aa1393ff375b",
-    "time": "2026-06-13T17:19:56Z",
-    "title": "Revised Artemis lunar lander plans take shape",
-    "summary": "NASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0a4af3af2ba2",
-    "time": "2026-06-12T21:06:39Z",
-    "title": "SpaceX shares rise nearly 20% in historic IPO",
-    "summary": "SpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic IPO appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "96089082b7c9",
-    "time": "2026-06-12T19:49:45Z",
-    "title": "Astronomers fear orbital data centers will interfere with observations",
-    "summary": "As SpaceX gears up to start launching orbital data center spacecraft as soon as next year, astronomers warn those satellites could cause serious interference with their observations.\nThe post Astronomers fear orbital data centers will interfere with observations appeared first on",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
-    "category": "成份股",
     "pinned": false
   },
   {
