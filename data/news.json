@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "a501d1feffbf",
+    "time": "2026-06-17T21:25:59Z",
+    "title": "SpaceX Surge Could Be Worth Billions for FTX—Will Creditors Benefit?",
+    "summary": "Defunct crypto exchange FTX gained exposure to SpaceX in 2022, and the rocket-maker’s post-IPO rally has lifted hopes among creditors.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371474/spacex-surge-worth-billions-ftx-will-creditors-benefit",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d22f5bbfb32a",
+    "time": "2026-06-17T20:32:52Z",
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3f856e340ec0",
+    "time": "2026-06-17T20:17:38Z",
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "553ccbc8d149",
+    "time": "2026-06-17T19:32:34Z",
+    "title": "Blockchain.com deepens onchain stock offerings as tokenized equities market grows",
+    "summary": "The rollout in collaboration with Ondo Finance broadens access to tokenized traditional assets as demand for onchain stocks and ETFs continues to grow.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blockchaincom-adds-173-tokenized-stocks-and-etfs-through-ondo?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "011516305901",
+    "time": "2026-06-17T19:01:19Z",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fffff11a68d4",
+    "time": "2026-06-17T18:30:56Z",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "12b645c1de5d",
     "time": "2026-06-17T17:43:07Z",
     "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
@@ -50,52 +110,12 @@
     "pinned": false
   },
   {
-    "id": "62990247309a",
-    "time": "2026-06-16T22:34:17Z",
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "320267de5c79",
-    "time": "2026-06-16T20:11:00Z",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "75ecbe06bc4b",
     "time": "2026-06-16T19:59:59Z",
     "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
     "summary": "Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping below 50% for the first time, as Gemini's default-app advantage and Claude's Pentagon-fueled rally eat into OpenAI's lead.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "df62d164aa53",
-    "time": "2026-06-16T19:00:38Z",
-    "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
-    "summary": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c90c765e263d",
-    "time": "2026-06-16T17:19:40Z",
-    "title": "SpaceX Shares Hit New High as Elon Musk's Firm Agrees to Acquire AI Startup Cursor for $60 Billion",
-    "summary": "The all-stock deal would make Cursor a wholly owned SpaceX subsidiary and deepen the company's push into AI following its blockbuster IPO.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371308/spacex-new-high-as-elon-musk-firm-agrees-acquire-ai-startup-cursor",
     "category": "IPO动态",
     "pinned": false
   },
