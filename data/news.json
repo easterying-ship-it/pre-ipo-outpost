@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "9d489b8e42b8",
+    "time": "2026-06-18T14:00:00Z",
+    "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
+    "summary": "Ledn’s addition of Tether Gold lending comes as tokenized commodities expand, with the sector accounting for nearly 17% of the $43 billion RWA market.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4ae762580210",
+    "time": "2026-06-18T13:00:00Z",
+    "title": "What the satellite servicing economy can borrow from carbon credits",
+    "summary": "In January 2026 alone, the Federal Communications Commission authorized 15,000 Starlink Gen2 satellites. Starcloud has filed for 88,000 orbital data center satellites. SpaceX has filed for 1 million. There is [&#8230;]\nThe post What the satellite servicing economy can borrow from",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "47f6286bb3ed",
+    "time": "2026-06-18T09:45:51Z",
+    "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
+    "summary": "Grayscale and CoinShares are applying traditional valuation techniques to crypto assets as institutions explore revenue-generating DeFi protocols.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f61b98a36f4d",
     "time": "2026-06-18T06:26:24Z",
     "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
@@ -87,16 +117,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "45afd4fa2f84",
-    "time": "2026-06-17T10:48:53Z",
-    "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
-    "summary": "The DeFi token is up 20% in a day, with a Standard Chartered note and Uniswap's tokenized-stock launch fueling fresh demand.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
-    "category": "市场数据",
     "pinned": false
   },
   {
