@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "b7bac0398d15",
+    "time": "2026-06-18T21:26:34Z",
+    "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
+    "summary": "Z.ai's GLM-5.2 sits within 1% of Claude Opus 4.8 on long-horizon coding benchmarks, runs entirely on Huawei silicon, and undercuts Western frontier models by up to 82% per token.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a09a1bc0a246",
+    "time": "2026-06-18T21:02:29Z",
+    "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+    "summary": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cbad92bf281c",
+    "time": "2026-06-18T19:59:22Z",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b00ed7836508",
+    "time": "2026-06-18T19:52:19Z",
+    "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
+    "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d0434b9622e5",
     "time": "2026-06-18T15:20:37Z",
     "title": "General Intuition in talks to raise $300M at around $2B valuation",
@@ -46,36 +86,6 @@
     "summary": "Grayscale and CoinShares are applying traditional valuation techniques to crypto assets as institutions explore revenue-generating DeFi protocols.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f61b98a36f4d",
-    "time": "2026-06-18T06:26:24Z",
-    "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX",
-    "summary": "Relativity Space—a rocket maker acquired by former Google executive chair Eric Schmidt last year after stumbling on the path to orbit—might just beat SpaceX to Mars.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a501d1feffbf",
-    "time": "2026-06-17T21:25:59Z",
-    "title": "SpaceX Surge Could Be Worth Billions for FTX—Will Creditors Benefit?",
-    "summary": "Defunct crypto exchange FTX gained exposure to SpaceX in 2022, and the rocket-maker’s post-IPO rally has lifted hopes among creditors.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371474/spacex-surge-worth-billions-ftx-will-creditors-benefit",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d22f5bbfb32a",
-    "time": "2026-06-17T20:32:52Z",
-    "title": "Roelof Botha joins SpaceX’s board of directors",
-    "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
     "category": "IPO动态",
     "pinned": false
   },
