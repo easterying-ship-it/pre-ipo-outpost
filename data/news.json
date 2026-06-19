@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "cd645bb8f26f",
+    "time": "2026-06-19T17:03:40Z",
+    "title": "Crypto Biz: Is AI the exit strategy for miners?",
+    "summary": "Bitcoin miners double down on AI, tokenized RWAs top $43 billion, Ripple strengthens its African payments network and Sam Bankman-Fried loses his appeal.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a9b01c4f9a71",
+    "time": "2026-06-19T16:08:17Z",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity research",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c89e10d0959e",
+    "time": "2026-06-19T15:06:59Z",
+    "title": "Amazon Won't Release Sam Altman Film 'Artificial' Following $50 Billion OpenAI Investment",
+    "summary": "Amazon is pulling out of \"Artificial,\" a film about Sam Altman's brief ouster from OpenAI, not long after investing $50 billion in the firm.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371682/amazon-wont-release-sam-altman-film-50-billion-openai-investment",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "205a3ca35406",
     "time": "2026-06-19T13:44:34Z",
     "title": "Kalshi in early IPO talks with investment banks: Report",
@@ -30,16 +60,6 @@
     "pinned": false
   },
   {
-    "id": "a09a1bc0a246",
-    "time": "2026-06-18T21:02:29Z",
-    "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
-    "summary": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "cbad92bf281c",
     "time": "2026-06-18T19:59:22Z",
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
@@ -56,16 +76,6 @@
     "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d0434b9622e5",
-    "time": "2026-06-18T15:20:37Z",
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
