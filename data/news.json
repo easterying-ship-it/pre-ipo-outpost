@@ -10,19 +10,29 @@
     "pinned": true
   },
   {
+    "id": "c7e7a7810e6a",
+    "time": "2026-06-20T07:05:20Z",
+    "title": "Philippine SEC signals readiness for RWA tokenization",
+    "summary": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2e42a70a089f",
     "time": "2026-06-20T01:41:39Z",
     "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
-    "summary": "Andre Cronje, Michael Kong and David Richardson have stepped down from the Sonic Labs board, while Matt Visser has been appointed as Sonic Labs' new CEO, replacing Mitchell Demeter who resigned in February.",
+    "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "category": "市场数据",
     "pinned": false
   },
   {
-    "id": "cc812eec9826",
+    "id": "970927e13eff",
     "time": "2026-06-19T22:40:14Z",
-    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
     "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
