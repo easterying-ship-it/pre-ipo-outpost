@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "8fef80dcafaf",
+    "time": "2026-06-21T15:28:17Z",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "aa803767cd4d",
     "time": "2026-06-20T16:39:57Z",
     "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
@@ -117,26 +127,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "cbad92bf281c",
-    "time": "2026-06-18T19:59:22Z",
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b00ed7836508",
-    "time": "2026-06-18T19:52:19Z",
-    "title": "The 11 standout startups from YC’s Demo Day, according to VCs",
-    "summary": "TechCrunch spoke to investors to find the hottest startups in the Spring 2026 YC batch. Some of them commanded valuations of over $175 million, VCs said.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
