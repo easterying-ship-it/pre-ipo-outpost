@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "22ff62b52d2e",
+    "time": "2026-06-22T14:00:00Z",
+    "title": "Enso launches RWA app and trading for over 500 tokenized assets",
+    "summary": "Enso launched access to over 500 tokenized assets and US stocks, citing a growing demand for US equity exposure among European investors.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "40bf00e0a0d1",
+    "time": "2026-06-22T13:42:45Z",
+    "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
+    "summary": "The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8fef80dcafaf",
     "time": "2026-06-21T15:28:17Z",
     "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -27,26 +47,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c7e7a7810e6a",
-    "time": "2026-06-20T07:05:20Z",
-    "title": "Philippine SEC signals readiness for RWA tokenization",
-    "summary": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "763abbbc278e",
-    "time": "2026-06-20T01:41:39Z",
-    "title": "Sonic token drops 5% as 3 former execs resign from Sonic Labs board",
-    "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -86,16 +86,6 @@
     "summary": "Many AI users are convinced that OpenAI is quietly running GPT-5.6 inside ChatGPT. OpenAI isn't confirming anything.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371699/openai-gpt-5-6-chatgpt-stealth-testing-rumors",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a9b01c4f9a71",
-    "time": "2026-06-19T16:08:17Z",
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity research",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
     "category": "IPO动态",
     "pinned": false
   },
