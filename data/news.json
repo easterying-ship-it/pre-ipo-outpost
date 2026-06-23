@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "1296a6a23a1f",
+    "time": "2026-06-23T17:00:00Z",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "bb5dc5f36599",
+    "time": "2026-06-23T14:38:32Z",
+    "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+    "summary": "SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC selloff.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "da6e168dcd3c",
+    "time": "2026-06-23T14:30:00Z",
+    "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
+    "summary": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "352621e97cab",
     "time": "2026-06-23T03:21:28Z",
     "title": "Bitmine, Sharplink and Joe Lubin back Ethereum R&D nonprofit",
@@ -30,33 +60,13 @@
     "pinned": false
   },
   {
-    "id": "866c3195f585",
+    "id": "73fe47d07a11",
     "time": "2026-06-22T21:06:30Z",
-    "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
-    "summary": "SpaceX is set to launch a demonstration mission for its Starfall reentry vehicle early on&#8230;\nThe post SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday appeared first on NASASpaceFlight.com.",
+    "title": "SpaceX tests upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
+    "summary": "Early Tuesday morning, SpaceX launched a demonstration mission for its Starfall reentry vehicle. Falcon 9&#8230;\nThe post SpaceX tests upcoming Starfall reentry vehicle with demonstration mission on Tuesday appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e34857dd47c9",
-    "time": "2026-06-22T20:36:53Z",
-    "title": "Franklin Templeton launches dedicated crypto division after closing 250 Digital acquisition",
-    "summary": "The new unit arrives amid rapid growth in tokenized assets, with Franklin Templeton's onchain product suite expanding from roughly $768 million to more than $2.5 billion over the past year.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "381dc4edbb1c",
-    "time": "2026-06-22T19:17:34Z",
-    "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-    "summary": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -76,16 +86,6 @@
     "summary": "The pair will focus on advancing tokenization and digital asset infrastructure in a joint venture co-chaired by the former governor of New York.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1db12cae9780",
-    "time": "2026-06-22T16:51:29Z",
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "category": "IPO动态",
     "pinned": false
   },
