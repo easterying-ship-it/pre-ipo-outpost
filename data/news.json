@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "762b39c618d5",
+    "time": "2026-06-23T00:11:31Z",
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "866c3195f585",
     "time": "2026-06-22T21:06:30Z",
     "title": "SpaceX to test upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
@@ -97,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4ae762580210",
-    "time": "2026-06-18T13:00:00Z",
-    "title": "What the satellite servicing economy can borrow from carbon credits",
-    "summary": "In January 2026 alone, the Federal Communications Commission authorized 15,000 Starlink Gen2 satellites. Starcloud has filed for 88,000 orbital data center satellites. SpaceX has filed for 1 million. There is [&#8230;]\nThe post What the satellite servicing economy can borrow from",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
-    "category": "成份股",
     "pinned": false
   }
 ]
