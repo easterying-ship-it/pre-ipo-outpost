@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "83a535f92bb4",
+    "time": "2026-06-24T20:09:45Z",
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "62eb0abc2c17",
+    "time": "2026-06-24T19:25:30Z",
+    "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
+    "summary": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3b5b44987796",
     "time": "2026-06-24T15:42:31Z",
     "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip",
@@ -86,26 +106,6 @@
     "summary": "Menlo has created a solid rep for itself as an AI investor, all based on one gutsy $750 million move in 2024.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "83908645ad35",
-    "time": "2026-06-23T18:59:26Z",
-    "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model—And Nobody's Shutting It Down",
-    "summary": "GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1296a6a23a1f",
-    "time": "2026-06-23T17:00:00Z",
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "category": "IPO动态",
     "pinned": false
   },
