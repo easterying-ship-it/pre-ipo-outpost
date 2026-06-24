@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "238e58bc3a75",
+    "time": "2026-06-24T12:25:46Z",
+    "title": "Morning Minute: Meta Is Building a Prediction Market",
+    "summary": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e2f9ce50f5a6",
+    "time": "2026-06-24T11:39:59Z",
+    "title": "SpaceX launches secretive Starfall reentry demo mission",
+    "summary": "SpaceX launched the first test flight of its Starfall reentry capsule June 23, but the mission remained as secretive as the program itself.\nThe post SpaceX launches secretive Starfall reentry demo mission appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ac50c574dfc5",
+    "time": "2026-06-24T11:21:01Z",
+    "title": "Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered",
+    "summary": "Standard Chartered said tokenized assets moving into DeFi could drive deposits into Aave and help the protocol rebuild its position as a dominant onchain lending platform.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/standard-chartered-aave-tokenized-assets-defi-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "3edbf0c7ad6f",
     "time": "2026-06-24T10:00:00Z",
     "title": "NGSO trade association launches without industry giant SpaceX",
@@ -77,26 +107,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "2a358447256b",
-    "time": "2026-06-22T18:00:03Z",
-    "title": "ICE and OKX Are Teaming Up to Bring Tokenized Securities to Wall Street",
-    "summary": "The pair will focus on advancing tokenization and digital asset infrastructure in a joint venture co-chaired by the former governor of New York.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "64ce29e94e1c",
-    "time": "2026-06-19T19:27:00Z",
-    "title": "India’s Jio lays out sovereign LEO constellation plan ahead of IPO",
-    "summary": "Jio Platforms, which owns India’s largest telco, is looking to lease broadband capacity from satellite constellations to jumpstart its own sovereign LEO network in the country.\nThe post India’s Jio lays out sovereign LEO constellation plan ahead of IPO appeared first on SpaceNews",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
