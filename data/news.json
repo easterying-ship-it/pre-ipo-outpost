@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "9e12916f422f",
+    "time": "2026-06-25T21:13:37Z",
+    "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
+    "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2a1706a14196",
+    "time": "2026-06-25T19:11:36Z",
+    "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
+    "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "633505fb22bd",
     "time": "2026-06-25T17:38:27Z",
     "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
@@ -50,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "5ee7087a8d46",
-    "time": "2026-06-25T02:23:39Z",
-    "title": "Kalshi seeks funding at $40B valuation, nearly doubling last raise: FT",
-    "summary": "Kalshi is reportedly in talks to raise new capital at a $40 billion valuation, reflecting growing investor confidence in regulated prediction markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4b438a8f7e22",
     "time": "2026-06-24T22:27:05Z",
     "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says—Here's Why",
@@ -76,16 +86,6 @@
     "summary": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3b5b44987796",
-    "time": "2026-06-24T15:42:31Z",
-    "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip",
-    "summary": "Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
     "category": "IPO动态",
     "pinned": false
   },
