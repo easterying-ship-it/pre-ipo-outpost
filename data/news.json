@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "633505fb22bd",
+    "time": "2026-06-25T17:38:27Z",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d9458b3ae2a7",
+    "time": "2026-06-25T16:01:06Z",
+    "title": "Small satellite operators confront a bottleneck to space access",
+    "summary": "For years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missions, [&#8230;]\nThe post Small satellite operators confront a bottleneck to space",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "2fd2e0aaea2b",
     "time": "2026-06-25T13:08:11Z",
     "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
@@ -50,26 +70,6 @@
     "pinned": false
   },
   {
-    "id": "3ea5809bbed6",
-    "time": "2026-06-24T21:42:07Z",
-    "title": "AI researchers continue to leave Google for its rivals",
-    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "83a535f92bb4",
-    "time": "2026-06-24T20:09:45Z",
-    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "62eb0abc2c17",
     "time": "2026-06-24T19:25:30Z",
     "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
@@ -87,16 +87,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "238e58bc3a75",
-    "time": "2026-06-24T12:25:46Z",
-    "title": "Morning Minute: Meta Is Building a Prediction Market",
-    "summary": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
-    "category": "市场数据",
     "pinned": false
   },
   {
