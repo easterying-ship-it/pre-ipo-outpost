@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "2fd2e0aaea2b",
+    "time": "2026-06-25T13:08:11Z",
+    "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
+    "summary": "The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning crypto trading, stablecoins, tokenization and blockchain infrastructure.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9720fd1aa056",
     "time": "2026-06-25T10:28:47Z",
     "title": "Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT",
@@ -76,16 +86,6 @@
     "summary": "Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "106af1a48f3a",
-    "time": "2026-06-24T14:54:46Z",
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "category": "IPO动态",
     "pinned": false
   },
