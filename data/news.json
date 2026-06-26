@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "6f3fd07d22bd",
+    "time": "2026-06-26T12:20:32Z",
+    "title": "Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation",
+    "summary": "Bitcoin sinks to a fresh 2026 low as the selloff drags on. Kraken makes a major move into DeFi. And BlackBerry is staging a comeback.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6c76bde1a7c3",
+    "time": "2026-06-26T12:00:00Z",
+    "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
+    "summary": "Former SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastructure.\nThe post Starlink veterans launch startup to broaden megaconstellation owne",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "4739139ef047",
     "time": "2026-06-26T03:56:08Z",
     "title": "Sharplink buys ETH after 8-month pause as token hits 2026 low",
@@ -100,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "62eb0abc2c17",
-    "time": "2026-06-24T19:25:30Z",
-    "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
-    "summary": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "e2f9ce50f5a6",
     "time": "2026-06-24T11:39:59Z",
     "title": "SpaceX launches secretive Starfall reentry demo mission",
@@ -117,16 +127,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3edbf0c7ad6f",
-    "time": "2026-06-24T10:00:00Z",
-    "title": "NGSO trade association launches without industry giant SpaceX",
-    "summary": "Amazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO constellation.\nThe post NGSO trade association launches without industry giant ",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-    "category": "成份股",
     "pinned": false
   },
   {
