@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "b6b731ff8dcf",
+    "time": "2026-06-26T16:38:33Z",
+    "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
+    "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3c760f55fdf4",
+    "time": "2026-06-26T16:24:47Z",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "6f3fd07d22bd",
     "time": "2026-06-26T12:20:32Z",
     "title": "Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation",
@@ -47,16 +67,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a034439b5e67",
-    "time": "2026-06-25T22:06:18Z",
-    "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
-    "summary": "SAN FRANCISCO – Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observations with its GEMS2-Amethyst satellite. Launched March 30 aboard the SpaceX Transporter 16 rideshare [&#8230;]\nThe post Weather Stream releases fir",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
-    "category": "成份股",
     "pinned": false
   },
   {
