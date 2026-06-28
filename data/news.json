@@ -10,9 +10,19 @@
     "pinned": true
   },
   {
-    "id": "2c5d9b15a583",
-    "time": "2026-06-28T16:05:07Z",
-    "title": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
+    "id": "5b62ad0b5005",
+    "time": "2026-06-28T18:58:45Z",
+    "title": "BIS warns stablecoins risk fragmenting global financial system",
+    "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f66afea4d36d",
+    "time": "2026-06-28T16:10:00Z",
+    "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
     "summary": "The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -156,16 +166,6 @@
     "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3c760f55fdf4",
-    "time": "2026-06-26T16:24:47Z",
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
     "category": "IPO动态",
     "pinned": false
   },
