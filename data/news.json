@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "2a6562ee07df",
+    "time": "2026-06-29T18:10:26Z",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "236623b96ee3",
     "time": "2026-06-29T16:54:09Z",
     "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
@@ -27,26 +37,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5b62ad0b5005",
-    "time": "2026-06-28T18:58:45Z",
-    "title": "BIS warns stablecoins risk fragmenting global financial system",
-    "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "48ef39d3023d",
-    "time": "2026-06-27T20:42:36Z",
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -76,16 +66,6 @@
     "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b6b731ff8dcf",
-    "time": "2026-06-26T16:38:33Z",
-    "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
-    "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
     "category": "IPO动态",
     "pinned": false
   },
