@@ -10,10 +10,20 @@
     "pinned": true
   },
   {
+    "id": "236623b96ee3",
+    "time": "2026-06-29T16:54:09Z",
+    "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
+    "summary": "Anthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "e190ffebed32",
     "time": "2026-06-29T15:02:07Z",
     "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-    "summary": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
+    "summary": "The all-stock deal values Iridium at $8 billion and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
     "category": "成份股",
@@ -30,62 +40,12 @@
     "pinned": false
   },
   {
-    "id": "f66afea4d36d",
-    "time": "2026-06-28T16:10:00Z",
-    "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
-    "summary": "The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "48ef39d3023d",
     "time": "2026-06-27T20:42:36Z",
     "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
     "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e8bb4366b8b3",
-    "time": "2026-06-27T16:45:09Z",
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b5c627f91ff6",
-    "time": "2026-06-27T12:00:00Z",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "32522a937f0e",
-    "time": "2026-06-27T01:01:37Z",
-    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fd4d50691480",
-    "time": "2026-06-27T00:38:34Z",
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "summary": "Mesh came out of stealth in February with a $50 million Series A.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -130,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "6f3fd07d22bd",
-    "time": "2026-06-26T12:20:32Z",
-    "title": "Morning Minute: Kraken Eyes 15% Stake in Aave at $385M Valuation",
-    "summary": "Bitcoin sinks to a fresh 2026 low as the selloff drags on. Kraken makes a major move into DeFi. And BlackBerry is staging a comeback.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372166/morning-minute-kraken-eyes-15-stake-in-aave-at-385m-valuation",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6c76bde1a7c3",
     "time": "2026-06-26T12:00:00Z",
     "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
@@ -147,16 +97,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9e12916f422f",
-    "time": "2026-06-25T21:13:37Z",
-    "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-    "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-    "category": "IPO动态",
     "pinned": false
   },
   {
