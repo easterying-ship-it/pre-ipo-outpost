@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e5aeea0dd850",
+    "time": "2026-06-30T13:00:00Z",
+    "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+    "summary": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9a4d0d2f3725",
     "time": "2026-06-30T01:45:20Z",
     "title": "Study argues bigger launch vehicles may not always be better",
@@ -50,16 +60,6 @@
     "pinned": false
   },
   {
-    "id": "1c132b584b4b",
-    "time": "2026-06-26T20:47:44Z",
-    "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
-    "summary": "Securitize expects to begin trading next week under the ticker symbol “SECZ,” following the completion of a merger with a blank-check firm.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "d35a9c9bc6fb",
     "time": "2026-06-26T19:33:26Z",
     "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
@@ -76,16 +76,6 @@
     "summary": "Former SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastructure.\nThe post Starlink veterans launch startup to broaden megaconstellation owne",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d9458b3ae2a7",
-    "time": "2026-06-25T16:01:06Z",
-    "title": "Small satellite operators confront a bottleneck to space access",
-    "summary": "For years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missions, [&#8230;]\nThe post Small satellite operators confront a bottleneck to space",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
     "category": "成份股",
     "pinned": false
   },
