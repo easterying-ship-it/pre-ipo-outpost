@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "3564f58b4237",
+    "time": "2026-06-30T17:00:00Z",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "611fbe6d88af",
+    "time": "2026-06-30T15:32:50Z",
+    "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
+    "summary": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "91164c848729",
+    "time": "2026-06-30T15:00:00Z",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "e5aeea0dd850",
     "time": "2026-06-30T13:00:00Z",
     "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
@@ -47,16 +77,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e190ffebed32",
-    "time": "2026-06-29T15:02:07Z",
-    "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
-    "summary": "The all-stock deal values Iridium at $8 billion and gives Rocket Lab even more firepower to compete against Amazon and SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
-    "category": "成份股",
     "pinned": false
   },
   {
