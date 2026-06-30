@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "9a4d0d2f3725",
+    "time": "2026-06-30T01:45:20Z",
+    "title": "Study argues bigger launch vehicles may not always be better",
+    "summary": "As SpaceX and others pursue the development of very large launch vehicles, a new study suggests that there may be such a thing as a rocket that is too large.\nThe post Study argues bigger launch vehicles may not always be better appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "2a6562ee07df",
     "time": "2026-06-29T18:10:26Z",
     "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
@@ -56,16 +66,6 @@
     "summary": "SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine&#8230;\nThe post Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c046c335ac8d",
-    "time": "2026-06-26T19:06:06Z",
-    "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
-    "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
     "category": "IPO动态",
     "pinned": false
   },
