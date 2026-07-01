@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "778a5f3af322",
+    "time": "2026-07-01T06:14:32Z",
+    "title": "Anthropic to bring back Fable 5 as US lifts export controls",
+    "summary": "Claude Fable 5 will be redeployed with a new set of classifiers designed to identify and block a broader range of cybersecurity-related tasks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c2efbebf17ee",
+    "time": "2026-07-01T02:16:06Z",
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "bc79f73900d6",
     "time": "2026-07-01T02:04:40Z",
     "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
@@ -20,9 +40,9 @@
     "pinned": false
   },
   {
-    "id": "c456a9c30a43",
+    "id": "799b3b5bc2ff",
     "time": "2026-06-30T21:16:47Z",
-    "title": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?",
+    "title": "Bitmine Ether buys eclipsed by $345M ETH ETF outflows: Is sub $1.5K next?",
     "summary": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -97,16 +117,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e5aeea0dd850",
-    "time": "2026-06-30T13:00:00Z",
-    "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
-    "summary": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
