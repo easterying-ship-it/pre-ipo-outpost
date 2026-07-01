@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "103458a6a851",
+    "time": "2026-07-01T13:43:07Z",
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c2e37c5b35f9",
+    "time": "2026-07-01T13:36:13Z",
+    "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
+    "summary": "The Bank of Korea’s governor praised tokenized government bonds for easing the issuance and management of government debt during a panel discussion at the ECB Forum.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f78948f68465",
+    "time": "2026-07-01T12:22:10Z",
+    "title": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
+    "summary": "EchoStar subsidiaries tied to its satellite TV and abandoned 5G network businesses have filed for Chapter 11 bankruptcy protection, advancing a prepackaged restructuring plan to repay debt early after selling spectrum to SpaceX and AT&#038;T.\nThe post EchoStar’s satellite TV and ",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "c3d63b08c15f",
+    "time": "2026-07-01T11:50:01Z",
+    "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
+    "summary": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4e326262d786",
     "time": "2026-07-01T11:00:00Z",
     "title": "The SpaceX IPO tells one story. Here is the more important one.",
@@ -116,16 +156,6 @@
     "summary": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "91164c848729",
-    "time": "2026-06-30T15:00:00Z",
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
     "category": "成份股",
     "pinned": false
   },
