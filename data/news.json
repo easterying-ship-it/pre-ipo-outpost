@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "90bfaba622f3",
+    "time": "2026-07-01T16:36:39Z",
+    "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+    "summary": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7c7cf970fe37",
+    "time": "2026-07-01T16:24:07Z",
+    "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
+    "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "bf5337bb8290",
+    "time": "2026-07-01T16:05:47Z",
+    "title": "Lime raises $167M in IPO after years of teasing a public debut",
+    "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c3d63b08c15f",
+    "time": "2026-07-01T14:24:19Z",
+    "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
+    "summary": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "103458a6a851",
     "time": "2026-07-01T13:43:07Z",
     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
@@ -37,16 +77,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "c3d63b08c15f",
-    "time": "2026-07-01T11:50:01Z",
-    "title": "French banking giant Crédit Agricole launches EURXT euro stablecoin",
-    "summary": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -90,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "799b3b5bc2ff",
-    "time": "2026-06-30T21:16:47Z",
-    "title": "Bitmine Ether buys eclipsed by $345M ETH ETF outflows: Is sub $1.5K next?",
-    "summary": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "a8b1ee5fcad0",
     "time": "2026-06-30T20:51:44Z",
     "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
@@ -136,26 +156,6 @@
     "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "3564f58b4237",
-    "time": "2026-06-30T17:00:00Z",
-    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "611fbe6d88af",
-    "time": "2026-06-30T15:32:50Z",
-    "title": "Tesla starts testing Cybercab without pedals or a steering wheel in Austin",
-    "summary": "The company may finally be ready to try to deliver on Elon Musk's years-long promise of launching a robotaxi network of its own.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/",
     "category": "成份股",
     "pinned": false
   },
