@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "bc79f73900d6",
+    "time": "2026-07-01T02:04:40Z",
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c456a9c30a43",
+    "time": "2026-06-30T21:16:47Z",
+    "title": "Bitmine Ether buys eclipsed by $345M ETH ETF $345M outflows: Is sub $1.5K next?",
+    "summary": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "a8b1ee5fcad0",
     "time": "2026-06-30T20:51:44Z",
     "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
