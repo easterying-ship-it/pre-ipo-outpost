@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "309a8bf26d82",
+    "time": "2026-07-01T20:56:38Z",
+    "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
+    "summary": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "83ccd641a3f2",
+    "time": "2026-07-01T20:38:40Z",
+    "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
+    "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "955ff65ed97d",
+    "time": "2026-07-01T20:38:39Z",
+    "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
+    "summary": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first real-time transaction settled against USDCx.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c845105e6345",
+    "time": "2026-07-01T18:54:18Z",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6090f6d30105",
+    "time": "2026-07-01T18:29:14Z",
+    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "90bfaba622f3",
     "time": "2026-07-01T16:36:39Z",
     "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
@@ -26,16 +76,6 @@
     "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bf5337bb8290",
-    "time": "2026-07-01T16:05:47Z",
-    "title": "Lime raises $167M in IPO after years of teasing a public debut",
-    "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -137,26 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "bdba8bfd2996",
-    "time": "2026-06-30T18:13:02Z",
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8d67ee31a283",
-    "time": "2026-06-30T18:00:00Z",
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "category": "成份股",
     "pinned": false
   },
   {
