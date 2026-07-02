@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "afea8286e383",
+    "time": "2026-07-02T16:25:01Z",
+    "title": "Ondo expands tokenized equities with onchain shareholder voting",
+    "summary": "Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4569258285e9",
+    "time": "2026-07-02T15:20:51Z",
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2179eacff9d1",
+    "time": "2026-07-02T13:53:00Z",
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "1a0a2f3029ec",
     "time": "2026-07-02T13:04:23Z",
     "title": "UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’",
@@ -70,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "955ff65ed97d",
-    "time": "2026-07-01T20:38:39Z",
-    "title": "Tradeweb executes real-time tokenized US Treasury transaction on Canton Network",
-    "summary": "Franklin Templeton transferred a tokenized US Treasury to Virtu Financial in what Tradeweb said was the first real-time transaction settled against USDCx.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tradeweb-executes-real-time-tokenized-us-treasury-transaction-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "c845105e6345",
     "time": "2026-07-01T18:54:18Z",
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -137,16 +157,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a8b1ee5fcad0",
-    "time": "2026-06-30T20:51:44Z",
-    "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
-    "summary": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
-    "category": "市场数据",
     "pinned": false
   },
   {
