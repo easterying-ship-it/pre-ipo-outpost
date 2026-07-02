@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "d1ae5e0356ec",
+    "time": "2026-07-02T20:42:48Z",
+    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
+    "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c1434b2c8060",
+    "time": "2026-07-02T20:11:59Z",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b714669784f3",
+    "time": "2026-07-02T19:17:32Z",
+    "title": "IMF says tokenization could transform settlement and financial stability",
+    "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "44132463c04c",
+    "time": "2026-07-02T18:43:50Z",
+    "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+    "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a6d1ddcd9a94",
+    "time": "2026-07-02T18:31:09Z",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "afea8286e383",
     "time": "2026-07-02T16:25:01Z",
     "title": "Ondo expands tokenized equities with onchain shareholder voting",
@@ -100,26 +150,6 @@
     "pinned": false
   },
   {
-    "id": "c845105e6345",
-    "time": "2026-07-01T18:54:18Z",
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6090f6d30105",
-    "time": "2026-07-01T18:29:14Z",
-    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-    "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "90bfaba622f3",
     "time": "2026-07-01T16:36:39Z",
     "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
@@ -157,16 +187,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9a4d0d2f3725",
-    "time": "2026-06-30T01:45:20Z",
-    "title": "Study argues bigger launch vehicles may not always be better",
-    "summary": "As SpaceX and others pursue the development of very large launch vehicles, a new study suggests that there may be such a thing as a rocket that is too large.\nThe post Study argues bigger launch vehicles may not always be better appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
-    "category": "成份股",
     "pinned": false
   },
   {
