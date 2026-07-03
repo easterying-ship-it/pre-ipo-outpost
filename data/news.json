@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "4c0861b9e513",
+    "time": "2026-07-02T21:39:25Z",
+    "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+    "summary": "Sam Altman is pitching a 5% equity stake in OpenAI for the U.S. government—and reportedly wants every major AI company to do the same.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d1ae5e0356ec",
     "time": "2026-07-02T20:42:48Z",
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
@@ -23,7 +33,7 @@
     "id": "c1434b2c8060",
     "time": "2026-07-02T20:11:59Z",
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "category": "IPO动态",
@@ -110,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "813b1514642e",
-    "time": "2026-07-02T06:05:02Z",
-    "title": "Robinhood links with dYdX Labs to launch new DEX Arcus",
-    "summary": "The crypto protocol dYdX has rebranded as Arcus and is joining Robinhood’s new blockchain to bring perpetual and tokenized stock trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-links-with-dydx-labs-to-launch-new-dex-arcus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "20a22fd579c2",
-    "time": "2026-07-01T22:28:35Z",
-    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
-    "summary": "The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "309a8bf26d82",
     "time": "2026-07-01T20:56:38Z",
     "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
@@ -146,26 +136,6 @@
     "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "90bfaba622f3",
-    "time": "2026-07-01T16:36:39Z",
-    "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
-    "summary": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7c7cf970fe37",
-    "time": "2026-07-01T16:24:07Z",
-    "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
-    "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
     "category": "IPO动态",
     "pinned": false
   },
