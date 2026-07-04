@@ -10,22 +10,32 @@
     "pinned": true
   },
   {
+    "id": "1ad054f6d74b",
+    "time": "2026-07-04T16:07:19Z",
+    "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
+    "summary": "Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "21246e567641",
+    "time": "2026-07-04T15:51:32Z",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fa3b0dcea992",
     "time": "2026-07-03T21:26:45Z",
     "title": "Starship in Florida pushing for launch this year",
     "summary": "Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors&#8230;\nThe post Starship in Florida pushing for launch this year appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "061611fc2053",
-    "time": "2026-07-03T09:26:00Z",
-    "title": "India's central bank revives push to isolate banks from crypto: Report",
-    "summary": "The Indian central bank reportedly urged lawmakers to keep banks insulated from crypto and private stablecoins while preserving room for regulated tokenization.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
