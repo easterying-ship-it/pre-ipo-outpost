@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "101877995313",
+    "time": "2026-07-04T19:37:11Z",
+    "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+    "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "1ad054f6d74b",
     "time": "2026-07-04T16:07:19Z",
     "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
@@ -86,16 +96,6 @@
     "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4569258285e9",
-    "time": "2026-07-02T15:20:51Z",
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "category": "IPO动态",
     "pinned": false
   },
