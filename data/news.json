@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "fa3b0dcea992",
+    "time": "2026-07-03T21:26:45Z",
+    "title": "Starship in Florida pushing for launch this year",
+    "summary": "Starship launches from Cape Canaveral are getting closer and closer as SpaceX and its contractors&#8230;\nThe post Starship in Florida pushing for launch this year appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "061611fc2053",
     "time": "2026-07-03T09:26:00Z",
     "title": "India's central bank revives push to isolate banks from crypto: Report",
@@ -76,26 +86,6 @@
     "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "309a8bf26d82",
-    "time": "2026-07-01T20:56:38Z",
-    "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
-    "summary": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "83ccd641a3f2",
-    "time": "2026-07-01T20:38:40Z",
-    "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
-    "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
     "category": "IPO动态",
     "pinned": false
   },
