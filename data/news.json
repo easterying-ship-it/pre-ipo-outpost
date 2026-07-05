@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "021d76f5945f",
+    "time": "2026-07-05T00:50:30Z",
+    "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+    "summary": "Moonbeam didn’t provide a timeline for when it would launch the AI agent platform but told GLMR holders to bridge their tokens from the Polkadot parachain to Base before July 31.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "101877995313",
     "time": "2026-07-04T19:37:11Z",
     "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
@@ -127,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "73fe47d07a11",
-    "time": "2026-06-22T21:06:30Z",
-    "title": "SpaceX tests upcoming Starfall reentry vehicle with demonstration mission on Tuesday",
-    "summary": "Early Tuesday morning, SpaceX launched a demonstration mission for its Starfall reentry vehicle. Falcon 9&#8230;\nThe post SpaceX tests upcoming Starfall reentry vehicle with demonstration mission on Tuesday appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/06/starfall-demo/",
-    "category": "成份股",
     "pinned": false
   }
 ]
