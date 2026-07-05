@@ -21,7 +21,7 @@
   },
   {
     "id": "101877995313",
-    "time": "2026-07-04T19:37:11Z",
+    "time": "2026-07-04T19:40:00Z",
     "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
     "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
     "source": "CoinTelegraph",
@@ -96,16 +96,6 @@
     "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a6d1ddcd9a94",
-    "time": "2026-07-02T18:31:09Z",
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
     "category": "IPO动态",
     "pinned": false
   },
