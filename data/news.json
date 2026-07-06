@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "74defa2a3b7e",
+    "time": "2026-07-06T13:50:06Z",
+    "title": "FCA warns of major shakeup as AI agents meet tokenized money",
+    "summary": "The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "38d8be0f2656",
+    "time": "2026-07-06T09:00:00Z",
+    "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+    "summary": "Even Realities, an ex-Apple team building camera-free smart glasses, raised $150 million from Meituan and Tencent at a $1 billion valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "67fd89ca986d",
     "time": "2026-07-06T06:05:29Z",
     "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
@@ -80,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "44132463c04c",
-    "time": "2026-07-02T18:43:50Z",
-    "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-    "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f78948f68465",
     "time": "2026-07-01T12:22:10Z",
     "title": "EchoStar’s satellite TV and wireless subsidiaries file for bankruptcy",
@@ -97,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "4e326262d786",
-    "time": "2026-07-01T11:00:00Z",
-    "title": "The SpaceX IPO tells one story. Here is the more important one.",
-    "summary": "When SpaceX publicly listed, the coverage focused on the rockets, the valuation, and the personalities. That’s understandable. But the more important story is what the IPO signals about where the [&#8230;]\nThe post The SpaceX IPO tells one story. Here is the more important one. a",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
