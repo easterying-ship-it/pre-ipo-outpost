@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "67fd89ca986d",
+    "time": "2026-07-06T06:05:29Z",
+    "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+    "summary": "While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "021d76f5945f",
     "time": "2026-07-05T00:50:30Z",
     "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
@@ -66,16 +76,6 @@
     "summary": "Sam Altman is pitching a 5% equity stake in OpenAI for the U.S. government—and reportedly wants every major AI company to do the same.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d1ae5e0356ec",
-    "time": "2026-07-02T20:42:48Z",
-    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-    "summary": "IQM, a full-stack quantum company out of Finland, went public on the Nasdaq today at a valuation of about $1.9 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "category": "IPO动态",
     "pinned": false
   },
