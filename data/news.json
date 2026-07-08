@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "4974e7b243d5",
+    "time": "2026-07-08T08:46:02Z",
+    "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
+    "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4dc419199f37",
+    "time": "2026-07-08T07:16:00Z",
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d95467254468",
     "time": "2026-07-07T22:31:03Z",
     "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
@@ -97,16 +117,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "0889e36ed82c",
-    "time": "2026-07-06T23:21:03Z",
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
