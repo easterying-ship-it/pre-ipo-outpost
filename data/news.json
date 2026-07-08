@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "af7bc3333675",
+    "time": "2026-07-08T13:00:00Z",
+    "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+    "summary": "Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco’s terrestrial network.\nThe post Fi expands Starlink direct-to-device capability into dog-tracking",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "97dc7e54ff12",
+    "time": "2026-07-08T12:00:00Z",
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cc55a35962d9",
+    "time": "2026-07-08T10:21:12Z",
+    "title": "Berachain hard fork to replace dual-token model with WBERA rewards",
+    "summary": "Berachain launched the first stage of its PoL Next upgrade, which will phase out the BGT token and shift the network's reward system to WBERA.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/berachain-hard-fork-single-token-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4974e7b243d5",
     "time": "2026-07-08T08:46:02Z",
     "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
@@ -77,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7acc72c537e1",
-    "time": "2026-07-07T16:43:07Z",
-    "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
-    "summary": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
