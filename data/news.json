@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "4cc754594555",
+    "time": "2026-07-08T20:29:10Z",
+    "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
+    "summary": "Industry data shows trading activity and market value accelerating as crypto companies and traditional financial institutions expand tokenized equity initiatives.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d745365b56c6",
+    "time": "2026-07-08T19:30:16Z",
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e038caa9538e",
+    "time": "2026-07-08T19:14:15Z",
+    "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
+    "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a986f8a63b61",
+    "time": "2026-07-08T18:46:20Z",
+    "title": "Elon Musk says X will send DMs when posts you’ve engaged with are corrected",
+    "summary": "X plans to send users direct messages when posts they’ve liked, replied to, or reposted receive Community Notes, an update aimed at addressing criticism that the platform’s crowdsourced fact-checking system often arrives too late to curb misinformation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6056abdbf54b",
+    "time": "2026-07-08T17:23:19Z",
+    "title": "Stablecoin-settled TradFi perpetual trading tops $1.1T: Binance Research",
+    "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2f82335f8026",
+    "time": "2026-07-08T17:00:00Z",
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "c63f2650c5c1",
     "time": "2026-07-08T14:04:53Z",
     "title": "Blue Origin reportedly raising $10B at $130B valuation",
@@ -40,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "97dc7e54ff12",
-    "time": "2026-07-08T12:00:00Z",
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "cc55a35962d9",
     "time": "2026-07-08T10:21:12Z",
     "title": "Berachain hard fork to replace dual-token model with WBERA rewards",
@@ -70,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "4dc419199f37",
-    "time": "2026-07-08T07:16:00Z",
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "d95467254468",
     "time": "2026-07-07T22:31:03Z",
     "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
     "summary": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4c2b2644b818",
-    "time": "2026-07-07T20:04:32Z",
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
     "category": "IPO动态",
     "pinned": false
   },
