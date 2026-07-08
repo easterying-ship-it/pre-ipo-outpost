@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "c63f2650c5c1",
+    "time": "2026-07-08T14:04:53Z",
+    "title": "Blue Origin reportedly raising $10B at $130B valuation",
+    "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6ec1f0239eb3",
+    "time": "2026-07-08T13:30:00Z",
+    "title": "The 5 types of real world assets being tokenized fastest onchain",
+    "summary": "Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "af7bc3333675",
     "time": "2026-07-08T13:00:00Z",
     "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
@@ -53,7 +73,7 @@
     "id": "4dc419199f37",
     "time": "2026-07-08T07:16:00Z",
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
     "category": "IPO动态",
@@ -67,16 +87,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "04b31088e119",
-    "time": "2026-07-07T20:57:02Z",
-    "title": "Vanguard seeks digital assets chief after years of crypto skepticism",
-    "summary": "The asset manager is hiring a head of digital assets to lead its strategy for tokenization, stablecoins, blockchain infrastructure and client-facing products.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/vanguard-seeks-digital-assets-chief-after-years-of-crypto-skepticism?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -117,16 +127,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "4b1d9a67c244",
-    "time": "2026-07-07T14:35:42Z",
-    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-    "summary": "AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
