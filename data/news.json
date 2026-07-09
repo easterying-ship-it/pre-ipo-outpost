@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "9af9456a3036",
+    "time": "2026-07-09T12:18:24Z",
+    "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
+    "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "6569a79bb3a4",
     "time": "2026-07-09T09:19:38Z",
     "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
@@ -20,10 +30,10 @@
     "pinned": false
   },
   {
-    "id": "8d9c701281a1",
+    "id": "8e974a359349",
     "time": "2026-07-09T08:51:48Z",
-    "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
-    "summary": "SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
+    "title": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
+    "summary": "Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
@@ -90,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "4cc754594555",
-    "time": "2026-07-08T20:29:10Z",
-    "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
-    "summary": "Industry data shows trading activity and market value accelerating as crypto companies and traditional financial institutions expand tokenized equity initiatives.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-stock-transfers-surge-105-in-a-month-to-84b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d745365b56c6",
     "time": "2026-07-08T19:30:16Z",
     "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
@@ -107,16 +107,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e038caa9538e",
-    "time": "2026-07-08T19:14:15Z",
-    "title": "Officials set to revise MiCA to cover non-EU stablecoin issuers: Report",
-    "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -160,16 +150,6 @@
     "pinned": false
   },
   {
-    "id": "67f07c0aad91",
-    "time": "2026-07-07T19:51:38Z",
-    "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
-    "summary": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "94cfab66dbe7",
     "time": "2026-07-07T18:11:41Z",
     "title": "Apolink makes contact with first relay satellite",
@@ -186,16 +166,6 @@
     "summary": "SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program’s future reach what one rival company executive called a panic.\nThe post SpaceX launches Transporter-17 amid concerns about rideshare program’s future appeared",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "eb7bdd505330",
-    "time": "2026-07-07T11:00:00Z",
-    "title": "SpaceX satellite wins test Pentagon’s commitment to competition",
-    "summary": "As the military rushes to deploy proliferated networks, SpaceX’s dominance is attracting congressional scrutiny \nThe post SpaceX satellite wins test Pentagon’s commitment to competition appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
     "category": "成份股",
     "pinned": false
   },
