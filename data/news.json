@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "fd4f65f3ceed",
+    "time": "2026-07-09T05:57:23Z",
+    "title": "Trader loses $1M after signing phishing token approval",
+    "summary": "Onchain scammers netted more than $14 billion last year, and approval phishing remains a primary attack vector.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9199972173c7",
+    "time": "2026-07-09T01:32:12Z",
+    "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
+    "summary": "The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "089b05cb761f",
     "time": "2026-07-08T23:11:42Z",
     "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
@@ -127,26 +147,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "cc55a35962d9",
-    "time": "2026-07-08T10:21:12Z",
-    "title": "Berachain hard fork to replace dual-token model with WBERA rewards",
-    "summary": "Berachain launched the first stage of its PoL Next upgrade, which will phase out the BGT token and shift the network's reward system to WBERA.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/berachain-hard-fork-single-token-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4974e7b243d5",
-    "time": "2026-07-08T08:46:02Z",
-    "title": "Base to activate B20 standard for stablecoins, RWAs and other tokens",
-    "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
