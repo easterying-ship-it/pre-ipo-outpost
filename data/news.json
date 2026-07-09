@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "089b05cb761f",
+    "time": "2026-07-08T23:11:42Z",
+    "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+    "summary": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f32e7f2d811c",
+    "time": "2026-07-08T22:41:33Z",
+    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+    "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e225b9aa9efb",
+    "time": "2026-07-08T22:26:31Z",
+    "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
+    "summary": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships—and by Musk's own account, at least one generation behind them.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f8183a7f1f51",
+    "time": "2026-07-08T21:28:16Z",
+    "title": "ispace to send larger payloads to the moon on SpaceX’s Starship",
+    "summary": "Japanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on SpaceX’s Starship appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "4cc754594555",
     "time": "2026-07-08T20:29:10Z",
     "title": "Tokenized stock transfers surge 105% in a month to $8.4B",
@@ -66,16 +106,6 @@
     "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c63f2650c5c1",
-    "time": "2026-07-08T14:04:53Z",
-    "title": "Blue Origin reportedly raising $10B at $130B valuation",
-    "summary": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -177,16 +207,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/starship-florida-pushing-launch/",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d35a9c9bc6fb",
-    "time": "2026-06-26T19:33:26Z",
-    "title": "Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work",
-    "summary": "SpaceX rolled out Ship 40 for engine testing, but after completing only a single engine&#8230;\nThe post Ship 40 completes single-engine static fire; Booster 20 and Pad 2 see new work appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/06/ship-40-single-engine/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
