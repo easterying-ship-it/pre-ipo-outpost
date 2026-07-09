@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "67857f6dd222",
+    "time": "2026-07-09T17:24:19Z",
+    "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
+    "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f1c83666cb55",
+    "time": "2026-07-09T16:23:00Z",
+    "title": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
+    "summary": "Swift’s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7c7954c0a796",
+    "time": "2026-07-09T15:00:00Z",
+    "title": "Volatility is often the price of ambition",
+    "summary": "For the growing number of constellations being designed around Starship, the wild ups and downs in the early days of SpaceX’s historic IPO have a familiar rhythm. While some of [&#8230;]\nThe post Volatility is often the price of ambition appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7532814f30d1",
+    "time": "2026-07-09T14:53:09Z",
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "21e403470c82",
+    "time": "2026-07-09T14:51:00Z",
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9af9456a3036",
     "time": "2026-07-09T12:18:24Z",
     "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
@@ -47,16 +97,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9199972173c7",
-    "time": "2026-07-09T01:32:12Z",
-    "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
-    "summary": "The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -120,52 +160,12 @@
     "pinned": false
   },
   {
-    "id": "2f82335f8026",
-    "time": "2026-07-08T17:00:00Z",
-    "title": "OpenAI releases new voice models for more natural live conversations",
-    "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "af7bc3333675",
     "time": "2026-07-08T13:00:00Z",
     "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
     "summary": "Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco’s terrestrial network.\nThe post Fi expands Starlink direct-to-device capability into dog-tracking",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d95467254468",
-    "time": "2026-07-07T22:31:03Z",
-    "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
-    "summary": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "94cfab66dbe7",
-    "time": "2026-07-07T18:11:41Z",
-    "title": "Apolink makes contact with first relay satellite",
-    "summary": "Apolink has made contact with its first satellite after launching on SpaceX’s July 7 rideshare mission, clearing the way for a data relay demonstration using a novel experimental license from the Federal Communications Commission.\nThe post Apolink makes contact with first relay s",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a6c83ef8999b",
-    "time": "2026-07-07T15:31:35Z",
-    "title": "SpaceX launches Transporter-17 amid concerns about rideshare program’s future",
-    "summary": "SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program’s future reach what one rival company executive called a panic.\nThe post SpaceX launches Transporter-17 amid concerns about rideshare program’s future appeared",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
     "category": "成份股",
     "pinned": false
   },
