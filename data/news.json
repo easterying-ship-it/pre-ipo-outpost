@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "983ed8da1afb",
+    "time": "2026-07-10T17:17:12Z",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5ab09df0e183",
+    "time": "2026-07-10T16:51:07Z",
+    "title": "China is catching up to Elon Musk’s reusable rockets",
+    "summary": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "bece64d4fb07",
+    "time": "2026-07-10T16:36:36Z",
+    "title": "Backpack joins race for 24/7 stock markets with tokenized equities",
+    "summary": "The launch comes as tokenized stocks become one of the fastest-growing corners of crypto, with exchanges and traditional finance firms racing to expand 24/7 trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/backpack-launches-247-trading-for-tokenized-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f421ae58ac10",
+    "time": "2026-07-10T15:37:37Z",
+    "title": "Crypto Biz: How stablecoins found their niche",
+    "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "547f6a4a1d3b",
     "time": "2026-07-10T11:25:14Z",
     "title": "ElevationSpace advances work on commercial reentry vehicle",
@@ -140,36 +180,6 @@
     "pinned": false
   },
   {
-    "id": "c7bcb476b575",
-    "time": "2026-07-09T19:05:58Z",
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4b67e08b9d21",
-    "time": "2026-07-09T18:42:22Z",
-    "title": "Mercor is in talks for a $20B valuation",
-    "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5b93eb464912",
-    "time": "2026-07-09T18:22:39Z",
-    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-    "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "67857f6dd222",
     "time": "2026-07-09T17:24:19Z",
     "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
@@ -210,32 +220,12 @@
     "pinned": false
   },
   {
-    "id": "e225b9aa9efb",
-    "time": "2026-07-08T22:26:31Z",
-    "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
-    "summary": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships—and by Musk's own account, at least one generation behind them.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f8183a7f1f51",
     "time": "2026-07-08T21:28:16Z",
     "title": "ispace to send larger payloads to the moon on SpaceX’s Starship",
     "summary": "Japanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on SpaceX’s Starship appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "af7bc3333675",
-    "time": "2026-07-08T13:00:00Z",
-    "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
-    "summary": "Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile’s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco’s terrestrial network.\nThe post Fi expands Starlink direct-to-device capability into dog-tracking",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
     "category": "成份股",
     "pinned": false
   },
