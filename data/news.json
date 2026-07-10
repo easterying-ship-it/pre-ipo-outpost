@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "36fa875070f8",
+    "time": "2026-07-10T00:16:54Z",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a06c568f31ab",
+    "time": "2026-07-10T00:13:00Z",
+    "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
+    "summary": "The new exchanged-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a1324d9734b1",
+    "time": "2026-07-09T23:38:00Z",
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "afc174517410",
+    "time": "2026-07-09T22:24:24Z",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "26694dff5789",
+    "time": "2026-07-09T22:03:54Z",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c19f12db09e2",
+    "time": "2026-07-09T21:57:42Z",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "120bc056c583",
     "time": "2026-07-09T20:57:49Z",
     "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
@@ -90,26 +150,6 @@
     "pinned": false
   },
   {
-    "id": "7532814f30d1",
-    "time": "2026-07-09T14:53:09Z",
-    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-    "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "21e403470c82",
-    "time": "2026-07-09T14:51:00Z",
-    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9af9456a3036",
     "time": "2026-07-09T12:18:24Z",
     "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
@@ -137,16 +177,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "089b05cb761f",
-    "time": "2026-07-08T23:11:42Z",
-    "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
-    "summary": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
