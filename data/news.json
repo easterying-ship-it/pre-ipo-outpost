@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "0fe6b6b24b3a",
+    "time": "2026-07-10T05:44:20Z",
+    "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+    "summary": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "084891d62f89",
+    "time": "2026-07-10T04:25:27Z",
+    "title": "Zcash targets July 28 launch for Ironwood network upgrade",
+    "summary": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "180503dc8b44",
+    "time": "2026-07-10T02:30:44Z",
+    "title": "DeFi may be ‘quietly re-rating’ given outperformance against Bitcoin: Bitwise",
+    "summary": "“DeFi usually swings much harder than Bitcoin, so holding up this well is unusual,” says Bitwise, as DeFi tokens have outperformed Bitcoin.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "36fa875070f8",
     "time": "2026-07-10T00:16:54Z",
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -156,26 +186,6 @@
     "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6569a79bb3a4",
-    "time": "2026-07-09T09:19:38Z",
-    "title": "Bank of Korea stands firm on bank-led stablecoin push as deposit token pilots advance",
-    "summary": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8e974a359349",
-    "time": "2026-07-09T08:51:48Z",
-    "title": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
-    "summary": "Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
