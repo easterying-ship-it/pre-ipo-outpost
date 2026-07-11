@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "2298f43bf2bc",
+    "time": "2026-07-11T16:21:34Z",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a7e114a875f9",
+    "time": "2026-07-11T14:13:00Z",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "918a3a068c32",
+    "time": "2026-07-11T12:55:18Z",
+    "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+    "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "5d2f0125265e",
     "time": "2026-07-10T21:50:30Z",
     "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
@@ -106,16 +136,6 @@
     "summary": "The new exchange-traded funds exclude companies that are founded, controlled, or led by Elon Musk. That means no SpaceX or Tesla.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3252702df72c",
-    "time": "2026-07-09T23:38:00Z",
-    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-    "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "category": "IPO动态",
     "pinned": false
   },
