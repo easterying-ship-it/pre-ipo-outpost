@@ -10,10 +10,20 @@
     "pinned": true
   },
   {
+    "id": "5d2f0125265e",
+    "time": "2026-07-10T21:50:30Z",
+    "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+    "summary": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "0a0b33d2c8c5",
-    "time": "2026-07-10T20:32:00Z",
+    "time": "2026-07-10T21:00:29Z",
     "title": "Apple sues OpenAI over alleged trade secret theft",
-    "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "category": "IPO动态",
@@ -100,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "084891d62f89",
-    "time": "2026-07-10T04:25:27Z",
-    "title": "Zcash targets July 28 launch for Ironwood network upgrade",
-    "summary": "Zcash’s next upgrade will replace the once-compromised Orchard pool and may offer clues about whether counterfeit tokens were created via a recent bug.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/zcash-targets-july-28-launch-for-ironwood-network-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "36fa875070f8",
     "time": "2026-07-10T00:16:54Z",
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -136,36 +136,6 @@
     "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "afc174517410",
-    "time": "2026-07-09T22:24:24Z",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "26694dff5789",
-    "time": "2026-07-09T22:03:54Z",
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c19f12db09e2",
-    "time": "2026-07-09T21:57:42Z",
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
     "category": "IPO动态",
     "pinned": false
   },
