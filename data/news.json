@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "afe0198da329",
+    "time": "2026-07-13T20:39:53Z",
+    "title": "Claude's Personality Changes Depending on the Model—And the Language You Speak",
+    "summary": "According to new Anthropic research, Claude consistently expresses different values across models and languages.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "723677a6daf3",
+    "time": "2026-07-13T20:29:32Z",
+    "title": "Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight",
+    "summary": "Seven launches are scheduled worldwide this week, including the 13th flight test of SpaceX&#8217;s Starship&#8230;\nThe post Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "539777746960",
+    "time": "2026-07-13T20:00:17Z",
+    "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+    "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5893eb59c883",
+    "time": "2026-07-13T18:22:10Z",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "88a7da3d66cd",
     "time": "2026-07-13T16:59:36Z",
     "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
@@ -86,16 +126,6 @@
     "summary": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0a0b33d2c8c5",
-    "time": "2026-07-10T21:00:29Z",
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "category": "IPO动态",
     "pinned": false
   },
