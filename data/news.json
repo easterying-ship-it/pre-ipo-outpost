@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "e1fd7a2d1248",
+    "time": "2026-07-14T00:17:15Z",
+    "title": "這條霸王龍會成為全球最昂貴的恐龍化石嗎？",
+    "summary": "一具有6700萬年歷史的霸王龍（T. rex）化石將在紐約拍賣，拍前估值高於任何其他恐龍。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c33ygke3y83o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2051b6bddc45",
+    "time": "2026-07-14T00:00:00Z",
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4e66eec43b83",
+    "time": "2026-07-13T23:31:18Z",
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0af701be9b08",
+    "time": "2026-07-13T22:46:04Z",
+    "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
+    "summary": "Forget the XML blocks and persistence scripts. OpenAI’s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8bd9f503989e",
+    "time": "2026-07-13T22:11:05Z",
+    "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
+    "summary": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "afe0198da329",
     "time": "2026-07-13T20:39:53Z",
     "title": "Claude's Personality Changes Depending on the Model—And the Language You Speak",
@@ -107,16 +157,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a7e114a875f9",
-    "time": "2026-07-11T14:13:00Z",
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
