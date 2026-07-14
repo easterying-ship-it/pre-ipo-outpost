@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f41f85277d1e",
+    "time": "2026-07-14T19:45:20Z",
+    "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+    "summary": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a152e6608733",
+    "time": "2026-07-14T19:41:27Z",
+    "title": "Anthropic’s newest ad is creeping people out",
+    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "00aeeeac8449",
     "time": "2026-07-14T16:45:23Z",
     "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
@@ -70,26 +90,6 @@
     "pinned": false
   },
   {
-    "id": "2051b6bddc45",
-    "time": "2026-07-14T00:00:00Z",
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4e66eec43b83",
-    "time": "2026-07-13T23:31:18Z",
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "0af701be9b08",
     "time": "2026-07-13T22:46:04Z",
     "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
@@ -130,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "539777746960",
-    "time": "2026-07-13T20:00:17Z",
-    "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-    "summary": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "88a7da3d66cd",
     "time": "2026-07-13T16:59:36Z",
     "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
@@ -160,32 +150,12 @@
     "pinned": false
   },
   {
-    "id": "2298f43bf2bc",
-    "time": "2026-07-11T16:21:34Z",
-    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-    "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "c34e3a6ad893",
     "time": "2026-07-10T19:46:17Z",
     "title": "Booster 20 completes record duration Static Fire",
     "summary": "With the 33 engine static fire completed for Booster 20, SpaceX is pushing hard to&#8230;\nThe post Booster 20 completes record duration Static Fire appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/booster-20-record-static-fire/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "547f6a4a1d3b",
-    "time": "2026-07-10T11:25:14Z",
-    "title": "ElevationSpace advances work on commercial reentry vehicle",
-    "summary": "A Japanese startup developing reentry vehicles is signing up customers and preparing for its first mission while keeping a watchful eye on SpaceX’s entry into the market.\nThe post ElevationSpace advances work on commercial reentry vehicle appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
     "category": "IPO动态",
     "pinned": false
   },
