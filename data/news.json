@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "00aeeeac8449",
+    "time": "2026-07-14T16:45:23Z",
+    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "966c041e6c9c",
+    "time": "2026-07-14T16:22:15Z",
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c653db7c6951",
+    "time": "2026-07-14T15:00:00Z",
+    "title": "Anchorage Digital expands Tron support with institutional TRX staking",
+    "summary": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9363a29abed6",
+    "time": "2026-07-14T13:30:06Z",
+    "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
+    "summary": "OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d4300ae496a2",
     "time": "2026-07-14T09:02:27Z",
     "title": "「越來越像一隻迷因股」：SpaceX IPO熱潮消退了嗎？",
@@ -100,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "5893eb59c883",
-    "time": "2026-07-13T18:22:10Z",
-    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-    "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "88a7da3d66cd",
     "time": "2026-07-13T16:59:36Z",
     "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
@@ -117,26 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "66781a7ccd29",
-    "time": "2026-07-13T15:34:59Z",
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9e6dff842885",
-    "time": "2026-07-13T14:19:44Z",
-    "title": "SpaceX cleared to fly Starship again after booster failure in May",
-    "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -157,16 +167,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5d2f0125265e",
-    "time": "2026-07-10T21:50:30Z",
-    "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
-    "summary": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
-    "category": "IPO动态",
     "pinned": false
   },
   {
