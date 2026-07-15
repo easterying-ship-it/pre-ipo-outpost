@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "a619eb99684a",
+    "time": "2026-07-15T00:44:35Z",
+    "title": "小紅書前員工跨境實名舉報，傳聞中的赴港上市計劃會有變化嗎？",
+    "summary": "一名自稱是小紅書的前員工聲稱已向香港監管機構實名舉報公司或存在合規問題。學者向BBC中文分析，若涉及系統性問題，或有機會影響上市進程。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cj3g3mygk2xo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5fcb9a817cdc",
+    "time": "2026-07-15T00:27:04Z",
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "ae0986fb7e76",
+    "time": "2026-07-14T22:22:24Z",
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c671ebde6f1f",
+    "time": "2026-07-14T22:07:42Z",
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "26709fd66cc2",
+    "time": "2026-07-14T21:50:11Z",
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f41f85277d1e",
     "time": "2026-07-14T19:45:20Z",
     "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
