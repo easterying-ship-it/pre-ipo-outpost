@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "c6bf37360134",
+    "time": "2026-07-15T16:29:39Z",
+    "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
+    "summary": "The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3e0133ed7afc",
+    "time": "2026-07-15T15:59:36Z",
+    "title": "Securitize, Cantor target tokenized IPOs for public markets",
+    "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c4118414d3f3",
+    "time": "2026-07-15T13:10:47Z",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "2321e910d060",
     "time": "2026-07-15T10:30:00Z",
     "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era",
@@ -70,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "26709fd66cc2",
-    "time": "2026-07-14T21:50:11Z",
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f41f85277d1e",
     "time": "2026-07-14T19:45:20Z",
     "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
@@ -87,56 +107,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a152e6608733",
-    "time": "2026-07-14T19:41:27Z",
-    "title": "Anthropic’s newest ad is creeping people out",
-    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "00aeeeac8449",
-    "time": "2026-07-14T16:45:23Z",
-    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-    "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "966c041e6c9c",
-    "time": "2026-07-14T16:22:15Z",
-    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-    "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c653db7c6951",
-    "time": "2026-07-14T15:00:00Z",
-    "title": "Anchorage Digital expands Tron support with institutional TRX staking",
-    "summary": "Institutions can now stake Tron's native token directly from Anchorage's custody platform as the company expands support for one of the largest USDT settlement networks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anchorage-digital-expands-tron-support-with-institutional-trx-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9363a29abed6",
-    "time": "2026-07-14T13:30:06Z",
-    "title": "OpenAI quietly adds Kalshi World Cup odds to ChatGPT: Report",
-    "summary": "OpenAI’s ChatGPT now displays Kalshi’s World Cup prediction market odds in search results, marking the AI firm’s first reported deal with a prediction market platform.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-kalshi-prediction-markets-world-cup-chatgpt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
