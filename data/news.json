@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "5405e54d124d",
+    "time": "2026-07-16T20:07:14Z",
+    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+    "summary": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "494ba45a576b",
+    "time": "2026-07-16T19:27:53Z",
+    "title": "Injective files for SEC transfer agent registration to bring securities ownership records onchain",
+    "summary": "The company said the filing would create a regulated pathway for maintaining ownership records for tokenized securities onchain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0a6cf3e1ba71",
+    "time": "2026-07-16T18:27:11Z",
+    "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
+    "summary": "Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "53ad9756c7d9",
     "time": "2026-07-16T16:19:16Z",
     "title": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
@@ -90,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "1fa955e2ecfe",
-    "time": "2026-07-15T23:59:44Z",
-    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1d6d3effadc8",
     "time": "2026-07-15T20:50:11Z",
     "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
@@ -116,16 +136,6 @@
     "summary": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "991855b79f97",
-    "time": "2026-07-15T09:08:39Z",
-    "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
-    "summary": "The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/373520/us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules",
     "category": "市场数据",
     "pinned": false
   },
