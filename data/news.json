@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "aae11bcadaed",
+    "time": "2026-07-16T12:35:52Z",
+    "title": "Tokenized stocks market cap gains to record $2.3B",
+    "summary": "The market capitalization of tokenized stocks rose to a record $2.3 billion, as investors sought exposure to the growing list of tokenized equity products launched by cryptocurrency exchanges.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-stocks-rise-23b-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7478ea197e34",
+    "time": "2026-07-16T12:05:45Z",
+    "title": "FATF urges faster crypto AML enforcement as stablecoin crime increases",
+    "summary": "The global task force said criminal networks are using stablecoins and developing proprietary tokens to evade asset freezes as countries struggle to enforce crypto AML rules.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fatf-urges-crypto-aml-enforcement-stablecoin-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "86a8cdaebc71",
     "time": "2026-07-16T02:43:59Z",
     "title": "Starship Flight 13: Potentially the final Suborbital Flight",
@@ -86,16 +106,6 @@
     "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4a26c77d01dd",
-    "time": "2026-07-15T15:00:00Z",
-    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
     "category": "IPO动态",
     "pinned": false
   },
