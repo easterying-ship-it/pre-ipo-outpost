@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "53ad9756c7d9",
+    "time": "2026-07-16T16:19:16Z",
+    "title": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
+    "summary": "Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional finance and tokenized real-world assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b4af094f545d",
+    "time": "2026-07-16T15:31:09Z",
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5dc2b6083404",
+    "time": "2026-07-16T15:02:00Z",
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "58fb13003d43",
+    "time": "2026-07-16T14:26:29Z",
+    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e00df3cb0604",
+    "time": "2026-07-16T13:34:19Z",
+    "title": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
+    "summary": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "aae11bcadaed",
     "time": "2026-07-16T12:35:52Z",
     "title": "Tokenized stocks market cap gains to record $2.3B",
@@ -60,26 +110,6 @@
     "pinned": false
   },
   {
-    "id": "d5bf745bdbda",
-    "time": "2026-07-15T19:41:38Z",
-    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "63bc30fcc239",
-    "time": "2026-07-15T18:06:05Z",
-    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1cd1f95dfe07",
     "time": "2026-07-15T18:02:06Z",
     "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
@@ -87,26 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c6bf37360134",
-    "time": "2026-07-15T16:29:39Z",
-    "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-    "summary": "The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3e0133ed7afc",
-    "time": "2026-07-15T15:59:36Z",
-    "title": "Securitize, Cantor target tokenized IPOs for public markets",
-    "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
