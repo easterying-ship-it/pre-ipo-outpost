@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "1c7c7d14f038",
+    "time": "2026-07-20T12:39:28Z",
+    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+    "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "caf6a7f03f71",
     "time": "2026-07-20T07:18:28Z",
     "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
@@ -23,7 +33,7 @@
     "id": "da558e93d7b3",
     "time": "2026-07-19T19:24:45Z",
     "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "category": "IPO动态",
@@ -56,16 +66,6 @@
     "summary": "ECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3d0d6c685776",
-    "time": "2026-07-17T19:22:00Z",
-    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
