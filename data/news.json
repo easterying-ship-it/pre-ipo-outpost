@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "357226f718c9",
+    "time": "2026-07-20T16:53:25Z",
+    "title": "Bernstein raises Robinhood price target, cites tokenization and prediction markets",
+    "summary": "The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain, could reduce its reliance on traditional crypto trading, analysts said.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7b34b6353899",
+    "time": "2026-07-20T15:15:00Z",
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+    "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1c7c7d14f038",
     "time": "2026-07-20T12:39:28Z",
     "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
@@ -46,16 +66,6 @@
     "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "237855629b9b",
-    "time": "2026-07-17T22:12:56Z",
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "category": "IPO动态",
     "pinned": false
   },
