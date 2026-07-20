@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "46ffca93fe1e",
+    "time": "2026-07-20T20:53:25Z",
+    "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
+    "summary": "After last week’s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as&#8230;\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "f4569b7f8077",
+    "time": "2026-07-20T19:33:25Z",
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7c62b7852887",
+    "time": "2026-07-20T19:18:54Z",
+    "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
+    "summary": "While the focus of late has been on Starship&#8217;s test program, three companies developing new&#8230;\nThe post Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "357226f718c9",
     "time": "2026-07-20T16:53:25Z",
     "title": "Bernstein raises Robinhood price target, cites tokenization and prediction markets",
@@ -117,16 +147,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "0a6cf3e1ba71",
-    "time": "2026-07-16T18:27:11Z",
-    "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
-    "summary": "Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
-    "category": "IPO动态",
     "pinned": false
   },
   {
