@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "36812452d564",
+    "time": "2026-07-21T00:12:24Z",
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f232685d9318",
+    "time": "2026-07-20T23:39:35Z",
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+    "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b4b50c7b3bd1",
+    "time": "2026-07-20T21:21:54Z",
+    "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
+    "summary": "The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "46ffca93fe1e",
     "time": "2026-07-20T20:53:25Z",
     "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
@@ -67,16 +97,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "caf6a7f03f71",
-    "time": "2026-07-20T07:18:28Z",
-    "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-    "summary": "The Bank of Korea’s CBDC pilot will add two regional banks, new payment features and tests of government subsidy payments using tokenized bank deposits",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
