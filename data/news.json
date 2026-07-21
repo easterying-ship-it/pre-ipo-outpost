@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "4469ae34ee14",
+    "time": "2026-07-21T16:20:29Z",
+    "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+    "summary": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f4084a47873e",
+    "time": "2026-07-21T13:16:22Z",
+    "title": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
+    "summary": "Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "bad1dc06264d",
     "time": "2026-07-21T07:06:12Z",
     "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
@@ -50,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "b4b50c7b3bd1",
-    "time": "2026-07-20T21:21:54Z",
-    "title": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
-    "summary": "The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "46ffca93fe1e",
     "time": "2026-07-20T20:53:25Z",
     "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
@@ -87,26 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7b34b6353899",
-    "time": "2026-07-20T15:15:00Z",
-    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-    "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1c7c7d14f038",
-    "time": "2026-07-20T12:39:28Z",
-    "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-    "summary": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-    "category": "市场数据",
     "pinned": false
   },
   {
