@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "a66ea9c9f9df",
+    "time": "2026-07-21T21:29:03Z",
+    "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+    "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "940d55b61610",
+    "time": "2026-07-21T21:26:50Z",
+    "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
+    "summary": "DARPA-backed vehicle will install propulsion pods on three commercial satellites in geostationary orbit\nThe post SpaceX launches Northrop mission to extend the life of aging satellites appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "2695c657014c",
+    "time": "2026-07-21T20:59:32Z",
+    "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
+    "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a90dc16caca1",
+    "time": "2026-07-21T20:56:55Z",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f68192f92334",
     "time": "2026-07-21T20:20:49Z",
     "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
@@ -60,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "bad1dc06264d",
-    "time": "2026-07-21T07:06:12Z",
-    "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-    "summary": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "46ffca93fe1e",
     "time": "2026-07-20T20:53:25Z",
     "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
@@ -106,16 +136,6 @@
     "summary": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle’s engines failed to ignite.\nThe post SpaceX aborts Starship Flight 13 launch attempt appeared first on SpaceNews.",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "bb0d2831f061",
-    "time": "2026-07-16T21:00:10Z",
-    "title": "SpaceX launches 21 satellites for military data network",
-    "summary": "With the launch of 21 York Space Systems satellites, the Space Development Agency has now placed half of its planned Tranche 1 Transport Layer constellation in orbit\nThe post SpaceX launches 21 satellites for military data network  appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
     "category": "成份股",
     "pinned": false
   },
