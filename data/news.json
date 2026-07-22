@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "895d227af168",
+    "time": "2026-07-22T03:20:57Z",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b2f263cbcab6",
+    "time": "2026-07-22T02:45:55Z",
+    "title": "OpenAI says AI models escaped containment to hack Hugging Face",
+    "summary": "OpenAI called it an “unprecedented cyber incident” after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a66ea9c9f9df",
     "time": "2026-07-21T21:29:03Z",
     "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -33,7 +53,7 @@
     "id": "2695c657014c",
     "time": "2026-07-21T20:59:32Z",
     "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-    "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+    "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension and exchange delistings that rocked the project.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
