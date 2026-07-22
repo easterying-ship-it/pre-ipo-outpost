@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "2af2aa7b0b14",
+    "time": "2026-07-22T20:49:03Z",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "summary": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "941955159d0c",
+    "time": "2026-07-22T19:11:46Z",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d0ed8a1b2d5b",
+    "time": "2026-07-22T18:41:30Z",
+    "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+    "summary": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "23bbd76d3d7b",
+    "time": "2026-07-22T18:02:57Z",
+    "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "82c5268e7eb3",
+    "time": "2026-07-22T17:57:11Z",
+    "title": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
+    "summary": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "75b028d83c32",
     "time": "2026-07-22T16:23:16Z",
     "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
@@ -70,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "895d227af168",
-    "time": "2026-07-22T03:20:57Z",
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b2f263cbcab6",
-    "time": "2026-07-22T02:45:55Z",
-    "title": "OpenAI says AI models escaped containment to hack Hugging Face",
-    "summary": "OpenAI called it an “unprecedented cyber incident” after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a66ea9c9f9df",
     "time": "2026-07-21T21:29:03Z",
     "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -107,16 +137,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a90dc16caca1",
-    "time": "2026-07-21T20:56:55Z",
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
