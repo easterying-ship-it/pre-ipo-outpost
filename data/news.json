@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "75b028d83c32",
+    "time": "2026-07-22T16:23:16Z",
+    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
+    "summary": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2f7c88ac6068",
+    "time": "2026-07-22T16:13:30Z",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8c1e5f2d5b16",
+    "time": "2026-07-22T16:10:22Z",
+    "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
+    "summary": "The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d7609b428637",
+    "time": "2026-07-22T14:57:56Z",
+    "title": "Path to Starship Flight 13 requires additional Booster 20 test",
+    "summary": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to&#8230;\nThe post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "32b9af027bdc",
     "time": "2026-07-22T11:50:29Z",
     "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
@@ -70,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "2695c657014c",
-    "time": "2026-07-21T20:59:32Z",
-    "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
-    "summary": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension and exchange delistings that rocked the project.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a90dc16caca1",
     "time": "2026-07-21T20:56:55Z",
     "title": "OpenAI says Hugging Face was breached by its pre-release models",
@@ -107,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/mrv-1-launch/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "70bd804342ef",
-    "time": "2026-07-21T18:05:10Z",
-    "title": "Tesla spins up robotaxi pilots in Orlando and Tampa ahead of Q2 earnings",
-    "summary": "The company didn't say how many are in each city and has taken a far more cautious approach to scaling the network than CEO Elon Musk had promised.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
