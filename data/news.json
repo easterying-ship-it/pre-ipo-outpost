@@ -10,9 +10,59 @@
     "pinned": true
   },
   {
-    "id": "135a1a6722f9",
+    "id": "b13f723bc4ed",
+    "time": "2026-07-23T20:13:24Z",
+    "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+    "summary": "Corgi had announced a B1 round of $106 million at a $2.6 billion valuation at the end of May.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "386377b57e9d",
+    "time": "2026-07-23T19:27:57Z",
+    "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
+    "summary": "The deleted post touted a bogus \"Vladhood\" token as the mascot of Robinhood Chain—the latest fraud to exploit a network currently dominated by memes.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c1db7edb5321",
+    "time": "2026-07-23T19:00:00Z",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4c10b7a4743c",
+    "time": "2026-07-23T18:09:26Z",
+    "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
+    "summary": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "97efb8ca432e",
+    "time": "2026-07-23T17:31:17Z",
+    "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
+    "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "147aa3ba6665",
     "time": "2026-07-23T17:00:00Z",
-    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
     "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
@@ -60,33 +110,13 @@
     "pinned": false
   },
   {
-    "id": "72a7fc382653",
-    "time": "2026-07-23T11:00:00Z",
-    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9dc8c7ae3724",
+    "id": "213f82c5d21f",
     "time": "2026-07-23T05:01:59Z",
-    "title": "Starship Flight 13 heads into second launch attempt",
-    "summary": "SpaceX is making a second attempt to launch Starship Flight 13, following last week&#8217;s scrub&#8230;\nThe post Starship Flight 13 heads into second launch attempt appeared first on NASASpaceFlight.com.",
+    "title": "Starship Flight 13 moved to Friday due to weather",
+    "summary": "SpaceX will try again to conduct the launch of Starship Flight 13 on Friday, following&#8230;\nThe post Starship Flight 13 moved to Friday due to weather appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2af2aa7b0b14",
-    "time": "2026-07-22T20:49:03Z",
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "category": "IPO动态",
+    "category": "成份股",
     "pinned": false
   },
   {
@@ -107,26 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "32b9af027bdc",
-    "time": "2026-07-22T11:50:29Z",
-    "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
-    "summary": "Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a66ea9c9f9df",
-    "time": "2026-07-21T21:29:03Z",
-    "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-    "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
-    "category": "IPO动态",
     "pinned": false
   },
   {
