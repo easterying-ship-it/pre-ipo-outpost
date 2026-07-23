@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "8013f45d755f",
+    "time": "2026-07-23T12:47:27Z",
+    "title": "BitMEX token crashes 90% as exchange announces shutdown",
+    "summary": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d726750ceaf8",
+    "time": "2026-07-23T12:33:07Z",
+    "title": "Bitget secures license for New Zealand expansion",
+    "summary": "Crypto exchange Bitget said it was registered as a financial service provider with New Zealand’s financial regulator, enabling it to expand its services in the country.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-secures-license-new-zealand-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ade4cef718f7",
+    "time": "2026-07-23T11:24:09Z",
+    "title": "HYPE falls as crypto funds queue nearly $150M in locked tokens for withdrawal",
+    "summary": "HYPE briefly fell 8% from its local highs as Multicoin Capital, Selini Capital and Galaxy Digital queued nearly $150 million of the token for withdrawals.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/hype-falls-as-crypto-funds-queue-nearly-150m-in-locked-tokens-for-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "72a7fc382653",
+    "time": "2026-07-23T11:00:00Z",
+    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a7f87c54da1c",
     "time": "2026-07-23T06:46:58Z",
     "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
@@ -17,6 +57,16 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9dc8c7ae3724",
+    "time": "2026-07-23T05:01:59Z",
+    "title": "Starship Flight 13 heads into second launch attempt",
+    "summary": "SpaceX is making a second attempt to launch Starship Flight 13, following last week&#8217;s scrub&#8230;\nThe post Starship Flight 13 heads into second launch attempt appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -50,32 +100,12 @@
     "pinned": false
   },
   {
-    "id": "d0ed8a1b2d5b",
-    "time": "2026-07-22T18:41:30Z",
-    "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
-    "summary": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "23bbd76d3d7b",
     "time": "2026-07-22T18:02:57Z",
     "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
     "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "82c5268e7eb3",
-    "time": "2026-07-22T17:57:11Z",
-    "title": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
-    "summary": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -96,16 +126,6 @@
     "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8c1e5f2d5b16",
-    "time": "2026-07-22T16:10:22Z",
-    "title": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
-    "summary": "The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -170,16 +190,6 @@
     "pinned": false
   },
   {
-    "id": "4469ae34ee14",
-    "time": "2026-07-21T16:20:29Z",
-    "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-    "summary": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "46ffca93fe1e",
     "time": "2026-07-20T20:53:25Z",
     "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
@@ -196,16 +206,6 @@
     "summary": "While the focus of late has been on Starship&#8217;s test program, three companies developing new&#8230;\nThe post Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "70662e52dddf",
-    "time": "2026-07-16T02:43:59Z",
-    "title": "Starship Flight 13: Booster 20 Aborts During Ignition",
-    "summary": "After pushing hard for a launch on July 16 at 5:45 pm CDT, and attempting&#8230;\nThe post Starship Flight 13: Booster 20 Aborts During Ignition appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
     "category": "成份股",
     "pinned": false
   },
