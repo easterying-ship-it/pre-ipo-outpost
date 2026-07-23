@@ -10,13 +10,23 @@
     "pinned": true
   },
   {
-    "id": "8013f45d755f",
-    "time": "2026-07-23T12:47:27Z",
-    "title": "BitMEX token crashes 90% as exchange announces shutdown",
-    "summary": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
+    "id": "135a1a6722f9",
+    "time": "2026-07-23T17:00:00Z",
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d3f65a44fc39",
+    "time": "2026-07-23T15:00:00Z",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -27,6 +37,16 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-secures-license-new-zealand-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8013f45d755f",
+    "time": "2026-07-23T12:02:00Z",
+    "title": "BitMEX token crashes 90% as exchange announces shutdown",
+    "summary": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
     "pinned": false
   },
   {
@@ -50,32 +70,12 @@
     "pinned": false
   },
   {
-    "id": "a7f87c54da1c",
-    "time": "2026-07-23T06:46:58Z",
-    "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
-    "summary": "Kakao Group and Circle signed an MOU to explore won stablecoin payments, remittances, merchant settlement and tokenized financial services.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "9dc8c7ae3724",
     "time": "2026-07-23T05:01:59Z",
     "title": "Starship Flight 13 heads into second launch attempt",
     "summary": "SpaceX is making a second attempt to launch Starship Flight 13, following last week&#8217;s scrub&#8230;\nThe post Starship Flight 13 heads into second launch attempt appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e1a110f3ff02",
-    "time": "2026-07-23T04:15:30Z",
-    "title": "White House accuses Moonshot AI of distilling Anthropic tech for K3",
-    "summary": "US officials warn that Chinese firms conducting covert, industrial-scale AI distillation could face sanctions and export restrictions.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/chinas-moonshot-ai-distilled-anthropics-fable-to-develop-k3-white-house-official?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -90,42 +90,12 @@
     "pinned": false
   },
   {
-    "id": "941955159d0c",
-    "time": "2026-07-22T19:11:46Z",
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "23bbd76d3d7b",
-    "time": "2026-07-22T18:02:57Z",
-    "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
-    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "75b028d83c32",
     "time": "2026-07-22T16:23:16Z",
     "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
     "summary": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2f7c88ac6068",
-    "time": "2026-07-22T16:13:30Z",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B",
-    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -167,16 +137,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f68192f92334",
-    "time": "2026-07-21T20:20:49Z",
-    "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-    "summary": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
-    "category": "市场数据",
     "pinned": false
   },
   {
