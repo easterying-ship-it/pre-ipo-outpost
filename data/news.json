@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "cad2c201cf38",
+    "time": "2026-07-24T17:00:00Z",
+    "title": "Anthropic launches Opus 5",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "b6c7b3032d5d",
+    "time": "2026-07-24T16:50:08Z",
+    "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+    "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and en",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fad79b20ec85",
+    "time": "2026-07-24T16:34:25Z",
+    "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+    "summary": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ffa7945394a2",
+    "time": "2026-07-24T15:09:33Z",
+    "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
+    "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f0e7de5051e7",
+    "time": "2026-07-24T14:57:56Z",
+    "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
+    "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "40d79700ecbf",
+    "time": "2026-07-24T13:36:42Z",
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "7228fc35c925",
     "time": "2026-07-24T11:42:32Z",
     "title": "RWAs become Hyperliquid’s largest trading category",
@@ -96,26 +156,6 @@
     "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "147aa3ba6665",
-    "time": "2026-07-23T17:00:00Z",
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d3f65a44fc39",
-    "time": "2026-07-23T15:00:00Z",
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "category": "IPO动态",
     "pinned": false
   },
