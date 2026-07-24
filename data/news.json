@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "7228fc35c925",
+    "time": "2026-07-24T11:42:32Z",
+    "title": "RWAs become Hyperliquid’s largest trading category",
+    "summary": "Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "05b7891465b8",
+    "time": "2026-07-24T10:29:49Z",
+    "title": "Brazil puts tokenized cows to work as loan collateral: Report",
+    "summary": "Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "06116944ba8e",
     "time": "2026-07-24T08:51:13Z",
     "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
@@ -70,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "4c10b7a4743c",
-    "time": "2026-07-23T18:09:26Z",
-    "title": "Robinhood CEO’s X account hacked in apparent memecoin scam",
-    "summary": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "97efb8ca432e",
     "time": "2026-07-23T17:31:17Z",
     "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
@@ -117,16 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/starship-flight-13-flight/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "75b028d83c32",
-    "time": "2026-07-22T16:23:16Z",
-    "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
-    "summary": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-    "category": "IPO动态",
     "pinned": false
   },
   {
