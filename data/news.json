@@ -10,10 +10,30 @@
     "pinned": true
   },
   {
+    "id": "02d327c05084",
+    "time": "2026-07-24T18:28:43Z",
+    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
+    "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "47c123299d33",
+    "time": "2026-07-24T17:33:19Z",
+    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
+    "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cad2c201cf38",
     "time": "2026-07-24T17:00:00Z",
     "title": "Anthropic launches Opus 5",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
     "category": "成份股",
@@ -120,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "b13f723bc4ed",
-    "time": "2026-07-23T20:13:24Z",
-    "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
-    "summary": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "386377b57e9d",
     "time": "2026-07-23T19:27:57Z",
     "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
@@ -137,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c1db7edb5321",
-    "time": "2026-07-23T19:00:00Z",
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
