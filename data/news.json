@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "59fc917edd8d",
+    "time": "2026-07-25T00:29:32Z",
+    "title": "SpaceX conducts 13th Starship test flight",
+    "summary": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "96294070b44e",
+    "time": "2026-07-25T00:23:11Z",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "052a6402ee39",
+    "time": "2026-07-24T23:25:47Z",
+    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+    "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "02d327c05084",
     "time": "2026-07-24T18:28:43Z",
     "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
@@ -130,16 +160,6 @@
     "pinned": false
   },
   {
-    "id": "d752125cf8ea",
-    "time": "2026-07-24T01:00:00Z",
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "386377b57e9d",
     "time": "2026-07-23T19:27:57Z",
     "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
@@ -176,16 +196,6 @@
     "summary": "SpaceX continues to target no earlier than Thursday, July 23, for the next attempt to&#8230;\nThe post Path to Starship Flight 13 requires additional Booster 20 test appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/path-flight-13-attempt-2-test/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "940d55b61610",
-    "time": "2026-07-21T21:26:50Z",
-    "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
-    "summary": "DARPA-backed vehicle will install propulsion pods on three commercial satellites in geostationary orbit\nThe post SpaceX launches Northrop mission to extend the life of aging satellites appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
     "category": "成份股",
     "pinned": false
   },
