@@ -80,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "b6c7b3032d5d",
-    "time": "2026-07-24T16:50:08Z",
-    "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-    "summary": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and en",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fad79b20ec85",
     "time": "2026-07-24T16:34:25Z",
     "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
@@ -116,16 +106,6 @@
     "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7228fc35c925",
-    "time": "2026-07-24T11:42:32Z",
-    "title": "RWAs become Hyperliquid’s largest trading category",
-    "summary": "Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
