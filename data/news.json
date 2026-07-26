@@ -10,8 +10,18 @@
     "pinned": true
   },
   {
+    "id": "274866745192",
+    "time": "2026-07-26T16:33:13Z",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5cc2b88bdd62",
-    "time": "2026-07-26T07:11:27Z",
+    "time": "2026-07-26T07:13:00Z",
     "title": "BitMart to wind down exchange, end trading by Aug. 26",
     "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
     "source": "CoinTelegraph",
@@ -80,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "cad2c201cf38",
-    "time": "2026-07-24T17:00:00Z",
-    "title": "Anthropic launches Opus 5",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
     "id": "fad79b20ec85",
     "time": "2026-07-24T16:34:25Z",
     "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
@@ -137,16 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "97efb8ca432e",
-    "time": "2026-07-23T17:31:17Z",
-    "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
-    "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
-    "category": "IPO动态",
     "pinned": false
   },
   {
