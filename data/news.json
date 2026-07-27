@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "4c76a596e8b4",
+    "time": "2026-07-27T16:44:03Z",
+    "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+    "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "65479f6f3421",
     "time": "2026-07-27T12:00:49Z",
     "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
@@ -23,7 +33,7 @@
     "id": "3f30e918a190",
     "time": "2026-07-27T10:00:00Z",
     "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-    "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LadBible, and angel investors from OpenAI and DeepMind. Wit",
+    "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. Wit",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
     "category": "IPO动态",
@@ -60,19 +70,9 @@
     "pinned": false
   },
   {
-    "id": "5cc2b88bdd62",
-    "time": "2026-07-26T07:13:00Z",
-    "title": "BitMart to wind down exchange, end trading by Aug. 26",
-    "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "08a0c8625d5a",
+    "id": "43f88909064a",
     "time": "2026-07-25T19:23:32Z",
-    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20B valuation",
     "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
@@ -87,26 +87,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "96294070b44e",
-    "time": "2026-07-25T00:23:11Z",
-    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "052a6402ee39",
-    "time": "2026-07-24T23:25:47Z",
-    "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
