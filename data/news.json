@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "3172ee9519d7",
+    "time": "2026-07-27T01:01:43Z",
+    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
+    "summary": "The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "274866745192",
     "time": "2026-07-26T16:33:13Z",
     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
@@ -90,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "ffa7945394a2",
-    "time": "2026-07-24T15:09:33Z",
-    "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-    "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "f0e7de5051e7",
     "time": "2026-07-24T14:57:56Z",
     "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
@@ -176,16 +176,6 @@
     "summary": "While the focus of late has been on Starship&#8217;s test program, three companies developing new&#8230;\nThe post Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "723677a6daf3",
-    "time": "2026-07-13T20:29:32Z",
-    "title": "Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight",
-    "summary": "Seven launches are scheduled worldwide this week, including the 13th flight test of SpaceX&#8217;s Starship&#8230;\nThe post Launch Preview: Soyuz to launch crew to ISS, Starship to fly another test flight appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/launch-preview-071326/",
     "category": "成份股",
     "pinned": false
   }
