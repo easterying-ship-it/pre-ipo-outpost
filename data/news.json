@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ce189853e8d9",
+    "time": "2026-07-27T18:41:30Z",
+    "title": "Securitize Capital becomes SEC-registered investment adviser",
+    "summary": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5aeb9c5970fc",
+    "time": "2026-07-27T18:08:29Z",
+    "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
+    "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "15480ed8ce49",
+    "time": "2026-07-27T17:28:42Z",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "4c76a596e8b4",
     "time": "2026-07-27T16:44:03Z",
     "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
@@ -60,26 +90,6 @@
     "pinned": false
   },
   {
-    "id": "274866745192",
-    "time": "2026-07-26T16:33:13Z",
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "43f88909064a",
-    "time": "2026-07-25T19:23:32Z",
-    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20B valuation",
-    "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "59fc917edd8d",
     "time": "2026-07-25T00:29:32Z",
     "title": "SpaceX conducts 13th Starship test flight",
@@ -96,26 +106,6 @@
     "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "fad79b20ec85",
-    "time": "2026-07-24T16:34:25Z",
-    "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
-    "summary": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f0e7de5051e7",
-    "time": "2026-07-24T14:57:56Z",
-    "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
-    "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
     "category": "市场数据",
     "pinned": false
   },
