@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "d3cf0c5949c7",
+    "time": "2026-07-28T00:13:33Z",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0d4fb472542b",
+    "time": "2026-07-27T23:00:04Z",
+    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
+    "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d993450249ba",
+    "time": "2026-07-27T22:31:03Z",
+    "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
+    "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ce189853e8d9",
     "time": "2026-07-27T18:41:30Z",
     "title": "Securitize Capital becomes SEC-registered investment adviser",
@@ -60,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "3f30e918a190",
-    "time": "2026-07-27T10:00:00Z",
-    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot",
-    "summary": "On Monday, the network announced a $1.6 million seed round from top players in the media ecosystem, including Powerhouse Capital, Axel Springer SE (which owns Business Insider and Politico), the popular media publication LADbible, and angel investors from OpenAI and DeepMind. Wit",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "7188f8943992",
     "time": "2026-07-27T04:34:44Z",
     "title": "BitMart withdrawals appear to slow following wind-down announcement",
@@ -97,16 +117,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "02d327c05084",
-    "time": "2026-07-24T18:28:43Z",
-    "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-    "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-    "category": "市场数据",
     "pinned": false
   },
   {
