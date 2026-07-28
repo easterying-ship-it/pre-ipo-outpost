@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "ee6d5db9dc41",
+    "time": "2026-07-28T20:45:38Z",
+    "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+    "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2f815e8f3ae8",
+    "time": "2026-07-28T17:33:20Z",
+    "title": "Ship 40’s flawless flight promotes next mission catch potential",
+    "summary": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,&#8230;\nThe post Ship 40&#8217;s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "d72d5c184128",
     "time": "2026-07-28T16:54:11Z",
     "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
@@ -86,26 +106,6 @@
     "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5aeb9c5970fc",
-    "time": "2026-07-27T18:08:29Z",
-    "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
-    "summary": "Amazon is expanding its plans for providing satellite connectivity to mobile phones.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "15480ed8ce49",
-    "time": "2026-07-27T17:28:42Z",
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
     "category": "IPO动态",
     "pinned": false
   },
