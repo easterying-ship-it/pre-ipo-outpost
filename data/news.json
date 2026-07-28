@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "d72d5c184128",
+    "time": "2026-07-28T16:54:11Z",
+    "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
+    "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2e4e8aedc8da",
+    "time": "2026-07-28T16:20:57Z",
+    "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
+    "summary": "Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "01f840007ce3",
+    "time": "2026-07-28T14:57:12Z",
+    "title": "Elon Musk’s X Money app is rolling out in the US",
+    "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "c4ebc6f3eb10",
     "time": "2026-07-28T04:30:00Z",
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -60,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "ce189853e8d9",
-    "time": "2026-07-27T18:41:30Z",
-    "title": "Securitize Capital becomes SEC-registered investment adviser",
-    "summary": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5aeb9c5970fc",
     "time": "2026-07-27T18:08:29Z",
     "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
@@ -87,16 +107,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4c76a596e8b4",
-    "time": "2026-07-27T16:44:03Z",
-    "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-    "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
