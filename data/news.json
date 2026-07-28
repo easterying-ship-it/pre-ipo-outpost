@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "c4ebc6f3eb10",
+    "time": "2026-07-28T04:30:00Z",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5594a1fca1b5",
+    "time": "2026-07-28T02:21:04Z",
+    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
+    "summary": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d3cf0c5949c7",
     "time": "2026-07-28T00:13:33Z",
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -86,26 +106,6 @@
     "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7188f8943992",
-    "time": "2026-07-27T04:34:44Z",
-    "title": "BitMart withdrawals appear to slow following wind-down announcement",
-    "summary": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3172ee9519d7",
-    "time": "2026-07-27T01:01:43Z",
-    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
-    "summary": "The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
