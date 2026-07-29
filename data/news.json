@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "81ad371acb5f",
+    "time": "2026-07-29T10:00:00Z",
+    "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
+    "summary": "A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market’s trading activity.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "42db4633d9d0",
     "time": "2026-07-29T02:50:51Z",
     "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
@@ -60,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "2e4e8aedc8da",
-    "time": "2026-07-28T16:20:57Z",
-    "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-    "summary": "Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "01f840007ce3",
     "time": "2026-07-28T14:57:12Z",
     "title": "Elon Musk’s X Money app is rolling out in the US",
@@ -86,16 +86,6 @@
     "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d993450249ba",
-    "time": "2026-07-27T22:31:03Z",
-    "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-    "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
     "category": "IPO动态",
     "pinned": false
   },
