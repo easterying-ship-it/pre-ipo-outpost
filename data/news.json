@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "178a086ab64e",
+    "time": "2026-07-29T12:14:14Z",
+    "title": "OpenAI：失控AI曾試圖入侵其他公司系統",
+    "summary": "這個失控的AI找到四組登入憑證，令它能夠存取多個未具名的網上服務。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c39ezlgpyx0o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "81ad371acb5f",
     "time": "2026-07-29T10:00:00Z",
     "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
@@ -20,22 +30,22 @@
     "pinned": false
   },
   {
-    "id": "42db4633d9d0",
+    "id": "7cf8fdc30437",
     "time": "2026-07-29T02:50:51Z",
     "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
     "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
   {
-    "id": "81ef19c789c5",
+    "id": "f3bd14647423",
     "time": "2026-07-28T21:57:49Z",
     "title": "Visa outlines stablecoin strategy during Q3 earnings call",
     "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
@@ -76,16 +86,6 @@
     "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0d4fb472542b",
-    "time": "2026-07-27T23:00:04Z",
-    "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-    "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
     "category": "IPO动态",
     "pinned": false
   },
