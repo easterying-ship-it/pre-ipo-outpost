@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "81ef19c789c5",
+    "time": "2026-07-28T21:57:49Z",
+    "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+    "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ee6d5db9dc41",
     "time": "2026-07-28T20:45:38Z",
     "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
@@ -56,36 +66,6 @@
     "summary": "Users get an X Visa debit card, which they can immediately add to Apple Pay and use to make instant peer-to-peer transfers within the app without fees or limits.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c4ebc6f3eb10",
-    "time": "2026-07-28T04:30:00Z",
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5594a1fca1b5",
-    "time": "2026-07-28T02:21:04Z",
-    "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-    "summary": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d3cf0c5949c7",
-    "time": "2026-07-28T00:13:33Z",
-    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
     "category": "IPO动态",
     "pinned": false
   },
