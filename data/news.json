@@ -60,16 +60,6 @@
     "pinned": false
   },
   {
-    "id": "7cf8fdc30437",
-    "time": "2026-07-29T02:50:51Z",
-    "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-    "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ee6d5db9dc41",
     "time": "2026-07-28T20:45:38Z",
     "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
@@ -87,16 +77,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d72d5c184128",
-    "time": "2026-07-28T16:54:11Z",
-    "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
-    "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
-    "category": "IPO动态",
     "pinned": false
   },
   {
