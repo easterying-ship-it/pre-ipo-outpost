@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "99a39c8c40dd",
+    "time": "2026-07-30T00:21:06Z",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d88ebb6f0d08",
+    "time": "2026-07-29T22:57:06Z",
+    "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+    "summary": "CEO says market doesn't reflect value of Pentagon-backed business \nThe post L3Harris delays missile business IPO to 2027 despite surging defense demand appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a1acaf059a85",
+    "time": "2026-07-29T22:46:03Z",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cfbc3bd0b521",
+    "time": "2026-07-29T21:53:35Z",
+    "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
+    "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "02c9dc271c9b",
+    "time": "2026-07-29T21:07:48Z",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0f545955781d",
+    "time": "2026-07-29T20:43:51Z",
+    "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+    "summary": "Falcon 9 will launch satellites supporting missile tracking, targeting and military communications\nThe post SpaceX wins $1.6 billion in launch orders for military satellite networks appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "508a6347032c",
     "time": "2026-07-29T16:20:37Z",
     "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
@@ -77,26 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "59fc917edd8d",
-    "time": "2026-07-25T00:29:32Z",
-    "title": "SpaceX conducts 13th Starship test flight",
-    "summary": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post SpaceX conducts 13th Starship test flight appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "100178fe979b",
-    "time": "2026-07-24T04:16:29Z",
-    "title": "白宮稱中國「月之暗面」Kimi K3模型竊取Anthropic技術",
-    "summary": "白宮指控，中國人工智能公司「月之暗面」透過「蒸餾」Anthropic旗下Fable AI模型的能力，來開發其K3模型。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/c62vqpqdqjwo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
     "pinned": false
   },
   {
