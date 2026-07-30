@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "a3fb584469b5",
+    "time": "2026-07-30T20:26:38Z",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "480223e09fe6",
+    "time": "2026-07-30T18:42:21Z",
+    "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+    "summary": "The Series D more than doubles the satellite manufacturer’s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year\nThe post K2 Space raises $500 million for commercial, defense satellite expansion appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0dcf52e0a1c7",
+    "time": "2026-07-30T17:50:11Z",
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "summary": "Add another member to the fast-and-furious AI unicorn club: Simile.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cac5b14137a6",
+    "time": "2026-07-30T17:38:13Z",
+    "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+    "summary": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "69940b9ceae5",
     "time": "2026-07-30T16:00:25Z",
     "title": "Tesla made its 10 millionth EV",
@@ -60,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "99a39c8c40dd",
-    "time": "2026-07-30T00:21:06Z",
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "d88ebb6f0d08",
     "time": "2026-07-29T22:57:06Z",
     "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
@@ -80,26 +110,6 @@
     "pinned": false
   },
   {
-    "id": "a1acaf059a85",
-    "time": "2026-07-29T22:46:03Z",
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "065acf756bec",
-    "time": "2026-07-29T21:53:35Z",
-    "title": "Robinhood posts record quarter as crypto revenue slides 38%",
-    "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "0f545955781d",
     "time": "2026-07-29T20:43:51Z",
     "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
@@ -107,16 +117,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a2420d348a34",
-    "time": "2026-07-29T16:16:43Z",
-    "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
-    "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
-    "category": "IPO动态",
     "pinned": false
   },
   {
