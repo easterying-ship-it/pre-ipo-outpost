@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "2476bc8f75fe",
+    "time": "2026-07-30T09:50:02Z",
+    "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
+    "summary": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "99a39c8c40dd",
     "time": "2026-07-30T00:21:06Z",
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -40,12 +50,12 @@
     "pinned": false
   },
   {
-    "id": "518243e44d19",
+    "id": "065acf756bec",
     "time": "2026-07-29T21:53:35Z",
     "title": "Robinhood posts record quarter as crypto revenue slides 38%",
     "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
     "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source_url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
