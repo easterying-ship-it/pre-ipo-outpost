@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "d896307e17d8",
+    "time": "2026-07-31T11:35:33Z",
+    "title": "Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports",
+    "summary": "Situational Awareness retained about $10 billion in assets, including its Anthropic stake, after reportedly selling leveraged public stock positions to Ken Griffin’s Citadel.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6342e58b5045",
+    "time": "2026-07-31T11:02:24Z",
+    "title": "BIS Project Agorá settles $1 million in tokenized cross-border payment trials",
+    "summary": "Twenty-eight financial institutions and central banks completed real-value settlements across six currencies using tokenized central bank reserves and commercial bank deposits.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bis-project-agor-tokenized-cross-border-payment-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "68c1f692f2e0",
     "time": "2026-07-31T08:29:51Z",
     "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
@@ -110,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "760c3799798a",
-    "time": "2026-07-30T15:48:37Z",
-    "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
-    "summary": "A RedStone report found tokenized bullion held up during gold’s sharp sell-off, but DeFi lending adoption remains limited despite surging market growth and trading volumes.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-gold-defi-stress-test-collateral-adoption-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "7003d60b1ced",
     "time": "2026-07-30T15:42:17Z",
     "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
@@ -216,16 +226,6 @@
     "summary": "After last week’s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as&#8230;\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7c62b7852887",
-    "time": "2026-07-20T19:18:54Z",
-    "title": "Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5",
-    "summary": "While the focus of late has been on Starship&#8217;s test program, three companies developing new&#8230;\nThe post Making Progress: Relativity’s Terran R, Rocket Lab’s Neutron, and PLD Space’s Miura 5 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/making-progress-terran-r-neutron-miura/",
     "category": "成份股",
     "pinned": false
   }
