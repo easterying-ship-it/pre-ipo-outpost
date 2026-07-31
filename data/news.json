@@ -10,10 +10,40 @@
     "pinned": true
   },
   {
-    "id": "a3fb584469b5",
+    "id": "f5d931e43272",
+    "time": "2026-07-31T01:06:54Z",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "64680184966a",
+    "time": "2026-07-30T23:25:58Z",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e4c19e611ed1",
+    "time": "2026-07-30T20:47:27Z",
+    "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+    "summary": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "94d44d9415c7",
     "time": "2026-07-30T20:26:38Z",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "category": "IPO动态",
@@ -76,16 +106,6 @@
     "summary": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal—and wants a federal court to stop it before Saturday.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "971afd7f8a63",
-    "time": "2026-07-30T14:48:32Z",
-    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
     "category": "IPO动态",
     "pinned": false
   },
