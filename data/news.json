@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "a5ee6676ee2b",
+    "time": "2026-07-31T19:16:19Z",
+    "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+    "summary": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3b0bf0e0d725",
+    "time": "2026-07-31T17:26:32Z",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "7cc5daedb277",
     "time": "2026-07-31T16:23:21Z",
     "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
@@ -106,16 +126,6 @@
     "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "94d44d9415c7",
-    "time": "2026-07-30T20:26:38Z",
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "category": "IPO动态",
     "pinned": false
   },
