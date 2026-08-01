@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "00273746d5cf",
+    "time": "2026-08-01T17:07:34Z",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f7d081e53b24",
     "time": "2026-07-31T22:47:26Z",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -57,16 +67,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "72eea25e65a7",
-    "time": "2026-07-31T15:16:17Z",
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
