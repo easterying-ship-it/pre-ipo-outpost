@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f7d081e53b24",
+    "time": "2026-07-31T22:47:26Z",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "962b993adb66",
+    "time": "2026-07-31T21:14:22Z",
+    "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+    "summary": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230;\nThe post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a5ee6676ee2b",
     "time": "2026-07-31T19:16:19Z",
     "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
@@ -120,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "64680184966a",
-    "time": "2026-07-30T23:25:58Z",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "480223e09fe6",
     "time": "2026-07-30T18:42:21Z",
     "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
@@ -216,16 +226,6 @@
     "summary": "SpaceX’s Falcon 9 is set to launch the Mission Robotic Vehicle (MRV-1) mission from Florida&#8230;\nThe post Falcon 9 to launch MRV-1 robotic servicing spacecraft for Northrop Grumman appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/mrv-1-launch/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "46ffca93fe1e",
-    "time": "2026-07-20T20:53:25Z",
-    "title": "Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch",
-    "summary": "After last week’s aborted Starship Flight 13 launch, SpaceX is scheduling a new attempt as&#8230;\nThe post Launch Preview: Falcon 9, Starship, and Chinese rockets scheduled to launch appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/launch-preview-072026/",
     "category": "成份股",
     "pinned": false
   }
