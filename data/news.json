@@ -10,10 +10,50 @@
     "pinned": true
   },
   {
+    "id": "d07f3d8a0da3",
+    "time": "2026-08-03T17:16:43Z",
+    "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+    "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "976d5b8ab237",
+    "time": "2026-08-03T16:40:55Z",
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8f6bf53245ad",
+    "time": "2026-08-03T16:13:12Z",
+    "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+    "summary": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "48e7e3c849f8",
+    "time": "2026-08-03T16:06:47Z",
+    "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+    "summary": "EchoStar’s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX’s Starlink constellation.\nThe post Hughes files for bankruptcy after GEO business loses ground to Starlink appeared first on ",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "b34253d5bca5",
     "time": "2026-08-03T12:50:46Z",
     "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pentesting.",
+    "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
     "category": "IPO动态",
@@ -80,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "f7d081e53b24",
-    "time": "2026-07-31T22:47:26Z",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "962b993adb66",
     "time": "2026-07-31T21:14:22Z",
     "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
     "summary": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230;\nThe post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "90e0accf35b0",
-    "time": "2026-07-31T13:47:54Z",
-    "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-    "summary": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
     "category": "IPO动态",
     "pinned": false
   },
@@ -127,16 +147,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0f545955781d",
-    "time": "2026-07-29T20:43:51Z",
-    "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
-    "summary": "Falcon 9 will launch satellites supporting missile tracking, targeting and military communications\nThe post SpaceX wins $1.6 billion in launch orders for military satellite networks appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
-    "category": "成份股",
     "pinned": false
   },
   {
