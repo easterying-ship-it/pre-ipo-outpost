@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "33514d5c9158",
+    "time": "2026-08-03T19:45:35Z",
+    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+    "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "564aea3b0110",
+    "time": "2026-08-03T19:28:57Z",
+    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6c11f5026880",
+    "time": "2026-08-03T19:17:37Z",
+    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+    "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "bb446015c1a9",
+    "time": "2026-08-03T19:09:56Z",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d07f3d8a0da3",
     "time": "2026-08-03T17:16:43Z",
     "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
@@ -20,9 +60,9 @@
     "pinned": false
   },
   {
-    "id": "976d5b8ab237",
+    "id": "c5c022dbec17",
     "time": "2026-08-03T16:40:55Z",
-    "title": "Congress’s favorite AI tool? ChatGPT",
+    "title": "Congress’ favorite AI tool? ChatGPT",
     "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
@@ -106,16 +146,6 @@
     "summary": "The crypto exchange stopped accepting new registrations from Japan residents and will begin progressively restricting existing accounts on Nov. 1.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "00273746d5cf",
-    "time": "2026-08-01T17:07:34Z",
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
     "category": "IPO动态",
     "pinned": false
   },
