@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "415ad3534ac3",
+    "time": "2026-08-04T07:25:32Z",
+    "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
+    "summary": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "6b06051c565d",
     "time": "2026-08-04T02:03:57Z",
     "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
@@ -120,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "2054580ee4b6",
-    "time": "2026-08-03T12:21:19Z",
-    "title": "Bithumb sets 2028 IPO timetable as it overhauls internal controls",
-    "summary": "The South Korean exchange plans to seek preliminary listing review in 2027 while overhauling controls after a February crediting error.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ddbf83dd18cb",
-    "time": "2026-08-03T12:07:42Z",
-    "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
-    "summary": "Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger another leg down for crypto valuations and accelerate policy support from US regulators.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "18e8e9a365c7",
     "time": "2026-08-03T11:07:59Z",
     "title": "South Korean Exchange Bithumb Targets 2028 IPO",
@@ -147,16 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1de91f26431c",
-    "time": "2026-08-03T10:58:36Z",
-    "title": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-    "summary": "Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issuance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
