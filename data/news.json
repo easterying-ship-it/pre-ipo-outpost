@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "8cc7d54819ba",
+    "time": "2026-08-05T09:24:03Z",
+    "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+    "summary": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "074e13ed08fc",
+    "time": "2026-08-05T09:10:04Z",
+    "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
+    "summary": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "cbd583365893",
+    "time": "2026-08-05T09:00:00Z",
+    "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+    "summary": "Forgd’s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "db47dad3320a",
     "time": "2026-08-04T22:51:13Z",
     "title": "SpaceX to begin Starship orbital flights",
@@ -110,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "78c6f137ccc7",
-    "time": "2026-08-04T14:03:01Z",
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "de1a0e9c861c",
-    "time": "2026-08-04T12:30:07Z",
-    "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
-    "summary": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "2bb4084307d5",
     "time": "2026-08-04T12:14:03Z",
     "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
@@ -156,16 +166,6 @@
     "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "415ad3534ac3",
-    "time": "2026-08-04T07:25:32Z",
-    "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
-    "summary": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
