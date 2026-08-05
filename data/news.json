@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "853d7bc039ca",
+    "time": "2026-08-05T12:47:57Z",
+    "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+    "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "18d9335732a3",
+    "time": "2026-08-05T10:40:43Z",
+    "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+    "summary": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&amp;P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "8cc7d54819ba",
     "time": "2026-08-05T09:24:03Z",
     "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
@@ -130,16 +150,6 @@
     "pinned": false
   },
   {
-    "id": "4a987205318b",
-    "time": "2026-08-04T15:20:06Z",
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2bb4084307d5",
     "time": "2026-08-04T12:14:03Z",
     "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
@@ -187,16 +197,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "6c11f5026880",
-    "time": "2026-08-03T19:17:37Z",
-    "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-    "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-    "category": "市场数据",
     "pinned": false
   },
   {
