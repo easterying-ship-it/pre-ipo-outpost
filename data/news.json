@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ae64bc8cb06b",
+    "time": "2026-08-06T05:08:04Z",
+    "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
+    "summary": "Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7ff9ac5cafea",
+    "time": "2026-08-06T04:28:47Z",
+    "title": "Meta latest AI firm to see model go rogue during testing",
+    "summary": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3db735500296",
+    "time": "2026-08-06T01:31:35Z",
+    "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
+    "summary": "Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shifts the balance between attackers and defenders.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e6dfc5112e07",
     "time": "2026-08-05T21:05:37Z",
     "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
@@ -67,36 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "18d9335732a3",
-    "time": "2026-08-05T10:40:43Z",
-    "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
-    "summary": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&amp;P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8cc7d54819ba",
-    "time": "2026-08-05T09:24:03Z",
-    "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
-    "summary": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "074e13ed08fc",
-    "time": "2026-08-05T09:10:04Z",
-    "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
-    "summary": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
