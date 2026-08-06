@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e6dfc5112e07",
+    "time": "2026-08-05T21:05:37Z",
+    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3adeed602b03",
     "time": "2026-08-05T19:11:23Z",
     "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
@@ -47,16 +57,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/finding-room-in-starlinks-shadow/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "1bbc5f79ff6c",
-    "time": "2026-08-05T14:13:18Z",
-    "title": "Anthropic is hiring an AI chip design team",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -100,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "cbd583365893",
-    "time": "2026-08-05T09:00:00Z",
-    "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
-    "summary": "Forgd’s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "db47dad3320a",
     "time": "2026-08-04T22:51:13Z",
     "title": "SpaceX to begin Starship orbital flights",
@@ -127,16 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "356ee676ea4a",
-    "time": "2026-08-04T18:46:11Z",
-    "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
-    "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
-    "category": "市场数据",
     "pinned": false
   },
   {
