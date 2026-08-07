@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "5eb28fe84634",
+    "time": "2026-08-07T16:03:06Z",
+    "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+    "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b9b69bc12c46",
+    "time": "2026-08-07T15:07:49Z",
+    "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+    "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4ba735cb3fb8",
+    "time": "2026-08-07T14:07:31Z",
+    "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+    "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dffa21da45df",
+    "time": "2026-08-07T13:26:19Z",
+    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+    "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8fe4aed82313",
+    "time": "2026-08-07T12:37:14Z",
+    "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+    "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e468f3504300",
     "time": "2026-08-07T03:22:26Z",
     "title": "Bitget explores licensed crypto presence in Bhutan",
@@ -90,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "0b54eb0ca9a6",
-    "time": "2026-08-06T15:21:51Z",
-    "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
-    "summary": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8c4a518d7c26",
-    "time": "2026-08-06T15:10:32Z",
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims t",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5f0804b01c46",
     "time": "2026-08-06T14:18:19Z",
     "title": "Redwire to fly dedicated Starfall mission for microgravity research",
@@ -117,16 +147,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a4c44cf188da",
-    "time": "2026-08-06T13:52:36Z",
-    "title": "Step App winds down after four years as FITFI token sinks",
-    "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
