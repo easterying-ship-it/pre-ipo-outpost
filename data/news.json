@@ -130,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "80b315bd10b8",
-    "time": "2026-08-06T13:30:00Z",
-    "title": "10 weirdest things ever tokenized... including farts",
-    "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9e7529d96ec7",
-    "time": "2026-08-06T12:55:44Z",
-    "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-    "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "5b0cc4a2774d",
     "time": "2026-08-06T10:48:03Z",
     "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
@@ -160,32 +140,12 @@
     "pinned": false
   },
   {
-    "id": "4c45e15e1c87",
-    "time": "2026-08-06T09:35:23Z",
-    "title": "SpaceX火箭殘骸據信擊中了月球，科學家能學到甚麼？",
-    "summary": "雖然這次碰撞是意外，但對行星地質學家來說，可能為未來的太空任務提供重要數據。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cvgljjgle0po/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "72b550a0246a",
     "time": "2026-08-06T09:13:11Z",
     "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
     "summary": "一枚失控的SpaceX火箭據報墜毀在月球上，在著名的月球地標附近造成隕石坑，科學家認為這次撞擊提供一個獨特契機，研究未來的探測任務。本週三（8月5日），SpaceX一枚獵鷹9號的空載上級火箭，以每小時約8700公里撞擊月球表面的愛因斯坦隕石坑附近區域。",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3adeed602b03",
-    "time": "2026-08-05T19:11:23Z",
-    "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-    "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
     "category": "IPO动态",
     "pinned": false
   },
