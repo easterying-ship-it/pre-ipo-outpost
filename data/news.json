@@ -10,6 +10,126 @@
     "pinned": true
   },
   {
+    "id": "e619eb6af2a5",
+    "time": "2026-08-07T00:09:47Z",
+    "title": "Crypto market maker Wintermute launches US broker-dealer",
+    "summary": "Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "46657da3987a",
+    "time": "2026-08-06T22:43:53Z",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "07affd97b7e6",
+    "time": "2026-08-06T20:31:03Z",
+    "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
+    "summary": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "19f3923ac7f4",
+    "time": "2026-08-06T19:02:57Z",
+    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+    "summary": "Hadrian is building automated factories to mass-produce parts for defense vehicles like submarines. It's backed by a long list of well-known investors.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "92151151e810",
+    "time": "2026-08-06T18:26:29Z",
+    "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
+    "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2146cd889bd7",
+    "time": "2026-08-06T17:34:42Z",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2409015c62f4",
+    "time": "2026-08-06T17:20:54Z",
+    "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
+    "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0b54eb0ca9a6",
+    "time": "2026-08-06T15:21:51Z",
+    "title": "Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas",
+    "summary": "After months of speculation, the companies formally announced the massive project will happen just north of Houston.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8c4a518d7c26",
+    "time": "2026-08-06T15:10:32Z",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims t",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5f0804b01c46",
+    "time": "2026-08-06T14:18:19Z",
+    "title": "Redwire to fly dedicated Starfall mission for microgravity research",
+    "summary": "A Redwire subsidiary working on space biotech and pharmaceutical applications has signed an agreement to fly microgravity research payloads on SpaceX’s Starfall reentry vehicle.\nThe post Redwire to fly dedicated Starfall mission for microgravity research appeared first on SpaceNe",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a4c44cf188da",
+    "time": "2026-08-06T13:52:36Z",
+    "title": "Step App winds down after four years as FITFI token sinks",
+    "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "80b315bd10b8",
+    "time": "2026-08-06T13:30:00Z",
+    "title": "10 weirdest things ever tokenized... including farts",
+    "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9e7529d96ec7",
     "time": "2026-08-06T12:55:44Z",
     "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
@@ -70,46 +190,6 @@
     "pinned": false
   },
   {
-    "id": "ae64bc8cb06b",
-    "time": "2026-08-06T05:08:04Z",
-    "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
-    "summary": "Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7ff9ac5cafea",
-    "time": "2026-08-06T04:28:47Z",
-    "title": "Meta latest AI firm to see model go rogue during testing",
-    "summary": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3db735500296",
-    "time": "2026-08-06T01:31:35Z",
-    "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
-    "summary": "Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shifts the balance between attackers and defenders.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e6dfc5112e07",
-    "time": "2026-08-05T21:05:37Z",
-    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-    "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "3adeed602b03",
     "time": "2026-08-05T19:11:23Z",
     "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
@@ -117,16 +197,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c03b9acca77c",
-    "time": "2026-08-05T15:24:38Z",
-    "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
-    "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -140,16 +210,6 @@
     "pinned": false
   },
   {
-    "id": "853d7bc039ca",
-    "time": "2026-08-05T12:47:57Z",
-    "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
-    "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "db47dad3320a",
     "time": "2026-08-04T22:51:13Z",
     "title": "SpaceX to begin Starship orbital flights",
@@ -160,16 +220,6 @@
     "pinned": false
   },
   {
-    "id": "4a1fa47f080e",
-    "time": "2026-08-04T21:46:03Z",
-    "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-    "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9bcfe8bad06d",
     "time": "2026-08-04T16:27:05Z",
     "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
@@ -177,26 +227,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2bb4084307d5",
-    "time": "2026-08-04T12:14:03Z",
-    "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
-    "summary": "While SpaceX says there is a “significant” amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft.\nThe post Future of Crew Dragon weighs on commercial spaceflight industry appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "48cec5290668",
-    "time": "2026-08-04T12:00:00Z",
-    "title": "SpaceX’s new Starfall program offers validation and competition for reentry startups",
-    "summary": "Demand for microgravity research and manufacturing is brewing — perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did [&#8230;]\nThe post SpaceX’s new Starfall program offers validation and competitio",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
-    "category": "成份股",
     "pinned": false
   },
   {
