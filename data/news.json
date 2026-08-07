@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e468f3504300",
+    "time": "2026-08-07T03:22:26Z",
+    "title": "Bitget explores licensed crypto presence in Bhutan",
+    "summary": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e619eb6af2a5",
     "time": "2026-08-07T00:09:47Z",
     "title": "Crypto market maker Wintermute launches US broker-dealer",
@@ -160,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "55fd9b1ce6e3",
-    "time": "2026-08-06T09:28:20Z",
-    "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
-    "summary": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "72b550a0246a",
     "time": "2026-08-06T09:13:11Z",
     "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
@@ -177,16 +177,6 @@
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3cf2a962577b",
-    "time": "2026-08-06T08:44:43Z",
-    "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
-    "summary": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
