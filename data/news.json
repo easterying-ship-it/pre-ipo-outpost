@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b1b75bc6bba7",
+    "time": "2026-08-08T06:21:08Z",
+    "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+    "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c8fd471a8683",
     "time": "2026-08-07T22:48:24Z",
     "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -66,16 +76,6 @@
     "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e468f3504300",
-    "time": "2026-08-07T03:22:26Z",
-    "title": "Bitget explores licensed crypto presence in Bhutan",
-    "summary": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
