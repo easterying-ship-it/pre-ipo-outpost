@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c8fd471a8683",
+    "time": "2026-08-07T22:48:24Z",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5eb28fe84634",
     "time": "2026-08-07T16:03:06Z",
     "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
@@ -33,7 +43,7 @@
     "id": "4ba735cb3fb8",
     "time": "2026-08-07T14:07:31Z",
     "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-    "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+    "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
     "category": "IPO动态",
@@ -106,26 +116,6 @@
     "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2146cd889bd7",
-    "time": "2026-08-06T17:34:42Z",
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2409015c62f4",
-    "time": "2026-08-06T17:20:54Z",
-    "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
-    "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
     "category": "IPO动态",
     "pinned": false
   },
