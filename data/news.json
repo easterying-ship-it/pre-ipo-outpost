@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "f3acdb1c798e",
+    "time": "2026-08-09T19:20:32Z",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ea366cfed735",
     "time": "2026-08-09T15:00:00Z",
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -86,16 +96,6 @@
     "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "07affd97b7e6",
-    "time": "2026-08-06T20:31:03Z",
-    "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-    "summary": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
     "category": "IPO动态",
     "pinned": false
   },
