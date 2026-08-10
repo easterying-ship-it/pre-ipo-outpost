@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "7053766b01f9",
+    "time": "2026-08-10T07:25:45Z",
+    "title": "UK regulators to prepare tokenized gold framework: Report",
+    "summary": "The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f3acdb1c798e",
     "time": "2026-08-09T19:20:32Z",
     "title": "Anthropic is turning Claude Code’s auto mode on by default",
@@ -43,7 +53,7 @@
     "id": "b1b75bc6bba7",
     "time": "2026-08-08T06:21:08Z",
     "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-    "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
+    "summary": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
@@ -67,16 +77,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b9b69bc12c46",
-    "time": "2026-08-07T15:07:49Z",
-    "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
-    "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
