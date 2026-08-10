@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "5293c79752d3",
+    "time": "2026-08-10T19:35:19Z",
+    "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+    "summary": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c46e46e53d91",
     "time": "2026-08-10T15:03:07Z",
     "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
@@ -76,26 +86,6 @@
     "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e192fa5b702a",
-    "time": "2026-08-08T19:41:13Z",
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "summary": "NextSlide says its team members are now working on ChatGPT.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c8fd471a8683",
-    "time": "2026-08-07T22:48:24Z",
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "category": "IPO动态",
     "pinned": false
   },
