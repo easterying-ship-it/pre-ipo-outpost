@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "c46e46e53d91",
+    "time": "2026-08-10T15:03:07Z",
+    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "995f95534da2",
+    "time": "2026-08-10T14:12:12Z",
+    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
+    "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c6fd0e62b12d",
     "time": "2026-08-10T11:39:39Z",
     "title": "Tokenized RWA surge to $4T may push LINK to $200 by end-2030: Standard Chartered",
@@ -70,52 +90,12 @@
     "pinned": false
   },
   {
-    "id": "b1b75bc6bba7",
-    "time": "2026-08-08T06:21:08Z",
-    "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-    "summary": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "c8fd471a8683",
     "time": "2026-08-07T22:48:24Z",
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5eb28fe84634",
-    "time": "2026-08-07T16:03:06Z",
-    "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-    "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dffa21da45df",
-    "time": "2026-08-07T13:26:19Z",
-    "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-    "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8fe4aed82313",
-    "time": "2026-08-07T12:37:14Z",
-    "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-    "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
     "category": "IPO动态",
     "pinned": false
   },
@@ -150,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "d3396613105d",
-    "time": "2026-08-05T15:00:00Z",
-    "title": "Finding room in Starlink’s shadow",
-    "summary": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry’s entrenched, vertically integrated giants? A mix of [&#8230;]\nThe post Finding room in Starlink’s shadow appea",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/finding-room-in-starlinks-shadow/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
     "id": "9bcfe8bad06d",
     "time": "2026-08-04T16:27:05Z",
     "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
@@ -187,16 +157,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2f815e8f3ae8",
-    "time": "2026-07-28T17:33:20Z",
-    "title": "Ship 40’s flawless flight promotes next mission catch potential",
-    "summary": "SpaceX’s Starship Flight 13 demonstrated that the Ship can complete its mission and return intact,&#8230;\nThe post Ship 40&#8217;s flawless flight promotes next mission catch potential appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/ship-40-catch-potential/",
-    "category": "成份股",
     "pinned": false
   }
 ]
