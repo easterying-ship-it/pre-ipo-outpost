@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "3b4bb244fe4c",
+    "time": "2026-08-11T00:03:18Z",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "summary": "San Francisco's housing market is in trouble again.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "93d25aca2ef6",
+    "time": "2026-08-10T23:56:15Z",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5293c79752d3",
     "time": "2026-08-10T19:35:19Z",
     "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
@@ -76,16 +96,6 @@
     "summary": "Programming with Claude Code will soon require even less human oversight.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ea366cfed735",
-    "time": "2026-08-09T15:00:00Z",
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
     "category": "IPO动态",
     "pinned": false
   },
