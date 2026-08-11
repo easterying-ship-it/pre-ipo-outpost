@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "dcb4db6f697d",
+    "time": "2026-08-11T08:00:26Z",
+    "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+    "summary": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "63930698f419",
     "time": "2026-08-11T02:08:36Z",
     "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
@@ -86,16 +96,6 @@
     "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7053766b01f9",
-    "time": "2026-08-10T07:25:45Z",
-    "title": "UK regulators to prepare tokenized gold framework: Report",
-    "summary": "The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
