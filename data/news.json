@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "81e8ff8c10e9",
+    "time": "2026-08-11T19:15:35Z",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "767d26d11b6e",
+    "time": "2026-08-11T18:56:03Z",
+    "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+    "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a40a794aead4",
+    "time": "2026-08-11T18:49:12Z",
+    "title": "Google’s Gemini app surges to one billion users",
+    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "49e8bf590e4d",
+    "time": "2026-08-11T17:41:34Z",
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "071a0256a28d",
+    "time": "2026-08-11T16:45:30Z",
+    "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+    "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "baeddd2823a7",
     "time": "2026-08-11T16:34:40Z",
     "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
@@ -87,66 +137,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "63930698f419",
-    "time": "2026-08-11T02:08:36Z",
-    "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-    "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricted access. Thailand sets crypto tax to 0% in bid to become crypto hub.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3b4bb244fe4c",
-    "time": "2026-08-11T00:03:18Z",
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "summary": "San Francisco's housing market is in trouble again.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "93d25aca2ef6",
-    "time": "2026-08-10T23:56:15Z",
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5293c79752d3",
-    "time": "2026-08-10T19:35:19Z",
-    "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-    "summary": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c46e46e53d91",
-    "time": "2026-08-10T15:03:07Z",
-    "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-    "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "995f95534da2",
-    "time": "2026-08-10T14:12:12Z",
-    "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
-    "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-    "category": "市场数据",
     "pinned": false
   },
   {
