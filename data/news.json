@@ -10,22 +10,52 @@
     "pinned": true
   },
   {
+    "id": "b261f657879c",
+    "time": "2026-08-12T20:01:05Z",
+    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+    "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c982cac10516",
+    "time": "2026-08-12T19:31:04Z",
+    "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c91ad093b638",
+    "time": "2026-08-12T18:19:12Z",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "465af17797cb",
+    "time": "2026-08-12T17:41:29Z",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "6af6c89c0149",
     "time": "2026-08-12T16:04:27Z",
     "title": "Lovable confirms new $13.3B valuation, raises another $400M",
     "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ecc61466a5a1",
-    "time": "2026-08-12T11:00:00Z",
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -50,42 +80,12 @@
     "pinned": false
   },
   {
-    "id": "810bfcf02137",
-    "time": "2026-08-11T20:55:58Z",
-    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-    "summary": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "767d26d11b6e",
     "time": "2026-08-11T18:56:03Z",
     "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
     "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "071a0256a28d",
-    "time": "2026-08-11T16:45:30Z",
-    "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-    "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4ef5905a3b7",
-    "time": "2026-08-11T15:05:35Z",
-    "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-    "summary": "Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
     "category": "IPO动态",
     "pinned": false
   },
@@ -137,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "962b993adb66",
-    "time": "2026-07-31T21:14:22Z",
-    "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
-    "summary": "While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230;\nThe post Starbase Pad 1 Retrofits Progress as Block 3 Flights Start appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
