@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "ecc61466a5a1",
+    "time": "2026-08-12T11:00:00Z",
+    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b40ad44a86f8",
+    "time": "2026-08-12T10:38:06Z",
+    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
+    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "3dc1fa03545f",
     "time": "2026-08-11T22:04:06Z",
     "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
