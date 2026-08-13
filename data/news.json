@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "e5f7ff984dc9",
+    "time": "2026-08-13T20:14:39Z",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f72a6600dda5",
+    "time": "2026-08-13T19:22:40Z",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "c498a78819bc",
+    "time": "2026-08-13T19:19:49Z",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "41cf681b80ed",
+    "time": "2026-08-13T19:11:03Z",
+    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0021fdc70e12",
+    "time": "2026-08-13T18:28:14Z",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ebc73a454c13",
+    "time": "2026-08-13T17:28:54Z",
+    "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+    "summary": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a0fa9bcaed43",
+    "time": "2026-08-13T17:07:13Z",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "182497a327d8",
     "time": "2026-08-13T14:01:03Z",
     "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
@@ -126,16 +196,6 @@
     "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "465af17797cb",
-    "time": "2026-08-12T17:41:29Z",
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
     "category": "IPO动态",
     "pinned": false
   },
