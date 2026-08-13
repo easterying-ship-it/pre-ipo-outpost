@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "182497a327d8",
+    "time": "2026-08-13T14:01:03Z",
+    "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
+    "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "924126c0ad08",
+    "time": "2026-08-13T13:01:05Z",
+    "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
+    "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "1a80d6cee32f",
     "time": "2026-08-13T11:53:17Z",
     "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
@@ -120,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "6af6c89c0149",
-    "time": "2026-08-12T16:04:27Z",
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b40ad44a86f8",
-    "time": "2026-08-12T10:38:06Z",
-    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "05bf439b5052",
     "time": "2026-08-11T14:34:01Z",
     "title": "SpaceX increasing footprint in missile defense",
@@ -157,16 +157,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "72b550a0246a",
-    "time": "2026-08-06T09:13:11Z",
-    "title": "SpaceX火箭撞擊月球 NASA將啟動調查事故",
-    "summary": "一枚失控的SpaceX火箭據報墜毀在月球上，在著名的月球地標附近造成隕石坑，科學家認為這次撞擊提供一個獨特契機，研究未來的探測任務。本週三（8月5日），SpaceX一枚獵鷹9號的空載上級火箭，以每小時約8700公里撞擊月球表面的愛因斯坦隕石坑附近區域。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cp8e4d00v24o/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
     "pinned": false
   },
   {
