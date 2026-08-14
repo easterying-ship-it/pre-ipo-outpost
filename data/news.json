@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "60a5c1108dd0",
+    "time": "2026-08-14T18:31:03Z",
+    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1fd7598e22d0",
     "time": "2026-08-14T14:55:29Z",
     "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
@@ -137,16 +147,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "182497a327d8",
-    "time": "2026-08-13T14:01:03Z",
-    "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-    "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
-    "category": "市场数据",
     "pinned": false
   },
   {
