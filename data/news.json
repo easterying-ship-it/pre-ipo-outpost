@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "1fd7598e22d0",
+    "time": "2026-08-14T14:55:29Z",
+    "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+    "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "e091f985c8ea",
     "time": "2026-08-14T11:23:28Z",
     "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
@@ -120,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "ebc73a454c13",
-    "time": "2026-08-13T17:28:54Z",
-    "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-    "summary": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "a0fa9bcaed43",
     "time": "2026-08-13T17:07:13Z",
     "title": "OpenAI hires new CRO as executive shake-up continues",
@@ -147,36 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "924126c0ad08",
-    "time": "2026-08-13T13:01:05Z",
-    "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
-    "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1a80d6cee32f",
-    "time": "2026-08-13T11:53:17Z",
-    "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-    "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2cd3f7f7e295",
-    "time": "2026-08-12T22:26:37Z",
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
