@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "e091f985c8ea",
+    "time": "2026-08-14T11:23:28Z",
+    "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
+    "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d5bb416d7232",
+    "time": "2026-08-14T09:53:50Z",
+    "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
+    "summary": "RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals, while the company says it secured a US money transmitter license.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "53281a635d3d",
     "time": "2026-08-13T22:00:00Z",
     "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
@@ -150,26 +170,6 @@
     "pinned": false
   },
   {
-    "id": "6dd6258d7e29",
-    "time": "2026-08-13T11:48:37Z",
-    "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-    "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dd966758726b",
-    "time": "2026-08-13T09:53:36Z",
-    "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-    "summary": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2cd3f7f7e295",
     "time": "2026-08-12T22:26:37Z",
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -177,16 +177,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "68956df7a124",
-    "time": "2026-08-12T20:31:04Z",
-    "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-    "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-    "category": "市场数据",
     "pinned": false
   },
   {
