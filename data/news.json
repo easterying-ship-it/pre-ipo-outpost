@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "53281a635d3d",
+    "time": "2026-08-13T22:00:00Z",
+    "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+    "summary": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone\nThe post Space Force awards five companies $60 million for multi-vendor satellite network tests appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "2c15a956c9b0",
+    "time": "2026-08-13T21:45:04Z",
+    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+    "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c98227b8c7a5",
+    "time": "2026-08-13T21:13:24Z",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b11b7c0e7bdc",
+    "time": "2026-08-13T20:30:24Z",
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+    "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e5f7ff984dc9",
     "time": "2026-08-13T20:14:39Z",
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -73,7 +113,7 @@
     "id": "a0fa9bcaed43",
     "time": "2026-08-13T17:07:13Z",
     "title": "OpenAI hires new CRO as executive shake-up continues",
-    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "category": "IPO动态",
@@ -140,16 +180,6 @@
     "pinned": false
   },
   {
-    "id": "06cb420e4f27",
-    "time": "2026-08-13T05:01:42Z",
-    "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-    "summary": "Bitwise’s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2cd3f7f7e295",
     "time": "2026-08-12T22:26:37Z",
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -167,46 +197,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b261f657879c",
-    "time": "2026-08-12T20:01:05Z",
-    "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-    "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c982cac10516",
-    "time": "2026-08-12T19:31:04Z",
-    "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
-    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c91ad093b638",
-    "time": "2026-08-12T18:19:12Z",
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "05bf439b5052",
-    "time": "2026-08-11T14:34:01Z",
-    "title": "SpaceX increasing footprint in missile defense",
-    "summary": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense business\nThe post SpaceX increasing footprint in missile defense appeared first",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
-    "category": "成份股",
     "pinned": false
   },
   {
