@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "d672e949ae9f",
+    "time": "2026-08-16T16:53:51Z",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "7d206afcaa79",
     "time": "2026-08-15T19:27:29Z",
     "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
@@ -97,16 +107,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9bcfe8bad06d",
-    "time": "2026-08-04T16:27:05Z",
-    "title": "While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14",
-    "summary": "SpaceX is recovering the intact Ship 40 from the Indian Ocean after its soft landing&#8230;\nThe post While SpaceX recovers Ship 40, Ship 41 prepares for testing ahead of Flight 14 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
