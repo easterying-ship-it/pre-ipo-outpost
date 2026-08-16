@@ -90,26 +90,6 @@
     "pinned": false
   },
   {
-    "id": "b11b7c0e7bdc",
-    "time": "2026-08-13T20:30:24Z",
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-    "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "41cf681b80ed",
-    "time": "2026-08-13T19:11:03Z",
-    "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-    "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1ccc7949b34c",
     "time": "2026-08-11T10:12:00Z",
     "title": "Starbase Production lining up future vehicles",
