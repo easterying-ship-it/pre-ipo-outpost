@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "206e9ef31bde",
+    "time": "2026-08-17T11:00:00Z",
+    "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+    "summary": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been [&#8230;]\nThe post A rocket crashed into the moon. It was harmless, but the next one might not be. appear",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "fa6b93458474",
     "time": "2026-08-17T05:52:55Z",
     "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
@@ -97,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "2c15a956c9b0",
-    "time": "2026-08-13T21:45:04Z",
-    "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-    "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-    "category": "IPO动态",
     "pinned": false
   },
   {
