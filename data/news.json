@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "124d9853fa09",
+    "time": "2026-08-17T19:59:18Z",
+    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+    "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0a5c37551fff",
+    "time": "2026-08-17T19:04:27Z",
+    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a5dc831ae8f2",
+    "time": "2026-08-17T18:29:56Z",
+    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+    "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c4ec4449e591",
+    "time": "2026-08-17T16:15:12Z",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "850d723082a7",
     "time": "2026-08-17T15:16:24Z",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -70,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "caa598227fe9",
-    "time": "2026-08-15T18:58:39Z",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ad3457695f27",
     "time": "2026-08-15T17:26:43Z",
     "title": "Tokenized stock holders more than double as monthly volume surges",
@@ -87,26 +117,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9dea9cfe7010",
-    "time": "2026-08-15T16:30:00Z",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "60a5c1108dd0",
-    "time": "2026-08-14T18:31:03Z",
-    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-    "category": "IPO动态",
     "pinned": false
   },
   {
