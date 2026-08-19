@@ -130,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "44fea20003e0",
-    "time": "2026-08-18T10:53:21Z",
-    "title": "Kraken launches US-listed stock trading for EEA customers",
-    "summary": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "1487ffa188a8",
     "time": "2026-08-17T22:35:46Z",
     "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
@@ -166,16 +156,6 @@
     "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "124d9853fa09",
-    "time": "2026-08-17T19:59:18Z",
-    "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-    "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
     "category": "IPO动态",
     "pinned": false
   },
