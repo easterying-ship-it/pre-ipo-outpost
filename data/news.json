@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b64e8513663f",
+    "time": "2026-08-19T05:13:54Z",
+    "title": "MAYAChain halts network after estimated $1.7M exploit",
+    "summary": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "32c5eb6e5e1a",
     "time": "2026-08-18T22:52:36Z",
     "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
