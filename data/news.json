@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "32c5eb6e5e1a",
+    "time": "2026-08-18T22:52:36Z",
+    "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+    "summary": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX\nThe post Rocket Lab to test Space Force data network connection in orbit in 2027 appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "274c8e83b424",
+    "time": "2026-08-18T21:24:15Z",
+    "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+    "summary": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as “investment contracts” and certain exemptions for token issuance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2cde573b0167",
+    "time": "2026-08-18T20:45:48Z",
+    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
+    "summary": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "a951a9bf8c6b",
     "time": "2026-08-18T20:00:25Z",
     "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
@@ -100,26 +130,6 @@
     "pinned": false
   },
   {
-    "id": "5d71d76dab9a",
-    "time": "2026-08-18T01:28:37Z",
-    "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-    "summary": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c31dc11c12db",
-    "time": "2026-08-17T23:56:26Z",
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "summary": "The model maker added $18 billion in annualized revenue in two months.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1487ffa188a8",
     "time": "2026-08-17T22:35:46Z",
     "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
@@ -157,16 +167,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a5dc831ae8f2",
-    "time": "2026-08-17T18:29:56Z",
-    "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-    "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-    "category": "市场数据",
     "pinned": false
   },
   {
