@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f34a609be73d",
+    "time": "2026-08-19T15:19:21Z",
+    "title": "Injective receives SEC transfer agent registration for institutional services arm",
+    "summary": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d1b3b9c9d025",
+    "time": "2026-08-19T12:47:27Z",
+    "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
+    "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b64e8513663f",
     "time": "2026-08-19T05:13:54Z",
     "title": "MAYAChain halts network after estimated $1.7M exploit",
@@ -90,36 +110,6 @@
     "pinned": false
   },
   {
-    "id": "8fb726e405be",
-    "time": "2026-08-18T15:59:54Z",
-    "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-    "summary": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "199425bcda8c",
-    "time": "2026-08-18T13:50:30Z",
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "23c0bd3abad9",
-    "time": "2026-08-18T13:41:56Z",
-    "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-    "summary": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5082f399bd43",
     "time": "2026-08-18T12:59:38Z",
     "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
@@ -130,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "1487ffa188a8",
-    "time": "2026-08-17T22:35:46Z",
-    "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-    "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9103acf93a1e",
     "time": "2026-08-17T22:19:52Z",
     "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
@@ -147,16 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "ba7ffcb47bb0",
-    "time": "2026-08-17T22:16:03Z",
-    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-    "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "category": "IPO动态",
     "pinned": false
   },
   {
