@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "db856ab31294",
+    "time": "2026-08-19T19:00:00Z",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "69bb05c26d79",
+    "time": "2026-08-19T18:46:14Z",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4bf2bb0a4b6a",
+    "time": "2026-08-19T18:20:35Z",
+    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+    "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ae7ecf45bf97",
+    "time": "2026-08-19T16:30:12Z",
+    "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+    "summary": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f34a609be73d",
     "time": "2026-08-19T15:19:21Z",
     "title": "Injective receives SEC transfer agent registration for institutional services arm",
@@ -50,26 +90,6 @@
     "pinned": false
   },
   {
-    "id": "274c8e83b424",
-    "time": "2026-08-18T21:24:15Z",
-    "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-    "summary": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as “investment contracts” and certain exemptions for token issuance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2cde573b0167",
-    "time": "2026-08-18T20:45:48Z",
-    "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-    "summary": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "a951a9bf8c6b",
     "time": "2026-08-18T20:00:25Z",
     "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
@@ -86,26 +106,6 @@
     "summary": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7e86fbcd8dee",
-    "time": "2026-08-18T18:00:00Z",
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a596c287ab9b",
-    "time": "2026-08-18T17:21:58Z",
-    "title": "Etched’s valuation doubles to $21B in a month",
-    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
     "category": "IPO动态",
     "pinned": false
   },
