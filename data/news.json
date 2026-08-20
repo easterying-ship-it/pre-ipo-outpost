@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b8c29f7e1f54",
+    "time": "2026-08-20T15:43:00Z",
+    "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+    "summary": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "3502b9939c38",
     "time": "2026-08-19T23:12:41Z",
     "title": "Hypersonic missile startup Castelion raises $1 billion",
@@ -60,26 +70,6 @@
     "pinned": false
   },
   {
-    "id": "db856ab31294",
-    "time": "2026-08-19T19:00:00Z",
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "69bb05c26d79",
-    "time": "2026-08-19T18:46:14Z",
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4bf2bb0a4b6a",
     "time": "2026-08-19T18:20:35Z",
     "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
@@ -87,26 +77,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ae7ecf45bf97",
-    "time": "2026-08-19T16:30:12Z",
-    "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
-    "summary": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f34a609be73d",
-    "time": "2026-08-19T15:19:21Z",
-    "title": "Injective receives SEC transfer agent registration for institutional services arm",
-    "summary": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
