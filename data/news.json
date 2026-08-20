@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "3502b9939c38",
+    "time": "2026-08-19T23:12:41Z",
+    "title": "Hypersonic missile startup Castelion raises $1 billion",
+    "summary": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8b6d52baf89c",
+    "time": "2026-08-19T22:10:46Z",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f11365542e88",
+    "time": "2026-08-19T21:51:23Z",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2588d12eb73a",
+    "time": "2026-08-19T20:52:07Z",
+    "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
+    "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026&#8230;\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "061df777081b",
+    "time": "2026-08-19T20:12:33Z",
+    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+    "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "db856ab31294",
     "time": "2026-08-19T19:00:00Z",
     "title": "Google packs Search and Gemini with new AI study tools",
@@ -67,16 +117,6 @@
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b64e8513663f",
-    "time": "2026-08-19T05:13:54Z",
-    "title": "MAYAChain halts network after estimated $1.7M exploit",
-    "summary": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
