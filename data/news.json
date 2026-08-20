@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "fa414958719b",
+    "time": "2026-08-20T19:01:41Z",
+    "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
+    "summary": "Founded in 2022, Castelion set out to manufacture hypersonic weapon systems at a lower cost and at faster speeds than traditional defense primes.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9c67f3667d0b",
+    "time": "2026-08-20T17:46:08Z",
+    "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
+    "summary": "The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave—though ETF flows and futures data hint the move is running on borrowed momentum.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "b8c29f7e1f54",
     "time": "2026-08-20T15:43:00Z",
     "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
@@ -30,42 +50,12 @@
     "pinned": false
   },
   {
-    "id": "8b6d52baf89c",
-    "time": "2026-08-19T22:10:46Z",
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f11365542e88",
-    "time": "2026-08-19T21:51:23Z",
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2588d12eb73a",
     "time": "2026-08-19T20:52:07Z",
     "title": "Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut",
     "summary": "While Starship is grabbing headlines, another fully reusable vehicle is advancing towards a potential 2026&#8230;\nThe post Stoke Space conducts second stage fit checks, completes first stage engines ahead of Nova debut appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "061df777081b",
-    "time": "2026-08-19T20:12:33Z",
-    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
     "category": "IPO动态",
     "pinned": false
   },
