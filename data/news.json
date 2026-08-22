@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "446a63c3eb49",
+    "time": "2026-08-22T19:00:00Z",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cc11fa6d77cd",
+    "time": "2026-08-22T16:30:34Z",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "aa117f624c06",
     "time": "2026-08-21T23:07:25Z",
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
