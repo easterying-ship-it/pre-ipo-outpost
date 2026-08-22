@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "aa117f624c06",
+    "time": "2026-08-21T23:07:25Z",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6354416d1f34",
+    "time": "2026-08-21T20:26:16Z",
+    "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+    "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2eba72947ad0",
     "time": "2026-08-21T15:39:02Z",
     "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
@@ -30,26 +50,6 @@
     "pinned": false
   },
   {
-    "id": "293c5023b469",
-    "time": "2026-08-20T23:32:27Z",
-    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isa",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cb7c82a8875a",
-    "time": "2026-08-20T22:36:37Z",
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9c67f3667d0b",
     "time": "2026-08-20T17:46:08Z",
     "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
@@ -57,16 +57,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3502b9939c38",
-    "time": "2026-08-19T23:12:41Z",
-    "title": "Hypersonic missile startup Castelion raises $1 billion",
-    "summary": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup Castelion raises $1 billion  appeared first on SpaceNews.",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -107,6 +97,16 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-lining-future-vehicles/",
     "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "5b0cc4a2774d",
+    "time": "2026-08-06T10:48:03Z",
+    "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+    "summary": "HELSINKI — Commercial launch company Orienspace has kicked off preparations for an IPO coaching process while closing a funding round for accelerating its reusable Gravity-2 rocket. The Shandong-based company, formally [&#8230;]\nThe post Chinese launch startup Orienspace targets ",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
+    "category": "IPO动态",
     "pinned": false
   }
 ]
