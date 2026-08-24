@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "4e4507e9326e",
+    "time": "2026-08-24T19:58:17Z",
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0f6ed14cd7e4",
+    "time": "2026-08-24T19:43:43Z",
+    "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+    "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "91bdbb4850b5",
+    "time": "2026-08-24T19:11:48Z",
+    "title": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+    "summary": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e68ed978e3fc",
+    "time": "2026-08-24T18:30:27Z",
+    "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+    "summary": "Hyperliquid's token is riding a record into its largest remaining supply release.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "0b810e64378b",
     "time": "2026-08-24T15:24:18Z",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -77,36 +117,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cc11fa6d77cd",
-    "time": "2026-08-22T16:30:34Z",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6354416d1f34",
-    "time": "2026-08-21T20:26:16Z",
-    "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-    "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2eba72947ad0",
-    "time": "2026-08-21T15:39:02Z",
-    "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
-    "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-    "category": "市场数据",
     "pinned": false
   },
   {
