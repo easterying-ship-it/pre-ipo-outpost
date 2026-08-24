@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "0b810e64378b",
+    "time": "2026-08-24T15:24:18Z",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e7f46ccca169",
+    "time": "2026-08-24T15:00:00Z",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4fd9f9c489f3",
+    "time": "2026-08-24T13:30:00Z",
+    "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
+    "summary": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "79b1a1c28069",
     "time": "2026-08-24T11:25:26Z",
     "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
@@ -56,16 +86,6 @@
     "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aa117f624c06",
-    "time": "2026-08-21T23:07:25Z",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "category": "IPO动态",
     "pinned": false
   },
