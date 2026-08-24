@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "d68f9bf850a8",
+    "time": "2026-08-24T02:57:09Z",
+    "title": "快時尚品牌Shein估值270億美元赴港上市",
+    "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "446a63c3eb49",
     "time": "2026-08-22T19:00:00Z",
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -56,16 +66,6 @@
     "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8614329f93c7",
-    "time": "2026-08-21T05:04:52Z",
-    "title": "MANTRA token sinks 18% to record low amid blockchain halt",
-    "summary": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
