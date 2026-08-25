@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "8fcddc33a060",
+    "time": "2026-08-25T12:09:15Z",
+    "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+    "summary": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b845e1dc29e4",
+    "time": "2026-08-25T12:00:00Z",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a9c17667610c",
+    "time": "2026-08-25T11:58:22Z",
+    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+    "summary": "These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "741f80b79c22",
+    "time": "2026-08-25T09:52:40Z",
+    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+    "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "22c6648a09dd",
+    "time": "2026-08-25T09:30:27Z",
+    "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+    "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "95bcf27b5a46",
     "time": "2026-08-24T23:05:44Z",
     "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
@@ -116,26 +166,6 @@
     "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4fd9f9c489f3",
-    "time": "2026-08-24T13:30:00Z",
-    "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
-    "summary": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "79b1a1c28069",
-    "time": "2026-08-24T11:25:26Z",
-    "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
-    "summary": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
