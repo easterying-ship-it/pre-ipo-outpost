@@ -10,10 +10,60 @@
     "pinned": true
   },
   {
+    "id": "95bcf27b5a46",
+    "time": "2026-08-24T23:05:44Z",
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0c002d48cfc1",
+    "time": "2026-08-24T22:16:04Z",
+    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c51ce035df18",
+    "time": "2026-08-24T21:24:17Z",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ed42980db0f1",
+    "time": "2026-08-24T20:46:03Z",
+    "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
+    "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "020285baaa64",
+    "time": "2026-08-24T20:45:23Z",
+    "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
+    "summary": "This week will see five orbital launches from China, the United States, and French Guiana.&#8230;\nThe post Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "4e4507e9326e",
     "time": "2026-08-24T19:58:17Z",
     "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
     "category": "IPO动态",
@@ -106,16 +156,6 @@
     "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "446a63c3eb49",
-    "time": "2026-08-22T19:00:00Z",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "category": "IPO动态",
     "pinned": false
   },
