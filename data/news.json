@@ -10,9 +10,29 @@
     "pinned": true
   },
   {
-    "id": "f5bc0ab67f1f",
-    "time": "2026-08-26T04:17:39Z",
-    "title": "US banking groups plan nationwide blockchain network for 2027",
+    "id": "3644379a1c46",
+    "time": "2026-08-26T11:00:00Z",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8ffbd0ee266d",
+    "time": "2026-08-26T08:45:41Z",
+    "title": "Revolut rolls out euro stablecoin in 3 European markets",
+    "summary": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f4c55ef6ff12",
+    "time": "2026-08-26T04:19:00Z",
+    "title": "US state banking groups plan nationwide blockchain network for 2027",
     "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -150,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "741f80b79c22",
-    "time": "2026-08-25T09:52:40Z",
-    "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
-    "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "22c6648a09dd",
     "time": "2026-08-25T09:30:27Z",
     "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
@@ -167,16 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "0c002d48cfc1",
-    "time": "2026-08-24T22:16:04Z",
-    "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-    "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
-    "category": "IPO动态",
     "pinned": false
   },
   {
