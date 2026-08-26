@@ -10,10 +10,50 @@
     "pinned": true
   },
   {
+    "id": "8f23a55dd928",
+    "time": "2026-08-26T16:18:24Z",
+    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1c87b797c83e",
+    "time": "2026-08-26T16:00:00Z",
+    "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+    "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn’t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately — legal AI company&#160;Legora&#",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "12f7db4bc160",
+    "time": "2026-08-26T13:30:00Z",
+    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
+    "summary": "The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7370a7f72564",
+    "time": "2026-08-26T12:51:03Z",
+    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3644379a1c46",
     "time": "2026-08-26T11:00:00Z",
     "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
     "category": "市场数据",
@@ -80,102 +120,12 @@
     "pinned": false
   },
   {
-    "id": "a7749ecbfbf1",
-    "time": "2026-08-25T18:26:55Z",
-    "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
-    "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8c41bd1321c2",
     "time": "2026-08-25T18:08:58Z",
     "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
     "summary": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5663bc38cd7e",
-    "time": "2026-08-25T17:50:33Z",
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "80cbad34b47b",
-    "time": "2026-08-25T16:32:00Z",
-    "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
-    "summary": "Bitwise’s new portfolios automatically rebalance Coinbase tokenized stocks while allowing eligible non-US investors to keep the assets in their own wallets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7b2da7dd74fc",
-    "time": "2026-08-25T15:53:05Z",
-    "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
-    "summary": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "40a97c08eb08",
-    "time": "2026-08-25T14:22:04Z",
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "900a2a4e8e79",
-    "time": "2026-08-25T14:00:00Z",
-    "title": "Arcus launches tokenized perp positions on Robinhood Chain",
-    "summary": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8fcddc33a060",
-    "time": "2026-08-25T12:09:15Z",
-    "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-    "summary": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a9c17667610c",
-    "time": "2026-08-25T11:58:22Z",
-    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-    "summary": "These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "22c6648a09dd",
-    "time": "2026-08-25T09:30:27Z",
-    "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-    "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
     "category": "市场数据",
     "pinned": false
   },
