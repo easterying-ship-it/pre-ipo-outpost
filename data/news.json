@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "79c811ba48ef",
+    "time": "2026-08-26T22:16:03Z",
+    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+    "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "134430c8547c",
+    "time": "2026-08-26T21:37:39Z",
+    "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1e43ba3db791",
+    "time": "2026-08-26T19:34:04Z",
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "summary": "Was Greg Brockman the right executive all along?",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fcebfa824a74",
+    "time": "2026-08-26T19:21:25Z",
+    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+    "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c68ff4b25b66",
+    "time": "2026-08-26T19:05:22Z",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a83dd4873f71",
+    "time": "2026-08-26T17:15:33Z",
+    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+    "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "8f23a55dd928",
     "time": "2026-08-26T16:18:24Z",
     "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
@@ -50,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "3644379a1c46",
-    "time": "2026-08-26T11:00:00Z",
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "8ffbd0ee266d",
     "time": "2026-08-26T08:45:41Z",
     "title": "Revolut rolls out euro stablecoin in 3 European markets",
@@ -90,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "b94d28325260",
-    "time": "2026-08-26T00:40:59Z",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "df79d57fcce2",
-    "time": "2026-08-26T00:06:20Z",
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f6d9cca98d70",
     "time": "2026-08-25T22:16:03Z",
     "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
@@ -117,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "8c41bd1321c2",
-    "time": "2026-08-25T18:08:58Z",
-    "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-    "summary": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -156,16 +176,6 @@
     "summary": "SpaceX has successfully guided Starship Ship 40 to a location just off the coast of&#8230;\nThe post Ship 40 arrives at Christmas Island, Plans Return to Starbase appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9103acf93a1e",
-    "time": "2026-08-17T22:19:52Z",
-    "title": "Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches",
-    "summary": "After last week’s Chang Zheng 7A launch failure, China returns to action with the high-profile&#8230;\nThe post Launch Preview: Chang’e 7 headlines week of Chinese and Starlink launches appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/",
     "category": "成份股",
     "pinned": false
   }
