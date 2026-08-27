@@ -10,9 +10,79 @@
     "pinned": true
   },
   {
-    "id": "7886e8250724",
+    "id": "4f791a357827",
+    "time": "2026-08-27T17:43:24Z",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fd1e965ea51b",
+    "time": "2026-08-27T14:27:52Z",
+    "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+    "summary": "The arrests come after a wave of cyberattacks earlier this year targeting tech companies that rely on high-profile and widely used open source software.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0e24c194868d",
+    "time": "2026-08-27T14:01:42Z",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7002dd8e67cd",
+    "time": "2026-08-27T11:35:59Z",
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a8a0f9f0ebf5",
+    "time": "2026-08-27T10:00:00Z",
+    "title": "Bitfinex Securities completes record $50M tokenized capital raise",
+    "summary": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "39ec9f7ee9ad",
+    "time": "2026-08-27T09:46:19Z",
+    "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+    "summary": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b2d89f49e59f",
+    "time": "2026-08-27T06:39:02Z",
+    "title": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
+    "summary": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "964025c2e2c5",
     "time": "2026-08-27T00:24:57Z",
-    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
     "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
@@ -40,102 +110,12 @@
     "pinned": false
   },
   {
-    "id": "1e43ba3db791",
-    "time": "2026-08-26T19:34:04Z",
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "summary": "Was Greg Brockman the right executive all along?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fcebfa824a74",
     "time": "2026-08-26T19:21:25Z",
     "title": "US Banks Join Forces to Build a Blockchain of Their Own",
     "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c68ff4b25b66",
-    "time": "2026-08-26T19:05:22Z",
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a83dd4873f71",
-    "time": "2026-08-26T17:15:33Z",
-    "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-    "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8f23a55dd928",
-    "time": "2026-08-26T16:18:24Z",
-    "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-    "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1c87b797c83e",
-    "time": "2026-08-26T16:00:00Z",
-    "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-    "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn’t&#160;the only Stockholm startup putting up&#160;huge numbers&#160;lately — legal AI company&#160;Legora&#",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "12f7db4bc160",
-    "time": "2026-08-26T13:30:00Z",
-    "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-    "summary": "The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7370a7f72564",
-    "time": "2026-08-26T12:51:03Z",
-    "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-    "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8ffbd0ee266d",
-    "time": "2026-08-26T08:45:41Z",
-    "title": "Revolut rolls out euro stablecoin in 3 European markets",
-    "summary": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4c55ef6ff12",
-    "time": "2026-08-26T04:19:00Z",
-    "title": "US state banking groups plan nationwide blockchain network for 2027",
-    "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
@@ -147,16 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f6d9cca98d70",
-    "time": "2026-08-25T22:16:03Z",
-    "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-    "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-    "category": "成份股",
     "pinned": false
   },
   {
