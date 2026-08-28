@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "c43c78dcf420",
+    "time": "2026-08-27T23:16:45Z",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9ef81dee8707",
+    "time": "2026-08-27T21:00:57Z",
+    "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+    "summary": "OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ecedb6c64040",
+    "time": "2026-08-27T19:52:52Z",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b2a631a8e964",
+    "time": "2026-08-27T19:00:00Z",
+    "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+    "summary": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4f791a357827",
     "time": "2026-08-27T17:43:24Z",
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
@@ -37,16 +77,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7002dd8e67cd",
-    "time": "2026-08-27T11:35:59Z",
-    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -80,42 +110,12 @@
     "pinned": false
   },
   {
-    "id": "964025c2e2c5",
-    "time": "2026-08-27T00:24:57Z",
-    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "79c811ba48ef",
     "time": "2026-08-26T22:16:03Z",
     "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
     "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "82b49edbc194",
-    "time": "2026-08-26T21:37:39Z",
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fcebfa824a74",
-    "time": "2026-08-26T19:21:25Z",
-    "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-    "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
     "category": "市场数据",
     "pinned": false
   },
