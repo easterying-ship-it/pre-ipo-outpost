@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "402cb8961528",
+    "time": "2026-08-29T10:53:41Z",
+    "title": "Trump-promoted brand touts GOLD before token collapse",
+    "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ca03a3a68b9a",
     "time": "2026-08-28T19:30:38Z",
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
@@ -80,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "9ef81dee8707",
-    "time": "2026-08-27T21:00:57Z",
-    "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
-    "summary": "OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6b2630850ba9",
     "time": "2026-08-26T03:56:21Z",
     "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
@@ -117,16 +117,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/stoke-update-081926/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5082f399bd43",
-    "time": "2026-08-18T12:59:38Z",
-    "title": "Ship 40 arrives at Christmas Island, Plans Return to Starbase",
-    "summary": "SpaceX has successfully guided Starship Ship 40 to a location just off the coast of&#8230;\nThe post Ship 40 arrives at Christmas Island, Plans Return to Starbase appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/ship-40-christmas-island-plans-return-starbase/",
-    "category": "成份股",
     "pinned": false
   }
 ]
