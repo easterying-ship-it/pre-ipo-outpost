@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "899b87a48a17",
+    "time": "2026-08-31T14:03:39Z",
+    "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+    "summary": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f03479a294ed",
+    "time": "2026-08-31T12:37:44Z",
+    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
+    "summary": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "48a78fbe9a7e",
+    "time": "2026-08-31T11:21:57Z",
+    "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
+    "summary": "Crypto projects spent a record $638 million on token buybacks so far in 2026, as more protocols are turning their revenue into buybacks to return more value to token holders.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "3107f1458466",
     "time": "2026-08-31T08:57:10Z",
     "title": "More Markets lending reserve drained for $9.3M: Blockaid",
@@ -60,53 +90,13 @@
     "pinned": false
   },
   {
-    "id": "c09bda8836a8",
+    "id": "539cace67039",
     "time": "2026-08-29T18:41:59Z",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e565316df240",
-    "time": "2026-08-29T16:27:28Z",
-    "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-    "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "402cb8961528",
-    "time": "2026-08-29T10:53:41Z",
-    "title": "Trump-promoted brand touts GOLD before token collapse",
-    "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ca03a3a68b9a",
-    "time": "2026-08-28T19:30:38Z",
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "51c5f0734b70",
-    "time": "2026-08-28T16:39:02Z",
-    "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-    "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-    "category": "市场数据",
     "pinned": false
   },
   {
