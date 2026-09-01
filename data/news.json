@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "f2e43186c42b",
+    "time": "2026-09-01T18:15:54Z",
+    "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
+    "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida&#8230;\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "e7d40416ecb2",
+    "time": "2026-09-01T17:52:51Z",
+    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+    "summary": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7fe194541509",
+    "time": "2026-09-01T17:00:00Z",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2303ded58302",
     "time": "2026-09-01T13:58:42Z",
     "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
@@ -80,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "bcfb6fdcf9fb",
-    "time": "2026-08-31T20:13:45Z",
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "af1c207df4eb",
     "time": "2026-08-31T19:31:04Z",
     "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
@@ -106,16 +126,6 @@
     "summary": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f03479a294ed",
-    "time": "2026-08-31T12:37:44Z",
-    "title": "Morning Minute: Robinhood Chain Flips Ethereum and Base in Fees",
-    "summary": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
     "category": "市场数据",
     "pinned": false
   },
