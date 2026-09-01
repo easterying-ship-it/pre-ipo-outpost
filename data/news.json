@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "2303ded58302",
+    "time": "2026-09-01T13:58:42Z",
+    "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+    "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "74e7e27024f8",
+    "time": "2026-09-01T13:13:05Z",
+    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
+    "summary": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e1f5d385cd9a",
+    "time": "2026-09-01T10:56:41Z",
+    "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+    "summary": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "87c4d62b97c7",
+    "time": "2026-09-01T10:00:00Z",
+    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+    "summary": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cf717898b244",
     "time": "2026-09-01T07:47:13Z",
     "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
@@ -76,26 +116,6 @@
     "summary": "Vlad Tenev’s new blockchain is soaring in all metrics as memes paired with tokenized stocks start to take off.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376923/morning-minute-robinhood-chain-flips-ethereum-and-base-in-fees",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "48a78fbe9a7e",
-    "time": "2026-08-31T11:21:57Z",
-    "title": "Hyperliquid, Pump.fun account for nearly 90% of record $638M crypto buybacks: FT",
-    "summary": "Crypto projects spent a record $638 million on token buybacks so far in 2026, as more protocols are turning their revenue into buybacks to return more value to token holders.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3107f1458466",
-    "time": "2026-08-31T08:57:10Z",
-    "title": "More Markets lending reserve drained for $9.3M: Blockaid",
-    "summary": "Blockaid said an attacker used an Ankr liquid staking token and E-mode to overborrow from More Markets and drain about $9.3 million in WFLOW from a lending reserve.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
