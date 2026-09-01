@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "647f8e303130",
+    "time": "2026-09-01T21:06:24Z",
+    "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cac03189d9b2",
+    "time": "2026-09-01T19:39:22Z",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7140e34bfa20",
+    "time": "2026-09-01T19:29:12Z",
+    "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+    "summary": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f2e43186c42b",
     "time": "2026-09-01T18:15:54Z",
     "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
@@ -36,16 +66,6 @@
     "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2303ded58302",
-    "time": "2026-09-01T13:58:42Z",
-    "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-    "summary": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -100,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "063db8d2ebd8",
-    "time": "2026-09-01T00:13:00Z",
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "af1c207df4eb",
     "time": "2026-08-31T19:31:04Z",
     "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
     "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "899b87a48a17",
-    "time": "2026-08-31T14:03:39Z",
-    "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
-    "summary": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
     "category": "市场数据",
     "pinned": false
   },
