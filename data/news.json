@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "116c50af6290",
+    "time": "2026-09-02T20:19:14Z",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "adc15ee25649",
+    "time": "2026-09-02T20:01:04Z",
+    "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
+    "summary": "The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "04ff937fe00f",
     "time": "2026-09-02T18:38:18Z",
     "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
@@ -23,7 +43,7 @@
     "id": "e71a0cc2b6e3",
     "time": "2026-09-02T17:09:06Z",
     "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "category": "IPO动态",
@@ -100,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "f303dac3995f",
-    "time": "2026-09-01T22:08:24Z",
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ea8d7c04df81",
-    "time": "2026-09-01T21:06:24Z",
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "7140e34bfa20",
     "time": "2026-09-01T19:29:12Z",
     "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
@@ -137,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e7d40416ecb2",
-    "time": "2026-09-01T17:52:51Z",
-    "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
-    "summary": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
