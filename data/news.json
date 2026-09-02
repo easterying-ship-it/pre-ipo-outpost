@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "04ff937fe00f",
+    "time": "2026-09-02T18:38:18Z",
+    "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
+    "summary": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e71a0cc2b6e3",
+    "time": "2026-09-02T17:09:06Z",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e9497c2adcaa",
+    "time": "2026-09-02T16:43:53Z",
+    "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+    "summary": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "54109fef2239",
+    "time": "2026-09-02T16:04:10Z",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1b89afc73e17",
     "time": "2026-09-02T14:16:44Z",
     "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
@@ -80,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "cac03189d9b2",
-    "time": "2026-09-01T19:39:22Z",
-    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "7140e34bfa20",
     "time": "2026-09-01T19:29:12Z",
     "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
@@ -116,16 +146,6 @@
     "summary": "The proposal would modernize rules largely unchanged since the 1980s, addressing blockchain-based recordkeeping, tokenized securities and increasingly automated market infrastructure.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/sec-proposes-transfer-agent-overhaul-as-securities-move-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7fe194541509",
-    "time": "2026-09-01T17:00:00Z",
-    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
     "category": "IPO动态",
     "pinned": false
   },
