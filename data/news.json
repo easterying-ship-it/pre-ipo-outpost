@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "1b89afc73e17",
+    "time": "2026-09-02T14:16:44Z",
+    "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+    "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "77b6cecd17a7",
+    "time": "2026-09-02T13:11:25Z",
+    "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
+    "summary": "Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7ea9d0feebaa",
+    "time": "2026-09-02T12:09:42Z",
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5db8b40b1316",
+    "time": "2026-09-02T10:25:02Z",
+    "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
+    "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "371c8078c218",
     "time": "2026-09-02T05:48:21Z",
     "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
@@ -90,46 +130,6 @@
     "pinned": false
   },
   {
-    "id": "74e7e27024f8",
-    "time": "2026-09-01T13:13:05Z",
-    "title": "Asia sees digital asset custody infrastructure deals from Ripple, Coincheck",
-    "summary": "Ripple was among the latest blockchain companies to sign a strategic partnership to build more custody and tokenized asset management solutions for Asian institutional participants.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/asia-digital-asset-custody-deals-ripple-coincheck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e1f5d385cd9a",
-    "time": "2026-09-01T10:56:41Z",
-    "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-    "summary": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "87c4d62b97c7",
-    "time": "2026-09-01T10:00:00Z",
-    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-    "summary": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cf717898b244",
-    "time": "2026-09-01T07:47:13Z",
-    "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-    "summary": "Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8730694465a3",
     "time": "2026-09-01T05:24:58Z",
     "title": "Shein香港上市首日股價下跌　期待已久的股市首秀表現疲弱",
@@ -137,16 +137,6 @@
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "af1c207df4eb",
-    "time": "2026-08-31T19:31:04Z",
-    "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-    "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
-    "category": "市场数据",
     "pinned": false
   },
   {
