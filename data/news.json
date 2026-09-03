@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "d43027462076",
+    "time": "2026-09-02T23:46:04Z",
+    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "115d696423ca",
+    "time": "2026-09-02T23:16:04Z",
+    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "116c50af6290",
     "time": "2026-09-02T20:19:14Z",
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
@@ -90,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "7ea9d0feebaa",
-    "time": "2026-09-02T12:09:42Z",
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5db8b40b1316",
     "time": "2026-09-02T10:25:02Z",
     "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
@@ -117,16 +127,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7140e34bfa20",
-    "time": "2026-09-01T19:29:12Z",
-    "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
-    "summary": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
-    "category": "IPO动态",
     "pinned": false
   },
   {
