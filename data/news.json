@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e07b6f348d9e",
+    "time": "2026-09-03T13:00:00Z",
+    "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
+    "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "d43027462076",
     "time": "2026-09-02T23:46:04Z",
     "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
@@ -100,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "77b6cecd17a7",
-    "time": "2026-09-02T13:11:25Z",
-    "title": "Hashkey joins DTCC working group as first Asian crypto service provider",
-    "summary": "Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "5db8b40b1316",
     "time": "2026-09-02T10:25:02Z",
     "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
@@ -117,16 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "371c8078c218",
-    "time": "2026-09-02T05:48:21Z",
-    "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-    "summary": "The Nasdaq-listed company previously raised $647 million through the facility and accumulated about 29.3 million HYPE tokens.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
