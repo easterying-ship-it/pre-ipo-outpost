@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "db62468d6a1b",
+    "time": "2026-09-04T16:21:11Z",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c1db3eec1fdb",
+    "time": "2026-09-04T15:36:04Z",
+    "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
+    "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377412/openai-agents-hack-german-website",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "e9a9b7d32327",
     "time": "2026-09-04T13:30:00Z",
     "title": "Token buybacks are booming. But are they good for crypto projects?",
@@ -86,26 +106,6 @@
     "summary": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2a30a6d7743b",
-    "time": "2026-09-03T18:01:45Z",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e07b6f348d9e",
-    "time": "2026-09-03T13:00:00Z",
-    "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-    "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
