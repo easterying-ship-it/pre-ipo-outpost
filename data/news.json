@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "dce69c651caa",
+    "time": "2026-09-04T21:12:11Z",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "eecdb313aff1",
+    "time": "2026-09-04T19:16:03Z",
+    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
+    "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "951f95649de4",
+    "time": "2026-09-04T18:36:41Z",
+    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+    "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "db62468d6a1b",
     "time": "2026-09-04T16:21:11Z",
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -137,16 +167,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "020285baaa64",
-    "time": "2026-08-24T20:45:23Z",
-    "title": "Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites",
-    "summary": "This week will see five orbital launches from China, the United States, and French Guiana.&#8230;\nThe post Launch Preview: Falcon Heavy to launch Roman telescope, Falcon 9 to launch Starlink satellites appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/launch-preview-082426/",
-    "category": "成份股",
     "pinned": false
   }
 ]
