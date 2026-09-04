@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "e9a9b7d32327",
+    "time": "2026-09-04T13:30:00Z",
+    "title": "Token buybacks are booming. But are they good for crypto projects?",
+    "summary": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "be8321001943",
+    "time": "2026-09-04T10:42:10Z",
+    "title": "South Korean regulators introduce tokenized securities roadmap",
+    "summary": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b4b964c30085",
+    "time": "2026-09-04T09:56:52Z",
+    "title": "AMC chief criticizes Robinhood’s tokenized stock plan",
+    "summary": "AMC’s CEO criticized Robinhood’s tokenized stock offerings for being unregulated in the US and said he will request an investigation from an external securities counsel.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "bfa9b41bd326",
+    "time": "2026-09-04T09:24:56Z",
+    "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
+    "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ee8e76071946",
     "time": "2026-09-04T00:48:42Z",
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
@@ -66,26 +106,6 @@
     "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d43027462076",
-    "time": "2026-09-02T23:46:04Z",
-    "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
-    "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "115d696423ca",
-    "time": "2026-09-02T23:16:04Z",
-    "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
-    "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
     "category": "IPO动态",
     "pinned": false
   },
