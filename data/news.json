@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "a9359b0f772b",
+    "time": "2026-09-04T23:36:14Z",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3b0694239c27",
+    "time": "2026-09-04T23:15:11Z",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "dce69c651caa",
     "time": "2026-09-04T21:12:11Z",
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
