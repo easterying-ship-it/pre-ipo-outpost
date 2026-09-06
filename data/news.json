@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c734943ca94b",
+    "time": "2026-09-06T17:01:04Z",
+    "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+    "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "b0a329462776",
     "time": "2026-09-05T22:49:55Z",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
@@ -150,26 +160,6 @@
     "pinned": false
   },
   {
-    "id": "bfa9b41bd326",
-    "time": "2026-09-04T09:24:56Z",
-    "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-    "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ee8e76071946",
-    "time": "2026-09-04T00:48:42Z",
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f2e43186c42b",
     "time": "2026-09-01T18:15:54Z",
     "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
@@ -187,16 +177,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "6b2630850ba9",
-    "time": "2026-08-26T03:56:21Z",
-    "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
-    "summary": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the&#8230;\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
