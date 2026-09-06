@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b0a329462776",
+    "time": "2026-09-05T22:49:55Z",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "197ffc70c0de",
     "time": "2026-09-05T18:05:27Z",
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -177,6 +187,16 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
     "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "6b2630850ba9",
+    "time": "2026-08-26T03:56:21Z",
+    "title": "Starbase, Louisiana: The Largest Private Spaceport in the World",
+    "summary": "SpaceX has unveiled plans for “Starbase, Louisiana,” described as the largest private spaceport in the&#8230;\nThe post Starbase, Louisiana: The Largest Private Spaceport in the World appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/08/starbase-louisiana-largest-private-spaceport-world/",
+    "category": "IPO动态",
     "pinned": false
   }
 ]
