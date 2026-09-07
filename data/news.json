@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "528cc1d06ba8",
+    "time": "2026-09-07T21:16:03Z",
+    "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+    "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9962d71a6d79",
+    "time": "2026-09-07T20:31:03Z",
+    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+    "summary": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1a580d348d03",
+    "time": "2026-09-07T18:53:47Z",
+    "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
+    "summary": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4e47846ddafa",
     "time": "2026-09-07T10:34:47Z",
     "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
@@ -80,19 +110,9 @@
     "pinned": false
   },
   {
-    "id": "2e76ab27ad2b",
-    "time": "2026-09-05T13:01:03Z",
-    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a9359b0f772b",
+    "id": "64109fbb0770",
     "time": "2026-09-04T23:36:14Z",
-    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "summary": "The round is being raised just months after the robot data startup exited from stealth.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -120,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "eecdb313aff1",
-    "time": "2026-09-04T19:16:03Z",
-    "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
-    "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "951f95649de4",
-    "time": "2026-09-04T18:36:41Z",
-    "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-    "summary": "Lawyers question AMC’s grounds for a securities-law challenge, but say the tokens’ branding and marketing could leave room for a dispute.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "db62468d6a1b",
     "time": "2026-09-04T16:21:11Z",
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
@@ -156,16 +156,6 @@
     "summary": "As SpaceX prepares to launch Starship Flight 14 in the coming weeks, work in Florida&#8230;\nThe post Launch Site and Facility Progress ahead of East Coast Starship debut appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "91a1591c4509",
-    "time": "2026-08-29T20:20:42Z",
-    "title": "NASA, SpaceX successfully launch the Nancy Grace Roman Space Telescope from Florida",
-    "summary": "NASA and SpaceX have launched NASA&#8217;s next great space observatory &#8212; the Nancy Grace Roman&#8230;\nThe post NASA, SpaceX successfully launch the Nancy Grace Roman Space Telescope from Florida appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch/",
     "category": "成份股",
     "pinned": false
   }
