@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "a0eb261bcc47",
+    "time": "2026-09-08T21:38:34Z",
+    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+    "summary": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5b352d0def56",
+    "time": "2026-09-08T21:10:27Z",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8919d7f16202",
+    "time": "2026-09-08T21:04:06Z",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "696c722b47db",
+    "time": "2026-09-08T20:59:20Z",
+    "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+    "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corporate holder of Ethena’s ENA token.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ba9c47c2307c",
+    "time": "2026-09-08T20:47:34Z",
+    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "536629bb3d65",
     "time": "2026-09-08T17:32:15Z",
     "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
@@ -107,16 +157,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/starbase-infrastructure-spacex-flight-14/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b0a329462776",
-    "time": "2026-09-05T22:49:55Z",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
