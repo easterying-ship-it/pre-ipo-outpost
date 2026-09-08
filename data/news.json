@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "536629bb3d65",
+    "time": "2026-09-08T17:32:15Z",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "37cb032d18cf",
     "time": "2026-09-08T15:04:44Z",
     "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
@@ -23,7 +33,7 @@
     "id": "08038193b4f8",
     "time": "2026-09-08T14:17:48Z",
     "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
     "category": "IPO动态",
@@ -80,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "1a580d348d03",
-    "time": "2026-09-07T18:53:47Z",
-    "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
-    "summary": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "088b22d770eb",
     "time": "2026-09-06T20:47:37Z",
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -116,16 +116,6 @@
     "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "197ffc70c0de",
-    "time": "2026-09-05T18:05:27Z",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "category": "IPO动态",
     "pinned": false
   },
