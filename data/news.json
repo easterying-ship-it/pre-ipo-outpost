@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "4d63efd6360c",
+    "time": "2026-09-09T20:31:29Z",
+    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7cfba45bd0ba",
+    "time": "2026-09-09T20:22:02Z",
+    "title": "Flight 15 pairing undergo testing at Massey’s",
+    "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for&#8230;\nThe post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3359748ab685",
     "time": "2026-09-09T18:34:24Z",
     "title": "Harvey hits $15.5B valuation, months after reaching $11B",
@@ -67,26 +87,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5864c80745a2",
-    "time": "2026-09-09T14:38:41Z",
-    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-    "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "449069e705ec",
-    "time": "2026-09-09T14:18:34Z",
-    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "category": "市场数据",
     "pinned": false
   },
   {
