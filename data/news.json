@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "b36740d47499",
+    "time": "2026-09-09T15:02:47Z",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5864c80745a2",
+    "time": "2026-09-09T14:38:41Z",
+    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+    "summary": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "449069e705ec",
+    "time": "2026-09-09T14:18:34Z",
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7046437dc3fd",
+    "time": "2026-09-09T13:28:52Z",
+    "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
+    "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "74141255cee9",
+    "time": "2026-09-09T12:36:00Z",
+    "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+    "summary": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9ce74af5feb8",
+    "time": "2026-09-09T12:30:00Z",
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the v",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "e14b151f93a6",
     "time": "2026-09-09T05:27:12Z",
     "title": "Gemini receives Singapore payment license for crypto services",
@@ -70,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "536629bb3d65",
-    "time": "2026-09-08T17:32:15Z",
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "37cb032d18cf",
     "time": "2026-09-08T15:04:44Z",
     "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
@@ -90,62 +140,12 @@
     "pinned": false
   },
   {
-    "id": "08038193b4f8",
-    "time": "2026-09-08T14:17:48Z",
-    "title": "Mistral raises €3B as sovereign AI becomes big business",
-    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "5df1c2d5d652",
     "time": "2026-09-08T11:33:50Z",
     "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
     "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "349a49d2d663",
-    "time": "2026-09-08T09:56:00Z",
-    "title": "Robinhood chain to generate $160M in annual fees by 2028: Bernstein",
-    "summary": "Growing demand for tokenized stock trading may drive the Robinhood chain’s annual fees to $160 million by 2028, predicted analysts from Bernstein.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-chain-160m-annual-fees-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "83a2d600149a",
-    "time": "2026-09-08T09:00:00Z",
-    "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-    "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "528cc1d06ba8",
-    "time": "2026-09-07T21:16:03Z",
-    "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-    "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9962d71a6d79",
-    "time": "2026-09-07T20:31:03Z",
-    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-    "summary": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
     "category": "市场数据",
     "pinned": false
   },
