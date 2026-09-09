@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "3359748ab685",
+    "time": "2026-09-09T18:34:24Z",
+    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2b02cc5779a9",
+    "time": "2026-09-09T17:30:06Z",
+    "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+    "summary": "The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5df1c2d5d652",
+    "time": "2026-09-09T16:40:50Z",
+    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+    "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9af5688e22ae",
+    "time": "2026-09-09T16:05:35Z",
+    "title": "Superintelligence is coming. Should we let it?",
+    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capa",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "74141255cee9",
+    "time": "2026-09-09T15:58:39Z",
+    "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
+    "summary": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "b36740d47499",
     "time": "2026-09-09T15:02:47Z",
     "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
@@ -33,7 +83,7 @@
     "id": "449069e705ec",
     "time": "2026-09-09T14:18:34Z",
     "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+    "summary": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
     "category": "市场数据",
@@ -47,26 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "74141255cee9",
-    "time": "2026-09-09T12:36:00Z",
-    "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
-    "summary": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9ce74af5feb8",
-    "time": "2026-09-09T12:30:00Z",
-    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-    "summary": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the v",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -86,66 +116,6 @@
     "summary": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5b352d0def56",
-    "time": "2026-09-08T21:10:27Z",
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8919d7f16202",
-    "time": "2026-09-08T21:04:06Z",
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "696c722b47db",
-    "time": "2026-09-08T20:59:20Z",
-    "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
-    "summary": "Former Franklin Templeton digital asset executive Christopher Jensen will lead StablecoinX, the largest corporate holder of Ethena’s ENA token.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ba9c47c2307c",
-    "time": "2026-09-08T20:47:34Z",
-    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-    "summary": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "37cb032d18cf",
-    "time": "2026-09-08T15:04:44Z",
-    "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
-    "summary": "The company says it holds roughly 4.9% of Ethereum’s supply, with most of its tokens staked to earn rewards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5df1c2d5d652",
-    "time": "2026-09-08T11:33:50Z",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
     "category": "市场数据",
     "pinned": false
   },
