@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "480a0be82a5c",
+    "time": "2026-09-10T20:59:51Z",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9300aaaf9d5a",
+    "time": "2026-09-10T20:57:30Z",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7e21ad6233c4",
+    "time": "2026-09-10T20:10:29Z",
+    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+    "summary": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "01a8fb3de528",
     "time": "2026-09-10T17:54:44Z",
     "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
@@ -110,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "9be8dfc5c20a",
-    "time": "2026-09-09T22:25:22Z",
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4d63efd6360c",
     "time": "2026-09-09T20:31:29Z",
     "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -146,16 +166,6 @@
     "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7046437dc3fd",
-    "time": "2026-09-09T13:28:52Z",
-    "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-    "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
     "category": "市场数据",
     "pinned": false
   },
