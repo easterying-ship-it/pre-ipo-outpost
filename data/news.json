@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "c4d4684b279a",
+    "time": "2026-09-10T14:34:09Z",
+    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+    "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "23b17a872927",
+    "time": "2026-09-10T13:00:00Z",
+    "title": "Solana sees record 263K tokens issued in a single day",
+    "summary": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c7fc0f631450",
+    "time": "2026-09-10T13:00:00Z",
+    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+    "summary": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3ac847bd67f1",
+    "time": "2026-09-10T11:41:00Z",
+    "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+    "summary": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2d33dc7c0a50",
+    "time": "2026-09-10T11:28:55Z",
+    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
+    "summary": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9be8dfc5c20a",
     "time": "2026-09-09T22:25:22Z",
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -40,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "3359748ab685",
-    "time": "2026-09-09T18:34:24Z",
-    "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-    "summary": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2b02cc5779a9",
     "time": "2026-09-09T17:30:06Z",
     "title": "TRM Labs doubles valuation to $2B in Series C expansion",
@@ -70,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "9af5688e22ae",
-    "time": "2026-09-09T16:05:35Z",
-    "title": "Superintelligence is coming. Should we let it?",
-    "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capa",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "74141255cee9",
     "time": "2026-09-09T15:58:39Z",
     "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
@@ -96,16 +126,6 @@
     "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a0eb261bcc47",
-    "time": "2026-09-08T21:38:34Z",
-    "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
-    "summary": "NYU's Tristan Buckmaster accuses OpenAI's Sébastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alpöge.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
     "category": "市场数据",
     "pinned": false
   },
