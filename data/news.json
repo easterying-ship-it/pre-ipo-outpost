@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "9be8dfc5c20a",
+    "time": "2026-09-09T22:25:22Z",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "4d63efd6360c",
     "time": "2026-09-09T20:31:29Z",
     "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
@@ -77,16 +87,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b36740d47499",
-    "time": "2026-09-09T15:02:47Z",
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
