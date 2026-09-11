@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "e65699140861",
+    "time": "2026-09-11T20:57:36Z",
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cc65a32816c6",
+    "time": "2026-09-11T19:35:54Z",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "6d04d2cd9332",
     "time": "2026-09-11T18:16:04Z",
     "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
@@ -100,36 +120,6 @@
     "pinned": false
   },
   {
-    "id": "7e21ad6233c4",
-    "time": "2026-09-10T20:10:29Z",
-    "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
-    "summary": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "01a8fb3de528",
-    "time": "2026-09-10T17:54:44Z",
-    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ea7a7ae269ca",
-    "time": "2026-09-10T17:54:12Z",
-    "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
-    "summary": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "bec39a820bd1",
     "time": "2026-09-10T17:07:50Z",
     "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
@@ -146,26 +136,6 @@
     "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c4d4684b279a",
-    "time": "2026-09-10T14:34:09Z",
-    "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-    "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2d33dc7c0a50",
-    "time": "2026-09-10T11:28:55Z",
-    "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
-    "summary": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
     "category": "IPO动态",
     "pinned": false
   },
