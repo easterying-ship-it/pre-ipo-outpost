@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "3a3a7edea16b",
+    "time": "2026-09-11T11:35:27Z",
+    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
+    "summary": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6a51c30d9962",
+    "time": "2026-09-11T10:44:28Z",
+    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
+    "summary": "The bank expects Sky to pass five times as much value to token holders by 2028 as USDS adoption and borrowing capacity continue to expand.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7198f69d68ab",
+    "time": "2026-09-11T10:33:24Z",
+    "title": "India launches tokenized bond pilot with $107M issued",
+    "summary": "SEBI said later phases of Demat 2.0 will introduce secondary trading and open the tokenized bonds to retail investors.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ec2216156f8a",
+    "time": "2026-09-11T09:47:31Z",
+    "title": "Anthropic says Claude used for cyberattacks and surveillance",
+    "summary": "A Russian-speaking operator targeted more than 20 organizations, while a Mali consultant used Claude to build a mass-surveillance platform.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/claude-ai-cyberattacks-surveillance-weapons-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3f7087444d3c",
     "time": "2026-09-10T22:24:00Z",
     "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
@@ -80,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "41424775b4df",
-    "time": "2026-09-10T15:49:22Z",
-    "title": "EU finance groups push to remove tokenized securities cap",
-    "summary": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c422e977e234",
     "time": "2026-09-10T15:33:11Z",
     "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
@@ -106,26 +136,6 @@
     "summary": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "23b17a872927",
-    "time": "2026-09-10T13:00:00Z",
-    "title": "Solana sees record 263K tokens issued in a single day",
-    "summary": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3ac847bd67f1",
-    "time": "2026-09-10T11:41:00Z",
-    "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-    "summary": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -157,16 +167,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5df1c2d5d652",
-    "time": "2026-09-09T16:40:50Z",
-    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-    "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-    "category": "市场数据",
     "pinned": false
   },
   {
