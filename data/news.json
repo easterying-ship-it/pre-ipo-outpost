@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "6d04d2cd9332",
+    "time": "2026-09-11T18:16:04Z",
+    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+    "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "614566945c4b",
+    "time": "2026-09-11T16:46:25Z",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3a3a7edea16b",
     "time": "2026-09-11T11:35:27Z",
     "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
@@ -146,16 +166,6 @@
     "summary": "Deutsche Börse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4d63efd6360c",
-    "time": "2026-09-09T20:31:29Z",
-    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
     "category": "IPO动态",
     "pinned": false
   },
