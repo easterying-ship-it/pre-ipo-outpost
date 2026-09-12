@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "6e83b5596e16",
+    "time": "2026-09-12T16:01:04Z",
+    "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+    "summary": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "00b963b66689",
+    "time": "2026-09-12T15:52:11Z",
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "summary": "What would it actually look like to \"pace the frontier\"?",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5faaf3c388b2",
+    "time": "2026-09-12T15:12:40Z",
+    "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+    "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "59f59dd20e66",
     "time": "2026-09-12T13:01:03Z",
     "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
@@ -136,26 +166,6 @@
     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bec39a820bd1",
-    "time": "2026-09-10T17:07:50Z",
-    "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-    "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c422e977e234",
-    "time": "2026-09-10T15:33:11Z",
-    "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-    "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
     "category": "IPO动态",
     "pinned": false
   },
