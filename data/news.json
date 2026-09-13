@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "b88ca3aaca01",
+    "time": "2026-09-13T21:30:00Z",
+    "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "81901a459e1a",
     "time": "2026-09-13T11:09:54Z",
     "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -106,16 +116,6 @@
     "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "614566945c4b",
-    "time": "2026-09-11T16:46:25Z",
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "category": "IPO动态",
     "pinned": false
   },
