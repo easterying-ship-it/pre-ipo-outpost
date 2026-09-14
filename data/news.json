@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "1c71dcfcdeaf",
+    "time": "2026-09-14T08:57:00Z",
+    "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+    "summary": "Unnamed industry participants reportedly warned that UK fund rule uncertainty could slow tokenized gold development and limit investor access.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a365fe1ddc3b",
+    "time": "2026-09-14T06:43:31Z",
+    "title": "人工智能踩「剎車」？特朗普：別忘了中美競爭",
+    "summary": "上星期六，達里奧·阿摩迪（Dario Amodei）呼籲放緩發展步伐,以「降低出現嚴重問題的風險」，奧特曼和馬斯克均表示認同。這名Anthropic行政總裁同時強調，任何放緩都必須有所限度，以免讓中國反超領先。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e99f574f13c0",
+    "time": "2026-09-14T04:55:28Z",
+    "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+    "summary": "Robinhood CEO Vlad Tenev said issuers should be involved if tokenized products change shareholder rights or company obligations, but not when they create separate instruments backed by shares.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c55ec546488f",
     "time": "2026-09-13T21:30:00Z",
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
@@ -116,36 +146,6 @@
     "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3a3a7edea16b",
-    "time": "2026-09-11T11:35:27Z",
-    "title": "UniCredit seeks infrastructure partner for crypto trading, custody: Report",
-    "summary": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/unicredit-infrastructure-partners-crypto-trading-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6a51c30d9962",
-    "time": "2026-09-11T10:44:28Z",
-    "title": "Standard Chartered forecasts SKY rising fivefold to $0.325 by 2028",
-    "summary": "The bank expects Sky to pass five times as much value to token holders by 2028 as USDS adoption and borrowing capacity continue to expand.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sky-value-token-holders-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7198f69d68ab",
-    "time": "2026-09-11T10:33:24Z",
-    "title": "India launches tokenized bond pilot with $107M issued",
-    "summary": "SEBI said later phases of Demat 2.0 will introduce secondary trading and open the tokenized bonds to retail investors.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/india-launches-tokenized-bond-pilot-with-107m-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
