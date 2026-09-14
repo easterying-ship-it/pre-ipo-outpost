@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "382758e66848",
+    "time": "2026-09-14T21:51:02Z",
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ab1c98f3da8b",
+    "time": "2026-09-14T21:16:04Z",
+    "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
+    "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cd9371a90d7a",
+    "time": "2026-09-14T20:54:10Z",
+    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+    "summary": "Kraken’s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "588099bad904",
+    "time": "2026-09-14T20:44:14Z",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a0b91072d6aa",
+    "time": "2026-09-14T18:26:04Z",
+    "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+    "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2e38cda39a9a",
+    "time": "2026-09-14T17:25:17Z",
+    "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
+    "summary": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled&#8230;\nThe post Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ea6c433dcc01",
     "time": "2026-09-14T16:17:52Z",
     "title": "S&P Global backs Kaiko as Series B reaches $110M",
@@ -110,36 +170,6 @@
     "pinned": false
   },
   {
-    "id": "81901a459e1a",
-    "time": "2026-09-13T11:09:54Z",
-    "title": "Anthropic chief urges slowdown in AI development to safer pace",
-    "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "eca69841f806",
-    "time": "2026-09-12T20:19:16Z",
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "70c0b940ba42",
-    "time": "2026-09-12T19:34:44Z",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6e83b5596e16",
     "time": "2026-09-12T16:01:04Z",
     "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
@@ -156,16 +186,6 @@
     "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6d04d2cd9332",
-    "time": "2026-09-11T18:16:04Z",
-    "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-    "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
     "category": "IPO动态",
     "pinned": false
   },
