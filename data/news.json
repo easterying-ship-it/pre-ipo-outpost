@@ -10,10 +10,70 @@
     "pinned": true
   },
   {
-    "id": "1c71dcfcdeaf",
+    "id": "ea6c433dcc01",
+    "time": "2026-09-14T16:17:52Z",
+    "title": "S&P Global backs Kaiko as Series B reaches $110M",
+    "summary": "The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "05de3372459a",
+    "time": "2026-09-14T16:02:25Z",
+    "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+    "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b1eb93af0c26",
+    "time": "2026-09-14T15:41:46Z",
+    "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
+    "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9512c46387d0",
+    "time": "2026-09-14T15:00:00Z",
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "92891c34467f",
+    "time": "2026-09-14T13:30:00Z",
+    "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
+    "summary": "Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu from CoinMarketCap warns that Binance poses a threat to the revenue stream it depends on to pay for them.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2852feb07732",
+    "time": "2026-09-14T11:01:05Z",
+    "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+    "summary": "SEBI and the RBI's \"Demat 2.0\" pilot issues corporate bonds as digital tokens and settles them with the wholesale digital rupee, with three companies already raising about $107 million.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d9e359ae274f",
     "time": "2026-09-14T08:57:00Z",
-    "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
-    "summary": "Unnamed industry participants reportedly warned that UK fund rule uncertainty could slow tokenized gold development and limit investor access.",
+    "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+    "summary": "The FCA said uncertainty over whether some tokenized gold products fall under UK fund rules could affect adoption and investor access.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
@@ -90,16 +150,6 @@
     "pinned": false
   },
   {
-    "id": "5faaf3c388b2",
-    "time": "2026-09-12T15:12:40Z",
-    "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-    "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "59f59dd20e66",
     "time": "2026-09-12T13:01:03Z",
     "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
@@ -107,36 +157,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "94dd3a7a507f",
-    "time": "2026-09-11T22:58:17Z",
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e65699140861",
-    "time": "2026-09-11T20:57:36Z",
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cc65a32816c6",
-    "time": "2026-09-11T19:35:54Z",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "category": "市场数据",
     "pinned": false
   },
   {
