@@ -10,10 +10,20 @@
     "pinned": true
   },
   {
+    "id": "606d733730cd",
+    "time": "2026-09-15T20:09:19Z",
+    "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+    "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "8874bfc06d54",
     "time": "2026-09-15T19:00:00Z",
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "category": "成份股",
@@ -90,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "1a10af61d34a",
-    "time": "2026-09-15T12:19:38Z",
-    "title": "New Italian unicorn Exein rides the physical AI wave",
-    "summary": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "e7bb0ebaf3d5",
     "time": "2026-09-15T03:34:19Z",
     "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
@@ -156,26 +156,6 @@
     "summary": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled&#8230;\nThe post Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "05de3372459a",
-    "time": "2026-09-14T16:02:25Z",
-    "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-    "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b1eb93af0c26",
-    "time": "2026-09-14T15:41:46Z",
-    "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
-    "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
     "category": "IPO动态",
     "pinned": false
   },
