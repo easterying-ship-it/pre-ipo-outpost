@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "8874bfc06d54",
+    "time": "2026-09-15T19:00:00Z",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "f9dc4997ca99",
+    "time": "2026-09-15T18:16:07Z",
+    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "cd5d4a1827e2",
+    "time": "2026-09-15T17:49:23Z",
+    "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+    "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cdbc2b34d01f",
+    "time": "2026-09-15T17:02:04Z",
+    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one com",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e2ddc229c602",
+    "time": "2026-09-15T15:50:49Z",
+    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+    "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ab84e35fbb92",
+    "time": "2026-09-15T15:47:03Z",
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "882e1af1ce26",
     "time": "2026-09-15T15:22:48Z",
     "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
@@ -60,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "382758e66848",
-    "time": "2026-09-14T21:51:02Z",
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ab1c98f3da8b",
     "time": "2026-09-14T21:16:04Z",
     "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
@@ -87,16 +137,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "588099bad904",
-    "time": "2026-09-14T20:44:14Z",
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -120,16 +160,6 @@
     "pinned": false
   },
   {
-    "id": "ea6c433dcc01",
-    "time": "2026-09-14T16:17:52Z",
-    "title": "S&P Global backs Kaiko as Series B reaches $110M",
-    "summary": "The investment brings together major financial institutions as Kaiko expands its data infrastructure for tokenized securities and onchain financial markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "05de3372459a",
     "time": "2026-09-14T16:02:25Z",
     "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
@@ -147,16 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2852feb07732",
-    "time": "2026-09-14T11:01:05Z",
-    "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
-    "summary": "SEBI and the RBI's \"Demat 2.0\" pilot issues corporate bonds as digital tokens and settles them with the wholesale digital rupee, with three companies already raising about $107 million.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
-    "category": "市场数据",
     "pinned": false
   },
   {
