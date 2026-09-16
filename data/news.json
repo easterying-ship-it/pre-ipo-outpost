@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "0ce0bc791a4d",
+    "time": "2026-09-16T07:07:09Z",
+    "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
+    "summary": "希爾曼說：「如今，美國人最不信任的機構可能只有矽谷了，其次才是華盛頓。我在矽谷和華盛頓都工作過，也都生活過我可以向你保證，這種不信任都是它們自己招來的。」",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0fbaad14f343",
+    "time": "2026-09-16T04:48:20Z",
+    "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+    "summary": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "606d733730cd",
     "time": "2026-09-15T20:09:19Z",
     "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
@@ -116,26 +136,6 @@
     "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cd9371a90d7a",
-    "time": "2026-09-14T20:54:10Z",
-    "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-    "summary": "Kraken’s new xStocks vaults let investors earn yield on tokenized versions of Nvidia and major US stock market ETFs by lending the assets in DeFi markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a0b91072d6aa",
-    "time": "2026-09-14T18:26:04Z",
-    "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-    "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
     "category": "IPO动态",
     "pinned": false
   },
