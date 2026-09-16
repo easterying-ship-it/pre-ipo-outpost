@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "325ad7d9639c",
+    "time": "2026-09-16T16:30:00Z",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e9a8c550cd6b",
+    "time": "2026-09-16T16:03:35Z",
+    "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+    "summary": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "b09972728378",
     "time": "2026-09-16T14:56:02Z",
     "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
@@ -66,26 +86,6 @@
     "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "8874bfc06d54",
-    "time": "2026-09-15T19:00:00Z",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f9dc4997ca99",
-    "time": "2026-09-15T18:16:07Z",
-    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-    "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
     "category": "成份股",
     "pinned": false
   },
