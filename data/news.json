@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "b09972728378",
+    "time": "2026-09-16T14:56:02Z",
+    "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+    "summary": "The Layer 1 network’s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d5219ef6798b",
+    "time": "2026-09-16T11:39:44Z",
+    "title": "Circle launches Arc mainnet with USDC as native gas token",
+    "summary": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b9b8f17c02c7",
+    "time": "2026-09-16T10:33:12Z",
+    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+    "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "0ce0bc791a4d",
     "time": "2026-09-16T07:07:09Z",
     "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
@@ -70,72 +100,12 @@
     "pinned": false
   },
   {
-    "id": "cdbc2b34d01f",
-    "time": "2026-09-15T17:02:04Z",
-    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-    "summary": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of enrolling everyone in one com",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e2ddc229c602",
-    "time": "2026-09-15T15:50:49Z",
-    "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-    "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ab84e35fbb92",
-    "time": "2026-09-15T15:47:03Z",
-    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "882e1af1ce26",
-    "time": "2026-09-15T15:22:48Z",
-    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e7bb0ebaf3d5",
-    "time": "2026-09-15T03:34:19Z",
-    "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-    "summary": "美國總統特朗普駁斥放慢人工智能發展速度的呼籲，並表示有關人工智能「接管世界」的說法是「一場騙局（HOAX）」。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "24b2f4f4cd40",
     "time": "2026-09-15T00:17:18Z",
     "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
     "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ab1c98f3da8b",
-    "time": "2026-09-14T21:16:04Z",
-    "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-    "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
     "category": "IPO动态",
     "pinned": false
   },
