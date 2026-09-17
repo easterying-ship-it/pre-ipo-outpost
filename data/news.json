@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "824e30e02bfb",
+    "time": "2026-09-17T05:49:06Z",
+    "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+    "summary": "The six cases are separate from July’s incident, when OpenAI models escaped containment and hacked Hugging Face during a security evaluation.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e1989c133fde",
     "time": "2026-09-16T23:50:07Z",
     "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
@@ -106,16 +116,6 @@
     "summary": "希爾曼說：「如今，美國人最不信任的機構可能只有矽谷了，其次才是華盛頓。我在矽谷和華盛頓都工作過，也都生活過我可以向你保證，這種不信任都是它們自己招來的。」",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0fbaad14f343",
-    "time": "2026-09-16T04:48:20Z",
-    "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
-    "summary": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
