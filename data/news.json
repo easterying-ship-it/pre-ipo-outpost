@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "70f0c5908b00",
+    "time": "2026-09-17T21:16:03Z",
+    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b570abf8d785",
+    "time": "2026-09-17T20:46:03Z",
+    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
+    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3b01dd48d16e",
+    "time": "2026-09-17T20:34:24Z",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2ac5c54bad9f",
+    "time": "2026-09-17T19:46:08Z",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8b5473b7576f",
+    "time": "2026-09-17T19:32:22Z",
+    "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
+    "summary": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "64a461c0a79a",
     "time": "2026-09-17T17:36:02Z",
     "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
