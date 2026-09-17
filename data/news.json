@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "4eebe13804b9",
+    "time": "2026-09-17T14:52:03Z",
+    "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+    "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ab3fa43eac5c",
+    "time": "2026-09-17T13:38:33Z",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3b4f33434b3e",
+    "time": "2026-09-17T13:34:17Z",
+    "title": "SEC grants temporary exemption for tokenized US stock trading",
+    "summary": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "824e30e02bfb",
     "time": "2026-09-17T05:49:06Z",
     "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
@@ -60,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "325ad7d9639c",
-    "time": "2026-09-16T16:30:00Z",
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "e9a8c550cd6b",
     "time": "2026-09-16T16:03:35Z",
     "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
@@ -86,26 +106,6 @@
     "summary": "The Layer 1 network’s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d5219ef6798b",
-    "time": "2026-09-16T11:39:44Z",
-    "title": "Circle launches Arc mainnet with USDC as native gas token",
-    "summary": "Circle’s Arc mainnet is live with USDC for transaction fees, support for more than 20 fiat stablecoins and links to over 20 blockchains.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b9b8f17c02c7",
-    "time": "2026-09-16T10:33:12Z",
-    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-    "summary": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
