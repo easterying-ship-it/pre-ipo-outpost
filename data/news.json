@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "29e6c51b9cfc",
+    "time": "2026-09-18T14:00:14Z",
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d9b041d6c03c",
+    "time": "2026-09-18T12:52:03Z",
+    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+    "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d312a7d8ad30",
+    "time": "2026-09-18T12:34:50Z",
+    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+    "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "031b9c000de4",
+    "time": "2026-09-18T11:22:24Z",
+    "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+    "summary": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token’s rally pushed its value above $95 million.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "eb69027ee68a",
     "time": "2026-09-18T00:06:52Z",
     "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
@@ -116,46 +156,6 @@
     "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3b4f33434b3e",
-    "time": "2026-09-17T13:34:17Z",
-    "title": "SEC grants temporary exemption for tokenized US stock trading",
-    "summary": "The SEC’s Innovation Exemption allows limited tokenized US stock trading on onchain venues with trading caps and transparency requirements.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-temporary-exemption-tokenized-us-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bb7e6243174e",
-    "time": "2026-09-16T21:46:03Z",
-    "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
-    "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "0ce0bc791a4d",
-    "time": "2026-09-16T07:07:09Z",
-    "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
-    "summary": "希爾曼說：「如今，美國人最不信任的機構可能只有矽谷了，其次才是華盛頓。我在矽谷和華盛頓都工作過，也都生活過我可以向你保證，這種不信任都是它們自己招來的。」",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "24b2f4f4cd40",
-    "time": "2026-09-15T00:17:18Z",
-    "title": "星宇股份解約風波：107名應屆生「告洋狀」揭示中國勞工維權現狀",
-    "summary": "9月9日，就近期在中國引起轟動的「星宇股份解約107位應屆生」事件，上交所向星宇股份下發監管工作函，港交所延緩其上市審核，此前，公司董事長周曉萍已公開道歉。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
     "pinned": false
   },
