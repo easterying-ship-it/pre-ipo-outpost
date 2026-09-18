@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "96e3fd7f5872",
+    "time": "2026-09-18T21:44:33Z",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f39c2cfd39aa",
+    "time": "2026-09-18T20:24:33Z",
+    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+    "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b6e8007f34c0",
     "time": "2026-09-18T17:09:56Z",
     "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
@@ -127,26 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b1650e16adc1",
-    "time": "2026-09-17T17:31:12Z",
-    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-    "summary": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3cf4d155adb8",
-    "time": "2026-09-17T16:33:12Z",
-    "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-    "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-    "category": "市场数据",
     "pinned": false
   },
   {
