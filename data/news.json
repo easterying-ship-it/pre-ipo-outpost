@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "b6e8007f34c0",
+    "time": "2026-09-18T17:09:56Z",
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "32fca21fa441",
+    "time": "2026-09-18T16:35:49Z",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "29e6c51b9cfc",
     "time": "2026-09-18T14:00:14Z",
     "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
@@ -90,26 +110,6 @@
     "pinned": false
   },
   {
-    "id": "3b01dd48d16e",
-    "time": "2026-09-17T20:34:24Z",
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2ac5c54bad9f",
-    "time": "2026-09-17T19:46:08Z",
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8b5473b7576f",
     "time": "2026-09-17T19:32:22Z",
     "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
@@ -147,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4eebe13804b9",
-    "time": "2026-09-17T14:52:03Z",
-    "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-    "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges—though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-    "category": "IPO动态",
     "pinned": false
   },
   {
