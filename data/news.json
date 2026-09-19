@@ -40,26 +40,6 @@
     "pinned": false
   },
   {
-    "id": "b6e8007f34c0",
-    "time": "2026-09-18T17:09:56Z",
-    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-    "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs ",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "32fca21fa441",
-    "time": "2026-09-18T16:35:49Z",
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "d9b041d6c03c",
     "time": "2026-09-18T12:52:03Z",
     "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
@@ -136,16 +116,6 @@
     "summary": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem—and won't say which one yet.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "64a461c0a79a",
-    "time": "2026-09-17T17:36:02Z",
-    "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-    "summary": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
     "category": "IPO动态",
     "pinned": false
   },
