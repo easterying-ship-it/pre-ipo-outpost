@@ -10,32 +10,22 @@
     "pinned": true
   },
   {
+    "id": "9307e50530c5",
+    "time": "2026-09-20T19:38:48Z",
+    "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+    "summary": "Many of The Boring Company's announced project have not materialized.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "60a0d4b7017d",
     "time": "2026-09-20T07:51:24Z",
     "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
     "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "50b701aa05e5",
-    "time": "2026-09-18T23:13:31Z",
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2f90c9022d02",
-    "time": "2026-09-18T21:44:33Z",
-    "title": "Anthropic’s first embedded evaluator is … Accenture?",
-    "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "category": "IPO动态",
     "pinned": false
   },
