@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "d76430b58dcd",
+    "time": "2026-09-21T16:57:40Z",
+    "title": "Exolaunch, Space Cargo book Starship Starfall missions",
+    "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two&#8230;\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "1a3d4f1c00cf",
+    "time": "2026-09-21T16:45:47Z",
+    "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+    "summary": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e592c98e1af9",
+    "time": "2026-09-21T15:08:17Z",
+    "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+    "summary": "Coinbase draws scrutiny after the CLARITY Act stalls, while the SEC moves ahead with tokenized stocks and crypto firms push deeper into payments.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "43b574b29a33",
+    "time": "2026-09-21T11:27:00Z",
+    "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+    "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "a99b030c35df",
     "time": "2026-09-20T23:37:39Z",
     "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
@@ -23,7 +63,7 @@
     "id": "9307e50530c5",
     "time": "2026-09-20T19:38:48Z",
     "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-    "summary": "Many of The Boring Company's announced project have not materialized.",
+    "summary": "Many of The Boring Company's announced projects have not materialized.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
     "category": "IPO动态",
@@ -40,26 +80,6 @@
     "pinned": false
   },
   {
-    "id": "d9b041d6c03c",
-    "time": "2026-09-18T12:52:03Z",
-    "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-    "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d312a7d8ad30",
-    "time": "2026-09-18T12:34:50Z",
-    "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-    "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "eb69027ee68a",
     "time": "2026-09-18T00:06:52Z",
     "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
@@ -67,36 +87,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "382085a41b21",
-    "time": "2026-09-17T22:31:03Z",
-    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
-    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "70f0c5908b00",
-    "time": "2026-09-17T21:16:03Z",
-    "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-    "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b570abf8d785",
-    "time": "2026-09-17T20:46:03Z",
-    "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-    "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -117,16 +107,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7cfba45bd0ba",
-    "time": "2026-09-09T20:22:02Z",
-    "title": "Flight 15 pairing undergo testing at Massey’s",
-    "summary": "SpaceX has rolled Super Heavy Booster 22 out of Mega Bay 1 to Massey’s for&#8230;\nThe post Flight 15 pairing undergo testing at Massey’s appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/flight-15-pairing-masseys/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
