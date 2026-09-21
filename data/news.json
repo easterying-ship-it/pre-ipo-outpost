@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "16250a20a998",
+    "time": "2026-09-21T21:01:41Z",
+    "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
+    "summary": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon&#8230;\nThe post Launch Preview: Electron, Falcon 9, and Starship set for launches appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "b89a93095494",
+    "time": "2026-09-21T20:15:58Z",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "184402038bed",
+    "time": "2026-09-21T19:26:49Z",
+    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+    "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1218ef4d1a21",
+    "time": "2026-09-21T19:00:04Z",
+    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+    "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "562237e7ffe3",
+    "time": "2026-09-21T18:35:43Z",
+    "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+    "summary": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6e1e26d375d2",
+    "time": "2026-09-21T18:31:03Z",
+    "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
+    "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "d76430b58dcd",
     "time": "2026-09-21T16:57:40Z",
     "title": "Exolaunch, Space Cargo book Starship Starfall missions",
@@ -70,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "60a0d4b7017d",
-    "time": "2026-09-20T07:51:24Z",
-    "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-    "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "eb69027ee68a",
     "time": "2026-09-18T00:06:52Z",
     "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
@@ -97,16 +147,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3f7087444d3c",
-    "time": "2026-09-10T22:24:00Z",
-    "title": "Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument",
-    "summary": "NASA&#8217;s Nancy Grace Roman Space Telescope successfully launched on Sunday, Aug. 30, atop a SpaceX&#8230;\nThe post Roman telescope deploys solar array and communication systems, powers on Coronagraph Instrument appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/roman-commissioning-update/",
-    "category": "成份股",
     "pinned": false
   }
 ]
