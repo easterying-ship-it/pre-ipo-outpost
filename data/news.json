@@ -10,10 +10,60 @@
     "pinned": true
   },
   {
+    "id": "d7e82d87c389",
+    "time": "2026-09-22T19:00:38Z",
+    "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+    "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9eb7d51a194d",
+    "time": "2026-09-22T18:00:00Z",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "106febdc79df",
+    "time": "2026-09-22T17:49:07Z",
+    "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
+    "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still beats it on two published benchmarks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ddbcfb573abb",
+    "time": "2026-09-22T17:09:30Z",
+    "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
+    "summary": "Dogecoin is rallying, and once again, Elon Musk may have something to do with it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "56b18d4244e5",
+    "time": "2026-09-22T16:30:07Z",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "1105af46019a",
     "time": "2026-09-22T15:00:00Z",
     "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
     "category": "IPO动态",
@@ -47,16 +97,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b89a93095494",
-    "time": "2026-09-21T20:15:58Z",
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
