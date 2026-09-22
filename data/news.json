@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "d63bddd4d026",
+    "time": "2026-09-22T21:56:43Z",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dd101d2687dd",
+    "time": "2026-09-22T21:06:52Z",
+    "title": "Arch Lending eyes tokenized stocks as next collateral market",
+    "summary": "Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "db14e8ac9cbf",
+    "time": "2026-09-22T19:56:48Z",
+    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+    "summary": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "d7e82d87c389",
     "time": "2026-09-22T19:00:38Z",
     "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
@@ -70,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "b99124074650",
-    "time": "2026-09-22T12:23:05Z",
-    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-    "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ecb9c9b835a8",
     "time": "2026-09-22T11:29:35Z",
     "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
@@ -117,26 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "562237e7ffe3",
-    "time": "2026-09-21T18:35:43Z",
-    "title": "Ondo lets institutions convert stocks directly into tokenized shares",
-    "summary": "Ondo’s new in-kind conversion system allows approved institutions to mint and redeem tokenized stocks and ETFs using the underlying securities instead of cash.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6e1e26d375d2",
-    "time": "2026-09-21T18:31:03Z",
-    "title": "What Is VVV? The Privacy-Obsessed AI Token That’s Up 3,000% in 2026",
-    "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
-    "category": "市场数据",
     "pinned": false
   },
   {
