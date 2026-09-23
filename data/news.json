@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "c812617f9a24",
+    "time": "2026-09-23T13:40:00Z",
+    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+    "summary": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4ee7fa656db8",
+    "time": "2026-09-23T13:30:00Z",
+    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+    "summary": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "11caa8709971",
+    "time": "2026-09-23T13:00:00Z",
+    "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+    "summary": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "633ce8222793",
+    "time": "2026-09-23T10:06:55Z",
+    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+    "summary": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a0ccac3da4b3",
     "time": "2026-09-23T04:33:18Z",
     "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
@@ -60,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "db14e8ac9cbf",
-    "time": "2026-09-22T19:56:48Z",
-    "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-    "summary": "The country’s largest financial institutions are exploring tokenized deposits for interbank payments, just weeks after regulators clarified how they should be treated.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d7e82d87c389",
     "time": "2026-09-22T19:00:38Z",
     "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
@@ -77,16 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9eb7d51a194d",
-    "time": "2026-09-22T18:00:00Z",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -110,36 +130,6 @@
     "pinned": false
   },
   {
-    "id": "56b18d4244e5",
-    "time": "2026-09-22T16:30:07Z",
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1105af46019a",
-    "time": "2026-09-22T15:00:00Z",
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ecb9c9b835a8",
-    "time": "2026-09-22T11:29:35Z",
-    "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-    "summary": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "16250a20a998",
     "time": "2026-09-21T21:01:41Z",
     "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
@@ -147,26 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "184402038bed",
-    "time": "2026-09-21T19:26:49Z",
-    "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-    "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1218ef4d1a21",
-    "time": "2026-09-21T19:00:04Z",
-    "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-    "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
-    "category": "IPO动态",
     "pinned": false
   },
   {
