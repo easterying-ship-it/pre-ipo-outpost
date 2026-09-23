@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "5c2b2cebedb0",
+    "time": "2026-09-23T17:01:03Z",
+    "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
+    "summary": "RBC, TD, BMO, Scotiabank, CIBC and National Bank are jointly exploring a Canadian-dollar tokenized deposit system, starting with transfers between the banks themselves.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "922b6a8940d4",
+    "time": "2026-09-23T16:36:03Z",
+    "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+    "summary": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2186ac6cf455",
+    "time": "2026-09-23T16:34:27Z",
+    "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
+    "summary": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4be9262e96ea",
+    "time": "2026-09-23T15:56:20Z",
+    "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
+    "summary": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c812617f9a24",
     "time": "2026-09-23T13:40:00Z",
     "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
@@ -60,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "e10bc54201f7",
-    "time": "2026-09-23T03:33:15Z",
-    "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-    "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman are expected to brief the UN Security Council as it examines AI risks and global security.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "b1a9b9899c3c",
     "time": "2026-09-23T02:42:12Z",
     "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
@@ -80,52 +110,12 @@
     "pinned": false
   },
   {
-    "id": "d63bddd4d026",
-    "time": "2026-09-22T21:56:43Z",
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dd101d2687dd",
-    "time": "2026-09-22T21:06:52Z",
-    "title": "Arch Lending eyes tokenized stocks as next collateral market",
-    "summary": "Arch Lending’s Himanshu Sahay said on Cointelegraph’s Chain Reaction podcast that the lender plans to move into tokenized equities as onchain stocks gain traction as collateral.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d7e82d87c389",
     "time": "2026-09-22T19:00:38Z",
     "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
     "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "106febdc79df",
-    "time": "2026-09-22T17:49:07Z",
-    "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
-    "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still beats it on two published benchmarks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ddbcfb573abb",
-    "time": "2026-09-22T17:09:30Z",
-    "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
-    "summary": "Dogecoin is rallying, and once again, Elon Musk may have something to do with it.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
     "category": "市场数据",
     "pinned": false
   },
