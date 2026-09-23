@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "5e4987286fdf",
+    "time": "2026-09-23T22:17:39Z",
+    "title": "Anthropic says its biology lab has already found something big",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run lose in its biology lab. Humans are still, so far, in the loop.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1f5a7666c718",
+    "time": "2026-09-23T22:06:04Z",
+    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+    "summary": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "38be112733b4",
+    "time": "2026-09-23T21:31:03Z",
+    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+    "summary": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5c2b2cebedb0",
     "time": "2026-09-23T17:01:03Z",
     "title": "Canada's Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
@@ -90,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "a0ccac3da4b3",
-    "time": "2026-09-23T04:33:18Z",
-    "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
-    "summary": "BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized computing capacity could create another opportunity for digital assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "b1a9b9899c3c",
     "time": "2026-09-23T02:42:12Z",
     "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
@@ -107,16 +127,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d7e82d87c389",
-    "time": "2026-09-22T19:00:38Z",
-    "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-    "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-    "category": "市场数据",
     "pinned": false
   },
   {
