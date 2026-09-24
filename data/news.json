@@ -10,10 +10,30 @@
     "pinned": true
   },
   {
+    "id": "975b2136ab5e",
+    "time": "2026-09-23T22:56:03Z",
+    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
+    "summary": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a5f9cbedd481",
+    "time": "2026-09-23T22:31:45Z",
+    "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+    "summary": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5e4987286fdf",
     "time": "2026-09-23T22:17:39Z",
     "title": "Anthropic says its biology lab has already found something big",
-    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run lose in its biology lab. Humans are still, so far, in the loop.",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
     "category": "IPO动态",
