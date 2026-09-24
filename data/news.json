@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "579efb2cf84c",
+    "time": "2026-09-24T21:56:03Z",
+    "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+    "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "835b7ebca831",
+    "time": "2026-09-24T21:47:17Z",
+    "title": "Bitget confirms $351M security breach, suspends withdrawals",
+    "summary": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cbe843789e58",
+    "time": "2026-09-24T21:42:51Z",
+    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+    "summary": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d89922127f00",
+    "time": "2026-09-24T21:15:38Z",
+    "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
+    "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "86ce8a78e0ef",
+    "time": "2026-09-24T20:01:03Z",
+    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
+    "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "eef4b8c01f06",
     "time": "2026-09-24T16:35:13Z",
     "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
