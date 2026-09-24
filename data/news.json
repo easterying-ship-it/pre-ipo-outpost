@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f0d266da29bc",
+    "time": "2026-09-24T08:29:11Z",
+    "title": "Australia says OpenAI agent hacked government site before Altman warning",
+    "summary": "OpenAI notified Australia nearly three months after its agent breached a government portal while gathering public medicine-spending data.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e6bdc8ed09ec",
+    "time": "2026-09-24T06:35:13Z",
+    "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
+    "summary": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "975b2136ab5e",
     "time": "2026-09-23T22:56:03Z",
     "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
