@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "315e0444313d",
+    "time": "2026-09-24T13:29:06Z",
+    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+    "summary": "IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "914d7dedf7f1",
+    "time": "2026-09-24T13:00:00Z",
+    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+    "summary": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "bc771c686253",
+    "time": "2026-09-24T12:54:19Z",
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fb15ac284e42",
+    "time": "2026-09-24T12:00:00Z",
+    "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+    "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f0d266da29bc",
     "time": "2026-09-24T08:29:11Z",
     "title": "Australia says OpenAI agent hacked government site before Altman warning",
@@ -110,56 +150,6 @@
     "pinned": false
   },
   {
-    "id": "4be9262e96ea",
-    "time": "2026-09-23T15:56:20Z",
-    "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-    "summary": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c812617f9a24",
-    "time": "2026-09-23T13:40:00Z",
-    "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
-    "summary": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4ee7fa656db8",
-    "time": "2026-09-23T13:30:00Z",
-    "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-    "summary": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "11caa8709971",
-    "time": "2026-09-23T13:00:00Z",
-    "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
-    "summary": "MoonPay’s North Capital acquisition adds US broker-dealer, trading and investment infrastructure as it expands into tokenized securities.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "633ce8222793",
-    "time": "2026-09-23T10:06:55Z",
-    "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-    "summary": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "b1a9b9899c3c",
     "time": "2026-09-23T02:42:12Z",
     "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
@@ -197,16 +187,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "2e38cda39a9a",
-    "time": "2026-09-14T17:25:17Z",
-    "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
-    "summary": "SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled&#8230;\nThe post Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
