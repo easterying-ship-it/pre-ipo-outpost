@@ -10,6 +10,96 @@
     "pinned": true
   },
   {
+    "id": "3b7b67f78181",
+    "time": "2026-09-25T19:45:39Z",
+    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7f442ec00d0d",
+    "time": "2026-09-25T19:13:38Z",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7d88c5e2d0d3",
+    "time": "2026-09-25T18:42:51Z",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8a6818a009b3",
+    "time": "2026-09-25T18:33:59Z",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "eb5d9a24da34",
+    "time": "2026-09-25T17:46:05Z",
+    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "950ab3a8ebde",
+    "time": "2026-09-25T17:17:45Z",
+    "title": "Bitget clarifies $388M in assets affected by security breach",
+    "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3b610b2ca90e",
+    "time": "2026-09-25T17:08:57Z",
+    "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f2600efb7dc1",
+    "time": "2026-09-25T16:00:00Z",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "43e258238df3",
+    "time": "2026-09-25T15:49:34Z",
+    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
+    "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "a17a13c3c1b0",
     "time": "2026-09-25T15:48:14Z",
     "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
@@ -23,7 +113,7 @@
     "id": "7352f3162ddd",
     "time": "2026-09-25T15:40:03Z",
     "title": "Anthropic’s founders seek voting control ahead of IPO",
-    "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "summary": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
     "category": "IPO动态",
@@ -106,26 +196,6 @@
     "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "fee7420bdf95",
-    "time": "2026-09-24T21:47:17Z",
-    "title": "Bitget confirms $352M security breach, suspends withdrawals",
-    "summary": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cbe843789e58",
-    "time": "2026-09-24T21:42:51Z",
-    "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
-    "summary": "Although the CFTC chair did not say the failed vote on the CLARITY Act was behind new rules for authorized crypto entities, he said the move was “to provide regulatory clarity.“",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
