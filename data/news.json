@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "d4468a8c0448",
+    "time": "2026-09-25T22:20:47Z",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3b7b67f78181",
     "time": "2026-09-25T19:45:39Z",
     "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
@@ -176,16 +186,6 @@
     "summary": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "db5f261b0bd9",
-    "time": "2026-09-24T23:27:17Z",
-    "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
-    "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
