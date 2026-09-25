@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "a17a13c3c1b0",
+    "time": "2026-09-25T15:48:14Z",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7352f3162ddd",
+    "time": "2026-09-25T15:40:03Z",
+    "title": "Anthropic’s founders seek voting control ahead of IPO",
+    "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1159b1b5920c",
+    "time": "2026-09-25T13:24:34Z",
+    "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+    "summary": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "de6a306728b8",
+    "time": "2026-09-25T13:16:03Z",
+    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "61ba66c9ff92",
+    "time": "2026-09-25T13:04:06Z",
+    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f4c8ed5bfd53",
     "time": "2026-09-25T06:00:47Z",
     "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
@@ -100,92 +150,12 @@
     "pinned": false
   },
   {
-    "id": "eef4b8c01f06",
-    "time": "2026-09-24T16:35:13Z",
-    "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
-    "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "315e0444313d",
-    "time": "2026-09-24T13:29:06Z",
-    "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-    "summary": "IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "914d7dedf7f1",
-    "time": "2026-09-24T13:00:00Z",
-    "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-    "summary": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "bc771c686253",
-    "time": "2026-09-24T12:54:19Z",
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "e6bdc8ed09ec",
     "time": "2026-09-24T06:35:13Z",
     "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
     "summary": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "975b2136ab5e",
-    "time": "2026-09-23T22:56:03Z",
-    "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-    "summary": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a5f9cbedd481",
-    "time": "2026-09-23T22:31:45Z",
-    "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
-    "summary": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1f5a7666c718",
-    "time": "2026-09-23T22:06:04Z",
-    "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
-    "summary": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "38be112733b4",
-    "time": "2026-09-23T21:31:03Z",
-    "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
-    "summary": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
     "category": "IPO动态",
     "pinned": false
   },
