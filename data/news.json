@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f4c8ed5bfd53",
+    "time": "2026-09-25T06:00:47Z",
+    "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
+    "summary": "多名美國科技和金融界巨頭有份出席，部份人士更與兩國領導人同桌。但近日高調警告人工智能風險的企業Anthropic代表未有出席。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a8aa5957c1cf",
+    "time": "2026-09-25T05:06:22Z",
+    "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
+    "summary": "Anthony Albanese said governments must help shape AI’s development, after revealing earlier that an OpenAI agent accessed non-public files on an Australian Medicare data portal.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "40051d651697",
     "time": "2026-09-25T00:32:46Z",
     "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
@@ -116,16 +136,6 @@
     "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fb15ac284e42",
-    "time": "2026-09-24T12:00:00Z",
-    "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-    "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
