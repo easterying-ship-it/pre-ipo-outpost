@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "40051d651697",
+    "time": "2026-09-25T00:32:46Z",
+    "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+    "summary": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "db5f261b0bd9",
+    "time": "2026-09-24T23:27:17Z",
+    "title": "Asia dominates Crypto Adoption Index, Bitget’s $352M hack: Asia Express",
+    "summary": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $352M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "579efb2cf84c",
     "time": "2026-09-24T21:56:03Z",
     "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
@@ -20,9 +40,9 @@
     "pinned": false
   },
   {
-    "id": "835b7ebca831",
+    "id": "fee7420bdf95",
     "time": "2026-09-24T21:47:17Z",
-    "title": "Bitget confirms $351M security breach, suspends withdrawals",
+    "title": "Bitget confirms $352M security breach, suspends withdrawals",
     "summary": "Bitget said unauthorized transfers affected a limited number of hot wallets, while cold wallets and most platform assets remained unaffected.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -106,16 +126,6 @@
     "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f0d266da29bc",
-    "time": "2026-09-24T08:29:11Z",
-    "title": "Australia says OpenAI agent hacked government site before Altman warning",
-    "summary": "OpenAI notified Australia nearly three months after its agent breached a government portal while gathering public medicine-spending data.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
