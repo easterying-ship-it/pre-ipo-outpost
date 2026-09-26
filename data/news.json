@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "6566f06066ba",
+    "time": "2026-09-26T17:44:00Z",
+    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "90556a8304aa",
     "time": "2026-09-26T04:01:59Z",
     "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
@@ -196,16 +206,6 @@
     "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "86ce8a78e0ef",
-    "time": "2026-09-24T20:01:03Z",
-    "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-    "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
     "category": "IPO动态",
     "pinned": false
   },
