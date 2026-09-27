@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "c57b243f04ea",
+    "time": "2026-09-27T20:34:28Z",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "671a2b91f9c0",
+    "time": "2026-09-27T19:57:30Z",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "372cf4c9e9a8",
     "time": "2026-09-27T16:59:56Z",
     "title": "Starship Flight 14: SpaceX Attempts Orbit",
@@ -116,16 +136,6 @@
     "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8a6818a009b3",
-    "time": "2026-09-25T18:33:59Z",
-    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-    "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
     "category": "IPO动态",
     "pinned": false
   },
