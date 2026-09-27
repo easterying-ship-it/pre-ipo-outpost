@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "372cf4c9e9a8",
+    "time": "2026-09-27T16:59:56Z",
+    "title": "Starship Flight 14: SpaceX Attempts Orbit",
+    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to&#8230;\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "888ff7a75b69",
+    "time": "2026-09-27T16:30:00Z",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "summary": "\"AI is the devil and I its maker.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5a55274d3455",
+    "time": "2026-09-27T16:01:03Z",
+    "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
+    "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "5ff8d0fc5cf4",
     "time": "2026-09-27T13:01:03Z",
     "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
@@ -196,16 +226,6 @@
     "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two&#8230;\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "eb69027ee68a",
-    "time": "2026-09-18T00:06:52Z",
-    "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
-    "summary": "SpaceX is now targeting Starship Flight 14 no earlier than Monday, September 28, pending regulatory&#8230;\nThe post Starship&#8217;s upcoming missions: Waiting on Orbit, Building toward the Cape appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape/",
     "category": "成份股",
     "pinned": false
   }
