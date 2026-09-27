@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "5ff8d0fc5cf4",
+    "time": "2026-09-27T13:01:03Z",
+    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
+    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f234a7fdb6f1",
+    "time": "2026-09-27T12:46:28Z",
+    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+    "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "6566f06066ba",
     "time": "2026-09-26T17:44:00Z",
     "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
@@ -137,36 +157,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4c8ed5bfd53",
-    "time": "2026-09-25T06:00:47Z",
-    "title": "習近平訪美：白宮國宴誰出席、誰缺席？意味了什麼？",
-    "summary": "多名美國科技和金融界巨頭有份出席，部份人士更與兩國領導人同桌。但近日高調警告人工智能風險的企業Anthropic代表未有出席。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "579efb2cf84c",
-    "time": "2026-09-24T21:56:03Z",
-    "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-    "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d89922127f00",
-    "time": "2026-09-24T21:15:38Z",
-    "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-    "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-    "category": "IPO动态",
     "pinned": false
   },
   {
