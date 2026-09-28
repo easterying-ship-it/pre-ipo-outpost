@@ -10,6 +10,146 @@
     "pinned": true
   },
   {
+    "id": "67d1e43cc38b",
+    "time": "2026-09-28T18:46:03Z",
+    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+    "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3b7b002bfbcf",
+    "time": "2026-09-28T18:39:09Z",
+    "title": "US SEC follows CFTC in staff guidance for crypto",
+    "summary": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b3494dfb963f",
+    "time": "2026-09-28T18:02:54Z",
+    "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+    "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "341de5229ac8",
+    "time": "2026-09-28T18:00:00Z",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7afbbca3d489",
+    "time": "2026-09-28T17:09:02Z",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "76f94dfb6837",
+    "time": "2026-09-28T15:30:00Z",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "63b123350e0b",
+    "time": "2026-09-28T15:29:21Z",
+    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+    "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1ea688120b76",
+    "time": "2026-09-28T14:46:21Z",
+    "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+    "summary": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a0cee163689e",
+    "time": "2026-09-28T13:38:48Z",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "65ffda89e00b",
+    "time": "2026-09-28T13:27:40Z",
+    "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
+    "summary": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ad98e1f79a31",
+    "time": "2026-09-28T13:19:18Z",
+    "title": "SpaceX’s Starship rocket reaches orbit for the first time",
+    "summary": "Though not without some drama along the way.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "19ae3104c6b9",
+    "time": "2026-09-28T12:03:21Z",
+    "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
+    "summary": "The Gary Gensler era is long gone and now the SEC is providing clarity on what crypto protocols can and can’t do with their tokens.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a3063050cf68",
+    "time": "2026-09-28T11:05:24Z",
+    "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
+    "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c5205790993d",
+    "time": "2026-09-28T10:16:25Z",
+    "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+    "summary": "Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1663a3879f65",
     "time": "2026-09-28T02:23:42Z",
     "title": "Newsom signs California ban on public officials issuing memecoins",
@@ -30,43 +170,13 @@
     "pinned": false
   },
   {
-    "id": "c57b243f04ea",
-    "time": "2026-09-27T20:34:28Z",
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "671a2b91f9c0",
-    "time": "2026-09-27T19:57:30Z",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "372cf4c9e9a8",
+    "id": "973a1483501f",
     "time": "2026-09-27T16:59:56Z",
-    "title": "Starship Flight 14: SpaceX Attempts Orbit",
-    "summary": "After more than a decade of development in many forms, SpaceX’s Starship is slated to&#8230;\nThe post Starship Flight 14: SpaceX Attempts Orbit appeared first on NASASpaceFlight.com.",
+    "title": "Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect",
+    "summary": "After more than a decade of development in many forms, SpaceX’s Starship has finally reached&#8230;\nThe post Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "888ff7a75b69",
-    "time": "2026-09-27T16:30:00Z",
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -100,16 +210,6 @@
     "pinned": false
   },
   {
-    "id": "6566f06066ba",
-    "time": "2026-09-26T17:44:00Z",
-    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9d6d3e839095",
     "time": "2026-09-26T04:01:59Z",
     "title": "Flight 14 approaches as a near-term manifest sketches Starship’s next steps",
@@ -117,16 +217,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d4468a8c0448",
-    "time": "2026-09-25T22:20:47Z",
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -140,16 +230,6 @@
     "pinned": false
   },
   {
-    "id": "7f442ec00d0d",
-    "time": "2026-09-25T19:13:38Z",
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "7d88c5e2d0d3",
     "time": "2026-09-25T18:42:51Z",
     "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
@@ -157,46 +237,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "eb5d9a24da34",
-    "time": "2026-09-25T17:46:05Z",
-    "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
-    "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3b610b2ca90e",
-    "time": "2026-09-25T17:08:57Z",
-    "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-    "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "de6a306728b8",
-    "time": "2026-09-25T13:16:03Z",
-    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "61ba66c9ff92",
-    "time": "2026-09-25T13:04:06Z",
-    "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-    "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-    "category": "市场数据",
     "pinned": false
   },
   {
