@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "1663a3879f65",
+    "time": "2026-09-28T02:23:42Z",
+    "title": "Newsom signs California ban on public officials issuing memecoins",
+    "summary": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "bb08980039f3",
     "time": "2026-09-27T23:43:18Z",
     "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
@@ -160,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "950ab3a8ebde",
-    "time": "2026-09-25T17:17:45Z",
-    "title": "Bitget clarifies $388M in assets affected by security breach",
-    "summary": "The Bitget breach announced on Thursday affected about $35 million more than previously reported, based on an analysis of assets on Zcash and TRON.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "3b610b2ca90e",
     "time": "2026-09-25T17:08:57Z",
     "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
@@ -177,16 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "43e258238df3",
-    "time": "2026-09-25T15:49:34Z",
-    "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-    "summary": "Stablecoins and tokenized assets are pushing banks, exchanges and crypto companies into the same markets, from payments to stocks and ETFs.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
