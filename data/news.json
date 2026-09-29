@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "dac663778a02",
+    "time": "2026-09-28T23:39:20Z",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6a8af46bde3f",
+    "time": "2026-09-28T21:46:03Z",
+    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+    "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a2e1c902b62e",
+    "time": "2026-09-28T21:29:18Z",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f03756a45b28",
+    "time": "2026-09-28T20:28:13Z",
+    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+    "summary": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "304247ff8546",
+    "time": "2026-09-28T20:06:03Z",
+    "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+    "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "ba30b7f5a9a4",
+    "time": "2026-09-28T19:36:21Z",
+    "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+    "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d32ea3f39528",
+    "time": "2026-09-28T19:27:27Z",
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "67d1e43cc38b",
     "time": "2026-09-28T18:46:03Z",
     "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
@@ -90,16 +160,6 @@
     "pinned": false
   },
   {
-    "id": "a0cee163689e",
-    "time": "2026-09-28T13:38:48Z",
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "65ffda89e00b",
     "time": "2026-09-28T13:27:40Z",
     "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
@@ -107,16 +167,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ad98e1f79a31",
-    "time": "2026-09-28T13:19:18Z",
-    "title": "SpaceX’s Starship rocket reaches orbit for the first time",
-    "summary": "Though not without some drama along the way.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -160,16 +210,6 @@
     "pinned": false
   },
   {
-    "id": "bb08980039f3",
-    "time": "2026-09-27T23:43:18Z",
-    "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
-    "summary": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "973a1483501f",
     "time": "2026-09-27T16:59:56Z",
     "title": "Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect",
@@ -200,16 +240,6 @@
     "pinned": false
   },
   {
-    "id": "f234a7fdb6f1",
-    "time": "2026-09-27T12:46:28Z",
-    "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
-    "summary": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9d6d3e839095",
     "time": "2026-09-26T04:01:59Z",
     "title": "Flight 14 approaches as a near-term manifest sketches Starship’s next steps",
@@ -217,26 +247,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "3b7b67f78181",
-    "time": "2026-09-25T19:45:39Z",
-    "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-    "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7d88c5e2d0d3",
-    "time": "2026-09-25T18:42:51Z",
-    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-    "category": "IPO动态",
     "pinned": false
   },
   {
