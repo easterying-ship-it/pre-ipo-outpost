@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "941a64274c3a",
+    "time": "2026-09-29T12:45:05Z",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9d94da9c2cfd",
+    "time": "2026-09-29T11:00:00Z",
+    "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+    "summary": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill [&#8230;]\nThe post If AI cannot be trusted in a classroom, why should it be ",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f37abe606637",
+    "time": "2026-09-29T05:13:43Z",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8d4387082e5a",
     "time": "2026-09-29T01:17:49Z",
     "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
@@ -130,36 +160,6 @@
     "pinned": false
   },
   {
-    "id": "7afbbca3d489",
-    "time": "2026-09-28T17:09:02Z",
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "76f94dfb6837",
-    "time": "2026-09-28T15:30:00Z",
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "63b123350e0b",
-    "time": "2026-09-28T15:29:21Z",
-    "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
-    "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1ea688120b76",
     "time": "2026-09-28T14:46:21Z",
     "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
@@ -186,16 +186,6 @@
     "summary": "The Gary Gensler era is long gone and now the SEC is providing clarity on what crypto protocols can and can’t do with their tokens.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a3063050cf68",
-    "time": "2026-09-28T11:05:24Z",
-    "title": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-    "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -230,16 +220,6 @@
     "pinned": false
   },
   {
-    "id": "5ff8d0fc5cf4",
-    "time": "2026-09-27T13:01:03Z",
-    "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
-    "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9d6d3e839095",
     "time": "2026-09-26T04:01:59Z",
     "title": "Flight 14 approaches as a near-term manifest sketches Starship’s next steps",
@@ -247,16 +227,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e6bdc8ed09ec",
-    "time": "2026-09-24T06:35:13Z",
-    "title": "OpenAI智能體入侵澳洲政府網站竊取資料 官方兩月後才發覺",
-    "summary": "OpenAI在事發後兩個月才察覺事件，並遲至本月中，才用一般電郵的方式通知澳洲政府。澳洲政府形容事件令人震驚，批評OpenAI的處理手法「不可接受」。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
     "pinned": false
   },
   {
