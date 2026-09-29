@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "8d4387082e5a",
+    "time": "2026-09-29T01:17:49Z",
+    "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+    "summary": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain’s position that it does not selectively censor transactions.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "dac663778a02",
     "time": "2026-09-28T23:39:20Z",
     "title": "OpenAI reportedly ditches model over safety concerns",
@@ -197,16 +207,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1663a3879f65",
-    "time": "2026-09-28T02:23:42Z",
-    "title": "Newsom signs California ban on public officials issuing memecoins",
-    "summary": "The law also restricts crypto companies from offering certain memecoins tied to public officials to California residents and takes effect for tokens issued from Jan. 1, 2027.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
