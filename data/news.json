@@ -10,12 +10,152 @@
     "pinned": true
   },
   {
-    "id": "941a64274c3a",
-    "time": "2026-09-29T12:45:05Z",
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "id": "1f4c1905aad8",
+    "time": "2026-09-29T20:15:47Z",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1071f427eaab",
+    "time": "2026-09-29T20:06:03Z",
+    "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
+    "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "19c54c05a369",
+    "time": "2026-09-29T19:55:49Z",
+    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
+    "summary": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d1eb478431f9",
+    "time": "2026-09-29T19:52:37Z",
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d29a0592614c",
+    "time": "2026-09-29T19:49:53Z",
+    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
+    "summary": "Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5e87107f3a22",
+    "time": "2026-09-29T18:55:22Z",
+    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
+    "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "68aed0371c6d",
+    "time": "2026-09-29T18:35:00Z",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1f4a1b3c5e79",
+    "time": "2026-09-29T17:45:51Z",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "5f3db175b097",
+    "time": "2026-09-29T17:17:15Z",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "e1cbfdc57fc9",
+    "time": "2026-09-29T17:15:00Z",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "aaaedf00fa38",
+    "time": "2026-09-29T17:15:00Z",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "fc79dc45c007",
+    "time": "2026-09-29T17:15:00Z",
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9b8a3dc6ade4",
+    "time": "2026-09-29T17:14:36Z",
+    "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+    "summary": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8b3f2ea44179",
+    "time": "2026-09-29T16:18:06Z",
+    "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
+    "summary": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7bb448dc7528",
+    "time": "2026-09-29T14:56:55Z",
+    "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+    "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -30,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "f37abe606637",
-    "time": "2026-09-29T05:13:43Z",
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8d4387082e5a",
     "time": "2026-09-29T01:17:49Z",
     "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
@@ -50,42 +180,12 @@
     "pinned": false
   },
   {
-    "id": "dac663778a02",
-    "time": "2026-09-28T23:39:20Z",
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6a8af46bde3f",
     "time": "2026-09-28T21:46:03Z",
     "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
     "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a2e1c902b62e",
-    "time": "2026-09-28T21:29:18Z",
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f03756a45b28",
-    "time": "2026-09-28T20:28:13Z",
-    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-    "summary": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -110,92 +210,12 @@
     "pinned": false
   },
   {
-    "id": "d32ea3f39528",
-    "time": "2026-09-28T19:27:27Z",
-    "title": "Tesla delays Roadster 2 event again due to bad weather",
-    "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "67d1e43cc38b",
     "time": "2026-09-28T18:46:03Z",
     "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
     "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3b7b002bfbcf",
-    "time": "2026-09-28T18:39:09Z",
-    "title": "US SEC follows CFTC in staff guidance for crypto",
-    "summary": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b3494dfb963f",
-    "time": "2026-09-28T18:02:54Z",
-    "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-    "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "341de5229ac8",
-    "time": "2026-09-28T18:00:00Z",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1ea688120b76",
-    "time": "2026-09-28T14:46:21Z",
-    "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-    "summary": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "65ffda89e00b",
-    "time": "2026-09-28T13:27:40Z",
-    "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
-    "summary": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "19ae3104c6b9",
-    "time": "2026-09-28T12:03:21Z",
-    "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
-    "summary": "The Gary Gensler era is long gone and now the SEC is providing clarity on what crypto protocols can and can’t do with their tokens.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c5205790993d",
-    "time": "2026-09-28T10:16:25Z",
-    "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
-    "summary": "Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
     "category": "IPO动态",
     "pinned": false
   },
@@ -207,16 +227,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5a55274d3455",
-    "time": "2026-09-27T16:01:03Z",
-    "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
-    "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
-    "category": "IPO动态",
     "pinned": false
   },
   {
