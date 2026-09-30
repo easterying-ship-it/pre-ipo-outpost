@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "f12f0ac137a5",
+    "time": "2026-09-29T22:20:59Z",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "72b8d01f7b63",
+    "time": "2026-09-29T21:51:36Z",
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "summary": "EliseAI raises $350M, doubles valuation in a year.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6d149c216e7c",
+    "time": "2026-09-29T21:48:36Z",
+    "title": "Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO",
+    "summary": "Four orbital launches are expected this week, all by SpaceX’s Falcon 9 and Falcon Heavy&#8230;\nThe post Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "ddc853f5eb5c",
+    "time": "2026-09-29T21:16:04Z",
+    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
+    "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "14ac63d73c50",
+    "time": "2026-09-29T20:36:04Z",
+    "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
+    "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "1f4c1905aad8",
     "time": "2026-09-29T20:15:47Z",
     "title": "OpenAI’s latest features take direct aim at the app store model",
@@ -40,12 +90,12 @@
     "pinned": false
   },
   {
-    "id": "d1eb478431f9",
+    "id": "d9ebdd791eca",
     "time": "2026-09-29T19:52:37Z",
-    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -83,7 +133,7 @@
     "id": "1f4a1b3c5e79",
     "time": "2026-09-29T17:45:51Z",
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "category": "成份股",
@@ -103,7 +153,7 @@
     "id": "e1cbfdc57fc9",
     "time": "2026-09-29T17:15:00Z",
     "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
     "category": "IPO动态",
@@ -113,17 +163,17 @@
     "id": "aaaedf00fa38",
     "time": "2026-09-29T17:15:00Z",
     "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
     "category": "成份股",
     "pinned": false
   },
   {
-    "id": "fc79dc45c007",
+    "id": "17436e258666",
     "time": "2026-09-29T17:15:00Z",
-    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
     "category": "IPO动态",
@@ -150,32 +200,12 @@
     "pinned": false
   },
   {
-    "id": "7bb448dc7528",
-    "time": "2026-09-29T14:56:55Z",
-    "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-    "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9d94da9c2cfd",
     "time": "2026-09-29T11:00:00Z",
     "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
     "summary": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill [&#8230;]\nThe post If AI cannot be trusted in a classroom, why should it be ",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8d4387082e5a",
-    "time": "2026-09-29T01:17:49Z",
-    "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-    "summary": "The cross-chain protocol said it actively prevents stolen funds from being laundered, drawing a contrast with THORChain’s position that it does not selectively censor transactions.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
