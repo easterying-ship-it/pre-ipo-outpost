@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "3916a72b6b43",
+    "time": "2026-09-30T23:08:00Z",
+    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+    "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the ",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b8815aeff37f",
+    "time": "2026-09-30T21:07:40Z",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "87fad5611769",
+    "time": "2026-09-30T20:57:32Z",
+    "title": "Standard Chartered sees Ethena’s USDe reaching $40B, ENA hitting $2",
+    "summary": "The bank also expects Ethena’s ENA token to rise roughly sevenfold to $2 by the end of 2028 as USDe scales and token buybacks increase.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c9f8949c8130",
+    "time": "2026-09-30T19:46:04Z",
+    "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+    "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c0cf9491559e",
+    "time": "2026-09-30T19:00:57Z",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "497a321c846e",
+    "time": "2026-09-30T19:00:00Z",
+    "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
+    "summary": "Base’s Cobalt lets traders set transaction conditions while giving issuers tools for compliance checks, stock splits and forced token transfers.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "92b410aeea07",
+    "time": "2026-09-30T18:23:57Z",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cceb31cc964b",
     "time": "2026-09-30T16:36:10Z",
     "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
@@ -60,9 +130,9 @@
     "pinned": false
   },
   {
-    "id": "88b9ea1348de",
+    "id": "5ed10f94a788",
     "time": "2026-09-30T13:30:00Z",
-    "title": "Could THORChain face prosecution over stolen Bitget funds?",
+    "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
     "summary": "THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -87,16 +157,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f12f0ac137a5",
-    "time": "2026-09-29T22:20:59Z",
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -140,46 +200,6 @@
     "pinned": false
   },
   {
-    "id": "19c54c05a369",
-    "time": "2026-09-29T19:55:49Z",
-    "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-    "summary": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d29a0592614c",
-    "time": "2026-09-29T19:49:53Z",
-    "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-    "summary": "Kakaopay Securities is working with Dinari and Ondo Finance to explore tokenizing Korean-listed equities and expanding their availability to investors in international markets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5e87107f3a22",
-    "time": "2026-09-29T18:55:22Z",
-    "title": "OpenAI Gave AI Agents Their Own Computers at DevDay 2026. Here's Everything It Announced",
-    "summary": "OpenAI's DevDay launched dots, always-on AI agents with their own computers, plus a cheaper GPT-6.1 Sol and a $500 speed tier. Here's every announcement, explained for people who don't speak AI.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9b8a3dc6ade4",
-    "time": "2026-09-29T17:14:36Z",
-    "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
-    "summary": "Bitwise’s NEAR ETF begins trading on NYSE Arca as the token rallies more than 160% over the past month and activity on NEAR Intents grows.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "9d94da9c2cfd",
     "time": "2026-09-29T11:00:00Z",
     "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
@@ -216,16 +236,6 @@
     "summary": "SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the&#8230;\nThe post Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "16250a20a998",
-    "time": "2026-09-21T21:01:41Z",
-    "title": "Launch Preview: Electron, Falcon 9, and Starship set for launches",
-    "summary": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon&#8230;\nThe post Launch Preview: Electron, Falcon 9, and Starship set for launches appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/",
     "category": "成份股",
     "pinned": false
   }
