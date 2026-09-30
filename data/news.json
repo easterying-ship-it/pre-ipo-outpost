@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "cceb31cc964b",
+    "time": "2026-09-30T16:36:10Z",
+    "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
+    "summary": "Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "8c40f157e15c",
+    "time": "2026-09-30T16:28:30Z",
+    "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
+    "summary": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c04a55e09275",
+    "time": "2026-09-30T16:06:03Z",
+    "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
+    "summary": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dcca47fc17c5",
+    "time": "2026-09-30T15:26:02Z",
+    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+    "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f64fff33945d",
+    "time": "2026-09-30T15:17:07Z",
+    "title": "Starship makes orbit, Flight 15 preps in full swing",
+    "summary": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing&#8230;\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "88b9ea1348de",
+    "time": "2026-09-30T13:30:00Z",
+    "title": "Could THORChain face prosecution over stolen Bitget funds?",
+    "summary": "THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "84e22ca19dbc",
+    "time": "2026-09-30T10:05:39Z",
+    "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
+    "summary": "SlowMist identified malicious activity weeks before the Bitget theft, involving a zero-day vulnerability, two security products and a custom withdrawal tool.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9b7266f73f6c",
     "time": "2026-09-30T05:45:55Z",
     "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
@@ -27,16 +97,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "72b8d01f7b63",
-    "time": "2026-09-29T21:51:36Z",
-    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-    "summary": "EliseAI raises $350M, doubles valuation in a year.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -70,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "1f4c1905aad8",
-    "time": "2026-09-29T20:15:47Z",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1071f427eaab",
     "time": "2026-09-29T20:06:03Z",
     "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
@@ -96,16 +146,6 @@
     "summary": "OpenAI is reportedly seeking another $30 billion from investors as the ChatGPT developer pushes its long-awaited public market debut into 2027.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d9ebdd791eca",
-    "time": "2026-09-29T19:52:37Z",
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -130,66 +170,6 @@
     "pinned": false
   },
   {
-    "id": "68aed0371c6d",
-    "time": "2026-09-29T18:35:00Z",
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1f4a1b3c5e79",
-    "time": "2026-09-29T17:45:51Z",
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5f3db175b097",
-    "time": "2026-09-29T17:17:15Z",
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e1cbfdc57fc9",
-    "time": "2026-09-29T17:15:00Z",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aaaedf00fa38",
-    "time": "2026-09-29T17:15:00Z",
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "17436e258666",
-    "time": "2026-09-29T17:15:00Z",
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9b8a3dc6ade4",
     "time": "2026-09-29T17:14:36Z",
     "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
@@ -200,62 +180,12 @@
     "pinned": false
   },
   {
-    "id": "8b3f2ea44179",
-    "time": "2026-09-29T16:18:06Z",
-    "title": "Bitget CEO ‘not very optimistic’ on recovering funds from $388M breach",
-    "summary": "Gracy Chen said she saw the 2025 Bybit hack as a “good reference point” for Bitget’s security breach, noting that only a small percentage of funds had been frozen or recovered.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-ceo-gracy-chen-chances-recovering-funds-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9d94da9c2cfd",
     "time": "2026-09-29T11:00:00Z",
     "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
     "summary": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could kill [&#8230;]\nThe post If AI cannot be trusted in a classroom, why should it be ",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6a8af46bde3f",
-    "time": "2026-09-28T21:46:03Z",
-    "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
-    "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "304247ff8546",
-    "time": "2026-09-28T20:06:03Z",
-    "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
-    "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ba30b7f5a9a4",
-    "time": "2026-09-28T19:36:21Z",
-    "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
-    "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "67d1e43cc38b",
-    "time": "2026-09-28T18:46:03Z",
-    "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
-    "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
     "category": "IPO动态",
     "pinned": false
   },
@@ -296,16 +226,6 @@
     "summary": "A total of five orbital launches are scheduled this week. SpaceX will launch its Falcon&#8230;\nThe post Launch Preview: Electron, Falcon 9, and Starship set for launches appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092126/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d76430b58dcd",
-    "time": "2026-09-21T16:57:40Z",
-    "title": "Exolaunch, Space Cargo book Starship Starfall missions",
-    "summary": "SpaceX’s disk-shaped Starfall reentry capsule, first flown on Falcon 9 in June, now has two&#8230;\nThe post Exolaunch, Space Cargo book Starship Starfall missions appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall/",
     "category": "成份股",
     "pinned": false
   }
