@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "6be1815c0744",
+    "time": "2026-10-01T04:44:33Z",
+    "title": "Crypto hacks top $768M in September, worst month of 2026",
+    "summary": "The $388 million Bitget breach and $320 million Liquid Network exploit accounted for most of September’s losses, though more than $270 million from the latter was later returned.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-hacks-total-766m-in-september-peckshield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "04816bd0b42e",
     "time": "2026-09-30T23:20:59Z",
     "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
@@ -150,26 +160,6 @@
     "pinned": false
   },
   {
-    "id": "84e22ca19dbc",
-    "time": "2026-09-30T10:05:39Z",
-    "title": "SlowMist traces Bitget hack activity to Aug. 31 zero-day exploit",
-    "summary": "SlowMist identified malicious activity weeks before the Bitget theft, involving a zero-day vulnerability, two security products and a custom withdrawal tool.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-hack-zero-day-slowmist-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9b7266f73f6c",
-    "time": "2026-09-30T05:45:55Z",
-    "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
-    "summary": "The prediction market was valued at $22 billion in a $1 billion funding round just four months ago, after doubling its valuation from December.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6d149c216e7c",
     "time": "2026-09-29T21:48:36Z",
     "title": "Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO",
@@ -187,26 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "14ac63d73c50",
-    "time": "2026-09-29T20:36:04Z",
-    "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-    "summary": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1071f427eaab",
-    "time": "2026-09-29T20:06:03Z",
-    "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-    "summary": "The company's IPO prospectus shows revenue up twelvefold, a $518 billion spending plan, and a risk section warning that its own AI could pose existential risks to humanity.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-    "category": "IPO动态",
     "pinned": false
   },
   {
