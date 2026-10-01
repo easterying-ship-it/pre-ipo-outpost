@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "1f830c929cde",
+    "time": "2026-10-01T15:43:34Z",
+    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+    "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c7c9c69ffdaa",
+    "time": "2026-10-01T15:43:27Z",
+    "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
+    "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6bb06d7e235a",
+    "time": "2026-10-01T13:35:47Z",
+    "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+    "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1996bc73ed3d",
+    "time": "2026-10-01T13:22:58Z",
+    "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
+    "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1a2cfbff2bb6",
+    "time": "2026-10-01T12:55:06Z",
+    "title": "Starfish Otter, other payloads set to launch on Transporter 18",
+    "summary": "SpaceX plans to launch a Transporter rideshare mission aboard a Falcon 9 from California, on&#8230;\nThe post Starfish Otter, other payloads set to launch on Transporter 18 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "bdc19a590880",
+    "time": "2026-10-01T12:00:00Z",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "79abb99ed42f",
+    "time": "2026-10-01T10:50:24Z",
+    "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+    "summary": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "6be1815c0744",
     "time": "2026-10-01T04:44:33Z",
     "title": "Crypto hacks top $768M in September, worst month of 2026",
@@ -70,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "c0cf9491559e",
-    "time": "2026-09-30T19:00:57Z",
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "497a321c846e",
     "time": "2026-09-30T19:00:00Z",
     "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
@@ -87,16 +147,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "92b410aeea07",
-    "time": "2026-09-30T18:23:57Z",
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -110,32 +160,12 @@
     "pinned": false
   },
   {
-    "id": "8c40f157e15c",
-    "time": "2026-09-30T16:28:30Z",
-    "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-    "summary": "Bitget CEO Gracy Chen said that a protection fund created by the company in 2022 “absorbed the financial impact of the incident“ that resulted in $388 million in user losses.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c04a55e09275",
     "time": "2026-09-30T16:06:03Z",
     "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
     "summary": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight—but carries no penalties and drew criticism for its thin detail.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dcca47fc17c5",
-    "time": "2026-09-30T15:26:02Z",
-    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-    "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -150,16 +180,6 @@
     "pinned": false
   },
   {
-    "id": "5ed10f94a788",
-    "time": "2026-09-30T13:30:00Z",
-    "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-    "summary": "THORChain will not — or can not — block addresses linked to the $387.5 million Bitget hack. Can the devs be prosecuted for money laundering? It’s complicated, says crypto lawyer Yuriy Brisov.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6d149c216e7c",
     "time": "2026-09-29T21:48:36Z",
     "title": "Launch Preview: Crew-13 to head to ISS, Falcon Heavy mission for the NRO",
@@ -167,16 +187,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "ddc853f5eb5c",
-    "time": "2026-09-29T21:16:04Z",
-    "title": "Cboe's New S&amp;P Deal Opens the Door to Tokenized Options",
-    "summary": "The renewed agreement preserves Cboe's exclusive rights to S&amp;P 500 index options through 2051 while opening the door to pairing the flagship benchmark with blockchain infrastructure.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -206,16 +216,6 @@
     "summary": "With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing&#8230;\nThe post Flight 14 approaches as a near-term manifest sketches Starship’s next steps appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b1a9b9899c3c",
-    "time": "2026-09-23T02:42:12Z",
-    "title": "Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40",
-    "summary": "SpaceX rolled Ship 41 to the launch site for stacking with Booster 21, and the&#8230;\nThe post Ship 41 rolls to Pad 2 carrying two flown tiles from Ship 40 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/ship-41-pad-2-two-tiles-ship-40/",
     "category": "成份股",
     "pinned": false
   }
