@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "070a9fe751f9",
+    "time": "2026-10-02T16:20:24Z",
+    "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
+    "summary": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "498450662b60",
+    "time": "2026-10-02T15:32:53Z",
+    "title": "Crypto’s billions are back, but the premiums aren’t",
+    "summary": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "68acadb905f3",
+    "time": "2026-10-02T14:12:48Z",
+    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+    "summary": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5235125e5e10",
+    "time": "2026-10-02T13:30:00Z",
+    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
+    "summary": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ac1ac2b613c1",
+    "time": "2026-10-02T11:40:21Z",
+    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
+    "summary": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e5cb71668129",
+    "time": "2026-10-02T11:28:41Z",
+    "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
+    "summary": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance—including crypto, where its ruble token moved $179 billion.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "751be79ab6a4",
     "time": "2026-10-02T05:08:32Z",
     "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
@@ -70,32 +130,12 @@
     "pinned": false
   },
   {
-    "id": "db3eb3d32963",
-    "time": "2026-10-01T18:14:42Z",
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "42a846a6e141",
     "time": "2026-10-01T18:12:04Z",
     "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
     "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1f830c929cde",
-    "time": "2026-10-01T15:43:34Z",
-    "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-    "summary": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -127,16 +167,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "04816bd0b42e",
-    "time": "2026-09-30T23:20:59Z",
-    "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
-    "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-    "category": "IPO动态",
     "pinned": false
   },
   {
