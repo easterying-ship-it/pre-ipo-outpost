@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "f43f1e537f14",
+    "time": "2026-10-02T21:16:04Z",
+    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+    "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dfa011fca1b9",
+    "time": "2026-10-02T17:48:16Z",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;si",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "070a9fe751f9",
     "time": "2026-10-02T16:20:24Z",
     "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
@@ -80,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "f6c78cbf3fed",
-    "time": "2026-10-01T21:55:22Z",
-    "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-    "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9b8d62b87384",
     "time": "2026-10-01T19:46:03Z",
     "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
@@ -97,26 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "13dadbe6edbf",
-    "time": "2026-10-01T19:21:53Z",
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9e441324ab6b",
-    "time": "2026-10-01T19:18:03Z",
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "category": "成份股",
     "pinned": false
   },
   {
@@ -137,26 +127,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c7c9c69ffdaa",
-    "time": "2026-10-01T15:43:27Z",
-    "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-    "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1996bc73ed3d",
-    "time": "2026-10-01T13:22:58Z",
-    "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-    "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-    "category": "市场数据",
     "pinned": false
   },
   {
