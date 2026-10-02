@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "751be79ab6a4",
+    "time": "2026-10-02T05:08:32Z",
+    "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
+    "summary": "South Korea’s financial regulator proposed detailed rules for tokenized securities, including capital requirements, OTC trading licenses and retail investment limits.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/south-korea-tokenized-securities-rules-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f6c78cbf3fed",
     "time": "2026-10-01T21:55:22Z",
     "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
@@ -53,7 +63,7 @@
     "id": "788a2ef10dd3",
     "time": "2026-10-01T19:17:40Z",
     "title": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
-    "summary": "SpaceX&#8217;s Falcon Heavy is poised atop Launch Complex 39A once again, this time to launch&#8230;\nThe post Falcon Heavy set to launch classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
+    "summary": "SpaceX&#8217;s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.&#8230;\nThe post Falcon Heavy set to launch classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
     "category": "成份股",
@@ -100,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "6bb06d7e235a",
-    "time": "2026-10-01T13:35:47Z",
-    "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-    "summary": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "1996bc73ed3d",
     "time": "2026-10-01T13:22:58Z",
     "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
@@ -130,32 +130,12 @@
     "pinned": false
   },
   {
-    "id": "79abb99ed42f",
-    "time": "2026-10-01T10:50:24Z",
-    "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
-    "summary": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "04816bd0b42e",
     "time": "2026-09-30T23:20:59Z",
     "title": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
     "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c9f8949c8130",
-    "time": "2026-09-30T19:46:04Z",
-    "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
-    "summary": "The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
     "category": "IPO动态",
     "pinned": false
   },
