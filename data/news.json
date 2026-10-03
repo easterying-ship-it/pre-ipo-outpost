@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "b44940044d5d",
+    "time": "2026-10-03T17:01:03Z",
+    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+    "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9b3ec6c2c37d",
+    "time": "2026-10-03T16:30:01Z",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5af81e5a9154",
+    "time": "2026-10-03T16:01:03Z",
+    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+    "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f43f1e537f14",
     "time": "2026-10-02T21:16:04Z",
     "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
@@ -107,16 +137,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "42a846a6e141",
-    "time": "2026-10-01T18:12:04Z",
-    "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-    "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-    "category": "IPO动态",
     "pinned": false
   },
   {
