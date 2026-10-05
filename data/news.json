@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "a900193719dc",
+    "time": "2026-10-05T10:22:27Z",
+    "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+    "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8fdcb5e5b012",
+    "time": "2026-10-05T03:44:09Z",
+    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
+    "summary": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b44940044d5d",
     "time": "2026-10-03T17:01:03Z",
     "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
@@ -57,56 +77,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "070a9fe751f9",
-    "time": "2026-10-02T16:20:24Z",
-    "title": "71% of UK finance leaders expect tokenization to reshape financial services: Lloyds",
-    "summary": "A Lloyds survey found that faster payments and settlement are the most significant perceived benefits of tokenization, as the UK builds infrastructure for tokenized finance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "498450662b60",
-    "time": "2026-10-02T15:32:53Z",
-    "title": "Crypto’s billions are back, but the premiums aren’t",
-    "summary": "Kalshi seeks a $40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "68acadb905f3",
-    "time": "2026-10-02T14:12:48Z",
-    "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
-    "summary": "European issuers say Europe cannot ignore demand for dollar stablecoins as businesses seek USD liquidity for global payments and settlement.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5235125e5e10",
-    "time": "2026-10-02T13:30:00Z",
-    "title": "Furious debate about THORChain vs NEAR shows idealism has limits",
-    "summary": "The furious debate over Bitget’s $387.7M of hacked funds comes down to whether ideals around “permissionless and decentralized” tech means never intervening — even if you could.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ac1ac2b613c1",
-    "time": "2026-10-02T11:40:21Z",
-    "title": "BNB Chain crosses $1B in tokenized stocks, ETFs as market hits $3.7B",
-    "summary": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
