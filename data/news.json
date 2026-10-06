@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "fb202d988afb",
+    "time": "2026-10-05T21:48:03Z",
+    "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+    "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the prior week's gain and well below mid-September's pace.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0e47633252c3",
+    "time": "2026-10-05T21:16:03Z",
+    "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+    "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8eb061c738bb",
+    "time": "2026-10-05T20:55:39Z",
+    "title": "Launch Preview: Flights from South Korea, China, USA planned for this week",
+    "summary": "On the heels of an impactful few days of launches from SpaceX, this week shapes&#8230;\nThe post Launch Preview: Flights from South Korea, China, USA planned for this week appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-100526/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "8f3be15b9e76",
+    "time": "2026-10-05T20:36:48Z",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b31816058fa6",
+    "time": "2026-10-05T20:24:09Z",
+    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "82ccbc60512b",
+    "time": "2026-10-05T19:13:40Z",
+    "title": "Resource competition intensifies with surge in megaconstellations",
+    "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering [&#8230;]\nThe post Resource competition intensifies with surge in megaconste",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "2f6ea81d953a",
+    "time": "2026-10-05T15:14:24Z",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "a900193719dc",
     "time": "2026-10-05T10:22:27Z",
     "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
@@ -27,66 +97,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b44940044d5d",
-    "time": "2026-10-03T17:01:03Z",
-    "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-    "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9b3ec6c2c37d",
-    "time": "2026-10-03T16:30:01Z",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5af81e5a9154",
-    "time": "2026-10-03T16:01:03Z",
-    "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-    "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f43f1e537f14",
-    "time": "2026-10-02T21:16:04Z",
-    "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-    "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dfa011fca1b9",
-    "time": "2026-10-02T17:48:16Z",
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "summary": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;si",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e5cb71668129",
-    "time": "2026-10-02T11:28:41Z",
-    "title": "US Designates Russia's A7 Network as Transnational Criminal Organization",
-    "summary": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance—including crypto, where its ruble token moved $179 billion.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
-    "category": "市场数据",
     "pinned": false
   },
   {
@@ -137,16 +147,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "973a1483501f",
-    "time": "2026-09-27T16:59:56Z",
-    "title": "Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect",
-    "summary": "After more than a decade of development in many forms, SpaceX’s Starship has finally reached&#8230;\nThe post Ship 41 Makes it to Orbit, Booster 21 Nearly Perfect appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
-    "category": "成份股",
     "pinned": false
   }
 ]
