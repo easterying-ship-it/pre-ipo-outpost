@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "6972b991a235",
+    "time": "2026-10-06T17:04:41Z",
+    "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+    "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ba218460ae0e",
+    "time": "2026-10-06T16:00:00Z",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6af9199de1cd",
+    "time": "2026-10-06T13:32:32Z",
+    "title": "OKX exchange raises fresh capital at $25B valuation",
+    "summary": "OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4bd535f29772",
+    "time": "2026-10-06T12:53:04Z",
+    "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+    "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "0a6f5e8a85ca",
     "time": "2026-10-06T09:21:38Z",
     "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
@@ -70,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "b31816058fa6",
-    "time": "2026-10-05T20:24:09Z",
-    "title": "Etched fields funding offers at $40B+ valuation, sources say",
-    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "82ccbc60512b",
     "time": "2026-10-05T19:13:40Z",
     "title": "Resource competition intensifies with surge in megaconstellations",
@@ -87,26 +117,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "2f6ea81d953a",
-    "time": "2026-10-05T15:14:24Z",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "a900193719dc",
-    "time": "2026-10-05T10:22:27Z",
-    "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-    "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-    "category": "IPO动态",
     "pinned": false
   },
   {
