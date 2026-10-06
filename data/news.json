@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "0a6f5e8a85ca",
+    "time": "2026-10-06T09:21:38Z",
+    "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+    "summary": "Ondo’s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cd2c610fdeb9",
+    "time": "2026-10-06T08:35:20Z",
+    "title": "中美AI軍事化背景下 BBC獲悉五角大樓正式停用 Anthropic 工具",
+    "summary": "今年2月，五角大樓將 Anthropic 列為「供應鏈風險」，此前該公司拒絕移除其工具中的安全防護機制。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fb202d988afb",
     "time": "2026-10-05T21:48:03Z",
     "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
@@ -86,16 +106,6 @@
     "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8fdcb5e5b012",
-    "time": "2026-10-05T03:44:09Z",
-    "title": "OKX, NYSE parent file to launch tokenized US stock platform",
-    "summary": "The stock trading platform seeks to offer tokenized shares in more than 60 US-listed companies under the SEC’s recently introduced innovation exemption.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
