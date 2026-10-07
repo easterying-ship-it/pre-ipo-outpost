@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "383b87490a63",
+    "time": "2026-10-07T09:01:03Z",
+    "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+    "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "208bec61b6f2",
     "time": "2026-10-06T23:43:49Z",
     "title": "Crew-12 set to depart the ISS after eighth months in orbit",
@@ -46,16 +56,6 @@
     "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6af9199de1cd",
-    "time": "2026-10-06T13:32:32Z",
-    "title": "OKX exchange raises fresh capital at $25B valuation",
-    "summary": "OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stock Exchange.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
