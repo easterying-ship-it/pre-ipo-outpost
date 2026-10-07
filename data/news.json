@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "2c6c548db4c9",
+    "time": "2026-10-07T21:46:03Z",
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "85b287f985bf",
+    "time": "2026-10-07T20:48:45Z",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9d7fc947dacd",
+    "time": "2026-10-07T20:46:03Z",
+    "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+    "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "b0f58c918be9",
+    "time": "2026-10-07T19:46:04Z",
+    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+    "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "6345a45d4273",
     "time": "2026-10-07T18:00:19Z",
     "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
@@ -17,6 +57,16 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
     "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "ec49b9750528",
+    "time": "2026-10-07T18:00:10Z",
+    "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+    "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
     "pinned": false
   },
   {
@@ -80,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "129518636937",
-    "time": "2026-10-07T13:45:00Z",
-    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-    "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "0761be88026c",
     "time": "2026-10-07T12:29:39Z",
     "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
@@ -116,16 +156,6 @@
     "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from&#8230;\nThe post Crew-12 undocks from the ISS after eighth months in orbit appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4bd535f29772",
-    "time": "2026-10-06T12:53:04Z",
-    "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-    "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
     "category": "IPO动态",
     "pinned": false
   },
