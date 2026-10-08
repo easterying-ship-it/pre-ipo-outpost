@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "314d0a65b268",
+    "time": "2026-10-08T16:25:06Z",
+    "title": "IMF warns tokenized markets could amplify financial risks",
+    "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "246594c2ca4c",
+    "time": "2026-10-08T15:12:59Z",
+    "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+    "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "05f7279449ea",
+    "time": "2026-10-08T15:10:49Z",
+    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+    "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0b8afd9e0dd6",
+    "time": "2026-10-08T13:42:27Z",
+    "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
+    "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "30ad406da70f",
     "time": "2026-10-08T08:08:03Z",
     "title": "Standard Chartered plans institutional crypto custody in Singapore",
@@ -20,32 +60,12 @@
     "pinned": false
   },
   {
-    "id": "08c8ac72781a",
-    "time": "2026-10-08T06:14:11Z",
-    "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-    "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "2c6c548db4c9",
     "time": "2026-10-07T21:46:03Z",
     "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
     "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "85b287f985bf",
-    "time": "2026-10-07T20:48:45Z",
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -66,106 +86,6 @@
     "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6345a45d4273",
-    "time": "2026-10-07T18:00:19Z",
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "ec49b9750528",
-    "time": "2026-10-07T18:00:10Z",
-    "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
-    "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4ad038a1c7d",
-    "time": "2026-10-07T16:25:38Z",
-    "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-    "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6694512baca8",
-    "time": "2026-10-07T15:00:00Z",
-    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-    "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a676a980d68b",
-    "time": "2026-10-07T14:55:32Z",
-    "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
-    "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH—roughly six to seven weeks—from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c0464da211ac",
-    "time": "2026-10-07T14:41:38Z",
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "607e2c0658ac",
-    "time": "2026-10-07T14:30:00Z",
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2350778bf59a",
-    "time": "2026-10-07T14:15:00Z",
-    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-    "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0761be88026c",
-    "time": "2026-10-07T12:29:39Z",
-    "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
-    "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to Polymarket’s Shayne Coplan.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "383b87490a63",
-    "time": "2026-10-07T09:01:03Z",
-    "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
-    "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
     "category": "市场数据",
     "pinned": false
   },
