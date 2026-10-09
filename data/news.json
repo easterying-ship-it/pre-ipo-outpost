@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "4f17dbb29ad5",
+    "time": "2026-10-09T17:21:07Z",
+    "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+    "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "0cd5699ef3b0",
+    "time": "2026-10-09T16:08:23Z",
+    "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+    "summary": "The DWF Labs-linked firms allege in London’s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7e0401b9648f",
+    "time": "2026-10-09T12:04:07Z",
+    "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+    "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "85a8cee76779",
+    "time": "2026-10-09T12:00:00Z",
+    "title": "Xona’s commercial GPS alternative is about to go live",
+    "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "20cd1723f570",
+    "time": "2026-10-09T10:49:24Z",
+    "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+    "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "26b8f69e9423",
     "time": "2026-10-09T05:34:33Z",
     "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
@@ -60,66 +110,6 @@
     "pinned": false
   },
   {
-    "id": "06edb934ace7",
-    "time": "2026-10-08T18:16:24Z",
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5ec3b9b1335b",
-    "time": "2026-10-08T18:10:55Z",
-    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "314d0a65b268",
-    "time": "2026-10-08T16:25:06Z",
-    "title": "IMF warns tokenized markets could amplify financial risks",
-    "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "2fe8a8fd7c64",
-    "time": "2026-10-08T15:12:59Z",
-    "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-    "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "05f7279449ea",
-    "time": "2026-10-08T15:10:49Z",
-    "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-    "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0b8afd9e0dd6",
-    "time": "2026-10-08T13:42:27Z",
-    "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-    "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "bda42ac4e7c9",
     "time": "2026-10-07T23:43:49Z",
     "title": "Crew-12 completes eight months mission at the ISS",
@@ -166,16 +156,6 @@
     "summary": "SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same&#8230;\nThe post Starfish Otter, other payloads launch on Transporter 18 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f64fff33945d",
-    "time": "2026-09-30T15:17:07Z",
-    "title": "Starship makes orbit, Flight 15 preps in full swing",
-    "summary": "SpaceX made significant strides in the Starship program during Flight 14. Booster 21, despite losing&#8230;\nThe post Starship makes orbit, Flight 15 preps in full swing appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/09/starship-14-orbit-flight-15/",
     "category": "成份股",
     "pinned": false
   },
