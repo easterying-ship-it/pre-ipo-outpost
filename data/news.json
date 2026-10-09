@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "26b8f69e9423",
+    "time": "2026-10-09T05:34:33Z",
+    "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
+    "summary": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a47b254045f9",
     "time": "2026-10-08T20:04:26Z",
     "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -110,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "30ad406da70f",
-    "time": "2026-10-08T08:08:03Z",
-    "title": "Standard Chartered plans institutional crypto custody in Singapore",
-    "summary": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "bda42ac4e7c9",
     "time": "2026-10-07T23:43:49Z",
     "title": "Crew-12 completes eight months mission at the ISS",
     "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from&#8230;\nThe post Crew-12 completes eight months mission at the ISS appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2c6c548db4c9",
-    "time": "2026-10-07T21:46:03Z",
-    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
-    "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
     "category": "IPO动态",
     "pinned": false
   },
