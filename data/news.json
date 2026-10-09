@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "1d2b60df341c",
+    "time": "2026-10-09T21:41:29Z",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "de0b9221bb0c",
+    "time": "2026-10-09T19:47:01Z",
+    "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+    "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1239767048de",
+    "time": "2026-10-09T19:36:56Z",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "4f17dbb29ad5",
     "time": "2026-10-09T17:21:07Z",
     "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -76,36 +106,6 @@
     "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "779ad22e1543",
-    "time": "2026-10-08T19:31:38Z",
-    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-    "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "03deb75d47a8",
-    "time": "2026-10-08T18:19:45Z",
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9a97677be52d",
-    "time": "2026-10-08T18:19:42Z",
-    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
     "category": "IPO动态",
     "pinned": false
   },
