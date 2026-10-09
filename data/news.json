@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "a47b254045f9",
+    "time": "2026-10-08T20:04:26Z",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "779ad22e1543",
+    "time": "2026-10-08T19:31:38Z",
+    "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+    "summary": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "03deb75d47a8",
+    "time": "2026-10-08T18:19:45Z",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9a97677be52d",
+    "time": "2026-10-08T18:19:42Z",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "06edb934ace7",
+    "time": "2026-10-08T18:16:24Z",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5ec3b9b1335b",
+    "time": "2026-10-08T18:10:55Z",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "314d0a65b268",
     "time": "2026-10-08T16:25:06Z",
     "title": "IMF warns tokenized markets could amplify financial risks",
@@ -20,12 +80,12 @@
     "pinned": false
   },
   {
-    "id": "246594c2ca4c",
+    "id": "2fe8a8fd7c64",
     "time": "2026-10-08T15:12:59Z",
     "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
     "summary": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+    "source_url": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
     "category": "成份股",
     "pinned": false
   },
@@ -60,42 +120,22 @@
     "pinned": false
   },
   {
+    "id": "bda42ac4e7c9",
+    "time": "2026-10-07T23:43:49Z",
+    "title": "Crew-12 completes eight months mission at the ISS",
+    "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from&#8230;\nThe post Crew-12 completes eight months mission at the ISS appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "2c6c548db4c9",
     "time": "2026-10-07T21:46:03Z",
     "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
     "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9d7fc947dacd",
-    "time": "2026-10-07T20:46:03Z",
-    "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-    "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "b0f58c918be9",
-    "time": "2026-10-07T19:46:04Z",
-    "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
-    "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ab5ee597604c",
-    "time": "2026-10-06T23:43:49Z",
-    "title": "Crew-12 undocks from the ISS after eighth months in orbit",
-    "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from&#8230;\nThe post Crew-12 undocks from the ISS after eighth months in orbit appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
     "category": "IPO动态",
     "pinned": false
   },
