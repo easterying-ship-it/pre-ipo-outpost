@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c689370409b2",
+    "time": "2026-10-11T17:11:03Z",
+    "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+    "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "37695ecef699",
     "time": "2026-10-10T08:45:00Z",
     "title": "Tech chief says EU can fend off rogue AI risk: Report",
@@ -56,16 +66,6 @@
     "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1239767048de",
-    "time": "2026-10-09T19:36:56Z",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -146,16 +146,6 @@
     "summary": "SpaceX&#8217;s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.&#8230;\nThe post Falcon Heavy launches classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5f7c594fb823",
-    "time": "2026-10-01T12:55:06Z",
-    "title": "Starfish Otter, other payloads launch on Transporter 18",
-    "summary": "SpaceX launched a Transporter rideshare mission aboard a Falcon 9 from California, on the same&#8230;\nThe post Starfish Otter, other payloads launch on Transporter 18 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/transporter-18/",
     "category": "成份股",
     "pinned": false
   }
