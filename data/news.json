@@ -50,16 +50,6 @@
     "pinned": false
   },
   {
-    "id": "1d2b60df341c",
-    "time": "2026-10-09T21:41:29Z",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "de0b9221bb0c",
     "time": "2026-10-09T19:47:01Z",
     "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
@@ -96,16 +86,6 @@
     "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "20cd1723f570",
-    "time": "2026-10-09T10:49:24Z",
-    "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-    "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
