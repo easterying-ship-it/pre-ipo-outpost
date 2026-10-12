@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "8cf15693ace2",
+    "time": "2026-10-12T09:30:57Z",
+    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+    "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "c689370409b2",
     "time": "2026-10-11T17:11:03Z",
     "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
@@ -57,16 +67,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4f17dbb29ad5",
-    "time": "2026-10-09T17:21:07Z",
-    "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-    "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
