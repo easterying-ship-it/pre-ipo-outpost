@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "ed33fda123be",
+    "time": "2026-10-12T18:38:14Z",
+    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+    "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "701ca0ac650a",
+    "time": "2026-10-12T15:56:35Z",
+    "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+    "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "8cf15693ace2",
     "time": "2026-10-12T09:30:57Z",
     "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
@@ -30,36 +50,6 @@
     "pinned": false
   },
   {
-    "id": "37695ecef699",
-    "time": "2026-10-10T08:45:00Z",
-    "title": "Tech chief says EU can fend off rogue AI risk: Report",
-    "summary": "Recent incidents at OpenAI ‌and Anthropic stoke global concerns and fears that rogue AI agents may venture beyond human control.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "13e76d117558",
-    "time": "2026-10-10T03:10:06Z",
-    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-    "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "1e78b8469e97",
-    "time": "2026-10-10T00:18:32Z",
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "de0b9221bb0c",
     "time": "2026-10-09T19:47:01Z",
     "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
@@ -67,26 +57,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0cd5699ef3b0",
-    "time": "2026-10-09T16:08:23Z",
-    "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-    "summary": "The DWF Labs-linked firms allege in London’s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7e0401b9648f",
-    "time": "2026-10-09T12:04:07Z",
-    "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-    "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia’s A7 network, the UK government said.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-    "category": "市场数据",
     "pinned": false
   },
   {
