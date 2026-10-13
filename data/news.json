@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "11295db8c5bc",
+    "time": "2026-10-13T13:55:09Z",
+    "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
+    "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7046c63ef5fa",
+    "time": "2026-10-13T13:50:19Z",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "d4bbbbfb40e7",
+    "time": "2026-10-13T05:38:37Z",
+    "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+    "summary": "Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "5e85fd9004ed",
     "time": "2026-10-13T01:54:31Z",
     "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
@@ -46,26 +76,6 @@
     "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "8cf15693ace2",
-    "time": "2026-10-12T09:30:57Z",
-    "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
-    "summary": "Standard Chartered has launched custody for Ripple’s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c689370409b2",
-    "time": "2026-10-11T17:11:03Z",
-    "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-    "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
     "category": "市场数据",
     "pinned": false
   },
