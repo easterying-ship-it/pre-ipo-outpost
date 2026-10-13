@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "5e85fd9004ed",
+    "time": "2026-10-13T01:54:31Z",
+    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+    "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "78b4c58d5038",
+    "time": "2026-10-12T20:46:04Z",
+    "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+    "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ed33fda123be",
     "time": "2026-10-12T18:38:14Z",
     "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
@@ -47,16 +67,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "de0b9221bb0c",
-    "time": "2026-10-09T19:47:01Z",
-    "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-    "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-    "category": "IPO动态",
     "pinned": false
   },
   {
