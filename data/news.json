@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "df85faf62122",
+    "time": "2026-10-13T20:36:44Z",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "606f52774b64",
+    "time": "2026-10-13T19:48:06Z",
+    "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+    "summary": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b1b8659d108e",
+    "time": "2026-10-13T16:30:00Z",
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "11295db8c5bc",
     "time": "2026-10-13T13:55:09Z",
     "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
@@ -57,26 +87,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ed33fda123be",
-    "time": "2026-10-12T18:38:14Z",
-    "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-    "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "701ca0ac650a",
-    "time": "2026-10-12T15:56:35Z",
-    "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-    "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-    "category": "市场数据",
     "pinned": false
   },
   {
