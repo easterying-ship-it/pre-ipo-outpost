@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c4f5a4b189c2",
+    "time": "2026-10-14T10:21:34Z",
+    "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+    "summary": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ef8785bf7c78",
     "time": "2026-10-13T22:09:39Z",
     "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
@@ -57,36 +67,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b1b8659d108e",
-    "time": "2026-10-13T16:30:00Z",
-    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "11295db8c5bc",
-    "time": "2026-10-13T13:55:09Z",
-    "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-    "summary": "Anthropic warned that rogue “AI worms” are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "78b4c58d5038",
-    "time": "2026-10-12T20:46:04Z",
-    "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-    "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
-    "category": "IPO动态",
     "pinned": false
   },
   {
