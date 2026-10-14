@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ef8785bf7c78",
+    "time": "2026-10-13T22:09:39Z",
+    "title": "Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week",
+    "summary": "This week features a relatively quiet launch manifest, with SpaceX&#8217;s workhorse Falcon 9 comprising much&#8230;\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "bdd1d24d5e03",
+    "time": "2026-10-13T21:46:04Z",
+    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+    "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a60f715fa308",
+    "time": "2026-10-13T20:59:11Z",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "df85faf62122",
     "time": "2026-10-13T20:36:44Z",
     "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -50,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "7046c63ef5fa",
-    "time": "2026-10-13T13:50:19Z",
-    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-    "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "d4bbbbfb40e7",
     "time": "2026-10-13T05:38:37Z",
     "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
@@ -67,16 +87,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "5e85fd9004ed",
-    "time": "2026-10-13T01:54:31Z",
-    "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
-    "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -116,16 +126,6 @@
     "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering [&#8230;]\nThe post Resource competition intensifies with surge in megaconste",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "826f69dccc0a",
-    "time": "2026-10-01T19:17:40Z",
-    "title": "Falcon Heavy launches classified NROL-97 to high-energy orbit",
-    "summary": "SpaceX&#8217;s Falcon Heavy launched the classified NROL-97 payload for the United States National Reconnaissance Office.&#8230;\nThe post Falcon Heavy launches classified NROL-97 to high-energy orbit appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch/",
     "category": "成份股",
     "pinned": false
   }
