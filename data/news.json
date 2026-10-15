@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "31c194cbe81c",
+    "time": "2026-10-15T14:47:09Z",
+    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+    "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7ffed642868e",
+    "time": "2026-10-15T14:16:55Z",
+    "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+    "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c96f8a8ff228",
+    "time": "2026-10-15T12:12:57Z",
+    "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+    "summary": "The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "4bdfa44e9275",
+    "time": "2026-10-15T10:00:00Z",
+    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cbdbd8550ef1",
     "time": "2026-10-14T21:48:20Z",
     "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
@@ -26,16 +66,6 @@
     "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2c55225a8041",
-    "time": "2026-10-14T19:03:52Z",
-    "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
-    "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -57,16 +87,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "bdd1d24d5e03",
-    "time": "2026-10-13T21:46:04Z",
-    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-    "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-    "category": "IPO动态",
     "pinned": false
   },
   {
