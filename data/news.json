@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "92bea619a822",
+    "time": "2026-10-16T16:01:37Z",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8069d7c516b2",
+    "time": "2026-10-16T15:52:28Z",
+    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+    "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "197c88872ffd",
     "time": "2026-10-16T10:39:08Z",
     "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
@@ -66,16 +86,6 @@
     "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "31c194cbe81c",
-    "time": "2026-10-15T14:47:09Z",
-    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-    "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
     "category": "IPO动态",
     "pinned": false
   },
