@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "197c88872ffd",
+    "time": "2026-10-16T10:39:08Z",
+    "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+    "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "be861efcd84a",
+    "time": "2026-10-16T10:27:18Z",
+    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
+    "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "44942ab57abc",
     "time": "2026-10-16T06:11:22Z",
     "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
@@ -56,36 +76,6 @@
     "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7ffed642868e",
-    "time": "2026-10-15T14:16:55Z",
-    "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-    "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c96f8a8ff228",
-    "time": "2026-10-15T12:12:57Z",
-    "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
-    "summary": "The HEX token’s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a “Red Notice.”",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6bc21a287580",
-    "time": "2026-10-14T21:16:03Z",
-    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
     "category": "IPO动态",
     "pinned": false
   },
