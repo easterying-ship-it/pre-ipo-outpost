@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "44942ab57abc",
+    "time": "2026-10-16T06:11:22Z",
+    "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+    "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "53817af6b765",
     "time": "2026-10-16T01:17:43Z",
     "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
@@ -67,16 +77,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4bdfa44e9275",
-    "time": "2026-10-15T10:00:00Z",
-    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
-    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter’s total losses, according to Hacken.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
