@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "0ad80c79b375",
+    "time": "2026-10-17T20:55:52Z",
+    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "159ee0107921",
+    "time": "2026-10-17T20:21:19Z",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c5b895256b92",
+    "time": "2026-10-17T18:48:08Z",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b0afabcd0630",
     "time": "2026-10-17T13:01:04Z",
     "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
@@ -26,16 +56,6 @@
     "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cd7e505d4d50",
-    "time": "2026-10-16T21:22:28Z",
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "category": "IPO动态",
     "pinned": false
   },
