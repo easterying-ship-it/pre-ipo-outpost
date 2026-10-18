@@ -51,7 +51,7 @@
   },
   {
     "id": "dc4271615406",
-    "time": "2026-10-17T07:26:57Z",
+    "time": "2026-10-17T07:28:00Z",
     "title": "Bitget to discontinue services for some users in one-off exercise",
     "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
     "source": "CoinTelegraph",
@@ -107,16 +107,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "44942ab57abc",
-    "time": "2026-10-16T06:11:22Z",
-    "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-    "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
