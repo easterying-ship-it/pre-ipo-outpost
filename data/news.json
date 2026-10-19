@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "d93a43f2ef78",
+    "time": "2026-10-19T17:31:04Z",
+    "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+    "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "95dcc75bb132",
+    "time": "2026-10-19T16:31:12Z",
+    "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+    "summary": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least [&#8230;]\nThe post UARX Space troubleshoots anomalies on maiden OTV ",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "d626094101c4",
+    "time": "2026-10-19T13:13:53Z",
+    "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+    "summary": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6dc21250105c",
+    "time": "2026-10-19T12:42:55Z",
+    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+    "summary": "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "4ade1c21b441",
     "time": "2026-10-19T08:58:45Z",
     "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
@@ -43,7 +83,7 @@
     "id": "37198697f115",
     "time": "2026-10-18T20:37:40Z",
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "category": "IPO动态",
@@ -100,52 +140,12 @@
     "pinned": false
   },
   {
-    "id": "dc4271615406",
-    "time": "2026-10-17T07:28:00Z",
-    "title": "Bitget to discontinue services for some users in one-off exercise",
-    "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c7405c11bd84",
     "time": "2026-10-16T20:16:04Z",
     "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
     "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "92bea619a822",
-    "time": "2026-10-16T16:01:37Z",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8069d7c516b2",
-    "time": "2026-10-16T15:52:28Z",
-    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-    "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "197c88872ffd",
-    "time": "2026-10-16T10:39:08Z",
-    "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-    "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
     "category": "IPO动态",
     "pinned": false
   },
@@ -157,16 +157,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "bda42ac4e7c9",
-    "time": "2026-10-07T23:43:49Z",
-    "title": "Crew-12 completes eight months mission at the ISS",
-    "summary": "After eight months aboard the International Space Station, NASA and SpaceX’s Crew-12 mission undocked from&#8230;\nThe post Crew-12 completes eight months mission at the ISS appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/crew-12-return/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
