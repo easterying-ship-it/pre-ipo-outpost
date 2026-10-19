@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "4ade1c21b441",
+    "time": "2026-10-19T08:58:45Z",
+    "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+    "summary": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2716d0fd3d4e",
+    "time": "2026-10-19T07:30:00Z",
+    "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+    "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "be327a30f3ae",
     "time": "2026-10-18T22:29:48Z",
     "title": "Falcon 9 set to launch Bandwagon-5 rideshare mission from Florida",
@@ -40,9 +60,9 @@
     "pinned": false
   },
   {
-    "id": "0ad80c79b375",
+    "id": "29599b778455",
     "time": "2026-10-17T20:55:52Z",
-    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+    "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
     "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
@@ -127,16 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "be861efcd84a",
-    "time": "2026-10-16T10:27:18Z",
-    "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-    "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
