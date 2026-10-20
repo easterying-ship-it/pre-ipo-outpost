@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "e6137fd467d2",
+    "time": "2026-10-20T22:24:02Z",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1034a5786fdd",
+    "time": "2026-10-20T21:46:04Z",
+    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+    "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fe34ce089437",
+    "time": "2026-10-20T21:25:22Z",
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b87bd9a737e3",
+    "time": "2026-10-20T20:40:41Z",
+    "title": "SpaceX’s AI business is beating expectations",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b61b66513704",
+    "time": "2026-10-20T20:38:00Z",
+    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a5092e738293",
+    "time": "2026-10-20T20:35:10Z",
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "373fc2746f92",
+    "time": "2026-10-20T20:16:04Z",
+    "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+    "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "efe7fc2780d1",
     "time": "2026-10-20T17:55:12Z",
     "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
@@ -100,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "471b8446b91f",
-    "time": "2026-10-20T07:01:00Z",
-    "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-    "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "3a39518b23fe",
     "time": "2026-10-20T05:01:48Z",
     "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
@@ -127,36 +187,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "48e7fbe6f86f",
-    "time": "2026-10-19T18:46:05Z",
-    "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
-    "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d93a43f2ef78",
-    "time": "2026-10-19T17:31:04Z",
-    "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-    "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "95dcc75bb132",
-    "time": "2026-10-19T16:31:12Z",
-    "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-    "summary": "SAN FRANCISCO –Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX’s Transporter-18 mission. At least [&#8230;]\nThe post UARX Space troubleshoots anomalies on maiden OTV ",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-    "category": "成份股",
     "pinned": false
   },
   {
