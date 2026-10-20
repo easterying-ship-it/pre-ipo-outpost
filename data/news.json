@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "efe7fc2780d1",
+    "time": "2026-10-20T17:55:12Z",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d0e381a0dbcc",
+    "time": "2026-10-20T17:40:00Z",
+    "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+    "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "380905f3da87",
+    "time": "2026-10-20T16:47:48Z",
+    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+    "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a62e9cff1a8d",
+    "time": "2026-10-20T16:23:17Z",
+    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+    "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "17c20b74787b",
     "time": "2026-10-20T13:17:36Z",
     "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
@@ -77,26 +117,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9e20cee4404a",
-    "time": "2026-10-19T23:39:38Z",
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "49c6ec3342ab",
-    "time": "2026-10-19T22:04:28Z",
-    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
