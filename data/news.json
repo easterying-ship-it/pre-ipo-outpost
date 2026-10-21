@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "94c7a36b6be0",
+    "time": "2026-10-21T20:57:40Z",
+    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+    "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3013810b5f7d",
+    "time": "2026-10-21T18:51:56Z",
+    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+    "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "90f2f9ee2f4f",
+    "time": "2026-10-21T18:46:08Z",
+    "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+    "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "be3d69586b3a",
+    "time": "2026-10-21T18:16:03Z",
+    "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
+    "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof—and under one man's control.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "8487faa54844",
+    "time": "2026-10-21T17:59:12Z",
+    "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4b8974c0b639",
+    "time": "2026-10-21T17:18:27Z",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "02f8fe151067",
+    "time": "2026-10-21T16:16:05Z",
+    "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+    "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9528bf194e7c",
     "time": "2026-10-21T15:13:17Z",
     "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
@@ -17,56 +87,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "d7ee662b2408",
-    "time": "2026-10-21T05:56:29Z",
-    "title": "Malaysia central bank launches DLT platform for tokenized bonds",
-    "summary": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2d8e8ad29753",
-    "time": "2026-10-21T01:19:14Z",
-    "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
-    "summary": "A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9c40cf06a2bd",
-    "time": "2026-10-20T23:01:23Z",
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "672a9f84b47e",
-    "time": "2026-10-20T22:57:57Z",
-    "title": "SpaceX and Tesla boards form special committees to review merger",
-    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e6137fd467d2",
-    "time": "2026-10-20T22:24:02Z",
-    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-    "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -80,46 +100,6 @@
     "pinned": false
   },
   {
-    "id": "fe34ce089437",
-    "time": "2026-10-20T21:25:22Z",
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b87bd9a737e3",
-    "time": "2026-10-20T20:40:41Z",
-    "title": "SpaceX’s AI business is beating expectations",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b61b66513704",
-    "time": "2026-10-20T20:38:00Z",
-    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC’s public comment period comes to a close.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a5092e738293",
-    "time": "2026-10-20T20:35:10Z",
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "373fc2746f92",
     "time": "2026-10-20T20:16:04Z",
     "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
@@ -127,16 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "efe7fc2780d1",
-    "time": "2026-10-20T17:55:12Z",
-    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-    "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
