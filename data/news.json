@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "9528bf194e7c",
+    "time": "2026-10-21T15:13:17Z",
+    "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+    "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "d7ee662b2408",
     "time": "2026-10-21T05:56:29Z",
     "title": "Malaysia central bank launches DLT platform for tokenized bonds",
@@ -130,66 +140,6 @@
     "pinned": false
   },
   {
-    "id": "d0e381a0dbcc",
-    "time": "2026-10-20T17:40:00Z",
-    "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-    "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet’s holdings if it allocates the full amount.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "380905f3da87",
-    "time": "2026-10-20T16:47:48Z",
-    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
-    "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a62e9cff1a8d",
-    "time": "2026-10-20T16:23:17Z",
-    "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-    "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "17c20b74787b",
-    "time": "2026-10-20T13:17:36Z",
-    "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-    "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bfba5eb1c487",
-    "time": "2026-10-20T12:30:00Z",
-    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
-    "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "21b81a781f30",
-    "time": "2026-10-20T12:06:44Z",
-    "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-    "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "3a39518b23fe",
     "time": "2026-10-20T05:01:48Z",
     "title": "Falcon 9 launches Bandwagon-5 rideshare mission from Florida",
@@ -197,16 +147,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "7debf0d94ec1",
-    "time": "2026-10-19T21:15:04Z",
-    "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-    "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -226,16 +166,6 @@
     "summary": "This week features a relatively quiet launch manifest, with SpaceX&#8217;s workhorse Falcon 9 comprising much&#8230;\nThe post Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-101326/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "82ccbc60512b",
-    "time": "2026-10-05T19:13:40Z",
-    "title": "Resource competition intensifies with surge in megaconstellations",
-    "summary": "Amazon wants more than 5,000 satellites in orbit. Blue Origin has proposed another 5,400. Chinese companies have filed plans encompassing vastly more. Elon Musk has talked about a constellation numbering [&#8230;]\nThe post Resource competition intensifies with surge in megaconste",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
     "category": "成份股",
     "pinned": false
   }
