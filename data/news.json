@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "2d8e8ad29753",
+    "time": "2026-10-21T01:19:14Z",
+    "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+    "summary": "A merger would bring Tesla into the same corporate group as Grok developer SpaceXAI and social media platform X.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9c40cf06a2bd",
+    "time": "2026-10-20T23:01:23Z",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "672a9f84b47e",
+    "time": "2026-10-20T22:57:57Z",
+    "title": "SpaceX and Tesla boards form special committees to review merger",
+    "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e6137fd467d2",
     "time": "2026-10-20T22:24:02Z",
     "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
@@ -157,16 +187,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1c10703db90c",
-    "time": "2026-10-20T10:00:00Z",
-    "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
-    "summary": "The proposed acquisition would give Bitget a route into Thailand’s crypto market through a locally licensed operator.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
