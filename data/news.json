@@ -10,13 +10,53 @@
     "pinned": true
   },
   {
-    "id": "67a9bff51763",
-    "time": "2026-10-22T13:53:26Z",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "id": "647325087aa3",
+    "time": "2026-10-22T22:08:24Z",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
     "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3fb2e1f6e14a",
+    "time": "2026-10-22T20:36:00Z",
+    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+    "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "89ef6f091610",
+    "time": "2026-10-22T19:00:00Z",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "d84f3a453dfe",
+    "time": "2026-10-22T18:38:47Z",
+    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "4bf9999f523b",
+    "time": "2026-10-22T17:36:38Z",
+    "title": "Elon Musk made a $1B investment in Skydance, report says",
+    "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+    "category": "市场数据",
     "pinned": false
   },
   {
@@ -50,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "94c7a36b6be0",
-    "time": "2026-10-21T20:57:40Z",
-    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-    "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "90f2f9ee2f4f",
     "time": "2026-10-21T18:46:08Z",
     "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
@@ -77,16 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "02f8fe151067",
-    "time": "2026-10-21T16:16:05Z",
-    "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-    "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-    "category": "IPO动态",
     "pinned": false
   },
   {
