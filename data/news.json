@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "1c05630fe73b",
+    "time": "2026-10-23T19:36:02Z",
+    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
+    "summary": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b4ed502df55c",
+    "time": "2026-10-23T18:54:55Z",
+    "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+    "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "50b863006208",
+    "time": "2026-10-23T18:39:02Z",
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e446f75f3750",
+    "time": "2026-10-23T16:26:29Z",
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dd42349b8b1e",
+    "time": "2026-10-23T16:08:40Z",
+    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+    "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "07d415c9b883",
+    "time": "2026-10-23T16:02:43Z",
+    "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+    "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "951bb2e32e12",
     "time": "2026-10-23T10:13:06Z",
     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
@@ -50,16 +110,6 @@
     "pinned": false
   },
   {
-    "id": "3fb2e1f6e14a",
-    "time": "2026-10-22T20:36:00Z",
-    "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
-    "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "89ef6f091610",
     "time": "2026-10-22T19:00:00Z",
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -67,36 +117,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "d84f3a453dfe",
-    "time": "2026-10-22T18:38:47Z",
-    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "4bf9999f523b",
-    "time": "2026-10-22T17:36:38Z",
-    "title": "Elon Musk made a $1B investment in Skydance, report says",
-    "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c2d0b3c570f4",
-    "time": "2026-10-22T12:01:03Z",
-    "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-    "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-    "category": "市场数据",
     "pinned": false
   },
   {
