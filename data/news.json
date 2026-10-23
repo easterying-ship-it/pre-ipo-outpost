@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "951bb2e32e12",
+    "time": "2026-10-23T10:13:06Z",
+    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+    "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e94bb7d01466",
+    "time": "2026-10-23T08:47:34Z",
+    "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+    "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "28c57c313944",
     "time": "2026-10-23T07:15:53Z",
     "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
@@ -70,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "0233330fd002",
-    "time": "2026-10-22T13:13:45Z",
-    "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
-    "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "c2d0b3c570f4",
     "time": "2026-10-22T12:01:03Z",
     "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
@@ -87,26 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "90f2f9ee2f4f",
-    "time": "2026-10-21T18:46:08Z",
-    "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-    "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "be3d69586b3a",
-    "time": "2026-10-21T18:16:03Z",
-    "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
-    "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof—and under one man's control.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
-    "category": "成份股",
     "pinned": false
   },
   {
