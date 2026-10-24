@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "e656f6daef46",
+    "time": "2026-10-24T15:00:00Z",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9b4e4df262b0",
     "time": "2026-10-24T13:01:02Z",
     "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -127,16 +137,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "647325087aa3",
-    "time": "2026-10-22T22:08:24Z",
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
