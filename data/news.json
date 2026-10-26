@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "aaa52dff3ac9",
+    "time": "2026-10-26T16:49:42Z",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "786da658ec64",
+    "time": "2026-10-26T16:46:36Z",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b7df164fb8c2",
+    "time": "2026-10-26T14:35:22Z",
+    "title": "Anthropic officially files for its public debut",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c566b7f3d4d4",
+    "time": "2026-10-26T13:50:22Z",
+    "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
+    "summary": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9ae304e8492b",
+    "time": "2026-10-26T13:00:00Z",
+    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+    "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it [&#8230;]\nThe post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "0f07c08d1717",
+    "time": "2026-10-26T11:39:27Z",
+    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+    "summary": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f6376efa31d5",
+    "time": "2026-10-26T10:25:01Z",
+    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
+    "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "cfd2fe4060f9",
     "time": "2026-10-25T18:21:44Z",
     "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
@@ -60,16 +130,6 @@
     "pinned": false
   },
   {
-    "id": "e656f6daef46",
-    "time": "2026-10-24T15:00:00Z",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9b4e4df262b0",
     "time": "2026-10-24T13:01:02Z",
     "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
@@ -77,16 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "f4177933fdd4",
-    "time": "2026-10-23T23:05:49Z",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -110,16 +160,6 @@
     "pinned": false
   },
   {
-    "id": "b4ed502df55c",
-    "time": "2026-10-23T18:54:55Z",
-    "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
-    "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "50b863006208",
     "time": "2026-10-23T18:39:02Z",
     "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
@@ -127,26 +167,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "dd42349b8b1e",
-    "time": "2026-10-23T16:08:40Z",
-    "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
-    "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "951bb2e32e12",
-    "time": "2026-10-23T10:13:06Z",
-    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-    "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
