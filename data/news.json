@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "fee92c1b4946",
+    "time": "2026-10-26T21:46:02Z",
+    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+    "summary": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "eac4bb97587a",
+    "time": "2026-10-26T21:16:03Z",
+    "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+    "summary": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c6b628f428d5",
+    "time": "2026-10-26T21:11:56Z",
+    "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+    "summary": "Four rockets are set to launch this week from the United States and India. SpaceX&#8230;\nThe post Launch Preview: Falcon 9 and GSLV rockets scheduled to launch appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "57bf8f59ce8e",
+    "time": "2026-10-26T19:47:40Z",
+    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+    "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "821eeae3212b",
+    "time": "2026-10-26T19:31:02Z",
+    "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+    "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "eb45abd29004",
+    "time": "2026-10-26T18:42:41Z",
+    "title": "AI company Anthropic announces IPO, expected as early as November",
+    "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e3d93a44964e",
+    "time": "2026-10-26T18:16:02Z",
+    "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+    "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "aaa52dff3ac9",
     "time": "2026-10-26T16:49:42Z",
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -23,7 +93,7 @@
     "id": "786da658ec64",
     "time": "2026-10-26T16:46:36Z",
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "category": "IPO动态",
@@ -100,16 +170,6 @@
     "pinned": false
   },
   {
-    "id": "7a03dcde8de7",
-    "time": "2026-10-25T15:11:00Z",
-    "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-    "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "6c38148878ae",
     "time": "2026-10-24T20:46:34Z",
     "title": "Starlink seems to be working normally again in Ukraine",
@@ -117,56 +177,6 @@
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "f2233aefba4b",
-    "time": "2026-10-24T19:00:00Z",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9b4e4df262b0",
-    "time": "2026-10-24T13:01:02Z",
-    "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-    "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "85191b3c07a0",
-    "time": "2026-10-23T21:32:16Z",
-    "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-    "summary": "As of Friday, 22 companies had filed objections as part of the joint venture’s proposed tokenized stock platform under the SEC’s innovation exemption.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1c05630fe73b",
-    "time": "2026-10-23T19:36:02Z",
-    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He’s Staying Out Of",
-    "summary": "SpaceX’s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its “controlling shareholder.”",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "50b863006208",
-    "time": "2026-10-23T18:39:02Z",
-    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-    "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
