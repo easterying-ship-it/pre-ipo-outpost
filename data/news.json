@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "53a0af529096",
+    "time": "2026-10-27T16:53:13Z",
+    "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+    "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9d17c5c2a634",
+    "time": "2026-10-27T16:37:15Z",
+    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+    "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "fbc98b8363d9",
+    "time": "2026-10-27T14:59:09Z",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fb38c147e712",
+    "time": "2026-10-27T13:01:10Z",
+    "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+    "summary": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9fcc24472a9c",
+    "time": "2026-10-27T12:59:58Z",
+    "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
+    "summary": "One of crypto’s primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on today’s Robinhood earnings call?",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "da79bb674253",
     "time": "2026-10-27T04:26:51Z",
     "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
@@ -100,46 +150,6 @@
     "pinned": false
   },
   {
-    "id": "aaa52dff3ac9",
-    "time": "2026-10-26T16:49:42Z",
-    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "786da658ec64",
-    "time": "2026-10-26T16:46:36Z",
-    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b7df164fb8c2",
-    "time": "2026-10-26T14:35:22Z",
-    "title": "Anthropic officially files for its public debut",
-    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c566b7f3d4d4",
-    "time": "2026-10-26T13:50:22Z",
-    "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
-    "summary": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "9ae304e8492b",
     "time": "2026-10-26T13:00:00Z",
     "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -150,26 +160,6 @@
     "pinned": false
   },
   {
-    "id": "0f07c08d1717",
-    "time": "2026-10-26T11:39:27Z",
-    "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-    "summary": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f6376efa31d5",
-    "time": "2026-10-26T10:25:01Z",
-    "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-    "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "cfd2fe4060f9",
     "time": "2026-10-25T18:21:44Z",
     "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
@@ -177,16 +167,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3bedee07669b",
-    "time": "2026-10-25T16:01:03Z",
-    "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
-    "summary": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
-    "category": "市场数据",
     "pinned": false
   },
   {
