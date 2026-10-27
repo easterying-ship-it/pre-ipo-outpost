@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "2b5bc6387d38",
+    "time": "2026-10-27T22:17:18Z",
+    "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+    "summary": "A whole crop of venture capital firms  are raising significant new funds.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a0f0b624d893",
+    "time": "2026-10-27T21:38:28Z",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4b3cb00e063a",
+    "time": "2026-10-27T21:26:41Z",
+    "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
+    "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "bbee612e1040",
+    "time": "2026-10-27T18:46:02Z",
+    "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+    "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9a850c34a45c",
+    "time": "2026-10-27T17:08:08Z",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "53a0af529096",
     "time": "2026-10-27T16:53:13Z",
     "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
@@ -70,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "c9fc2dc16281",
-    "time": "2026-10-27T02:00:00Z",
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fee92c1b4946",
     "time": "2026-10-26T21:46:02Z",
     "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
@@ -107,46 +147,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "57bf8f59ce8e",
-    "time": "2026-10-26T19:47:40Z",
-    "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
-    "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "821eeae3212b",
-    "time": "2026-10-26T19:31:02Z",
-    "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
-    "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "eb45abd29004",
-    "time": "2026-10-26T18:42:41Z",
-    "title": "AI company Anthropic announces IPO, expected as early as November",
-    "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e3d93a44964e",
-    "time": "2026-10-26T18:16:02Z",
-    "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-    "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
-    "category": "IPO动态",
     "pinned": false
   },
   {
