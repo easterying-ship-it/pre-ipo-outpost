@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c9fc2dc16281",
+    "time": "2026-10-27T02:00:00Z",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fee92c1b4946",
     "time": "2026-10-26T21:46:02Z",
     "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
@@ -167,16 +177,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6c38148878ae",
-    "time": "2026-10-24T20:46:34Z",
-    "title": "Starlink seems to be working normally again in Ukraine",
-    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-    "category": "成份股",
     "pinned": false
   },
   {
