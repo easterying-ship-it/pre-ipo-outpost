@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "0424c96c986b",
+    "time": "2026-10-28T23:15:00Z",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fd8a65ab9180",
+    "time": "2026-10-28T21:34:30Z",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7b3d78212ef5",
+    "time": "2026-10-28T20:16:03Z",
+    "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+    "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "132e04c0c944",
+    "time": "2026-10-28T19:19:58Z",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "26e74af50f09",
+    "time": "2026-10-28T19:16:02Z",
+    "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+    "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "473faefb1553",
+    "time": "2026-10-28T17:36:02Z",
+    "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
+    "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "3b787e672fad",
     "time": "2026-10-28T15:05:03Z",
     "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
@@ -50,32 +110,12 @@
     "pinned": false
   },
   {
-    "id": "aa8f31ba9bb1",
-    "time": "2026-10-28T05:20:32Z",
-    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-    "summary": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4f4ab6e10940",
     "time": "2026-10-28T03:55:57Z",
     "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
     "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7375cc663eb3",
-    "time": "2026-10-28T01:15:28Z",
-    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -90,32 +130,12 @@
     "pinned": false
   },
   {
-    "id": "777796ebf6bf",
-    "time": "2026-10-27T23:34:27Z",
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4b3cb00e063a",
     "time": "2026-10-27T21:26:41Z",
     "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
     "summary": "More than 40% of the companies initially proposed to have their stocks listed in tokenized form have asked to opt-out.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "bbee612e1040",
-    "time": "2026-10-27T18:46:02Z",
-    "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-    "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
     "category": "市场数据",
     "pinned": false
   },
@@ -156,16 +176,6 @@
     "summary": "Following on from the successful Transporter 18 mission at the beginning of the month, SpaceX’s&#8230;\nThe post Falcon 9 launches Bandwagon-5 rideshare mission from Florida appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/bandwagon-5/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "65f83ddf2593",
-    "time": "2026-10-18T16:31:04Z",
-    "title": "SpaceX working through Starship Flight 15 and 16 milestones",
-    "summary": "SpaceX is advancing toward its next two Starship missions as the company looks to close&#8230;\nThe post SpaceX working through Starship Flight 15 and 16 milestones appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
     "category": "成份股",
     "pinned": false
   }
