@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "fcabaadb19e8",
+    "time": "2026-10-29T21:51:29Z",
+    "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+    "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "cc34bd22e935",
+    "time": "2026-10-29T19:56:19Z",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "9be2e767b92c",
     "time": "2026-10-29T17:12:03Z",
     "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
@@ -90,62 +110,12 @@
     "pinned": false
   },
   {
-    "id": "0424c96c986b",
-    "time": "2026-10-28T23:15:00Z",
-    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fd8a65ab9180",
-    "time": "2026-10-28T21:34:30Z",
-    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-    "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "7b3d78212ef5",
     "time": "2026-10-28T20:16:03Z",
     "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
     "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "132e04c0c944",
-    "time": "2026-10-28T19:19:58Z",
-    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "26e74af50f09",
-    "time": "2026-10-28T19:16:02Z",
-    "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-    "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "473faefb1553",
-    "time": "2026-10-28T17:36:02Z",
-    "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
-    "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
     "category": "IPO动态",
     "pinned": false
   },
