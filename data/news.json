@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "55cd216a3997",
+    "time": "2026-10-30T21:53:38Z",
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch&#8230;\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "134445eafea3",
+    "time": "2026-10-30T21:52:03Z",
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "de5e49827cf3",
     "time": "2026-10-30T16:25:06Z",
     "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
@@ -66,36 +86,6 @@
     "summary": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "fcabaadb19e8",
-    "time": "2026-10-29T21:51:29Z",
-    "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-    "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "cc34bd22e935",
-    "time": "2026-10-29T19:56:19Z",
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f1ef5f36704a",
-    "time": "2026-10-29T15:07:15Z",
-    "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-    "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
     "category": "市场数据",
     "pinned": false
   },
