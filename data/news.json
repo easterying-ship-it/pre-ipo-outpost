@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "74742a67efa4",
+    "time": "2026-10-30T09:52:29Z",
+    "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
+    "summary": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c1cd9a6d9e22",
+    "time": "2026-10-30T05:51:41Z",
+    "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+    "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4b2e18f9b8e4",
+    "time": "2026-10-30T03:47:01Z",
+    "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+    "summary": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "fcabaadb19e8",
     "time": "2026-10-29T21:51:29Z",
     "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
@@ -87,26 +117,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c85e73928fc6",
-    "time": "2026-10-29T12:30:00Z",
-    "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-    "summary": "Phase’s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7b3d78212ef5",
-    "time": "2026-10-28T20:16:03Z",
-    "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-    "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-    "category": "IPO动态",
     "pinned": false
   },
   {
