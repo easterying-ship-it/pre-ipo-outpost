@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "de5e49827cf3",
+    "time": "2026-10-30T16:25:06Z",
+    "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+    "summary": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b58ccb9464cd",
+    "time": "2026-10-30T16:03:45Z",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "55714e44451c",
+    "time": "2026-10-30T12:41:43Z",
+    "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+    "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "74742a67efa4",
     "time": "2026-10-30T09:52:29Z",
     "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
@@ -23,7 +53,7 @@
     "id": "c1cd9a6d9e22",
     "time": "2026-10-30T05:51:41Z",
     "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-    "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+    "summary": "TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
@@ -33,7 +63,7 @@
     "id": "4b2e18f9b8e4",
     "time": "2026-10-30T03:47:01Z",
     "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-    "summary": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
+    "summary": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
@@ -60,36 +90,6 @@
     "pinned": false
   },
   {
-    "id": "9be2e767b92c",
-    "time": "2026-10-29T17:12:03Z",
-    "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-    "summary": "Hyperliquid’s token pumped following news of ICE and Trade[XYZ] unveiling plans for US perpetual futures.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3064cd8e0332",
-    "time": "2026-10-29T16:27:39Z",
-    "title": "Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2",
-    "summary": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "03d721f40114",
-    "time": "2026-10-29T15:52:43Z",
-    "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-    "summary": "The funding round comes as Kalshi expands its partnerships with the NBA and S&amp;P Dow Jones Indices while facing legal challenges over its sports contracts.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f1ef5f36704a",
     "time": "2026-10-29T15:07:15Z",
     "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
@@ -107,16 +107,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6246d57c49b2",
-    "time": "2026-10-29T14:27:46Z",
-    "title": "Bank of England opens consultation on tokenized collateral for clearing",
-    "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
