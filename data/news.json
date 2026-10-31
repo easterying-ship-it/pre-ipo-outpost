@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "99f592d60f8d",
+    "time": "2026-10-31T16:12:55Z",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "398d278eea72",
+    "time": "2026-10-31T15:36:01Z",
+    "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+    "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b90316bd4f28",
+    "time": "2026-10-31T13:01:03Z",
+    "title": "Why AI Models Cheat: Reward Hacking, Explained",
+    "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "55cd216a3997",
     "time": "2026-10-30T21:53:38Z",
     "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
@@ -56,36 +86,6 @@
     "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "74742a67efa4",
-    "time": "2026-10-30T09:52:29Z",
-    "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-    "summary": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c1cd9a6d9e22",
-    "time": "2026-10-30T05:51:41Z",
-    "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-    "summary": "TRM Labs said it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4b2e18f9b8e4",
-    "time": "2026-10-30T03:47:01Z",
-    "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-    "summary": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
