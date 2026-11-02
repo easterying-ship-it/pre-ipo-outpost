@@ -10,6 +10,116 @@
     "pinned": true
   },
   {
+    "id": "fe48ecfee249",
+    "time": "2026-11-02T20:36:03Z",
+    "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+    "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7367f464243f",
+    "time": "2026-11-02T19:19:17Z",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5cabb9533d0c",
+    "time": "2026-11-02T18:00:16Z",
+    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+    "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "94553e8911a1",
+    "time": "2026-11-02T17:36:03Z",
+    "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+    "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "893a9c8120a8",
+    "time": "2026-11-02T17:07:28Z",
+    "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+    "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5077f51cbeb1",
+    "time": "2026-11-02T16:44:48Z",
+    "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "9b7b33d6879c",
+    "time": "2026-11-02T16:23:21Z",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e51ddbd54263",
+    "time": "2026-11-02T15:01:03Z",
+    "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+    "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "bc7da13d60f6",
+    "time": "2026-11-02T14:22:35Z",
+    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "be36ba04b328",
+    "time": "2026-11-02T13:57:53Z",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a74329c3b453",
+    "time": "2026-11-02T12:40:45Z",
+    "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+    "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ddffe7c1fa7e",
     "time": "2026-11-02T10:14:55Z",
     "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
@@ -30,46 +140,6 @@
     "pinned": false
   },
   {
-    "id": "02465c84539d",
-    "time": "2026-11-01T13:40:33Z",
-    "title": "DeepSeek developing AI agent requiring less human input: Report",
-    "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5c3c9d40774e",
-    "time": "2026-10-31T21:17:03Z",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "99f592d60f8d",
-    "time": "2026-10-31T16:12:55Z",
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "398d278eea72",
-    "time": "2026-10-31T15:36:01Z",
-    "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-    "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "b90316bd4f28",
     "time": "2026-10-31T13:01:03Z",
     "title": "Why AI Models Cheat: Reward Hacking, Explained",
@@ -86,16 +156,6 @@
     "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch&#8230;\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "de5e49827cf3",
-    "time": "2026-10-30T16:25:06Z",
-    "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
-    "summary": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
     "category": "IPO动态",
     "pinned": false
   },
