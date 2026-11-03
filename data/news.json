@@ -10,22 +10,52 @@
     "pinned": true
   },
   {
+    "id": "b73e73b7f9d3",
+    "time": "2026-11-03T19:46:03Z",
+    "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+    "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "aea70fd1c802",
+    "time": "2026-11-03T19:34:43Z",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "5fb9b28ae49f",
+    "time": "2026-11-03T17:46:15Z",
+    "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+    "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "2373945b5cac",
+    "time": "2026-11-03T17:07:01Z",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "6766681d10ee",
     "time": "2026-11-03T12:30:13Z",
     "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
     "summary": "The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "126f9a1840f5",
-    "time": "2026-11-03T00:35:52Z",
-    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "category": "市场数据",
     "pinned": false
   },
@@ -40,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "81f06d097b1c",
-    "time": "2026-11-02T22:14:50Z",
-    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "fe48ecfee249",
     "time": "2026-11-02T20:36:03Z",
     "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
@@ -57,56 +77,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7367f464243f",
-    "time": "2026-11-02T19:19:17Z",
-    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "94553e8911a1",
-    "time": "2026-11-02T17:36:03Z",
-    "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-    "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "893a9c8120a8",
-    "time": "2026-11-02T17:07:28Z",
-    "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
-    "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5077f51cbeb1",
-    "time": "2026-11-02T16:44:48Z",
-    "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-    "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e51ddbd54263",
-    "time": "2026-11-02T15:01:03Z",
-    "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-    "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-    "category": "市场数据",
     "pinned": false
   },
   {
