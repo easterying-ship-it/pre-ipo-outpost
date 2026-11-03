@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "6766681d10ee",
+    "time": "2026-11-03T12:30:13Z",
+    "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+    "summary": "The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today’s price.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "126f9a1840f5",
     "time": "2026-11-03T00:35:52Z",
     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -60,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "5cabb9533d0c",
-    "time": "2026-11-02T18:00:16Z",
-    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-    "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "94553e8911a1",
     "time": "2026-11-02T17:36:03Z",
     "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
@@ -100,16 +100,6 @@
     "pinned": false
   },
   {
-    "id": "9b7b33d6879c",
-    "time": "2026-11-02T16:23:21Z",
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "e51ddbd54263",
     "time": "2026-11-02T15:01:03Z",
     "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
@@ -117,36 +107,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "a74329c3b453",
-    "time": "2026-11-02T12:40:45Z",
-    "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-    "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ddffe7c1fa7e",
-    "time": "2026-11-02T10:14:55Z",
-    "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-    "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "b90316bd4f28",
-    "time": "2026-10-31T13:01:03Z",
-    "title": "Why AI Models Cheat: Reward Hacking, Explained",
-    "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
-    "category": "IPO动态",
     "pinned": false
   },
   {
