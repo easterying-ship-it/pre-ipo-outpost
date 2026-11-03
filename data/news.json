@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "126f9a1840f5",
+    "time": "2026-11-03T00:35:52Z",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "f77d297cea4f",
+    "time": "2026-11-02T23:10:25Z",
+    "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+    "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "81f06d097b1c",
+    "time": "2026-11-02T22:14:50Z",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "fe48ecfee249",
     "time": "2026-11-02T20:36:03Z",
     "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
@@ -90,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "bc7da13d60f6",
-    "time": "2026-11-02T14:22:35Z",
-    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-    "summary": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "be36ba04b328",
-    "time": "2026-11-02T13:57:53Z",
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "a74329c3b453",
     "time": "2026-11-02T12:40:45Z",
     "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
@@ -127,16 +137,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3eefab459ac7",
-    "time": "2026-11-01T21:55:23Z",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "category": "IPO动态",
     "pinned": false
   },
   {
