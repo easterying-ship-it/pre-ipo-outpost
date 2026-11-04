@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "4d57b33191a8",
+    "time": "2026-11-03T23:48:32Z",
+    "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+    "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e89e60c6e152",
+    "time": "2026-11-03T22:41:03Z",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4f9aaef0ad5c",
+    "time": "2026-11-03T21:50:17Z",
+    "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+    "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a83e8d21f0c7",
+    "time": "2026-11-03T21:47:20Z",
+    "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+    "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "b73e73b7f9d3",
     "time": "2026-11-03T19:46:03Z",
     "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
@@ -66,16 +106,6 @@
     "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fe48ecfee249",
-    "time": "2026-11-02T20:36:03Z",
-    "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
-    "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
     "category": "IPO动态",
     "pinned": false
   },
