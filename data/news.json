@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "e909bd690776",
+    "time": "2026-11-04T18:16:02Z",
+    "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+    "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7b881af4c82b",
+    "time": "2026-11-04T18:02:42Z",
+    "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+    "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "bc4d081135c5",
+    "time": "2026-11-04T16:29:36Z",
+    "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+    "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4d0ed08d0d8f",
+    "time": "2026-11-04T14:10:10Z",
+    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+    "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "361a609c68f5",
     "time": "2026-11-04T10:30:42Z",
     "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
@@ -76,36 +116,6 @@
     "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "5fb9b28ae49f",
-    "time": "2026-11-03T17:46:15Z",
-    "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-    "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "2373945b5cac",
-    "time": "2026-11-03T17:07:01Z",
-    "title": "Anthropic is still grappling with the economics of compute",
-    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f77d297cea4f",
-    "time": "2026-11-02T23:10:25Z",
-    "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
-    "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic’s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
     "category": "IPO动态",
     "pinned": false
   },
