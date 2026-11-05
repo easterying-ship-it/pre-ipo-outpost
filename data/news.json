@@ -10,6 +10,96 @@
     "pinned": true
   },
   {
+    "id": "afbd89347a14",
+    "time": "2026-11-05T19:06:12Z",
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "edb3773bbf45",
+    "time": "2026-11-05T18:09:38Z",
+    "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+    "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "6c4268893dfa",
+    "time": "2026-11-05T18:02:27Z",
+    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "982c896c4fff",
+    "time": "2026-11-05T17:11:48Z",
+    "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+    "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "73340cd8c6cb",
+    "time": "2026-11-05T17:01:03Z",
+    "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+    "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "b63cd00fe5c1",
+    "time": "2026-11-05T15:40:34Z",
+    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+    "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c7e8a3c6df43",
+    "time": "2026-11-05T14:00:00Z",
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "951fb76c03ba",
+    "time": "2026-11-05T13:37:25Z",
+    "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+    "summary": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\"",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b52df1ca89d6",
+    "time": "2026-11-05T11:33:20Z",
+    "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+    "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, with access to its website and app set to be blocked from Dec. 5.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "edd9ec1641eb",
     "time": "2026-11-05T06:02:29Z",
     "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
@@ -30,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "b5fdacb57fe4",
-    "time": "2026-11-04T21:25:44Z",
-    "title": "OpenAI is already trying to shape the 2028 election",
-    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d17bf5758ebb",
-    "time": "2026-11-04T19:15:39Z",
-    "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-    "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "e909bd690776",
     "time": "2026-11-04T18:16:02Z",
     "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
@@ -60,42 +130,12 @@
     "pinned": false
   },
   {
-    "id": "7b881af4c82b",
-    "time": "2026-11-04T18:02:42Z",
-    "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-    "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "bc4d081135c5",
-    "time": "2026-11-04T16:29:36Z",
-    "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-    "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4d0ed08d0d8f",
-    "time": "2026-11-04T14:10:10Z",
-    "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-    "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4d57b33191a8",
-    "time": "2026-11-03T23:48:32Z",
-    "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-    "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+    "id": "55cd216a3997",
+    "time": "2026-10-30T21:53:38Z",
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch&#8230;\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -120,6 +160,16 @@
     "pinned": false
   },
   {
+    "id": "c6b628f428d5",
+    "time": "2026-10-26T21:11:56Z",
+    "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+    "summary": "Four rockets are set to launch this week from the United States and India. SpaceX&#8230;\nThe post Launch Preview: Falcon 9 and GSLV rockets scheduled to launch appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "9ae304e8492b",
     "time": "2026-10-26T13:00:00Z",
     "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -127,6 +177,16 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
     "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "cfd2fe4060f9",
+    "time": "2026-10-25T18:21:44Z",
+    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+    "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test&#8230;\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
+    "category": "IPO动态",
     "pinned": false
   }
 ]
