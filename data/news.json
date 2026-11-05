@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "edd9ec1641eb",
+    "time": "2026-11-05T06:02:29Z",
+    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+    "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "ebfc2cb2f919",
     "time": "2026-11-04T22:16:05Z",
     "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
@@ -80,52 +90,12 @@
     "pinned": false
   },
   {
-    "id": "361a609c68f5",
-    "time": "2026-11-04T10:30:42Z",
-    "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-    "summary": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "4d57b33191a8",
     "time": "2026-11-03T23:48:32Z",
     "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
     "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e89e60c6e152",
-    "time": "2026-11-03T22:41:03Z",
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4f9aaef0ad5c",
-    "time": "2026-11-03T21:50:17Z",
-    "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-    "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "55cd216a3997",
-    "time": "2026-10-30T21:53:38Z",
-    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
-    "summary": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch&#8230;\nThe post SpaceX Completes Three Static Fires in Three Days for Flight 15 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -150,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "c6b628f428d5",
-    "time": "2026-10-26T21:11:56Z",
-    "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
-    "summary": "Four rockets are set to launch this week from the United States and India. SpaceX&#8230;\nThe post Launch Preview: Falcon 9 and GSLV rockets scheduled to launch appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
     "id": "9ae304e8492b",
     "time": "2026-10-26T13:00:00Z",
     "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -167,16 +127,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "cfd2fe4060f9",
-    "time": "2026-10-25T18:21:44Z",
-    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-    "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test&#8230;\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
