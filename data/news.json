@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ebfc2cb2f919",
+    "time": "2026-11-04T22:16:05Z",
+    "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+    "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b5fdacb57fe4",
+    "time": "2026-11-04T21:25:44Z",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d17bf5758ebb",
+    "time": "2026-11-04T19:15:39Z",
+    "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+    "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "e909bd690776",
     "time": "2026-11-04T18:16:02Z",
     "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
@@ -86,36 +116,6 @@
     "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter—a tricky equation ahead of its IPO.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a83e8d21f0c7",
-    "time": "2026-11-03T21:47:20Z",
-    "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-    "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b73e73b7f9d3",
-    "time": "2026-11-03T19:46:03Z",
-    "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-    "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "aea70fd1c802",
-    "time": "2026-11-03T19:34:43Z",
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "category": "IPO动态",
     "pinned": false
   },
