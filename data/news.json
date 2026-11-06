@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "6a5342902f51",
+    "time": "2026-11-06T22:53:46Z",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cd96907c6cd5",
+    "time": "2026-11-06T20:36:03Z",
+    "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+    "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "815f571a9d05",
     "time": "2026-11-06T16:28:58Z",
     "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
@@ -53,7 +73,7 @@
     "id": "9c24447eb804",
     "time": "2026-11-06T11:50:10Z",
     "title": "Tesla will stop making the Cybertruck in 2027",
-    "summary": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+    "summary": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
     "category": "IPO动态",
@@ -80,32 +100,12 @@
     "pinned": false
   },
   {
-    "id": "28cc9d13d73b",
-    "time": "2026-11-06T06:54:34Z",
-    "title": "Chainalysis says breach exposed password hashes and live tokens",
-    "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "65ac79435197",
     "time": "2026-11-05T23:06:02Z",
     "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
     "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cbfd06b80e74",
-    "time": "2026-11-05T22:18:42Z",
-    "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-    "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -127,46 +127,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e117d1fdcee7",
-    "time": "2026-11-05T19:16:03Z",
-    "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-    "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "afbd89347a14",
-    "time": "2026-11-05T19:06:12Z",
-    "title": "OpenAI released a new cybersecurity model. Is that enough?",
-    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "6c4268893dfa",
-    "time": "2026-11-05T18:02:27Z",
-    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "73340cd8c6cb",
-    "time": "2026-11-05T17:01:03Z",
-    "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-    "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
-    "category": "市场数据",
     "pinned": false
   },
   {
