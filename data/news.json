@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "ffde84443373",
+    "time": "2026-11-06T11:26:30Z",
+    "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+    "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "3beaec99158a",
+    "time": "2026-11-06T08:42:54Z",
+    "title": "Hyperliquid Strategies seeks futures registration for perps",
+    "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "28cc9d13d73b",
+    "time": "2026-11-06T06:54:34Z",
+    "title": "Chainalysis says breach exposed password hashes and live tokens",
+    "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "65ac79435197",
     "time": "2026-11-05T23:06:02Z",
     "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
@@ -130,26 +160,6 @@
     "pinned": false
   },
   {
-    "id": "b52df1ca89d6",
-    "time": "2026-11-05T11:33:20Z",
-    "title": "Thailand to block Bitget in December over unlicensed crypto trading",
-    "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, with access to its website and app set to be blocked from Dec. 5.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "edd9ec1641eb",
-    "time": "2026-11-05T06:02:29Z",
-    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
-    "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "55cd216a3997",
     "time": "2026-10-30T21:53:38Z",
     "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
@@ -197,16 +207,6 @@
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "cfd2fe4060f9",
-    "time": "2026-10-25T18:21:44Z",
-    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
-    "summary": "As SpaceX prepares to fly Flight 15 in November, with a successful Static Fire test&#8230;\nThe post Possible Roberts Road Expansion as SpaceX pushes for Flight 16 appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
