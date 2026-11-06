@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "65ac79435197",
+    "time": "2026-11-05T23:06:02Z",
+    "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+    "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "cbfd06b80e74",
+    "time": "2026-11-05T22:18:42Z",
+    "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+    "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "25b7b793b9a4",
+    "time": "2026-11-05T21:45:00Z",
+    "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+    "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#8230;]\nThe post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at",
+    "source": "SpaceNews",
+    "source_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a8d82f3476de",
+    "time": "2026-11-05T21:36:03Z",
+    "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+    "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e117d1fdcee7",
+    "time": "2026-11-05T19:16:03Z",
+    "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+    "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "afbd89347a14",
     "time": "2026-11-05T19:06:12Z",
     "title": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -33,7 +83,7 @@
     "id": "6c4268893dfa",
     "time": "2026-11-05T18:02:27Z",
     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-    "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+    "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
     "category": "IPO动态",
@@ -70,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "c7e8a3c6df43",
-    "time": "2026-11-05T14:00:00Z",
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "951fb76c03ba",
     "time": "2026-11-05T13:37:25Z",
     "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
@@ -107,26 +147,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ebfc2cb2f919",
-    "time": "2026-11-04T22:16:05Z",
-    "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
-    "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e909bd690776",
-    "time": "2026-11-04T18:16:02Z",
-    "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-    "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-    "category": "IPO动态",
     "pinned": false
   },
   {
