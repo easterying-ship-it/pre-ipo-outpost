@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "28e43ddd0218",
+    "time": "2026-11-09T11:14:08Z",
+    "title": "Robinhood opens access to US IPOs for UK retail investors",
+    "summary": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "4c3d81ff8984",
     "time": "2026-11-08T19:51:30Z",
     "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
@@ -96,16 +106,6 @@
     "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "65ac79435197",
-    "time": "2026-11-05T23:06:02Z",
-    "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-    "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
     "category": "IPO动态",
     "pinned": false
   },
