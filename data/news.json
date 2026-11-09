@@ -10,82 +10,182 @@
     "pinned": true
   },
   {
+    "id": "69f811e9ba50",
+    "time": "2026-11-09T22:37:05Z",
+    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "ae76a50f8e47",
+    "time": "2026-11-09T22:36:02Z",
+    "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+    "summary": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e0a90fb9fb1a",
+    "time": "2026-11-09T20:26:34Z",
+    "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+    "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c1e2362cc86e",
+    "time": "2026-11-09T20:09:06Z",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "86a66ea40290",
+    "time": "2026-11-09T19:52:34Z",
+    "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+    "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7ac76cd5228e",
+    "time": "2026-11-09T19:36:02Z",
+    "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+    "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "e5586f6aab4d",
+    "time": "2026-11-09T19:24:51Z",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ca8d68ce4d91",
+    "time": "2026-11-09T19:21:46Z",
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "27b70a922b6c",
+    "time": "2026-11-09T18:00:00Z",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "5a75fcee26dd",
+    "time": "2026-11-09T17:48:35Z",
+    "title": "PNC Bank tests turning USDC payments into dollar deposits",
+    "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "c645f95d1f7b",
+    "time": "2026-11-09T17:46:02Z",
+    "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+    "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "edc834484005",
+    "time": "2026-11-09T17:41:02Z",
+    "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+    "summary": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "19cae257b8dd",
+    "time": "2026-11-09T16:56:54Z",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c7f2f3404bd8",
+    "time": "2026-11-09T15:49:22Z",
+    "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
+    "summary": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "208250d081d2",
+    "time": "2026-11-09T13:43:28Z",
+    "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+    "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d7514a84adea",
+    "time": "2026-11-09T13:29:47Z",
+    "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+    "summary": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "832bb41484c6",
+    "time": "2026-11-09T12:27:06Z",
+    "title": "EU taps industry to set standards for tokenized securities",
+    "summary": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "28e43ddd0218",
     "time": "2026-11-09T11:14:08Z",
     "title": "Robinhood opens access to US IPOs for UK retail investors",
     "summary": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4c3d81ff8984",
-    "time": "2026-11-08T19:51:30Z",
-    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-    "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2cfaa51eb522",
-    "time": "2026-11-08T18:00:04Z",
-    "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-    "summary": "SNL seems to have its knives out for tech executives.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1118e408d823",
-    "time": "2026-11-07T22:07:22Z",
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3efb3505ea46",
-    "time": "2026-11-07T13:30:00Z",
-    "title": "Bitcoin holders have received eCash — What can you do with it?",
-    "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "6a5342902f51",
-    "time": "2026-11-06T22:53:46Z",
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "cd96907c6cd5",
-    "time": "2026-11-06T20:36:03Z",
-    "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-    "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "815f571a9d05",
-    "time": "2026-11-06T16:28:58Z",
-    "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-    "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
     "category": "IPO动态",
     "pinned": false
   },
@@ -97,16 +197,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "5342116bd112",
-    "time": "2026-11-06T13:53:04Z",
-    "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-    "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -136,16 +226,6 @@
     "summary": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules [&#8230;]\nThe post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstr",
     "source": "SpaceNews",
     "source_url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "9ae304e8492b",
-    "time": "2026-10-26T13:00:00Z",
-    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-    "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it [&#8230;]\nThe post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4",
-    "source": "SpaceNews",
-    "source_url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
     "category": "成份股",
     "pinned": false
   }
