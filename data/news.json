@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "9fa299e4839c",
+    "time": "2026-11-10T15:01:02Z",
+    "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+    "summary": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "74883b12a69b",
+    "time": "2026-11-10T14:06:02Z",
+    "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+    "summary": "The Claude developer is also lining up $26 billion from Nvidia, Google and other tech giants in a private placement alongside the listing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "6ee761f38222",
+    "time": "2026-11-10T14:01:39Z",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "c42ae6e9d946",
     "time": "2026-11-10T03:04:54Z",
     "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
@@ -60,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "c1e2362cc86e",
-    "time": "2026-11-09T20:09:06Z",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "86a66ea40290",
     "time": "2026-11-09T19:52:34Z",
     "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -86,36 +106,6 @@
     "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "e5586f6aab4d",
-    "time": "2026-11-09T19:24:51Z",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ca8d68ce4d91",
-    "time": "2026-11-09T19:21:46Z",
-    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "27b70a922b6c",
-    "time": "2026-11-09T18:00:00Z",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
     "category": "市场数据",
     "pinned": false
   },
@@ -150,52 +140,12 @@
     "pinned": false
   },
   {
-    "id": "19cae257b8dd",
-    "time": "2026-11-09T16:56:54Z",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c7f2f3404bd8",
     "time": "2026-11-09T15:49:22Z",
     "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
     "summary": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "d7514a84adea",
-    "time": "2026-11-09T13:29:47Z",
-    "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-    "summary": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "832bb41484c6",
-    "time": "2026-11-09T12:27:06Z",
-    "title": "EU taps industry to set standards for tokenized securities",
-    "summary": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "28e43ddd0218",
-    "time": "2026-11-09T11:14:08Z",
-    "title": "Robinhood opens access to US IPOs for UK retail investors",
-    "summary": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
