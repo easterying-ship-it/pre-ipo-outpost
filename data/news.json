@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "c42ae6e9d946",
+    "time": "2026-11-10T03:04:54Z",
+    "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+    "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d600b7674699",
+    "time": "2026-11-10T01:27:12Z",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "69f811e9ba50",
     "time": "2026-11-09T22:37:05Z",
     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
@@ -146,16 +166,6 @@
     "summary": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "208250d081d2",
-    "time": "2026-11-09T13:43:28Z",
-    "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-    "summary": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
     "category": "IPO动态",
     "pinned": false
   },
