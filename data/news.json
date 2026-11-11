@@ -10,10 +10,10 @@
     "pinned": true
   },
   {
-    "id": "86197edebf01",
+    "id": "3c26307273de",
     "time": "2026-11-10T21:08:52Z",
-    "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
-    "summary": "OpenAI has not yet said what its plans are for the future of travel. But \nSonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "category": "IPO动态",
@@ -120,26 +120,6 @@
     "pinned": false
   },
   {
-    "id": "6ee761f38222",
-    "time": "2026-11-10T14:01:39Z",
-    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c42ae6e9d946",
-    "time": "2026-11-10T03:04:54Z",
-    "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-    "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "69f811e9ba50",
     "time": "2026-11-09T22:37:05Z",
     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
@@ -157,16 +137,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7ac76cd5228e",
-    "time": "2026-11-09T19:36:02Z",
-    "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-    "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-    "category": "市场数据",
     "pinned": false
   },
   {
