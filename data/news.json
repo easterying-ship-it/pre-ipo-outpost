@@ -10,6 +10,116 @@
     "pinned": true
   },
   {
+    "id": "1afe3473c1bf",
+    "time": "2026-11-16T23:32:32Z",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "19e77bcdabf3",
+    "time": "2026-11-16T20:36:03Z",
+    "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+    "summary": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "896d6c794a39",
+    "time": "2026-11-16T20:07:13Z",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4dc5471352f3",
+    "time": "2026-11-16T19:56:18Z",
+    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+    "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "9193d6e74433",
+    "time": "2026-11-16T18:11:10Z",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ce9b5c178ee2",
+    "time": "2026-11-16T17:09:28Z",
+    "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+    "summary": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "00f26131ae23",
+    "time": "2026-11-16T17:02:43Z",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "574698faa42a",
+    "time": "2026-11-16T17:00:00Z",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "71f514947996",
+    "time": "2026-11-16T16:26:52Z",
+    "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+    "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fed49ae5c23a",
+    "time": "2026-11-16T16:11:31Z",
+    "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
+    "summary": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "298af7287c5e",
+    "time": "2026-11-16T12:54:51Z",
+    "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+    "summary": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "4022aa240cd9",
     "time": "2026-11-16T09:25:01Z",
     "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
@@ -27,136 +137,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9e40ed65bd24",
-    "time": "2026-11-16T05:28:40Z",
-    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-    "summary": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "757e36f4e91f",
-    "time": "2026-11-14T21:41:22Z",
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f9b5e86ff444",
-    "time": "2026-11-14T20:04:44Z",
-    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "9f138eff419a",
-    "time": "2026-11-14T17:30:00Z",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "513bc2634739",
-    "time": "2026-11-14T17:01:02Z",
-    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-    "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2caf89b27292",
-    "time": "2026-11-14T16:01:02Z",
-    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-    "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1e21357b4dda",
-    "time": "2026-11-14T14:01:02Z",
-    "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-    "summary": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "11e81312bc35",
-    "time": "2026-11-13T22:43:00Z",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2678f7a2ea9c",
-    "time": "2026-11-13T22:01:03Z",
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "4aeb9af649f2",
-    "time": "2026-11-13T13:36:29Z",
-    "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-    "summary": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ee2a1a2b2c5f",
-    "time": "2026-11-13T04:24:28Z",
-    "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-    "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a&#8230;\nThe post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "69f811e9ba50",
-    "time": "2026-11-09T22:37:05Z",
-    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "381aa8e55264",
-    "time": "2026-11-06T15:31:51Z",
-    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch&#8230;\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-    "category": "成份股",
     "pinned": false
   },
   {
