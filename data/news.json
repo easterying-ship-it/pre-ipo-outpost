@@ -10,6 +10,56 @@
     "pinned": true
   },
   {
+    "id": "c983c46e5324",
+    "time": "2026-11-17T15:30:37Z",
+    "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+    "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "eac50ea45dd8",
+    "time": "2026-11-17T12:50:55Z",
+    "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+    "summary": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7dbea7c57e36",
+    "time": "2026-11-17T11:36:26Z",
+    "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+    "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0c628c6af04c",
+    "time": "2026-11-17T09:54:32Z",
+    "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+    "summary": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8bfddd20fe02",
+    "time": "2026-11-17T06:35:19Z",
+    "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+    "summary": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "1afe3473c1bf",
     "time": "2026-11-16T23:32:32Z",
     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -40,26 +90,6 @@
     "pinned": false
   },
   {
-    "id": "4dc5471352f3",
-    "time": "2026-11-16T19:56:18Z",
-    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-    "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "9193d6e74433",
-    "time": "2026-11-16T18:11:10Z",
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ce9b5c178ee2",
     "time": "2026-11-16T17:09:28Z",
     "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
@@ -67,66 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "00f26131ae23",
-    "time": "2026-11-16T17:02:43Z",
-    "title": "OpenAI will embed safety researchers to investigate AI subversion",
-    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "574698faa42a",
-    "time": "2026-11-16T17:00:00Z",
-    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "71f514947996",
-    "time": "2026-11-16T16:26:52Z",
-    "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-    "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fed49ae5c23a",
-    "time": "2026-11-16T16:11:31Z",
-    "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
-    "summary": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "298af7287c5e",
-    "time": "2026-11-16T12:54:51Z",
-    "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
-    "summary": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4022aa240cd9",
-    "time": "2026-11-16T09:25:01Z",
-    "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
-    "summary": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\"",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
-    "category": "IPO动态",
     "pinned": false
   },
   {
