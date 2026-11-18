@@ -10,6 +10,116 @@
     "pinned": true
   },
   {
+    "id": "b684fce24fff",
+    "time": "2026-11-18T22:11:15Z",
+    "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+    "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a87314d5c750",
+    "time": "2026-11-18T20:32:06Z",
+    "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+    "summary": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0a5ed5963418",
+    "time": "2026-11-18T19:29:41Z",
+    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c896becde06d",
+    "time": "2026-11-18T19:16:02Z",
+    "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+    "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "1220ff4174bf",
+    "time": "2026-11-18T18:16:02Z",
+    "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+    "summary": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "367309276c28",
+    "time": "2026-11-18T17:32:13Z",
+    "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+    "summary": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "a2f51f693078",
+    "time": "2026-11-18T17:30:56Z",
+    "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+    "summary": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "d271e09a616f",
+    "time": "2026-11-18T16:57:53Z",
+    "title": "'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAI’s New Model",
+    "summary": "OpenAI's flagship AI model is dazzling developers with 3D creations, but early testers say it stalls during long projects, gives baffling explanations, and hides failures.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9093946a9896",
+    "time": "2026-11-18T16:14:09Z",
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7bb6208c5ced",
+    "time": "2026-11-18T12:53:12Z",
+    "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+    "summary": "Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "7d1780c6f1ce",
+    "time": "2026-11-18T12:45:37Z",
+    "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+    "summary": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats’ subpoena plans, fading interest, and a heavy unlock schedule.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "f11fa9872824",
     "time": "2026-11-18T08:41:16Z",
     "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
@@ -30,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "b521855cf7b5",
-    "time": "2026-11-17T22:29:05Z",
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b3da350bfb5b",
-    "time": "2026-11-17T21:56:35Z",
-    "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-    "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "88b584806de4",
     "time": "2026-11-17T21:46:02Z",
     "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
@@ -57,56 +147,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "1e5b9b929a99",
-    "time": "2026-11-17T17:39:41Z",
-    "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
-    "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "c983c46e5324",
-    "time": "2026-11-17T15:30:37Z",
-    "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-    "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "eac50ea45dd8",
-    "time": "2026-11-17T12:50:55Z",
-    "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
-    "summary": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "7dbea7c57e36",
-    "time": "2026-11-17T11:36:26Z",
-    "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-    "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0c628c6af04c",
-    "time": "2026-11-17T09:54:32Z",
-    "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
-    "summary": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
-    "category": "IPO动态",
     "pinned": false
   },
   {
@@ -126,16 +166,6 @@
     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "381aa8e55264",
-    "time": "2026-11-06T15:31:51Z",
-    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch&#8230;\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
     "category": "成份股",
     "pinned": false
   },
