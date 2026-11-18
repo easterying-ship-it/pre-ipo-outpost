@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "28a8494ae9b8",
+    "time": "2026-11-18T01:44:21Z",
+    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+    "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b521855cf7b5",
+    "time": "2026-11-17T22:29:05Z",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b3da350bfb5b",
+    "time": "2026-11-17T21:56:35Z",
+    "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+    "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "88b584806de4",
+    "time": "2026-11-17T21:46:02Z",
+    "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+    "summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "1e5b9b929a99",
+    "time": "2026-11-17T17:39:41Z",
+    "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+    "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "60f50854e274",
+    "time": "2026-11-17T17:20:41Z",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "c983c46e5324",
     "time": "2026-11-17T15:30:37Z",
     "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
@@ -57,76 +117,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "1afe3473c1bf",
-    "time": "2026-11-16T23:32:32Z",
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "19e77bcdabf3",
-    "time": "2026-11-16T20:36:03Z",
-    "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-    "summary": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "896d6c794a39",
-    "time": "2026-11-16T20:07:13Z",
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ce9b5c178ee2",
-    "time": "2026-11-16T17:09:28Z",
-    "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
-    "summary": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "ee2a1a2b2c5f",
-    "time": "2026-11-13T04:24:28Z",
-    "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-    "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a&#8230;\nThe post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "69f811e9ba50",
-    "time": "2026-11-09T22:37:05Z",
-    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "381aa8e55264",
-    "time": "2026-11-06T15:31:51Z",
-    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
-    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch&#8230;\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
-    "category": "成份股",
     "pinned": false
   },
   {
