@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "f11fa9872824",
+    "time": "2026-11-18T08:41:16Z",
+    "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+    "summary": "Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "28a8494ae9b8",
     "time": "2026-11-18T01:44:21Z",
     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
@@ -60,16 +70,6 @@
     "pinned": false
   },
   {
-    "id": "60f50854e274",
-    "time": "2026-11-17T17:20:41Z",
-    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "c983c46e5324",
     "time": "2026-11-17T15:30:37Z",
     "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
@@ -110,13 +110,33 @@
     "pinned": false
   },
   {
-    "id": "8bfddd20fe02",
-    "time": "2026-11-17T06:35:19Z",
-    "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-    "summary": "The former Robinhood engineer used confidential information about upcoming Robinhood token listings to trade on Hyperliquid.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
+    "id": "ee2a1a2b2c5f",
+    "time": "2026-11-13T04:24:28Z",
+    "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+    "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a&#8230;\nThe post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "69f811e9ba50",
+    "time": "2026-11-09T22:37:05Z",
+    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "381aa8e55264",
+    "time": "2026-11-06T15:31:51Z",
+    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+    "summary": "Booster 22 and Ship 42 are in final checkouts for a no-earlier-than 13 November launch&#8230;\nThe post Starship Flight 15, a dual catch attempt, awaits FAA green light appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+    "category": "成份股",
     "pinned": false
   },
   {
