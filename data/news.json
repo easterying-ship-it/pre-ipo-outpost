@@ -10,22 +10,142 @@
     "pinned": true
   },
   {
+    "id": "036e6827cb55",
+    "time": "2026-11-20T21:36:02Z",
+    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+    "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "4bbcfd04110a",
+    "time": "2026-11-20T19:49:06Z",
+    "title": "Following Ship 42’s catch, SpaceX looks to the future",
+    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from&#8230;\nThe post Following Ship 42&#8217;s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "9507964d8236",
+    "time": "2026-11-20T19:37:27Z",
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8ce964005537",
+    "time": "2026-11-20T19:36:03Z",
+    "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+    "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "fb72ab960941",
+    "time": "2026-11-20T18:46:03Z",
+    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+    "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "50be17537df6",
+    "time": "2026-11-20T17:41:45Z",
+    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+    "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "408be1c3139e",
+    "time": "2026-11-20T17:40:01Z",
+    "title": "Chips can survive the space environment — can their financing?",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "78fe5239a288",
+    "time": "2026-11-20T16:55:51Z",
+    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+    "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2b1784e1a480",
+    "time": "2026-11-20T16:35:59Z",
+    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+    "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "011cba44c0ab",
+    "time": "2026-11-20T15:52:06Z",
+    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+    "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dabce1fc4a0b",
+    "time": "2026-11-20T13:25:00Z",
+    "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+    "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "636ca90315ea",
+    "time": "2026-11-20T13:23:01Z",
+    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+    "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "563d71160f51",
+    "time": "2026-11-20T13:21:39Z",
+    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+    "summary": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "729a9be74be9",
     "time": "2026-11-20T08:18:42Z",
     "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
     "summary": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2fa96b11f43f",
-    "time": "2026-11-20T08:03:34Z",
-    "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
-    "summary": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -120,16 +240,6 @@
     "pinned": false
   },
   {
-    "id": "ec2d63b97481",
-    "time": "2026-11-19T19:10:45Z",
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "f41e678b2738",
     "time": "2026-11-19T19:08:24Z",
     "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
@@ -140,16 +250,6 @@
     "pinned": false
   },
   {
-    "id": "59286d8d2d15",
-    "time": "2026-11-19T18:06:50Z",
-    "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-    "summary": "Bitcoin dropped toward a third retest of $62,000 as Anthropic debuted on the Nasdaq, hitting highs of $115 per share before dropping below $100.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "a56707474a22",
     "time": "2026-11-19T17:55:38Z",
     "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
@@ -157,86 +257,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "179ce901830d",
-    "time": "2026-11-19T16:59:23Z",
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "540920ecd28a",
-    "time": "2026-11-19T16:55:10Z",
-    "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-    "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c1df2f547e1b",
-    "time": "2026-11-19T16:19:41Z",
-    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-    "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "84f98d3fdb6b",
-    "time": "2026-11-19T16:07:51Z",
-    "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-    "summary": "The Claude chatbot maker began trading under the ticker ANT, with the company’s valuation at around $2 trillion at the opening price.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "91b9d8d1763c",
-    "time": "2026-11-19T15:54:03Z",
-    "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
-    "summary": "The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4d1514caa7b3",
-    "time": "2026-11-19T14:54:39Z",
-    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-    "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "40cf79667627",
-    "time": "2026-11-19T13:05:28Z",
-    "title": "Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-    "summary": "Anthropic bulls seem to be shrugging off the news, as ANT pops 25% over IPO price on Hyperliquid pre-debut.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "c0b8470b6f05",
-    "time": "2026-11-19T12:33:46Z",
-    "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-    "summary": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
     "pinned": false
   },
   {
