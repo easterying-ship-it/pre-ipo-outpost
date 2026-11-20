@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "729a9be74be9",
+    "time": "2026-11-20T08:18:42Z",
+    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+    "summary": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "2fa96b11f43f",
+    "time": "2026-11-20T08:03:34Z",
+    "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+    "summary": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ff3058982dd1",
+    "time": "2026-11-20T07:52:14Z",
+    "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+    "summary": "備受矚目的Anthropic上市案，預料將讓其晉身美國十大最具價值企業之列，但AI產業前景依然存在變數。",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ef88b5deb503",
+    "time": "2026-11-20T06:24:41Z",
+    "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+    "summary": "Retail investors traded $772 million in Anthropic shares on Thursday, the most Vanda Research has recorded for a market debut since 2012.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "f786d82e68ea",
     "time": "2026-11-20T00:56:01Z",
     "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -197,26 +237,6 @@
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "777d986fca74",
-    "time": "2026-11-19T08:54:58Z",
-    "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-    "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "0673769c0e46",
-    "time": "2026-11-19T07:55:56Z",
-    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-    "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
     "pinned": false
   },
   {
