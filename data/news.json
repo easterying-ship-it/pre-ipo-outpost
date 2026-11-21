@@ -10,6 +10,26 @@
     "pinned": true
   },
   {
+    "id": "dfdcd41c5e5d",
+    "time": "2026-11-21T14:01:06Z",
+    "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+    "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a4c82896d857",
+    "time": "2026-11-21T09:48:56Z",
+    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+    "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "036e6827cb55",
     "time": "2026-11-20T21:36:02Z",
     "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
@@ -216,26 +236,6 @@
     "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "97ab656414da",
-    "time": "2026-11-19T20:33:24Z",
-    "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-    "summary": "Hyperliquid traders priced Anthropic futures within 1% of the stock’s Nasdaq opening price, as trading surged ahead of the AI company’s IPO.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a58efdd9c491",
-    "time": "2026-11-19T20:06:34Z",
-    "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-    "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
