@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "8f41df78c630",
+    "time": "2026-11-21T18:01:02Z",
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+    "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "dfdcd41c5e5d",
     "time": "2026-11-21T14:01:06Z",
     "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
@@ -220,42 +230,12 @@
     "pinned": false
   },
   {
-    "id": "5dde8238e7f5",
-    "time": "2026-11-19T23:37:56Z",
-    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-    "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "77e2f2c77e16",
     "time": "2026-11-19T21:12:06Z",
     "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
     "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "f41e678b2738",
-    "time": "2026-11-19T19:08:24Z",
-    "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-    "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a56707474a22",
-    "time": "2026-11-19T17:55:38Z",
-    "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-    "summary": "At least four people were arrested outside Nasdaq during Anthropic’s historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader economic losses.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
     "category": "IPO动态",
     "pinned": false
   },
