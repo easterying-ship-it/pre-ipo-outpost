@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "a8ecd43d1f45",
+    "time": "2026-11-22T07:24:05Z",
+    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+    "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "8f41df78c630",
     "time": "2026-11-21T18:01:02Z",
     "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -216,16 +226,6 @@
     "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "0e0fecdaa8d9",
-    "time": "2026-11-19T06:43:09Z",
-    "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
-    "summary": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
     "category": "IPO动态",
     "pinned": false
   },
