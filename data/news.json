@@ -10,6 +10,76 @@
     "pinned": true
   },
   {
+    "id": "40301332e07e",
+    "time": "2026-11-23T18:45:21Z",
+    "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
+    "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "283c27be7c99",
+    "time": "2026-11-23T18:15:45Z",
+    "title": "Perps and Swaps: How to Trade the News on Decrypt",
+    "summary": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3553b90cb15b",
+    "time": "2026-11-23T17:42:18Z",
+    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+    "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "063480e8bdbb",
+    "time": "2026-11-23T16:32:04Z",
+    "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+    "summary": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "a88b04391a82",
+    "time": "2026-11-23T14:43:03Z",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "b4f425519404",
+    "time": "2026-11-23T14:00:00Z",
+    "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
+    "summary": "The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "18fc1d365d27",
+    "time": "2026-11-23T11:49:38Z",
+    "title": "ECB to let banks pledge more tokenized securities as collateral",
+    "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "e4a303df62dd",
     "time": "2026-11-23T01:25:53Z",
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -50,16 +120,6 @@
     "pinned": false
   },
   {
-    "id": "a8ecd43d1f45",
-    "time": "2026-11-22T07:24:05Z",
-    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-    "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "8f41df78c630",
     "time": "2026-11-21T18:01:02Z",
     "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -76,16 +136,6 @@
     "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a4c82896d857",
-    "time": "2026-11-21T09:48:56Z",
-    "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-    "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
@@ -110,112 +160,12 @@
     "pinned": false
   },
   {
-    "id": "9507964d8236",
-    "time": "2026-11-20T19:37:27Z",
-    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-    "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8ce964005537",
     "time": "2026-11-20T19:36:03Z",
     "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
     "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
     "source": "Decrypt",
     "source_url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fb72ab960941",
-    "time": "2026-11-20T18:46:03Z",
-    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-    "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "50be17537df6",
-    "time": "2026-11-20T17:41:45Z",
-    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-    "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "408be1c3139e",
-    "time": "2026-11-20T17:40:01Z",
-    "title": "Chips can survive the space environment — can their financing?",
-    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "78fe5239a288",
-    "time": "2026-11-20T16:55:51Z",
-    "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-    "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "2b1784e1a480",
-    "time": "2026-11-20T16:35:59Z",
-    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-    "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "011cba44c0ab",
-    "time": "2026-11-20T15:52:06Z",
-    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-    "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "636ca90315ea",
-    "time": "2026-11-20T13:23:01Z",
-    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
-    "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "563d71160f51",
-    "time": "2026-11-20T13:21:39Z",
-    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-    "summary": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "77e2f2c77e16",
-    "time": "2026-11-19T21:12:06Z",
-    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-    "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
     "category": "IPO动态",
     "pinned": false
   },
