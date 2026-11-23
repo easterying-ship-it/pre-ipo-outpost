@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "e4a303df62dd",
+    "time": "2026-11-23T01:25:53Z",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "e1567065910d",
+    "time": "2026-11-23T00:53:49Z",
+    "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
+    "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3ebb5db64274",
+    "time": "2026-11-23T00:10:59Z",
+    "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+    "summary": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "bc32fa456522",
     "time": "2026-11-22T21:14:07Z",
     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -176,16 +206,6 @@
     "summary": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "729a9be74be9",
-    "time": "2026-11-20T08:18:42Z",
-    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-    "summary": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "IPO动态",
     "pinned": false
   },
