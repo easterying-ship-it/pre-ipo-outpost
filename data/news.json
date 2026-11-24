@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "75b6f16b3b02",
+    "time": "2026-11-23T22:05:50Z",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "e37c124bf182",
+    "time": "2026-11-23T21:47:41Z",
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "135dbbe16434",
+    "time": "2026-11-23T21:46:03Z",
+    "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+    "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "40301332e07e",
     "time": "2026-11-23T18:45:21Z",
     "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
@@ -90,32 +120,12 @@
     "pinned": false
   },
   {
-    "id": "e1567065910d",
-    "time": "2026-11-23T00:53:49Z",
-    "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
-    "summary": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "3ebb5db64274",
     "time": "2026-11-23T00:10:59Z",
     "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
     "summary": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
     "source": "BBC中文",
     "source_url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "bc32fa456522",
-    "time": "2026-11-22T21:14:07Z",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
     "category": "IPO动态",
     "pinned": false
   },
@@ -130,26 +140,6 @@
     "pinned": false
   },
   {
-    "id": "dfdcd41c5e5d",
-    "time": "2026-11-21T14:01:06Z",
-    "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-    "summary": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "036e6827cb55",
-    "time": "2026-11-20T21:36:02Z",
-    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-    "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "4bbcfd04110a",
     "time": "2026-11-20T19:49:06Z",
     "title": "Following Ship 42’s catch, SpaceX looks to the future",
@@ -160,32 +150,12 @@
     "pinned": false
   },
   {
-    "id": "8ce964005537",
-    "time": "2026-11-20T19:36:03Z",
-    "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-    "summary": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "ee2a1a2b2c5f",
     "time": "2026-11-13T04:24:28Z",
     "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
     "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a&#8230;\nThe post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com.",
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "69f811e9ba50",
-    "time": "2026-11-09T22:37:05Z",
-    "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-    "summary": "Seven rockets from four countries are set to launch this week. Starship is set to&#8230;\nThe post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
     "category": "成份股",
     "pinned": false
   }
