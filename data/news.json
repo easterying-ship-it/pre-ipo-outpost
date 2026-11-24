@@ -10,6 +10,66 @@
     "pinned": true
   },
   {
+    "id": "ed8a9b991b29",
+    "time": "2026-11-24T18:36:03Z",
+    "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+    "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ec480240436c",
+    "time": "2026-11-24T18:30:42Z",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "c848e68f241b",
+    "time": "2026-11-24T18:07:22Z",
+    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+    "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "fa720497c7a0",
+    "time": "2026-11-24T17:45:22Z",
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+    "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "30a8161e3088",
+    "time": "2026-11-24T17:09:11Z",
+    "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+    "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "7e15675928a5",
+    "time": "2026-11-24T13:57:56Z",
+    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+    "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "75b6f16b3b02",
     "time": "2026-11-23T22:05:50Z",
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -57,106 +117,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3553b90cb15b",
-    "time": "2026-11-23T17:42:18Z",
-    "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-    "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE’s rollout, while some issuers simply wanted more time.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "063480e8bdbb",
-    "time": "2026-11-23T16:32:04Z",
-    "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-    "summary": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "a88b04391a82",
-    "time": "2026-11-23T14:43:03Z",
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "b4f425519404",
-    "time": "2026-11-23T14:00:00Z",
-    "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
-    "summary": "The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "18fc1d365d27",
-    "time": "2026-11-23T11:49:38Z",
-    "title": "ECB to let banks pledge more tokenized securities as collateral",
-    "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "e4a303df62dd",
-    "time": "2026-11-23T01:25:53Z",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "3ebb5db64274",
-    "time": "2026-11-23T00:10:59Z",
-    "title": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
-    "summary": "Anthropic公司或許已解決重大數學難題：黎曼猜想",
-    "source": "BBC中文",
-    "source_url": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "8f41df78c630",
-    "time": "2026-11-21T18:01:02Z",
-    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-    "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "4bbcfd04110a",
-    "time": "2026-11-20T19:49:06Z",
-    "title": "Following Ship 42’s catch, SpaceX looks to the future",
-    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from&#8230;\nThe post Following Ship 42&#8217;s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ee2a1a2b2c5f",
-    "time": "2026-11-13T04:24:28Z",
-    "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-    "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a&#8230;\nThe post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-    "category": "成份股",
     "pinned": false
   }
 ]
