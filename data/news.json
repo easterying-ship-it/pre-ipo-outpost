@@ -10,6 +10,36 @@
     "pinned": true
   },
   {
+    "id": "02e698a50950",
+    "time": "2026-11-25T01:06:02Z",
+    "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+    "summary": "Ten rockets are set to launch over the next week, with three visiting two different&#8230;\nThe post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "0b1402d22261",
+    "time": "2026-11-24T22:36:02Z",
+    "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+    "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "03e77e27b593",
+    "time": "2026-11-24T21:46:02Z",
+    "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+    "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "ed8a9b991b29",
     "time": "2026-11-24T18:36:03Z",
     "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
@@ -70,26 +100,6 @@
     "pinned": false
   },
   {
-    "id": "75b6f16b3b02",
-    "time": "2026-11-23T22:05:50Z",
-    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "e37c124bf182",
-    "time": "2026-11-23T21:47:41Z",
-    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "135dbbe16434",
     "time": "2026-11-23T21:46:03Z",
     "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
@@ -100,23 +110,13 @@
     "pinned": false
   },
   {
-    "id": "40301332e07e",
-    "time": "2026-11-23T18:45:21Z",
-    "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
-    "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+    "id": "4bbcfd04110a",
+    "time": "2026-11-20T19:49:06Z",
+    "title": "Following Ship 42’s catch, SpaceX looks to the future",
+    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from&#8230;\nThe post Following Ship 42&#8217;s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "283c27be7c99",
-    "time": "2026-11-23T18:15:45Z",
-    "title": "Perps and Swaps: How to Trade the News on Decrypt",
-    "summary": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
-    "category": "市场数据",
     "pinned": false
   }
 ]
