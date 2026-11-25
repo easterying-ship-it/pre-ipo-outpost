@@ -10,13 +10,43 @@
     "pinned": true
   },
   {
-    "id": "02e698a50950",
-    "time": "2026-11-25T01:06:02Z",
-    "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-    "summary": "Ten rockets are set to launch over the next week, with three visiting two different&#8230;\nThe post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-    "category": "成份股",
+    "id": "ffb40b91db4f",
+    "time": "2026-11-25T13:08:19Z",
+    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+    "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "8ba930b06649",
+    "time": "2026-11-25T11:49:54Z",
+    "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+    "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "03d57b1fa688",
+    "time": "2026-11-25T11:31:10Z",
+    "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+    "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "3ab8ebca0a62",
+    "time": "2026-11-25T06:54:59Z",
+    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+    "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
     "pinned": false
   },
   {
@@ -60,16 +90,6 @@
     "pinned": false
   },
   {
-    "id": "c848e68f241b",
-    "time": "2026-11-24T18:07:22Z",
-    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-    "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "fa720497c7a0",
     "time": "2026-11-24T17:45:22Z",
     "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
@@ -77,46 +97,6 @@
     "source": "Decrypt",
     "source_url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
     "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "30a8161e3088",
-    "time": "2026-11-24T17:09:11Z",
-    "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-    "summary": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "7e15675928a5",
-    "time": "2026-11-24T13:57:56Z",
-    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-    "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "135dbbe16434",
-    "time": "2026-11-23T21:46:03Z",
-    "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
-    "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "4bbcfd04110a",
-    "time": "2026-11-20T19:49:06Z",
-    "title": "Following Ship 42’s catch, SpaceX looks to the future",
-    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from&#8230;\nThe post Following Ship 42&#8217;s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
-    "source": "NASASpaceFlight",
-    "source_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-    "category": "IPO动态",
     "pinned": false
   }
 ]
