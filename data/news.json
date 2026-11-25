@@ -10,6 +10,96 @@
     "pinned": true
   },
   {
+    "id": "8e994dd86347",
+    "time": "2026-11-25T22:38:09Z",
+    "title": "China's Google Just Released Its Fast New AI Model for Free",
+    "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f98f288aa6c2",
+    "time": "2026-11-25T21:11:39Z",
+    "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+    "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
+    "id": "afecb02ea5dc",
+    "time": "2026-11-25T20:56:44Z",
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "ab48a719fb54",
+    "time": "2026-11-25T20:03:27Z",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "dff98af15631",
+    "time": "2026-11-25T19:44:24Z",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "92c5da130054",
+    "time": "2026-11-25T18:18:10Z",
+    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+    "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
+    "id": "c38be5470f7e",
+    "time": "2026-11-25T17:46:02Z",
+    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+    "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "0fbeeedcd902",
+    "time": "2026-11-25T17:16:02Z",
+    "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+    "summary": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "eff405f22fc6",
+    "time": "2026-11-25T17:10:53Z",
+    "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+    "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "ffb40b91db4f",
     "time": "2026-11-25T13:08:19Z",
     "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
@@ -50,6 +140,16 @@
     "pinned": false
   },
   {
+    "id": "02e698a50950",
+    "time": "2026-11-25T01:06:02Z",
+    "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+    "summary": "Ten rockets are set to launch over the next week, with three visiting two different&#8230;\nThe post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+    "category": "成份股",
+    "pinned": false
+  },
+  {
     "id": "0b1402d22261",
     "time": "2026-11-24T22:36:02Z",
     "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
@@ -70,33 +170,13 @@
     "pinned": false
   },
   {
-    "id": "ed8a9b991b29",
-    "time": "2026-11-24T18:36:03Z",
-    "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-    "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+    "id": "4bbcfd04110a",
+    "time": "2026-11-20T19:49:06Z",
+    "title": "Following Ship 42’s catch, SpaceX looks to the future",
+    "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from&#8230;\nThe post Following Ship 42&#8217;s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com.",
+    "source": "NASASpaceFlight",
+    "source_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
     "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "ec480240436c",
-    "time": "2026-11-24T18:30:42Z",
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-    "source": "TechCrunch",
-    "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "fa720497c7a0",
-    "time": "2026-11-24T17:45:22Z",
-    "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
-    "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
-    "category": "市场数据",
     "pinned": false
   }
 ]
