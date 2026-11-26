@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "a62ec99a536f",
+    "time": "2026-11-26T04:24:45Z",
+    "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+    "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "8e994dd86347",
     "time": "2026-11-25T22:38:09Z",
     "title": "China's Google Just Released Its Fast New AI Model for Free",
@@ -126,16 +136,6 @@
     "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
     "source": "CoinTelegraph",
     "source_url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "3ab8ebca0a62",
-    "time": "2026-11-25T06:54:59Z",
-    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
-    "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "市场数据",
     "pinned": false
   },
