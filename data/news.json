@@ -10,6 +10,46 @@
     "pinned": true
   },
   {
+    "id": "0cbcde6e3967",
+    "time": "2026-11-26T16:00:00Z",
+    "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "source": "TechCrunch",
+    "source_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "281764721454",
+    "time": "2026-11-26T15:11:14Z",
+    "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+    "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "aaa2a1ecf539",
+    "time": "2026-11-26T14:38:55Z",
+    "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+    "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+    "source": "Decrypt",
+    "source_url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
+    "id": "f53e46dd92aa",
+    "time": "2026-11-26T13:47:56Z",
+    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+    "summary": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "IPO动态",
+    "pinned": false
+  },
+  {
     "id": "a62ec99a536f",
     "time": "2026-11-26T04:24:45Z",
     "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
@@ -100,16 +140,6 @@
     "pinned": false
   },
   {
-    "id": "eff405f22fc6",
-    "time": "2026-11-25T17:10:53Z",
-    "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-    "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
     "id": "ffb40b91db4f",
     "time": "2026-11-25T13:08:19Z",
     "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
@@ -120,26 +150,6 @@
     "pinned": false
   },
   {
-    "id": "8ba930b06649",
-    "time": "2026-11-25T11:49:54Z",
-    "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-    "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
-    "id": "03d57b1fa688",
-    "time": "2026-11-25T11:31:10Z",
-    "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-    "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "市场数据",
-    "pinned": false
-  },
-  {
     "id": "02e698a50950",
     "time": "2026-11-25T01:06:02Z",
     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
@@ -147,26 +157,6 @@
     "source": "NASASpaceFlight",
     "source_url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
     "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "0b1402d22261",
-    "time": "2026-11-24T22:36:02Z",
-    "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-    "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "03e77e27b593",
-    "time": "2026-11-24T21:46:02Z",
-    "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-    "summary": "Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-    "category": "IPO动态",
     "pinned": false
   },
   {
