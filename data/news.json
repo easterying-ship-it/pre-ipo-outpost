@@ -10,6 +10,16 @@
     "pinned": true
   },
   {
+    "id": "c931c064048f",
+    "time": "2026-11-27T10:26:06Z",
+    "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+    "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
+    "source": "CoinTelegraph",
+    "source_url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "市场数据",
+    "pinned": false
+  },
+  {
     "id": "9659e26b9b5d",
     "time": "2026-11-26T22:40:55Z",
     "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
@@ -70,16 +80,6 @@
     "pinned": false
   },
   {
-    "id": "f53e46dd92aa",
-    "time": "2026-11-26T13:47:56Z",
-    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
-    "summary": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.",
-    "source": "CoinTelegraph",
-    "source_url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
     "id": "8e994dd86347",
     "time": "2026-11-25T22:38:09Z",
     "title": "China's Google Just Released Its Fast New AI Model for Free",
@@ -116,26 +116,6 @@
     "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
     "source": "TechCrunch",
     "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-    "category": "IPO动态",
-    "pinned": false
-  },
-  {
-    "id": "92c5da130054",
-    "time": "2026-11-25T18:18:10Z",
-    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-    "summary": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-    "category": "成份股",
-    "pinned": false
-  },
-  {
-    "id": "c38be5470f7e",
-    "time": "2026-11-25T17:46:02Z",
-    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-    "summary": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
-    "source": "Decrypt",
-    "source_url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
     "category": "IPO动态",
     "pinned": false
   },
